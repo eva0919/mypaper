@@ -1,0 +1,19 @@
+<title:>New iPhones Cleared For Chinese Market
+<Date:>1 October 2014
+<Content:>
+HONG KONG -- Apple Inc.'s new iPhone 6 will go on sale in China on Oct. 17 after winning final approval from regulators who scrutinized the device's security features amid rising concerns in the country about privacy.
+The move brings the iPhone 6 and the big-screen iPhone 6 Plus to China roughly one month after they went on sale in the U.S. and other countries. Apple is counting on the devices to help it maintain its edge in China, the world's largest smartphone market but an increasingly tough battleground for both foreign and domestic companies.
+China's Ministry of Industry and Information Technology issued the network-access licenses to Apple's new iPhones after the Cupertino, Calif., company addressed the privacy risks found in a government agency's safety test, the regulator said Tuesday.
+The ministry's concerns included software that it feared could be used to allow third parties to get access to user data.
+Asked about the ministry's concerns, an Apple spokeswoman pointed to the company's online statements on user privacy. She declined to answer additional questions.
+Apple's iPhones and other mobile gadgets are under increased scrutiny from governments amid concerns over privacy. The Wall Street Journal reported last year that U.S. and foreign law-enforcement agencies used software to turn Internet-connected devices, such as laptops and smartphones, into digital eavesdropping posts. Such programs often are created and installed without the device manufacturer's knowledge.
+Still, China's approval gives Apple access to a country of more than 1.2 billion mobile users. Apple said Tuesday that the phones would be available on China's three large state-owned mobile carriers. It said it would allow preorders to begin Oct. 10.
+The ministry conducted the safety test after recent media reports raised privacy concerns over iPhones. In July, state-run China Central Television said the iPhone poses a national security concern because of a feature that determines places a user visits most frequently. Apple said that users must switch on that feature themselves and the company doesn't keep track of the locations.
+Specifically, Chinese authorities said they scrutinized what they called back-end programs that could allow covert data collection. It said the risks include third parties getting access to the phone through the Internet via a desktop or laptop computer the phone might be connected to.
+In response, Apple said that the new version of the phone's mobile operating software allowed users to clear the list of computers authorized to connect to the phone, according to the ministry. It added that Apple said the company can't get access to users' information without their consent.
+Apple also told the regulator that it "has stepped up the protection for users' privacy and safety," according to the ministry. The U.S. company also reiterated that it has never worked with any government agency from any country to create a "backdoor" in any of its products or services and it never will, according to MIIT.
+The delay in China highlighted the challenge Apple faces in expanding its presence in a major growth market. Apple ranked No. 6 in China's smartphone market in the second quarter, with a market share of 6.5%, according to research firm IDC.
+Apple has faced increasing competition from rival Samsung Electronics Co. and Chinese manufacturers including Xiaomi Inc. and Huawei Technologies Co., which offer phones with advanced hardware at budget prices.
+In the second quarter, Apple ranked second after Samsung in the global smartphone market.
+Apple's market share fell to 11.7% from 13% a year earlier, while Samsung's dropped to 24.9% from 32.2%. No. 3 Huawei's market share rose to 6.7% from 5.1%, according to IDC.
+License this article from Dow Jones Reprint Service

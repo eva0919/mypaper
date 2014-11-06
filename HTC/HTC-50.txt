@@ -1,27 +1,13 @@
-<title:>By Joanna Stern   
-<Date:>26 March 2014
+<title:>BUZZ-GoPro: The view from above
+<Date:>26 September 2014
 <Content:>
-If the story of HTC were a fairy tale, this week's arrival of the HTC One (M8) smartphone would be the magical turning point.
-Last year, the HTC One was praised as the top Android phone, winning awards and rave reviews. Competitors, including the iPhone, seemed underwhelming by comparison. Yet almost nobody bought it.
-HTC claims partial responsibility: The company said its supply chain was unable to keep up with demand. At the same time, the take-no-prisoners marketing campaigns of Samsung and Apple have effectively reduced the smartphone race to just two contestants. As a result, HTC's revenue has dropped and it has downsized operations.
-Down but not out, HTC is back this year with a new and improved model. That's right, the best phone of last year is even better, by many counts. But will anybody care?
-Wrapped in a solid and smooth piece of metal (in gray, gold or silver), the gorgeous HTC phone has been made even more striking. The metal curves around the thin edges for a comfortable, yet weightier feel. The 1080p display has grown from 4.7 inches to a full 5 inches.
-To save space, the physical buttons below the screen are gone, replaced by software. The speakers that stretch across the top and bottom of the screen make the phone longer than most. These unfortunately named "BoomSound" speakers do produce a louder and fuller sound than other smartphones.
-The back of the phone has a unique design change too: not one but two cameras. The new camera, located above the main ultrapixel camera, strictly captures depth information. That allows you to change the focus of your photo after you've taken it. Playing with the feature is a lot of fun and gave my mobile shots a higher-quality look. Translation: more Instagram likes.
-HTC beats the competition with a simple camera interface that includes manual controls. Still, the ultrapixel camera, which the company says captures more light and data than a megapixel camera, didn't capture as balanced or crisp shots as my Phone 5S's 8-megapixel camera.
-As for the new front-facing 5-megapixel camera, its "selfie mode" is so good it deserves Ellen DeGeneres's attention. There's even a tool to make your face look thinner -- not that we'd ever need such a thing!
-The camera and the rest of the features on the phone are very speedy. The Verizon model I tested was fast to load Web pages and apps, including Google Maps. Voice quality was good around New York City. The battery, while larger than the last model, didn't manage to last a whole day.
-Android users know that every phone maker tends to customize the experience, generally with unnecessary features and ill-conceived design changes. HTC's Sense software is one of the least offensive. If Samsung's loud color palette is like a trip to the circus, HTC's more elegant design is a ballet.
-On top of Android 4.4.2, the HTC One (M8) has a well-designed BlinkFeed feature, which combines your social media and favorite news feeds. (I admit, I prefer the traditional social apps.)
-There are other small software additions like double tapping the screen to wake the phone up, or answering a call just by bringing it to your ear.
-The company will sell a $50 DotView plastic case, which covers the screen with pasta-strainer-size holes to protect it. Tap on the case's surface and the time and weather shine through in a design similar to Hasbro's old Lite-Brite toy. As fun as the case is, it can leave a pattern of dots on the screen.
-I'm not a fan of all the changes. I disabled an annoying electric shock sound effect that's triggered when you make selections pretty quickly, and the default touch-screen keyboard is very hard to type on. And the enlarged display is harder for one-handed use. HTC says many prefer the larger screen -- and sales of the 5-inch Samsung Galaxy S4 certainly support this. But phones with 4.7-inch screens, like the Moto X, fit my hand best.
-The phone also doesn't have a fingerprint sensor like the iPhone 5S or Galaxy S5.
-The HTC One (M8) may not break a lot of new ground, but it's no step backward either. If design is important to you, it is the best Android phone you can buy. Of course, that was the consensus on last year's HTC One and sales were still lackluster.
-Brand loyalty and marketing are among the strongest factors when it comes to choosing a smartphone, says Chetan Sharma, a wireless industry analyst. "HTC will face similar challenges this year," Mr. Sharma says. "The Galaxy S5 is coming out soon and there will be another gigantic marketing push."
-Samsung's flagship phone is water resistant and has a heart rate monitor. But the HTC One (M8)'s software and hardware design are better than anything we've seen from Samsung to date.
-The phone, priced from $199 to $249, is available Tuesday online at U.S. carriers and exclusively at Verizon's retail stores. It will hit other carriers' stores in April.
-In a fairy tale, the HTC One (M8)'s charms would win the hearts of more phone buyers. But in the real world, the giants -- Samsung and Apple -- will probably once again win in sales.
----
-See the HTC One (M8) in action in Joanna's latest video at WSJD.com. Contact her at joanna.stern@wsj.com and on Twitter at @joannastern.
-License this article from Dow Jones Reprint Service
+** Pent-up demand for action cameras may continue to propel the stock of GoPro to even dizzier heights.
+** Stock is retreating from Thursday's all-time record but has snapped back sharply from the day's lows. Now down just over 2 pct.
+** Since the $427 million June IPO the company's stock has defied gravity and is up 160%. Up more than 60% this month.
+** Yahoo Finance citing that the company is rumored to be launching a new version of its action camera in time for holiday shopping season has helped push the stock higher.
+** Bloomberg reported on Sept 12 that Taiwan-based HTC Corp is developing its first camera, a waterproof model. (http://bloom.bg/1uMhX2E)
+** Talk in the market that a hedge fund in trouble had to rush to cover short positions cited as one reason for this month's surge.
+** Short interest in the stock last stood at 6.7% according to latest available data, up 33% since the start of the month.
+** JPM revised PT this morning to $54 from $51 and maintains neutral rating. Analysts' average PT remains well below current levels.
+** GoPro now worth almost $10 billion vs Nikon's $5.9 market value. (Messaging: lance.tupper.thomsonreuters.com@reuters.net)
+Released: 2014-9-29T13:52:50.000Z

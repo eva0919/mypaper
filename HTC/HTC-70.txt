@@ -1,25 +1,28 @@
-<title:>Business and Finance
-<Date:>6 January 2014
+<title:>BREAKINGVIEWS-China smartphones set to pick off global giants
+<Date:>8 September 2014
 <Content:>
-Prosecutors are expected to announce that J.P. Morgan will pay more than $2 billion for alleged failures to warn about Madoff.
----
-Auto makers aim to make 2014 the year cars connect to the Web in a big way.
----
-The NYSE had more tech and Internet IPOs than Nasdaq in 2013, with some citing the Big Board's designated market makers as a factor.
----
-An improving economy in the U.S. is luring many investors to bank stocks.
----
-A dispute involving Celgene shows the tensions that can arise in research collaborations and licensing agreements with academia.
----
-Anxieties are rising in the euro zone that deflation may be starting to take root.
----
-Boeing's deal with its machinists union cements a key portion of the company's effort to control costs.
----
-Liberty Media unveiled a plan to make Sirius XM a wholly owned subsidiary.
----
-Taiwan's HTC eked out a net profit for the fourth quarter on the sale of its stake in a U.S. company.
----
-Disney's "Frozen" topped the weekend box office in its sixth week on screens.
----
-A group of high-frequency trading firms have hired a pair of political strategists and formed a trade group.
-License this article from Dow Jones Reprint Service
+(The author is a Reuters Breakingviews columnist. The opinions expressed are his own.)
+By Ethan Bilby
+HONG KONG, Sept 9 (Reuters Breakingviews) - Not everyone is able to spend $500 on a smartphone. For those lacking funds or wanting better value for money, China's handset makers increasingly appeal. Today, most of their sales are domestic. Yet low costs are helping them dial in new emerging market customers.
+Chinese brands have quickly seized control of their home market. Just a few years ago, the likes of Nokia and HTC were major players. Now upstarts like Xiaomi dominate. In the three months to June, domestic manufacturers produced more than three out of every four handsets sold in the People's Republic, according to Canalys analysts.
+Assuming Lenovo completes its acquisition of Motorola, roughly 40 percent of phones shipped worldwide in the second quarter were Chinese-owned brands. Yet manufacturers like Coolpad and Huawei do much better at home than abroad. In the rest of the world, the market share for Chinese manufacturers is only 19 percent.
+Tight control over manufacturing and low labour costs have enabled Chinese groups to offer powerful phones at lower prices than competitors like Samsung. That advantage gives Chinese brands an opportunity to find a following, particularly in growing markets. Consumers in Britain and Brazil are both expected to buy roughly 32 million phones this year. Yet the market in the South American country will expand by 76 percent, compared with 7 percent growth in the United Kingdom. Buying an existing brand can also provide a regional boost. Despite its woes, Motorola remains Brazil's most popular smartphone brand, which should help Lenovo in Latin America.
+Distribution remains a challenge, however. In China, domestic groups have benefitted from subsidies offered by network operators that encourage data-using customers to buy smartphones. Aside from TCL and Huawei, most Chinese manufacturers lack established relations with overseas telecom operators. In countries like India and Indonesia, they also face competition from local low-cost manufacturers.
+Over time, however, it seems unlikely that Chinese manufacturers will only succeed at home. Their international rivals face a global fight.
+https://twitter.com/EthanBilby
+              
+              
+              
+              
+CONTEXT NEWS
+              
+- Chinese smartphone maker Coolpad is looking into overseas acquisitions to help it expand abroad, the Wall Street Journal reported on Aug. 21.
+- The group is aiming for sales outside China to account for 30 percent of its revenue by 2017, from less than 10 percent last year.
+- Lenovo said on Aug. 14 that nearly 20 percent of its smartphones were sold outside China. The group does not provide a figure, but referred to IDC data which estimated it shipped 15.7 million phones in the six months ending June.
+- Huawei said on July 29 it shipped 34.3 million smartphones in the six months ending June, up 62 percent from the same period last year.
+- Reuters: After China smartphone success, Lenovo plans leap forward overseas
+RELATED COLUMNS
+First we take Beijing
+Under the lens
+-- For previous columns by the author, Reuters customers can click on (Editing by Peter Thal Larsen and Robyn Mak) 
+Released: 2014-9-9T03:00:05.000Z

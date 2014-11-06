@@ -1,0 +1,18 @@
+<title:>Taiwan's HTC Q2 profit T$2.26 bln, slightly above estimates
+<Date:>3 July 2014
+<Content:>
+SEOUL¡XSamsung Electronics Co. said its mobile security platform will be integrated into the next version of Google Inc.'s Android operating system, a move it hopes will increase Android's appeal among security-minded businesses and governments, where BlackBerry Ltd. remains a formidable player.
+The agreement between Google and Samsung is the latest sign of cooperation between the two technology giants, which dominate global smartphone sales by pairing the South Korean company's hardware and marketing know-how with Google's software platform.
+Samsung accounted for 30% of global smartphone shipments in the first quarter of the year, with about four in five smartphones running Android, according to research firm IDC.
+The announcement came as Google was kicking off its annual I/O developers conference in San Francisco. Samsung's mobile devices run predominantly on Android, though in recent months the company has also been rolling out devices that use its homegrown operating system, known as Tizen.
+The new deal with Google will embed the security platform¡Xcalled Knox¡Xin any devices that ship with the latest update of Android. A Samsung spokesman declined to elaborate on how the business decision will affect Samsung sales and distribution.
+By opening up its proprietary security technology to rival Android handset makers like LG Electronics Inc., HTC Corp. and Lenovo Group Ltd., Samsung appears to be betting that it will benefit from its efforts to enhance Android's reputation in the world of enterprise mobile security.
+The Samsung spokesman said the collaboration would "benefit all Android users, and hence grow the addressable Android enterprise market for the entire industry."
+Samsung says the version of Knox that is being made available to all Android devices will include some key parts of the platform, including a "container" that allows users to house proprietary information in a separate secure space on a device. Other core security features of Knox won't be shared with rival Android vendors, the Samsung spokesman said.
+In a statement, Injong Rhee, who runs Samsung's Knox business group, called the deal a "ground breaking partnership with Google," adding that the move was made to promote Android more broadly as "the leading choice for businesses."
+Hiroshi Lockheimer, vice president of engineering for Google's Android unit, said Google would bring enterprise-grade security to "all manufacturers participating in the Android ecosystem."
+In May, Mr. Rhee said there were 87 million Samsung devices that had been shipped with embedded Knox capabilities.
+The move to work closely with Google comes shortly after Samsung said five of its Galaxy-branded smartphones and tablets loaded with Knox received approval from the U.S. Defense Information Systems Agency, which allowed them to be listed as an option for Pentagon officials.
+Google and Samsung cooperated to address an alleged security breach identified by Israeli security researchers late last year that they said could allow malicious software in Samsung's Galaxy devices to track emails and record data communications.
+In a statement that was published in collaboration with Google in January, Samsung said the alleged security gap was more broadly linked to the Android operating system, whose legitimate functions could be used "in an unintended way" to intercept unencrypted application data.
+In January, Google and Samsung signed a broad cross-licensing deal on technology patents, though they didn't specify whether the scope of the deal was limited to Android.

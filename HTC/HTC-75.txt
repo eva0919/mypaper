@@ -1,16 +1,5 @@
-<title:>By J. D. BIERSDORFER   
-<Date:>6 December 2013
+<title:>Note-taking App's Secret of Success: Keep It Simple
+<Date:>1 September 2014
 <Content:>
-Choosing an Android Experience
-Q. How different is the version of the Android system Google uses for its Nexus phones compared with what other companies use for their phones? Is there any advantage to one over the other?
-A. Because Google allows hardware manufacturers to modify its Android operating system software, the features and versions can vary widely among gadgets. While Google uses a fairly straightforward edition of Android on its own Nexus-branded devices, other smartphone makers can add their own apps and customize the interface to better suit their hardware; wireless carriers may add their own modifications as well.
-Google's own ''pure'' version of Android may run a bit smoother and faster because there is less tinkering. However, it may not offer certain features offered by another phone maker or carrier, like a more advanced camera app. When shopping, be sure to check the software offerings as well as the hardware specifications for the models you are considering.
-Because there are no third-party alterations to the system, Android updates for Google's Nexus line tend to roll out more quickly than updates from other hardware makers and wireless carriers, which need to update or enhance their own modifications on top of Google's changes for the new version. These companies also handle technical support for their own Android-based devices, while Google supports the Nexus phones and tablets.
-If you do not care for the Nexus hardware choices, some companies like HTC and Samsung offer ''Google Play Editions'' of their popular phones that feature the stock edition of Android -- and get system updates more quickly than other models. The Moto X and Moto G phones from Motorola Mobility (a company owned by Google) also feature a fairly unmodified version of Android with quicker access to system updates.
-Changing Default Programs in Windows 8
-Q. How can I get pictures in Windows 8 desktop mode to open in Paint instead of that new Photos app thing on the Start screen? Every time I double-click on a picture, I get thrown out of desktop mode and into that other app.
-A. As with previous versions of Windows, you just need to set the file associations for .JPG photos (or other image types) to open in the program of your choice, instead of the default program Windows is set to use. If you have opened a picture and suddenly find yourself in the Photos app in the ''Modern'' user interface side of Windows 8, click the image to summon the toolbar at the bottom of the screen.
-Click the ''Open with'' icon in the toolbar. Here, you can select Paint or another image-editing application from the list instead of Photos. Make sure the checkbox is turned on next to ''Use this app for all .jpg files'' so that pictures open in Paint from now on.
-If you are still in the desktop mode and have a folder of pictures open, right-click on an image, go to ''Open with'' on the drop-down menu and then select ''Choose default program.'' You can then select your preferred program for opening pictures.
-To change the associations for several types of files at once, press the Windows and the W keys to jump to the Search Settings box and type in ''associations.'' Click the option for ''Change the file type associated with a file extension'' to open the Set Associations box with the controls for choosing programs for all the various file types on your computer. (Microsoft's site has more information in setting default apps in Windows 8 and later as well.)
-And if you find yourself in the Modern user interface by accident at other times, you can always return to the desktop mode quickly by pressing the Windows and D keys on the keyboard. Pressing the Windows key alone toggles back and forth between the Start screen and current screen.
+ColorNote competes with the likes of Evernote but outranks the latter on Google Play in tens of countries, in terms of productivity.
+Unlike the vast majority of Seoul-born apps that struggle to expand overseas, over 94% of ColorNote's users ...

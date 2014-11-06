@@ -1,27 +1,20 @@
-<title:>By BRIAN X. CHEN   
-<Date:>2 October 2014
+<title:>Tech
+HTC Sees Brighter Fourth-Quarter Sales; Smartphone Maker HTC Faces Competition From China, Apple but Expects to Stay Profitable
+<Date:>31 October 2014
 <Content:>
-SO you want to buy a new Apple iPhone, Samsung Galaxy, HTC phone or whatever suits you. What are you going to do with your old device?
-You could, like many people, just tuck it in a sock drawer or hand it off to a family member. Or you could trade it in for cash to get a discount on whatever new phone you buy.
-Often, the money you make trading in or selling a phone will cover a huge chunk, if not all, of the price of upgrading to a new phone. Yet lots of used phones are never sold. A study by OnePoll, a research company, found that Americans are hoarding about $34 billion worth of used cellphones. That's a lot of money that could be used toward upgrades.
-There are plenty of ways to sell an old phone, like mailing it to a reseller, handing it to a cellphone store or putting it up for sale online.
-I have used several approaches to selling used phones, online and offline. Two things to remember before you ditch the old phone: First, back up your information. Second, always make sure to erase all contents of the phone before shipping it. You don't want the phone's new owner getting access to your selfies and text messages.
-Gazelle
-Gazelle offers a popular online trading program. It allows you to select which phone you want to trade in, then it presents an estimate of how much money you could get.
-First, visit Gazelle.com and select ''Sell cell phones.'' Next, pick the brand, model, carrier and capacity of the phone. For example, iPhone owners should select ''Apple'' and then the model, carrier and capacity, like an AT&T iPhone 5 with 32 gigabytes of storage.
-Then describe the condition of the phone. If it has signs of wear and tear, select ''Good.'' If it is damaged, select ''Broken/Cracked.'' If it is shiny and unscathed, select ''Flawless.''
-Gazelle will then generate a quote based on the condition and model of the phone. An AT&T iPhone 5 with 32 gigabytes of storage, in good condition, for example, will go for at least $145.
-If you like the offer, choose how you would like to be paid: a check, Amazon store credit or PayPal. You can have Gazelle mail a shipping box, or you can print out the label and ship the phone with your own box.
-Then pack the phone and ship it. Wait a few weeks for Gazelle to receive and inspect the phone. Once it does, it will send an email with the final offer. You can accept the offer and get paid, or reject it and have the phone shipped back to you.
-EBay
-Another popular method online is to put the phone up for auction on eBay. Because the older phones on the website are generally bought by other people as opposed to a reseller, the selling price for a used phone tends to be higher.
-First, visit eBay's webpage for used phones: pages.ebay.com/ebayforthewin. Select your phone model and click ''Sell Now.''
-Log into eBay with your account information and select the details for the phone: the carrier, storage capacity and condition (new or used). EBay will generate an estimate for the phone's general selling price. For example, eBay says an AT&T iPhone 5 with 32 gigabytes is selling for $207.
-You can add photos of the phone, edit the description and starting price, and then state how much the shipping will cost. Then list the phone on eBay. Once the auction finishes, wait for the payment to come through and then pack and ship the device.
-Retail Stores
-A quicker way to get cash is to just take the phone into a retail store that accepts old phones. Plenty of cellphone stores accept trade-ins, including AT&T, Verizon Wireless and Sprint.
-Another good bet is Best Buy, one of the largest electronics retailers, which accepts used phones and sells new phones compatible with all the major carriers.
-At Best Buy, you simply go to the cellphone department and hand the phone to an employee. The employee will check the condition of the device and test to make sure it works.
-Then Best Buy will offer in-store credit or tell you how much a new phone will be discounted in exchange for the older device. Currently, a black AT&T iPhone 5 with 32 gigabytes is being quoted at $225.
-That's a lot more than what you'd make by throwing your old phone into the sock drawer.
-Traded-in iPhones at a warehouse in Louisville, Ky., for Gazelle, which offers an online trading program for cellphones. After a final offer is accepted, sellers can choose to be paid by check, Amazon store credit or PayPal. (PHOTOGRAPH BY GAZELLE.COM)   
+TAIPEI¡XHTC Corp. on Friday predicted sales would at least stay flat in the fourth quarter after three years of decline.
+The Taiwanese smartphone maker expects revenue of 43 billion New Taiwan dollars to NT$47 billion (US$1.41 billion to US$1.55 billion) for the current quarter ending Dec. 31. The target range represents a growth of 2.7% to 12% from NT$41.86 billion in the third quarter, and as much as 9.6% higher than the NT$42.90 billion it fetched in the same period in 2013.
+HTC also expects to remain profitable for the third straight quarter. In the three months ended Sept. 30, HTC reported a net profit of NT$640 million, compared with a net loss of NT$2.97 billion a year earlier.
+We are forecasting a pretty material increase in handset shipment volume [for the fourth quarter],¡¨ Chief Financial Officer Chialin Chang told investors during a conference call. Mr. Chang declined to disclose the company¡¦s shipment forecast.
+¡§I hope the momentum will extend into the first quarter of next year,¡¨ Mr. Chang said.
+But analysts say HTC still faces headwinds in a market dominated by Apple Inc. and fast-growing Chinese players.
+A challenge HTC and most Android handset makers face in this quarter is the stronger-than-expected demand for the new iPhones. Apple recently launched two iPhones, one with a bigger 5? inch screen. Both offer one of the biggest revamps to the iPhone in two years and are well-timed for the year-end holiday season.
+HTC, once the world¡¦s top smartphone maker by volume, dropped out of the top 10 largest handset vendors by shipments last year. Apple and Samsung Electronics Co. have been grabbing HTC¡¦s share in the high-end market, while low-cost Chinese makers have been squeezing the Taiwanese company in the mid- and low-end markets.
+HTC is hoping to reverse years of shrinking sales by beefing up its midrange product lines and expanding into non-smartphone businesses.
+The company has recently added a selfie-focused smartphone to its midprice Desire line. It has also unveiled the Nexus 9 tablet with Google Inc., a waterproof action camera and software for taking selfie photos.
+Mr. Chang said HTC has plans to launch new smartphones over the next two quarters, but declined to give more details.
+He also said the project with Google doesn¡¦t mean HTC is returning to contract manufacturing of phones and tablets for other brands.
+¡§We are open to, and will also consider, co-branding opportunities with partners,¡¨ he added.
+But the midtier market is getting crowded, which complicates HTC¡¦s reliance on that segment as a solution, analysts say.
+Samsung said Thursday it would seek to compete head-on against low-priced Chinese rivals amid falling sales in China. Chinese brands like Xiaomi Inc., Huawei Technologies Co. and Lenovo Group Ltd. are already dominating the that market.
+¡§Apparently HTC is trying to stay away from the competition from Apple in the high-end segment. But the smartphone market, especially the mid- and low-end segments, is still very tough,¡¨ said KGI Securities analyst Richard Ko.

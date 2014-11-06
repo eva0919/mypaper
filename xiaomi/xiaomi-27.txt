@@ -1,28 +1,16 @@
-<title:>By MICHAEL J. DE LA MERCED   
-<Date:>7 June 2014
+<title:>
+<Date:>30 October 2014
 <Content:>
-Updated, 8:40 p.m. | Only a few months ago, Silicon Valley start-ups were celebrated for drawing investors into paying for multibillion-dollar valuations.
-But on Friday Uber, the car ride service, climbed to an entirely new level.
-The company announced on Friday that it had raised $1.2 billion from investors at an eye-popping $17 billion valuation.
-It is the biggest haul so far by any member of Silicon Valley's ''11-digit club,'' those companies that have gained valuations of at least $10 billion. Among them are Airbnb, the home-rental site; Dropbox, the online file-storage provider; and Xiaomi, a Chinese handset maker.
-But Uber's new net worth, which excludes the latest round of money, is one of the highest ever attained by a start-up.
-And it is much higher than it was just 10 months ago, when the company raised money at a roughly $3.5 billion level.
-At its new valuation, the four-year-old service commands a higher worth than traditional car rental companies like Hertz Global Holdings and Avis Budget and almost equal to those of the celebrated tech ventures Twitter and LinkedIn.
-Behind the soaring numbers is the hunger of investors with money to burn who are eager for a piece of fast-growing companies. About $10.7 billion was invested into start-ups in the first three months of the year, the most in at least three years, according to Dow Jones VentureSource.
-Much of that money has gone into the biggest businesses in their markets, with investors betting that they will continue to post enormous growth. But some second-place players are cashing in, too: Lyft, a smaller car service provider, raised money from investors like the Chinese e-commerce giant Alibaba Group at a roughly $700 million valuation earlier this year.
-Still, few companies have proved as alluring to would-be financial backers as Uber, which four years ago pioneered a new kind of business model, one in which a start-up replaced a part of users' daily lives. Its service allows users to call up cars from their smartphones, a category that has swelled with imitators and competitors like Lyft, which operates in dozens of cities.
-Rare now is the on-demand services start-up that doesn't bill itself as ''the Uber of'' housecleaning or landscaping or even dental work.
-But Uber, co-founded by its chief executive, Travis Kalanick, remains the king of the hill it created. It now runs in 128 cities in 37 countries around the world. And though it began as a dispatch network for professional chauffeurs in Town Cars and S.U.V.s, its most prominent offering is UberX, where drivers use their own cars.
-Its prevalence has prompted some users, including high-powered financial executives, to give up their cars and rely solely on the service for their driving needs.
-''Uber is changing the fabric of these cities,'' Mr. Kalanick wrote in a company blog post. He added: ''With our growth and expansion, the company has evolved from being a scrappy Silicon Valley tech start-up to being a way of life for millions of people in cities around the world.''
-Since it is still privately held, Uber does not need to disclose its financials. But Mr. Kalanick told The Wall Street Journal on Friday that the service, which collects a roughly 20 percent commission from its drivers, doubled in revenue every six months.
-It is that extreme growth that has drawn in financial firms with deep pockets. The latest fund-raising effort was led by Fidelity Investments and included Wellington Management, Summit Partners, BlackRock and Kleiner Perkins Caufield & Byers. Existing investors like Google Ventures and Menlo Ventures also participated.
-Mr. Kalanick himself has hit pay dirt with Uber. His first venture, a search engine created while he was still in college, filed for bankruptcy within three years. Akamai Technologies bought his second for $19 million.
-The new money Uber has raised could come in handy as it battles competitors. The company and Lyft are dueling for dominance in more than a dozen cities, with each dropping prices to woo customers.
-But the oversize new funding round goes hand in hand with Mr. Kalanick's ambitions for the company. Not content to stick with arranging car rides, the 37-year-old entrepreneur has talked about creating a logistics network where its drivers ferry goods around cities. One of its nascent experiments is running a courier service in New York City known as Uber Rush.
-By setting up shop in the real world, however, Uber has bumped up against tenacious interest groups determined to defend their turf. The service notoriously has battled the taxi commission in Washington, with Mr. Kalanick deriding one set of rule changes as ''taxi protection at its finest.'' And taxi drivers in Chicago and other cities are seeking to form a national union, in part to battle the success of Uber and other services.
-Mr. Kalanick said at ReCode's Code Conference last week that his company was in a political campaign, and called the taxi industry his opponent.
-In a potential recognition that it had many more battles to fight, the company hired a top official from New York City's Taxi and Limousine Commission two weeks ago as its first head of policy development and community creation.
-But the company said it had more work to do. In his blog post, Mr. Kalanick wrote: ''This 'Uber' way of life is really a reflection of our mission to turn ground transportation into a seamless service and to enable a transportation alternative in cities that makes car ownership a thing of the past.''
-This is a more complete version of the story than the one that appeared in print.
-The Uber smartphone app, which connects drivers with passengers,  is shaking up the taxi industry in dozens of cities. (PHOTOGRAPH BY RICHARD PERRY/THE NEW YORK TIMES) (B6)   
+SEOUL -- LG Electronics Inc. said Wednesday its third-quarter profit nearly doubled from a year earlier after it sold a record number of smartphones.
+The South Korean company's mobile devices continued to gain market share from bigger rival Samsung Electronics Co., particularly at home. But globally, LG is struggling against Apple Inc. and like Samsung faces a newer challenge from fast-rising Chinese handset makers.
+LG said its net profit for the three months ended Sept. 30 rose 87% to 203 billion won ($194 million) from 108.5 billion won a year earlier.
+The company sold 16.8 million smartphones during the quarter, up 39% from 12 million sold a year earlier and a record for the company. Operating profit doubled to 461 billion won, with the mobile division accounting for more than a third of profits, the company said.
+Following its second consecutive quarter of profit in the mobile division, LG said it would stick to a two-track smartphone strategy, spearheaded by the company's premium G series and cheaper L series models.
+Local analysts estimate LG's global market share came close to 5% in the latest quarter, slightly higher than last year's levels. But a continued tug of war is expected against upstart Chinese brands such as Xiaomi Inc., which is estimated by analysts to have sold a similar number of smartphones as LG during the same period.
+LG is better positioned in South Korea, where its handsets grabbed a 27% market share in the third quarter, its highest in years, and up from just 18% a year earlier, according to Counterpoint Research. During the same period, Samsung's share slipped to 60% from 66%, according to the same estimates.
+LG executives hope the progress it is making at home will translate into overseas sales.
+"Before, they [overseas partners] didn't even spare us a glance. But now, most carriers take our products without any doubt," said Chris Yie, a vice president for marketing at LG's mobile division, in a recent interview.
+The number of global carriers that placed orders for LG's latest G3 smartphone at launch was roughly 170, up by 30% from the previous model, Mr. Yie said.
+The big four U.S. telecommunications companies -- Verizon Communications Inc., AT&T Inc., T-Mobile US Inc. and Sprint Corp. -- all sell the G3.
+Analysts estimate Samsung to have had roughly 200 carrier partners for the launch of its latest top-of-the-line model, the Galaxy S5.
+License this article from Dow Jones Reprint Service

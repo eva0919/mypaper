@@ -1,42 +1,38 @@
-<title:>Corporate Watch
-<Date:>22 October 2013
+<title:>Corporate News: Corporate Watch
+<Date:>1 August 2014
 <Content:>
+YUKOS
+Russia Must Compensate
+Shareholders, Says EU Court
+Russia has to pay the former owners of now defunct Russian oil company Yukos 1.87 billion euros ($2.51 billion) in compensation for unfair tax proceedings, the European Court of Human Rights said Thursday.
+The ruling on compensation is the ECHR's biggest award to date and comes three years after the court first found that Moscow had violated Yukos's rights to a fair trial and protection of property.
+Russia has to pay 1.87 billion euros in compensation for the direct financial damage that Yukos's owners suffered from the unlawful proceeding, which the court said should go to Yukos's former shareholders and their heirs.
+Moscow also has to reimburse an extra 300,000 euros in legal costs to the Yukos International Foundation, a company that now houses some of Yukos's remaining assets.
+In a blow to Yukos's former owners, however, the court rejected its claim that the unfair tax proceedings led to its liquidation in 2007.
+It is because of this assessment that the 1.87 billion euros award falls well short of the 37.98 billion euros in damages Yukos had asked for. It is also significantly less than the $50 billion in damages that its former owners were awarded by a Netherlands-based tribunal this week.
+-- Gabriele Steinhauser
+and Gregory L. White
+---
 HTC
-Chairwoman Assumes
-Some Duties of CEO
-HTC Corp. said Monday its chairwoman, Cher Wang, has taken over some duties from Chief Executive Peter Chou as the Taiwanese smartphone maker continues to struggle with falling market share.
-"At this crucial time, it is important for HTC to remain focused," the company said in a written statement. "That means that Peter is focusing on creating the best products and ensuring the best execution across the company. He has invited Cher to participate more in certain areas such as operations, sales and marketing."
-The company said that Mr. Chou remains chief executive with "full and final decision-making responsibilities."
-Mr. Chou told the Financial Times in an interview published Monday that he is now focusing on innovation and product development, while Ms. Wang has started to oversee some other day-to-day operations.
-The move is seen as HTC's latest effort to stay relevant in a market where both high-end smartphone vendors, such as Samsung Electronics Co. and Apple Inc., and low-cost competitors, such as ZTE Corp. of China, continue to expand market share.
+Smartphone Maker Expects
+Continued Decline in Sales
+HTC Corp. forecast continued falling sales in the third quarter, as the Taiwanese high-end smartphone maker faces a challenge from the coming launch of Apple Inc.'s next-generation iPhone.
+It will be HTC's 12th straight quarter of falling revenue on an annual basis. Chief Financial Officer Chialin Chang said the flagship HTC One (M8) smartphone and other products launched in the first half of the year helped boost second-quarter earnings, but sales will slow in the third quarter and the company will need to trim sales and marketing expenses.
+HTC will remain profitable in the third quarter, Mr. Chang said.
+"Some of our products, after the initial excitement, have settled at a lower level," said Mr. Chang on an investor call. "But the good thing is it is stabilized."
+Mr. Chang added he expects HTC to break its three-year slide in revenue in the fourth quarter, with the help of momentum from the flagship line and the introduction of new products.
 -- Eva Dou
 ---
-TELLABS
-Networking-Products Firm
-Bought by Private Equity
-Tellabs Inc. has agreed to be acquired by private-equity firm Marlin Equity Partners for about $891 million, following a review by the networking-products maker of its strategic alternatives.
-Under the agreement, Marlin will acquire Tellabs shares for $2.45 each in cash. Tellabs' shares were up 11 cents at $2.46 in Nasdaq trading Monday. A tender offer will commence no later than Nov. 1, and the deal is expected to close in the fourth quarter.
-Tellabs' board has unanimously approved the merger. The company also said its co-founder and second-largest stockholder Michael Birck supports the deal.
-Chairman Vince Tobkin said more than 30 potential buyers were contacted as part of a competitive bidding prices. The deal will enable the company to invest in key technologies for future products and become more competitive, Mr. Tobkin said.
-Tellabs, which makes telecommunications networking products, has posted a string of quarterly losses for more than two years. The company has undergone an internal reorganization and strategy realignment, turning its focus to the mobile Internet market.
--- Nathalie Tadena
+EXXON MOBIL
+Earnings Jump by 28%, But Production Declines
+Exxon Mobil Corp. said its profit for the second quarter rose 28%, even though the company pumped oil and natural gas at the lowest rate in almost five years.
+The U.S.-based energy company was buoyed by higher oil prices, lifting its earnings to $8.78 billion on revenue of $111.65 billion. It also got a boost from higher profits for refining crude and manufacturing chemicals. But its oil and gas output sank 5.7% from a year earlier, the lowest rate since the third quarter of 2009.
+The company has said it is weighing the impact of sanctions against Russia announced this week by the U.S. and the European Union, which aim to restrict exports of energy technologies for oil projects.
+-- Daniel Gilbert and Tess Stynes
 ---
-AIRBUS
-Jet Maker Hopes JAL Deal
-Will Build Market in Japan
-Airbus hopes to nearly double its share of the Japanese market by 2020, hoping to build momentum on a landmark order it received from Japan Airlines Co. this month.
-Airbus Chief Executive Fabrice Bregier said he hopes to get 25% of the Japanese market by 2020, and half of the market over the next 20 to 25 years, up from 13% currently.
-"We will grow our market share" by bolstering sales of jets such as the A350 and other aircraft for low-cost carriers, Mr. Bregier said Monday during a speech at a business forum.
-JAL this month ordered 31 A350 jets from the European Aeronautic Defence & Space Co. unit, with a total catalog price of about $9.75 billion. The contract includes an option for another 25 of the long-range aircraft.
--- Yoshio Takahashi
----
-DEVON
-Energy Company Unveils
-Partnership Wtih Crosstex
-Devon Energy Corp. and Crosstex Energy L.P. unveiled plans to combine Devon's midstream operations with Crosstex to form a publicly traded master limited partnership that will combine the companies' pipelines, processing plants, rail terminals and other oil and natural gas infrastructure.
-Earlier this year, Devon proposed dropping many of its midstream assets into an MLP structure, but that idea was not well received by the market. This combination with Dallas-based Crosstex, which operates 3,500 miles of pipelines at the Gulf Coast and in the Ohio River Valley as well as gas processing facilities and rail and barge terminals for oil, gives Devon reach across productive U.S. oil fields.
-The combined Devon and Crosstex entity would operate 7,300 miles of pipelines and storage assets across the Barnett Shale in North Texas, the Cana and Arkoma Woodford shales in Oklahoma and along the Gulf Coast.
-MLPs are a tax-advantaged corporate structure favored by some companies that own pipelines and other oil and gas storage and transportation assets. The publicly traded partnerships have flourished in recent years and are highly sought by investors. They avoid most corporate taxes because the overwhelming majority of cash they generate every quarter is paid out in distributions to unit holders.
-The new business, which does not yet have a name, will consist of two publicly traded companies: a general partner and a master limited partnership.
--- Alison Sider and Tess Stynes
+DIAGEO
+China Slowdown Hits Profit
+Diageo PLC, the world's biggest liquor company by sales, on Thursday posted an 8.2% decline in full-year profit, attributing the decline to a collapse of demand in China -- where sales of high-price Johnnie Walker Black Label fell nearly 30% -- and problems in other emerging markets.
+Diageo reported net profit of GBP 2.25 billion ($3.81 billion), compared with GBP 2.45 billion a year earlier, as revenue dropped 8.5% to GBP 13.98 billion. Sales in China fell 33%, but there was an improved performance in Western Europe.
+-- Peter Evans
 License this article from Dow Jones Reprint Service

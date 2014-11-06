@@ -1,19 +1,44 @@
-<title:>Hayley Tsukayama   
-<Date:>27 March 2014
+<title:>RPT-Phoning 'home': what your mobile may be giving away
+<Date:>28 September 2014
 <Content:>
-Facebook surprised just about everyone Tuesday by announcing that it will acquire Oculus VR, the maker of a prototype cutting-edge virtual-reality gaming accessory called the Oculus Rift. The product, gaming goggles of sorts that players put on to immerse themselves in the virtual world, is popular among leading-edge gaming geeks.
-It's no surprise that Oculus was snapped up - the firm is leading even major companies such as Sony and Microsoft in the virtual-reality market, and it was perhaps only a matter of time before someone was willing to foot the bill to make the company its own. What is surprising is that Facebook was the one to do it.
-Facebook is not exactly known for its gaming. That's not a failing on Facebook's part, necessarily, but early fans, including those who gave the company its start on Kickstarter, weren't shy about sharing their worries that Facebook would steer the firm away from gaming down the line. Facebook's track record on gaming, after all, has made for a shaky relationship with developers who blamed its waning support of Farmville maker Zynga for hurting social gaming.
-Those skeptics probably weren't soothed by comments from Facebook indicating that although gaming will remain Oculus's main focus for now, it won't always be that way.
-"Gaming is just the start. After games, we'll make Oculus a platform for other experiences," Facebook chief executive Mark Zuckerberg told analysts in a call after the deal was announced. Oculus has the potential, he said, to be "the most social platform ever."
-Gaining control over the next big computing platform - if the bet pays off - would be good for Facebook, Sterne Agee analyst Arvind Bhatia said in a note to investors Wednesday.
-"We think the rationale is if Facebook can own the pipe, the platform or the operating system of the future, it will have much greater control over its destiny," he said.
-Still, the Oculus acquisition stands out among other Facebook buys, particularly because it's hard to imagine Facebook could easily integrate Rift and its technology into its site. Zuckerberg typically buys fully formed companies and works them into Facebook's overall ecosystem - see Instagram, or even Beluga, which was the foundation for Facebook Messenger.
-Oculus has yet to begin widely selling its headset, reserving it for developers who might be able to build games or apps that make it better. And it doesn't fit in Facebook's platform in an obvious way. Would people, for example, be willing to chat or spend any significant amount of time, even the duration of a basketball game, while wearing an immersive headset, especially when they're already wary of devices such as Google Glass and Oculus is still overcoming complaints about motion sickness?
-And Zuckerberg noted that Facebook is no hardware company, and is in new territory when it comes to launching a physical gadget. The only piece of hardware that the firm has associated itself with was the HTC Cha Cha, which came with a Facebook button on the keyboard and quickly faded into obscurity.
-He addressed that obvious weakness head-on, saying the social-networking company does not expect to make a profit from the devices anytime soon. Facebook, he said, wants to use its existing levers, such as its dominant role in the social world, to raise awareness and excitement about the product.
-For Oculus, the appeal is clear: $2 billion and a promise that it can continue its roadmap exactly as it wants to. On Reddit.com, Oculus co-founder Palmer Luckey, 21, has been fighting a nearly constant stream of criticism with assurances that not much will change at Oculus. Luckey has said that while Oculus could have taken its vision to fruition on its own, the Facebook buy will let it take a more perfect product to market - whenever that may be.
-He spent much of Tuesday evening and Wednesday trying to convince Rift's small but devoted followers that the deal does not make the firm a sell-out, reflect a move away from gaming, or indicate a data grab.
-"Our relationship with the community is not going to change, and we are not going to spy on anyone," Luckey wrote in one comment on the site. "Feel free to rag on me if things turn out the way you predict, but you have my word that nothing will change for the worse."
-Excerpted from The Switch, at washingtonpost.com/blogs/the-switch. 
-WP20140327facebook0327
+(Repeats article first published on Sunday. No changes to text.)
+By Jeremy Wagstaff
+SINGAPORE, Sept 28 (Reuters) - When popular Chinese handset maker Xiaomi Inc admitted that its devices were sending users' personal information back to a server in China, it prompted howls of protest and an investigation by Taiwan's government.
+The affair has also drawn attention to just how little we know about what happens between our smartphone and the outside world. In short: it might be in your pocket, but you don't call the shots.
+As long as a device is switched on, it could be communicating with at least three different masters: the company that built it, the telephone company it connects to, and the developers of any third party applications you installed on the device - or were pre-installed before you bought it.
+All these companies could have programmed the device to send data 'back home' to them over a wireless or cellular network - with or without the user's knowledge or consent. In Xiaomi's case, as soon as a user booted up their device it started sending personal data 'back home'.
+This, Xiaomi said, was to allow users to send SMS messages without having to pay operator charges by routing the messages through Xiaomi's servers. To do that, the company said, it needed to know the contents of users' address books.
+"What Xiaomi did originally was clearly wrong: they were collecting your address book and sending it to themselves without you ever agreeing to it," said Mikko Hypponen, whose computer security company F-Secure helped uncover the problem. "What's more, it was sent unencrypted."
+Xiaomi has said it since fixed the problem by seeking users' permission first, and only sending data over encrypted connections, he noted. 
+              
+              
+              
+              
+INDUSTRY ISSUE
+              
+Xiaomi is by no means alone in grabbing data from your phone
+as soon as you switch it on.
+              
+A cellular operator may collect data from you, ostensibly to improve how you set up your phone for the first time, says Bryce Boland, Asia Pacific chief technology officer at FireEye, an internet security firm. Handset makers, he said, may also be collecting information, from your location to how long it takes you to set up the phone.
+"It's not that it's specific to any handset maker or telco," said Boland. "It's more of an industry problem, where organisations are taking steps to collect data they can use for a variety of purposes, which may be legitimate but potentially also have some privacy concerns."
+Many carriers, for example, include in their terms of service the right to collect personal data about the device, computer and online activities - including what web sites users visit. One case study by Hewlett-Packard and Qosmos, a French internet security company, was able to track individual devices to, for example, identify how many Facebook messages a user sent. The goal: using all this data to pitch users highly personalized advertising.
+But some users fear it's not just the carriers collecting such detailed data.
+Three years ago, users were alarmed to hear that U.S. carriers pre-installed an app from a company called Carrier IQ that appeared to transmit personal data to the carrier.
+Users filed a class-action lawsuit, not against the carriers but against handset makers including HTC Corp, Samsung Electronics and LG Electronics which, they say, used the software to go beyond collecting diagnostic data the carriers needed.
+The suit alleges the handset firms used the Carrier IQ software to intercept private information for themselves, including recording users' email and text messages without their permission - data the users claim may also have been shared with third parties. The companies are contesting the case.
+And then there are the apps that users install. Each requires your permission to be able to access data or functions on your device - the microphone, say, if you want that device to record audio, or locational data if you want it to provide suggestions about nearby restaurants.
+SHEDDING SOME LIGHT
+But it isn't always easy for a user to figure out just what information or functions are being accessed, what data is then being sent back to the developers' servers - and what happens to that data once it gets there. Bitdefender, a Romania-based antivirus manufacturer, found last year that one in three of Android smartphone apps upload personal information to "third party companies, without specifically letting you know."
+Not only is this hidden from the user, it's often unrelated to the app's purpose.
+Take for example, an Android app that turns your device into a torch by turning on all its lights - from the camera flash to the keyboard backlight. When users complained about it also sending location-based data, the U.S. Federal Trade Commission forced the app's Idaho-based developer to make clear the free app was also collecting data so it could target users with location-specific ads. Even so, the app has been installed more than 50 million times and has overwhelmingly positive user reviews.
+While most concerns are about phones running Android, Apple Inc's devices aren't free from privacy concerns.
+Carriers control the code on the SIM, for example, and this is one possible way to access data on the phone. And, despite stricter controls over apps in Apple's app store, FireEye's Boland says his company continues to find malicious apps for the iOS platform, and apps that send sensitive data without the user knowing. "The iPhone platform is more secure than the Android platform, but it's certainly not perfect," he said.
+Apple says its iOS protects users' data by ensuring apps are digitally signed and verified by Apple's own security system.
+BACK IN THE DRIVING SEAT
+The problem, then, often isn't about whether handset makers, app developers and phone companies are grabbing data from your phone, but what kind of data, when, and for what.
+"If we look at the content sent by many apps it's mindboggling how much is actually sent," said Boland. "It's impossible for someone to really know whether something is good or bad unless they know the context."
+Handset makers need to be clear with users about what they're doing and why, said Carl Pei, director at OnePlus, a Shenzhen, China-based upstart rival to Xiaomi. OnePlus collects "anonymous statistical information" such as where a phone is activated, the model and the version of software that runs on it, Pei said, which helps them make better decisions about servicing customers and where to focus production.
+Unlike Xiaomi, Pei said, OnePlus' servers are based in the United States, which in the light of recent privacy concerns, he said, "gives people greater peace of mind than having them based out of China."
+That peace of mind may be elusive as long as there's money to be made, says David Rogers, who teaches mobile systems security at the University of Oxford and chairs the Device Security Group at the GSMA, a global mobile industry trade association.
+"Users are often sacrificed to very poor security design and a lack of consideration for privacy," he said. "At the same time, taking user data is part of a profit model for many corporations so they don't make it easy for users to prevent what is essentially data theft." (Editing by Ian Geoghegan) 
+Released: 2014-9-28T22:00:05.000Z

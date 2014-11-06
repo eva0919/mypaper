@@ -1,23 +1,15 @@
-<title:>By Jonathan Cheng 
-<Date:>25 February 2014
+<title:>UPDATE 1-Market Chatter-Corporate finance press digest - Sept 22
+<Date:>22 September 2014
 <Content:>
-BARCELONA -- Samsung Electronics Co., eager to maintain its lead in global mobile-phone sales, on Monday unveiled an updated flagship smartphone that reflects a deliberate attempt to eschew flashy, but little-used, new features -- and to keep the price competitive.
-Instead of going for the wow factor, Samsung executives said the company wanted to enhance core features that improve everyday use, like photo-taking, battery life, download speeds and protection against water.
-Indeed, one of the few new features on the Galaxy S5 is a fingerprint sensor -- something already available on the latest Apple Inc. iPhone.
-The Galaxy S5, which runs on Google Inc.'s Android operating system, will go on sale April 11 and features a more powerful camera, a slightly larger 5.1-inch screen and supports faster download speeds than its predecessor.
-In a nod to the pressures from low-cost rivals, Samsung executive vice president Lee Younghee said in an interview ahead of the launch that the company would push for "very competitive pricing" of the device.
-Ms. Lee said Samsung is striving for the "optimal mix of feature set and pricing point," declining to elaborate on price.
-The 16-gigabyte version of the previous Galaxy S4 model sold for about $600 at Verizon Wireless without a contract. By contrast, Motorola Mobility's Moto X with equivalent memory costs $399 without a wireless contract in the U.S.
-Analysts say the lack of big innovations will likely disappoint some consumers, who have come to expect dramatic features with each iteration of devices from Samsung and rival Apple.
-Unlike with the previous model, Samsung didn't play up the smartphone's software capabilities beyond a suite of fitness- and health-related apps.
-A model version of the Galaxy S5 seen by The Wall Street Journal featured Google's applications prominently, a contrast to Samsung's decision to drop Android for its latest generation smartwatch, the Gear 2, which was also unveiled in Barcelona.
-"People are easily excited about all this 'disruptive' and 'latest technology,' and we are working on this too," Ms. Lee said. "But our philosophy is to listen to consumers."
-In line with the lower-key approach, Samsung's event Monday was held on the sidelines of Mobile World Congress here, a bustling annual confab where it has had to compete for attention with a host of competitors. The event contrasts with last year's launch, which was announced at a lavish private event at Radio City Music Hall in New York.
-The device's most unique feature is one that rival Apple introduced in its iPhone 5S last year: a fingerprint scanner that allows a user to unlock their phone with the swipe of a finger.
-Samsung also added several camera functions typically found on the digital SLR cameras used by professional photographers. Enhanced wireless capabilities, meantime, would boost download speeds by nearly five times in some cases, the company said.
-That may not be enough to resonate with consumers at a time when smartphone growth starts to level off and as a raft of Chinese competitors produce cheaper smartphones that look similar. According to market research firm IDC, China accounted for one out of every three smartphones shipped around the world in 2013. But recently, the growth has started to slow, IDC said.
-At the Mobile World Congress where Samsung unveiled its device, a number of its rivals, including Sony Corp., Huawei Technologies Co., LG Electronics Inc. and HTC Corp., all introduced competing devices that also played up more powerful cameras and longer battery life in bodies that look more like Samsung's.
-As a result of the heightened competition, Samsung has seen its profit growth slow. The company reported its first quarterly decline in operating profits in two years in the fourth quarter.
-The worry for Samsung is a lack of sales drivers, analysts say. Wearable devices, which Samsung launched in three varieties on Monday, haven't yet proven to be mainstream products, though entries in the market by companies like Apple and Google, expected later this year, could change that.
-Samsung's new wearable devices, which include the flagship Gear 2 and a fitness band called Gear Fit, remain limited in their functionality -- so much so that Samsung is marketing them as companion products to its smartphones.
-License this article from Dow Jones Reprint Service
+(Adds item on Google Inc)
+Sept 22 (Reuters) - The following corporate finance-related stories were reported by media:
+* French low-cost telecom operator Iliad has set a mid-October deadline to decide whether to improve its bid for T-Mobile US or walk away as it faces resistance from seller Deutsche Telekom, several people familiar with the situation said.
+* Exxon Mobil Corp has put its Torrance, California, refinery on the block, according to two people familiar with the matter, making it the latest big oil company to consider exiting the state amid tougher environmental standards.
+* Data storage products maker EMC Corp held merger talks with rivals Dell Inc and Hewlett-Packard Co , the Wall Street Journal reported citing people familiar with the matter.
+* Swiss private bank Julius Baer is interested in acquiring Coutts International, a unit of Royal Bank of Scotland , but will not get into a bidding war for the venerable British bank's overseas arm, a Swiss paper reported on Sunday.
+* American Beacon Advisors Inc, a manager of mutual funds owned by buyout firms Pharos Capital Group LLC and TPG Capital LP, is exploring a sale that could value it at more than $600 million, including debt, according to people familiar with the matter.
+* Citigroup Inc has short-listed several Japanese firms, including the country's second-largest lender, Sumitomo Mitsui Financial Group Inc as buyers for its retail bank in the country, the Wall Street Journal reported, citing sources familiar with the matter. (http://on.wsj.com/1myFipN)
+* Google Inc has selected HTC Corp to make its upcoming 9-inch Nexus tablet, the Wall Street Journal reported, citing sources familiar with the matter. (http://on.wsj.com/1qYQrAU)
+For the deals of the day click on
+For the Morning News Call-EMEA newsletter click on (Compiled by Shivam Srivastava in Bangalore) 
+Released: 2014-9-22T07:30:43.000Z

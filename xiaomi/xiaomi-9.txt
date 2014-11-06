@@ -1,18 +1,24 @@
-<title:>By PAUL MOZUR; Hisako Ueno contributed reporting from Tokyo.   
-<Date:>18 September 2014
+<title:>Corporate News: Google's Android Begins to Top Out
+<Date:>3 November 2014
 <Content:>
-HONG KONG -- The Japanese electronics giant Sony said on Wednesday that it expected to post a loss of more than $2 billion for the fiscal year, almost five times what it previously forecast, exposing signs of serious wear in its mobile unit.
-Sony said the loss of 230 billion yen, or $2.14 billion, for the fiscal year that ends in March -- compared with an earlier projection of ?50 billion -- was deeper than it had expected because of reduced growth in its once-thriving mobile segment. The additional losses come from a quarterly write-down on the unit's value of about ?180 billion. Sony also said it would not pay a dividend for the year.
-In a news release, Sony said it would focus more on its phones on the higher end and cut the number of phones in its midrange lineup. It also said it would change the strategy for the division. Kazuo Hirai, Sony's president and chief executive, said at a news conference Wednesday that the company would cut the division's work force by 15 percent, or about 1,000 workers.
-''We had to make changes of our midterm management, plan given big changes and severe competition in the market,'' he said. ''We had to make changes in our strategy. We will concentrate our management resources on countries and regions where we can expect high profit, and will review our strategy if we see low profit and growth in certain regions or countries.''
-Last year, Sony's mobile phone division was its most profitable, but sales have fallen as competition from Asian rivals in midrange smartphones has intensified. For instance, in China, the world's largest smartphone market, companies like Huawei and Xiaomi have become dominant.
-At the higher end, Apple and Samsung are tough rivals. Analysts said that Sony's new Xperia Z3 smartphone could struggle because its release coincided with the announcement of the Apple iPhone 6.
-''Changes are so dramatic in this market, in terms of product and price and services,'' Mr. Hirai said of the total mobile market. ''We have to watch the situation carefully and try to shape the organization so that we can react to these changes.''
-Still, others have been positive about Sony's handset unit, saying that a more modest plan aimed at the company's strongest markets, like Japan, could succeed.
-''This seems to be the end game for Sony as a major player in consumer electronics,'' said Pelham Smithers, managing director of Pelham Smithers Associates in London. ''It's a bit of a bellwether moment.''
-Atul Goyal, an analyst at the investment bank Jefferies in Singapore, wrote in a research note, ''This was well flagged.''
-''The rationale for taking this impairment charge actually makes us bullish,'' he wrote. ''This has shown that a sensible C.F.O. is able to control the expansionary aspirations of business heads, which, if unchecked, would lead to larger losses for Sony.''
-This year, Sony sold its computer division and spun off its television group into a separate unit.
-In July, Sony said its midrange smartphones had not sold as well in emerging markets as it had expected, and it cut the sales volume forecast for smartphones to 43 million from 50 million.
-''We believe the mobile business is one of our core businesses, along with the game network and imaging businesses,'' Mr. Hirai said. ''We will continue to do business in this big market.''
-Kazuo Hirai, Sony's president, said the mobile unit staff would be cut by 15 percent, or about 1,000 workers. (PHOTOGRAPH BY KIMIMASA MAYAMA/EUROPEAN PRESS AGENCY)   
+Google Inc.'s dominance over the smartphone landscape appears to be topping out, but the company is gaining more control over the devices that run its Android mobile operating system.
+Android ran 84% of smartphones shipped globally in the third quarter, according to research firm Strategy Analytics, down slightly from 85% in the second quarter.
+"Android's global smartphone market share is peaking," said Neil Mawston, executive director of Strategy Analytics. "Unless there is an unlikely collapse in rival Apple iPhone volumes in the future, Android is probably never going to go much above the 85% global market share ceiling."
+Market share for Apple Inc.'s mobile operating system was 12% in the third quarter. Microsoft Corp.'s Windows Phone captured 3% market share and BlackBerry Ltd.'s devices had 1%.
+Even if Android's market share doesn't go any higher, there is still good news for Google.
+For starters, the market overall is still growing. Strategy Analytics forecasts 12% growth in smartphone shipments in 2015.
+Google also appears to be turning the tide on the growth of so-called Android forks -- versions of the mobile operating software that are developed independently and don't come with Google's lucrative mobile apps.
+As a percentage of total Android shipments, forks made up 37% in the third quarter, down slightly from 39% in the second quarter.
+Google makes no money on Android itself, since it gives away the operating system free to device makers. It profits from revenue generated by advertisements that appear in apps like Google Search, Google Maps and YouTube, as well as a cut of sales of apps, files, subscriptions, and the like sold through the Google Play Store.
+Mr. Mawston chalks up the decline in Android forks to a "maturing" China smartphone market, where most forked Android devices are sold.
+In addition, Google is asserting control over its operating software through its newly launched Android One program, which is designed to provide cheap, reliable smartphones to consumers in emerging markets such as India. Those phones come with Google's various services installed.
+Meantime, Samsung Electronics Co.'s dominance over other Android handset makers is waning, reducing the threat that the Korean hardware maker could wrest more control from Google. In the third quarter of this year, 25% of smartphones shipped were Samsung devices. That figure fell from the year prior, when it stood at 35%.
+Samsung ships mostly Android devices and long has been dominant among Android vendors thanks in part to big commissions it pays to smartphone distributors, particularly in emerging markets. That gives them an incentive to push its devices over rivals.
+Yet Samsung is losing out to startups like China's Xiaomi Inc., which are undercutting the Korean giant on price.
+Samsung sells its smartphones at a premium and captures bigger profit margins on each device sold, while Xiaomi prices its devices closer to the cost of making them and makes its profit instead on the sale of accessories and software add-ons.
+In the previous two years, as Samsung's market share peaked, it tried to assert more independence from Google by distributing more of its own services on its Android devices while simultaneously playing down the fact that Google's software powered them. That sparked concerns inside Google that it could lose some control over the operating system, according to people familiar with the company's internal deliberations.
+Earlier this year, Samsung and Google reached a detente of sorts, when the companies agreed to a broad patent cross-licensing deal.
+The biggest challenge to Google's mobile dominance could come from regulators. European Union antitrust authorities are poised to unleash a formal investigation into Android in the wake of concerns that Google shuts out rivals in promoting services such as Google Maps.
+The Wall Street Journal reported earlier this year about Google's strict agreements with handset makers that required them to feature those services prominently if they wanted access to the services in the first place.
+A Google spokesman declined to comment.
+License this article from Dow Jones Reprint Service

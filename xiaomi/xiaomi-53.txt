@@ -1,20 +1,27 @@
-<title:>Simon Montlake   
-<Date:>28 October 2013
+<title:>WSJ.D Technology: Phone Parts for China Lift Makers From Japan
+<Date:>21 October 2014
 <Content:>
-Hollywood is schooled in the ways of video pirates, from file-sharing sites like the Pirate Bay to street-corner DVD sellers. Rarely, though, do Tinseltown's targets warmly invite studios to a "Go to Hollywood" seminar on U.S. soil.
-"Future TV is dedicated to innovatively propelling the growth of the OTT [over-the-top] ecosystem," read an invitation sent in August to six major studios for a seminar in Los Angeles. "Hollywood, we are coming!"
-How do you say "chutzpah" in Chinese? Future TV is one of seven firms licensed to stream content into Chinese homes via the Internet to set-top boxes and smart TVs. ("Over-the-top" refers to video delivered outside of a cable or satellite service.) It claims to offer 1.5 million hours of content, of which half is high-definition. But among U.S. studios it is notorious for uploading hundreds of copyrighted movies and evading tens of millions of dollars in licensing fees. Chinese production houses also say they're being cheated. "If you ask anyone in China they'll tell you Future TV is a pirate," says a U.S. studio executive in Beijing.
-Future pitches itself as a fledgling that needs Hollywood's support. Yet its biggest shareholder is CCTV, China's state-owned broadcaster, which enjoys huge subsidies and sells $3.6 billion a year in advertising. Future's other investor is Tencent Holdings, China's largest Internet firm, with $9.7 billion in revenue. And Future's main hardware partner is Xiaomi Corp., a midprice-smartphone maker that outsells Apple's iPhone in China. A Xiaomi set-top box costs only $50 and streams free content, from Chinese costume dramas to U.S. blockbusters. Xiaomi expects to sell a million boxes this year in a market expected to sell 10 million overall. Partners like these help to explain why ?Future readily thumbs its nose at Hollywood.
-Ironically, Hollywood's own lobbying group, the Motion Picture Association of America, helped to introduce Future execs to the studios during a February visit. Once bitten, twice shy: Future canceled its Hollywood seminar after studios demurred, though its executives went ahead with their visit. In anticipation Future took down unauthorized content, such as Jurassic Park 3D and Mr. Bean's Holiday, a Universal title that had been Xiaomi's most-played movie.
-Despite its name, Future is a throwback. Many Chinese video sites and cable channels now pay for popular imported TV shows and movies, says Kristian Kender, a media consultant in Beijing. Tencent signed a licensing deal in September with Disney to stream movies on its video-on-demand service. Kender puts the total market for nontheatrical content (everything but box office) at $60 million to $70 million a year, a pittance compared with what it could be. One studio said it makes more from home viewing in Indonesia than it does in China, whose economy is ten times the size. Asked about the contradiction between its Disney deal and its investment in Future, a Tencent spokesman declined comment.
-TRENDING
-What the 51 million Forbes.com users are talking about. For a deeper dive go to Forbes.com/TECHNOLOGY
-PERSON
-ROSS ULBRICHT
-The FBI busted the alleged mastermind behind the $1.2 billion drug-trafficking site Silk Road. Friends say he was just a mild-mannered libertarian materials scientist. Hello, son of Walter White!
-COMPANY
-TWITTER
-Neither snow nor rain nor government shutdown nor fears of a Facebook-like fiasco will stop the messaging service from its cash-gusher IPO (see story).
-IDEA
-Long-String Search
-Google¡¦s first update to its search algorithm in three years is capable of handling more complex queries, especially as people speak longer searches into their phones.
+KYOTO, Japan -- China's smartphone boom is being fueled by an unlikely source: Japanese parts makers.
+Upstart Chinese phone makers like Xiaomi Inc., Lenovo Group Ltd. and Huawei Technologies Co. are increasingly undercutting smartphone giants like Apple Inc. and Samsung Electronics Co. with high-performance, low-cost handsets.
+A significant portion of those handsets' guts -- as much as 50% by value, in some cases -- is made by Japanese companies like Murata Manufacturing Co. or TDK Corp. Those parts range from displays and Wi-Fi modules to tiny, energy-storing ceramic capacitors.
+"Almost all cellphone manufacturers are our customers," said Tsuneo Murata, president of Murata, which makes capacitors and other components. "The pie for the component demand is growing."
+The parts sales are a rare bright spot in Japan's gloomy electronics industry, and China's smartphone market -- the world's largest and growing at 19% a year, according to Counterpoint Research -- is a big factor. Sales there are being fueled by cutthroat competition among dozens of brands, some of which offer smartphones at less than $100. Lower prices mean smaller budgets for parts, but Japanese suppliers often provide a larger share of components to Chinese brands than to Apple or Samsung, analysts say.
+In the second quarter of this year, Xiaomi leapfrogged Apple and Samsung to become the best-selling smartphone provider in China, says research firm Canalys. Counterpoint says Chinese brands will capture about three-quarters of the domestic market this year, in terms of volume, up from one-third in 2010.
+Chinese companies are boosting purchases of Japanese parts as they push beyond the domestic market, in order to upgrade their phones.
+In some Chinese-branded phones, Japanese suppliers provide up to half of the parts by value, said Daiki Takayama, an analyst at Goldman Sachs.
+Another Chinese smartphone maker, ZTE Corp., buys displays from Sharp Corp. of Japan for its high-end phones, along with camera modules from Sony Corp., said Lu Qianhao, head of ZTE's handset marketing strategy. He cited technological know-how and quality control as advantages of Japanese suppliers.
+By contrast, Japanese suppliers account for about one-third of the bill of materials for the latest iPhones, and less than that for Samsung phones, said Shoji Sato, an analyst at Morgan Stanley MUFG Securities.
+Even phone-screen maker Japan Display Inc., whose shares sank last week after it predicted a loss this fiscal year because of delays in shipments to Apple, says it expects sales to Chinese smartphone makers to nearly triple to <yen>180 billion ($1.68 billion) during the same period.
+Japan Display makes liquid-crystal displays for smartphones and tablet computers, one of the most competitive areas in the parts business, in which rivals like LG Display Co. of South Korea have been making inroads. Suppliers like Murata that dominate hard-to-copy niches are doing better.
+Murata, which is based in Kyoto, built on a long tradition of ceramics-making to hone its specialization in capacitors and related components.
+The company's latest capacitors aren't much bigger than a grain of sand, but they contain about 100 layers of ceramics, and Murata uses proprietary methods to make them.
+"It's like making a good mille-feuille,"" Mr. Takayama said. "You can buy a very high-quality egg, the best vanilla essence or whatever, but nobody else knows how to mix it or how long to bake it."
+Because Murata is the world's largest supplier of capacitors for phones, with a 35% share, it can assure manufacturers of a reliable supply, analysts say. That is important given the tight schedules of the smartphone business.
+Capacitors cost pennies or less, but state-of-the-art handsets contain 700 to 800 of them -- three or four times as many as in previous generations of smartphones, Murata says.
+Mr. Sato estimated Murata sells $2 to $3 worth of parts to most Chinese smartphone makers per handset. Given that Xiaomi alone has forecast shipments of 60 million phones in 2014 and 100 million next year, that is a solid source of revenue. Apple buys $9 to $10 worth of Murata parts for each iPhone, Mr. Sato estimated.
+Murata's sales of parts to smartphone makers and other suppliers of communications gear rose about 90% over the past five years, to 430 billion yen in the year ended March 31, boosting overall sales by about 60%, to 847 billion yen.
+The Kyoto area, also home to parts makers like Rohm Semiconductor, Nidec Corp. and Kyocera Corp., has been one of the biggest beneficiaries of the Chinese smartphone boom. TDK, which is based in Tokyo and makes capacitors and other parts, says its sales to Chinese smartphone makers rose 50% in the April-June quarter.
+The push to automate smartphone plants in China is providing a further boost to Japanese suppliers. Fanuc Corp., a maker of industrial robots that is based in the shadow of Mount Fuji, in September upgraded its forecast for sales and earnings in the financial year ending in March by 29% and 26%, respectively.
+---
+Juro Osawa in Hong Kong and Chieko Tsuneoka in Tokyo contributed to this article.
+License this article from Dow Jones Reprint Service

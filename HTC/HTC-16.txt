@@ -1,12 +1,4 @@
-<title:>Hayley Tsukayama   
-<Date:>7 August 2014
+<title:>L Is for Lollipop: Google¡¦s Android 5.0 Gets Sweet New Name
+<Date:>15 October 2014
 <Content:>
-The end of the patent fight between Apple and Samsung may finally be in sight. The firms are calling a sort of truce in their long-standing battle, saying they will stand down on all lawsuits outside the United States.
-"Apple and Samsung have agreed to drop all litigation between the two companies outside the United States," the companies said in a joint statement to Bloomberg News. "This agreement does not involve any licensing arrangements, and the companies are continuing to pursue the existing cases in U.S. courts."
-The dispute traces its roots back to remarks from Apple's late co-founder, Steve Jobs, who believed that the Android operating system - developed by Google and used by Samsung and other phone makers - was a blatant rip-off of Apple products. In the 2011 biography of Jobs released shortly after his death, author Walter Isaacson noted Jobs once said: "I'm going to destroy Android. I'm willing to go thermonuclear war on this."
-In the years since Jobs's death, that war has played out in a series of lawsuits between Apple and a number of Android phone makers, including HTC and Motorola. But no relationship has been more contentious than that between Apple and Samsung, the two largest makers of smartphones and tablets in the world, which share nearly all of the smartphone market's profits between them.
-While the firms have filed more than a dozen intellectual property cases across Europe, Asia and North America, the decisions have failed to yield a clear advantage for either company - and have eaten up considerable resources just as the smartphone market has become more competitive. Apple chief executive Tim Cook even said in a 2012 earnings call that he would "highly prefer to settle versus battle," though he would never stop defending Apple's intellectual property.
-The latest announcement shows that "thermonuclear war" is not the only option anymore. But it doesn't mean that the fight is over. The statement made a clear exception that the firms are only dropping cases outside of the United States, the country where the highest-profile cases have taken place. Apple won $930 million in damages from Samsung in a California court in 2012. It was also awarded $120 million in May in a U.S. case against Samsung, although that was far less than Apple had asked for.
-The companies have also failed to strike licensing settlements out of court - something that they've been urged to do multiple times by presiding judges - indicating this could be more of a pause in the fighting than a definitive end.
-Excerpted from The Switch, at washingtonpost.com/blogs/the-switch 
-WP20140807patentwar0807
+Google showed the world the first peek of Android 5.0, its latest phone and tablet operating system, back in June, but only called it "L." On Wednesday, Google confirmed that the L stands for Lollipop.

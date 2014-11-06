@@ -34,6 +34,22 @@ phoneDfWord.txt
 為圖方便我在相同的檔案中直接計算自己公式的分數
 output -> phoneWordScore.txt
 
+
+#5
+ruby calChiSquare.rb
+會拿取stopWordList.txt來當作StopWordList
+目的是做分出那些是講phone相關的新聞，哪些不是，將這些新聞的字擷取出來
+透過ChiSquare計算分數
+之後好做DF IDF等分析，就能自動化去分更多文章是不是phone相關新聞
+output(五個檔案) -> 
+wordList.txt 
+phoneDfWord.txt 
+phoneWord.txt 
+nonPhoneWord.txt 
+phoneDfWord.txt 
+為圖方便我在相同的檔案中直接計算自己公式的分數
+output -> phoneWordScore.txt
+
 #6
 ruby getWordFromPhoneWord.rb
 在這個檔案中，設定了threshold，

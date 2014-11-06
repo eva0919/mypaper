@@ -1,35 +1,19 @@
-<title:>By Paul Mozur   
-<Date:>4 December 2013
+<title:>Corporate Watch
+<Date:>22 October 2014
 <Content:>
-BEIJING -- On the outside, China's answer to Silicon Valley doesn't look the part: It's a crowded mass of electronics malls, fast-food joints and office buildings in northwest Beijing, bisected by congested highways.
-But in these nondescript offices China is nurturing a growing class of tech entrepreneurs and venture capitalists, whose promising startups are challenging the long-held idea that China's Internet companies merely copy the products of the West.
-Beijing's Zhongguancun district relies instead on a new kind of mimcry -- of Silicon Valley's culture itself. The new generation of entrepreneurs "isn't copying U.S. products," said Zhang Rui, chief executive of Spring Rain Software Co., which runs a popular mobile app providing health advice from doctors. "They're studying the style, personality, management and funding of Silicon Valley."
-What's more, they reject China's traditional top-down corporate model, deference to management and emphasis on size.
-In Zhongguancun, young techies rub elbows with a growing number of wealthy investors. Many of those investors are veterans of the first crop of Chinese Internet success stories, which thrived by aping the likes of Google, Facebook and Twitter while Beijing blocked those services in China.
-Today the emphasis is on entrepreneurs with new ideas. Incubators and coffee shops provide space, power and Internet connections. Sympathetic local officials offer subsidies and help in dealing with China's notorious bureaucracy.
-Zhongguancun's network of entrepreneurs and tech executives from bigger companies increasingly connect startups with capital. That's a move away from the past: Chinese entrepreneurs often have had to borrow from friends and family, while investors looked to tech conferences for novel thinking.
-Competition isn't as intense as in Silicon Valley, investors said, but it is catching up. "It's easier to find the deals versus before. . .but it's much harder to close the deal because of the competition," said Fritz Demopoulos, an Internet entrepreneur who invests in startups.
-But investors are encouraged by recent successes like mobile-phone maker Xiaomi, which has achieved a $10 billion valuation in part by using its low-cost phones as a platform for selling online services, and Beijing Momo Technology Co., which runs a dating app that was valued at $500 million by its most recent round of fundraising.
-Ruby Lu, a partner at venture-capital firm DCM, which works in both the U.S. and China, said she sees products emerging in China that haven't caught on yet in the U.S. She said she considered investing in a Chinese company called Hao Daifu, which works like Yelp for hospitals and doctors, allowing users to post and consult reviews.
-"We didn't invest in it, but we started looking in the U.S. market for an equivalent of it," she said.
-The new generation of startups is heavy on smartphone apps that cater to young Chinese, for whom smartphones are the primary form of entertainment, instead of televisions or computers. Hoodinn Inc.'s Taigang app allows users to debate, often with strangers, via recorded voice messages about topics from China's air pollution to whether they should break up with a significant other.
-Hightalk Software's MomentCam app turns self-taken photos into whimsical illustrations, letting users pair themselves with pop stars or Chairman Mao. An app called Baogongzi hides user's names but lets them identify themselves by salary and profession.
-Though China has several startup hubs, investment capital is focused around Zhongguancun, which is near prestigious schools such as Tsinghua University and has become the home of established Chinese Internet players like Sina Corp. and Youku Tudou Inc., as well as the China offices of global companies like Google Inc.
-On a recent Friday night, the Garage Cafe -- a tech hangout accessible through a local hotel -- was filled with would-be entrepreneurs working on projects ranging from three-dimensional imaging to specialized social networks and a business that auctions off celebrity lunches. Many will work late into the night, according to Su Di, who founded the cafe in 2010.
-Featuring speedy servers, power strips that hang from the ceiling and an endless supply of coffee, Garage Cafe is open 24-hours. During Beijing's bitter winters it becomes home to some of the developers, who aren't above sleeping there for weeks. "If there's a smell, I make them go clean up," said Mr. Su.
-Garage Cafe and the more upscale 3W Cafe across the street host weekly speeches by Internet luminaries from both the U.S. and China and activities designed to help introduce fledgling companies to investors. A local startup incubator, Innovation Works, sponsored recent visits by Yahoo Inc. founder Jerry Yang and Facebook Inc. Chief Operating Officer Sheryl Sandberg.
-3W was started by investors and employees of China's biggest tech companies to help them stay in touch with the startup scene. The cafe allows entrepreneurs to register their companies at its address, bypassing the cumbersome local corporate registration process, and has had 26 takers so far.
-For 1,000 yuan ($160) a month, an entrepreneur can rent a seat at a shared workspace upstairs. Its lobby includes a 20-foot-long mural of the Nasdaq Stock Market's moves over the past three decades, with the names of China's largest Internet listings prominently marked.
-The products China's entrepreneurs are creating are diverging from those coming from the U.S., said people involved in the effort. "There are many areas in which Chinese companies and users are more advanced," said Kaifu Lee, former head of Google China and founder of Innovation Works. "Chinese entrepreneurs are trying new things ahead of the U.S."
-Often, their apps make heavy use of voice input, allowing users to bypass the cumbersome process of writing Chinese characters on their phones. They also frequently feature location-based functions, taking advantage of the fact that many Chinese are more willing to advertise their location on social networks and connect with people they otherwise haven't met.
-Tang Yan, CEO of Momo, a dating app that now has about 35 million monthly active users, said he doubted his idea for the company when he researched U.S. companies in 2010 and found few apps had been successful in connecting strangers.
-"I thought if the idea is right, then it would get hot in America first," he said. But he eventually realized that many Chinese feel safer meeting strangers online than in other contexts.
-MomentCam allows users to turn photos of themselves into hundreds of different illustrations. The app has been downloaded 45 million times since it was released in July.
-Founder and CEO Ren Xiaoqian said Garage Cafe is where she met one of her first investors. "All around me were startups who would cooperate and talk about ideas," she added. "It inspired us to keep working hard."
-While their focus is on China for now, some in the local startup scene are looking abroad. Ms. Ren said 40% of MomentCam's users are outside China, even though the app's English version was just released in late November.
-Innovation Works has two full-time employees in Silicon Valley and has invested in two companies run by Chinese entrepreneurs in the area.
-Sungy Mobile Ltd., which recently listed on the Nasdaq, focuses on software that allows users to customize their Android phones.
-In the past, companies said, "I win China, I'm done," said DCM's Ms. Lu, adding, "I'm beginning to hear from companies that don't just want to be a Chinese company."
+TATA MOTORS
+Jaguar Land Rover Opens
+Its First Plant in China
+Tata Motors Ltd.'s Jaguar Land Rover opened its first plant in China on Tuesday as part of a manufacturing push there, even as it sees moderating growth in luxury-car sales in the country.
+The luxury-car maker said the factory will have a capacity of 130,000 cars and produce three models by 2016, including one Jaguar model, along with Chinese partner Chery Automobile Co. The first model to roll off the line will be the luxury Range Rover Evoque sport-utility vehicle, its most popular in China.
+The plant is in the eastern Chinese province of Jiangsu, about 100 kilometers north of Shanghai. It is part of a 10.9 billion yuan ($1.78 billion) investment to bolster the auto maker's brands in the world's largest auto market.
+-- Colum Murphy
 ---
-Olivia Geng contributed to this article.
+XIAOMI
+Handset Maker Weighs
+Manufacturing in India
+Xiaomi Inc., China's best-selling cellphone maker, is thinking of manufacturing its handsets in India.
+The company just started selling its phones in India in July. Its early sales figures have been strong enough that it is already considering manufacturing in India, said Manu Jain, the head of Xiaomi's Indian arm.
+"We always thought that our manufacturing would be based out of China," Mr. Jain said. "But India is beginning to become so important for us that we started to think whether we should set up our own manufacturing."
+-- Dhanya Ann Thoppil
 License this article from Dow Jones Reprint Service

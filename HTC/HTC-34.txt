@@ -1,15 +1,25 @@
-<title:>By Eva Dou   
-<Date:>7 May 2014
+<title:>Business & Finance
+What's News
+Business & Finance
+<Date:>6 October 2014
 <Content:>
-TAIPEI -- Once a leading mobile-phone maker has been knocked off its throne, can it ever come back?
-That is the question facing smartphone maker HTC Corp. as it forecast Tuesday a return to profit in the second quarter but warned its revenue would continue to fall.
-For many handset makers, the track record isn't good. Experts say that few except Apple Inc. and Motorola Mobility have pulled off turnarounds, and Motorola's reprieve was temporary. In both cases, the key was producing megahit products: the iPhone and the Razr.
-"Very few companies have been able to withstand this kind of spiral," said Alvin Kwock, J.P. Morgan's Asia head of technology hardware, adding that HTC will need an innovative product that competitors can't easily counter.
-Just three years ago, HTC was the world's leading smartphone maker using Google Inc.'s Android operating system, but it has struggled in recent years to match sales with Samsung Electronics Co. and low-cost Chinese competitors. In March, the company unveiled a high-end flagship smartphone called the HTC One (M8). The device features a sleek metal design, and the company is betting that the new smartphone will help reverse declining sales.
-Chief Financial Officer Chialin Chang said Tuesday that HTC is on the mend. The company has worked to smooth out supply-chain problems for its high-end devices, and has introduced smartphones priced as low as $145 this quarter as it begins to outsource some production to contract manufacturers.
-"We're seeing an encouraging sign, a good start. [The question is] how we sustain it," said Mr. Chang, speaking to reporters.
-HTC said it expects to return to profit in the second quarter after three quarters of operating losses, but forecast revenue will fall to between 65 billion New Taiwan dollars and NT$70 billion (US$2.16 billion and US$2.32 billion), from NT$70.7 billion a year earlier. The company also said it is selling a 9.5% stake in a Chinese private-equity fund for US$69 million.
-HTC got its first big break in 2007 amid a product vacuum. After the launch of Apple's iPhone in 2007, HTC was the first to provide a viable alternative based on the Android operating system. The success helped HTC rise into the world's largest smartphone vendor by shipments in 2011.
-"When HTC was doing well, it was because it had an early alternative to the iPhones, not because it had a strong global brand," said Willy Shih, a Harvard Business School professor.
-HTC's fortunes changed when Samsung began to tap its massive marketing purse with the launch of its Galaxy smartphones and as an influx of low-cost Chinese competitors. Tighter finances have also made it more difficult for HTC to retain talent. A number of executives have departed the company over the past year. Most recently, design chief Scott Croyle has stepped down.
+Hewlett-Packard plans to break in two, separating its PC and printer businesses from its corporate hardware and services operations, people familiar with the matter said. It could announce the move as early as Monday.
+---
+Discord at OPEC is turning into a price war, loosening the cartel's grip on the oil market and exacerbating a recent steep selloff.
+---
+Yahoo plans to reinvest a small portion of the cash it made from an early bet on Alibaba in another fast-growing startup: Snapchat.
+---
+Samsung is taking cues from Silicon Valley, acting more quickly with acquisitions as it ventures into new business areas such as content and services.
+---
+Google's secretive advanced-projects lab is developing a display composed of smaller screens that plug together like Legos to create a seamless image.
+---
+HTC said it was profitable for a second consecutive quarter, but the company continued a three-year revenue decline as competition from low-price Chinese phone makers remains fierce.
+---
+A cyberattack on J.P. Morgan Chase compromised the personal information for 76 million households. Two state attorneys general in the U.S. are looking at how the bank alerted customers.
+---
+National Australia Bank aims to sell a minority stake in its U.S. banking operation through an initial public offering.
+---
+China's cabinet said that Beijing won't bail out local governments when they fail to repay their debts and will impose ceilings on their borrowing.
+---
+The head of Citigroup's Mexican unit, Grupo Financiero Banamex, resigned, the latest casualty of the bank's struggles with alleged fraud by a big borrower.
 License this article from Dow Jones Reprint Service

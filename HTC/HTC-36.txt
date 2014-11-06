@@ -1,11 +1,4 @@
-<title:>By Eva Dou   
-<Date:>6 May 2014
+<title:>HTC Q3 profit beats estimates as cost cuts offset weak sales
+<Date:>3 October 2014
 <Content:>
-TAIPEI -- HTC Corp. began to outsource production of some of its smartphones for the first time this quarter, looking to slash costs and better pursue new customers in developing markets.
-The unprofitable Taiwanese smartphone maker has selected Taiwan-based contract manufacturer Compal Electronics Inc. and China's Wingtech Group for at least three of the new models in its midprice Desire series, said people familiar with the matter. Both assemblers began to mass produce smartphones for HTC this spring, the people said. Traditionally, HTC has produced all of its phones at its own factories.
-The move accompanies other efforts by HTC to turn around its business. Chairwoman Cher Wang has taken a more active role in management in the past year, and the company recently hired Samsung Electronics Co.'s former U.S. marketing chief, Paul Golden, as a consultant to beef up its marketing.
-HTC has long focused on high-end phones and resisted outsourcing, even as competitors from Apple Inc. to Nokia Corp. have turned to contract manufacturers to focus on design and save costs over the years. But as HTC struggles to hold its ground against Samsung and rapidly growing Chinese brands, it has decided to launch more low-price phones this year with the help of contract manufacturers.
-Once the world's largest smartphone maker by shipments at its peak in 2011, HTC has contended with a stock slump of more than 86% amid unsuccessful marketing campaigns, supply-chain mishaps and growing competition. The mistakes brought HTC its second net loss on record in the first quarter, and it has fallen out of the world's top-10 smartphone makers since last year. The company's stock rose by the maximum daily limit of 6.9% on Monday to 169 New Taiwan dollars (US$5.59) on expectations that HTC would forecast a return to profit for the second quarter when it releases guidance on Tuesday.
-HTC declined to comment.
-Chief Financial Officer Chialin Chang said in an interview with The Wall Street Journal in March that HTC was considering the possibility of using contract manufacturers, but that the company had no plans to outsource its flagship HTC One line or its key midprice phone, the Desire 816. The company's high-end phones are still its earnings drivers, said Yuanta Research analyst Dennis Chan.
-License this article from Dow Jones Reprint Service
+TAIPEI (Reuters) - Taiwanese smartphone maker HTC Corp swung to better-than-expected profit in the third quarter from a heavy loss a year earlier, as cost cuts helped it offset the impact of still-sluggish sales.

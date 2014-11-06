@@ -1,0 +1,1443 @@
+ 
+ Sleep Tracker 'Sense' Raises $13 Million, Without Venture-Capital Help
+WSJ Blogs, 05:00, 22 August 2014, 651 words, By Evelyn M. Rusli, (English)
+At 23, James Proud is a rising Silicon Valley tech entrepreneur who has managed to raise nearly $13 million in funding ¡V none of which is from institutional investors.
+Document WCWSJB0020140822ea8m0011x
+<@End News@>
+
+ The Morning Download: Microsoft Windows Launch Transitions From 'Start Me Up' to 'Get Off of My Cloud'
+CIO Report, 07:02, 22 August 2014, 2373 words, By Tom Loftus, (English)
+The Morning Download comes from the editors of CIO Journal and?cues up the most important news in business technology every weekday morning.?Send us your tips, compliments and complaints. You can get The Morning Download emailed to you each ...
+Document WCCIOR0020140822ea8m0008d
+<@End News@>
+
+ The Morning Ledger: Corporate Bond Issuance Hurtles Toward Record
+CFO Report, 05:53, 22 August 2014, 2676 words, By James Willhite, (English)
+The Morning Ledger from CFO Journal cues up the most important news in corporate finance every weekday morning. Send us tips, suggestions and complaints:?james.willhite@wsj.com. Get The Morning Ledger emailed to you each weekday morning ...
+Document WCCFO00020140822ea8m0002u
+<@End News@>
+
+ Can't Innovate? China's Talented Tinkerers Beg to Differ
+WSJ Blogs, 22:21, 21 August 2014, 380 words, (English)
+One dreams of making bathroom scales offering fitness advice. Another hopes to sell devices that track and analyze bat swings to players on Major League Baseball teams. A third wants to make bracelets for tracking missing children.
+Document WCWSJB0020140822ea8m000xh
+<@End News@>
+
+ EXCLUSIVE - Apple iPhone 6 screen snag leaves supply chain scrambling
+Reuters, 04:20, 22 August 2014, 756 words, Reiji Murai, (English)
+TOKYO (Reuters) - Suppliers to Apple Inc are scrambling to get enough screens ready for the new iPhone 6 smartphone as the need to redesign a key component disrupted panel production ahead of next month's expected launch, supply chain ...
+Document WCLBA00020140822ea8m002xt
+<@End News@>
+
+ Xiaomi ordered sapphire glass for limited edition phone- S.Korea newspaper
+Reuters, 03:48, 22 August 2014, 332 words, (English)
+SEOUL Aug 22 (Reuters) - Chinese smartphone maker Xiaomi Inc has tapped South Korean manufacturers to produce sapphire covers for a limited edition premium smartphone that it may launch as early as the year-end, South Korea's Electronic ...
+Document WCLBA00020140822ea8m002s9
+<@End News@>
+
+WSJ.D Technology: China Smartphone Maker Widens Reach
+By Lorraine Luk   
+630 words
+22 August 2014
+The Wall Street Journal
+J
+B4
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+SHENZHEN, China -- After overtaking Samsung Electronics Co. to become the third-largest smartphone maker in China, Coolpad, a brand little known outside of the country, is now setting its sights overseas.
+For the first time, the Chinese smartphone maker is planning to spend millions of dollars this year to promote its brand in Southeast Asia, Europe and the U.S., where the company is gearing up for an expansion, Coolpad Group Ltd. Vice President Cao Jingsheng said.
+The company, which began as a maker of pagers and telecommunications gear, has been seeking collaboration with new carriers and distribution partners outside China and aims to raise its revenue contribution from overseas to 30% by 2017 from less than 10% last year, Mr. Cao said in an interview. Coolpad is also interested in acquisitions abroad that can help beef up its content offerings, he said, declining to elaborate.
+The company's global ambitions are part of a broader trend of Chinese smartphone vendors expanding outside their borders as growth slows at home.
+China's smartphone market -- already the largest in the world -- is becoming saturated, and fierce price competition is keeping margins thin for most vendors. To seek new sources of growth and profit, China's major smartphone makers are selling more handsets abroad, especially in emerging markets. But Coolpad is far behind other big Chinese competitors in terms of international expansion: Huawei Technologies Co. and Lenovo Group Ltd. are already growing rapidly in emerging markets such as Southeast Asia, the Middle East, Africa and Latin America.
+Compared with Huawei and Lenovo, Coolpad lacks clear advantages, analysts say. Huawei, the world's second-largest supplier of telecom equipment, is taking advantage of its close relationships with wireless carriers around the world. Lenovo, the world's largest personal-computer maker, is better known than any other Chinese competitor as a consumer brand.
+Still, Coolpad is growing quickly. In its home market, Coolpad ranked third with a market share of 11.5% in the second quarter, behind Lenovo's 12.5% and Xiaomi Inc.'s 12.4%, according to research firm IDC.
+Coolpad says it was able to grow by offering advanced hardware at lower prices and because it has strong ties with all state-controlled Chinese carriers, which have broad distribution networks across the country.
+The company was also one of the first smartphone makers to offer speedier fourth-generation smartphones in China, giving it the largest second-quarter market share in China's 4G smartphone market, said IDC analyst Tay Xiaohan.
+Mr. Cao said Coolpad's cost advantage helped the company win a 4G phone order from U.S. wireless carrier MetroPCS Communications Inc. in 2012. He said MetroPCS's tender requested a 4G smartphone with a 3.5-inch display at the wholesale price of $99. Coolpad made a phone called Coolpad Quattro 4G with a 4-inch display at the same price and has shipped more than 1.3 million phones.
+He also said Coolpad was the first vendor to launch a 4-inch smartphone below 1,000 yuan ($163) in China, in 2010.
+Strong sales of smartphones lifted Coolpad's first-half profit 94% to 412.9 million Hong Kong dollars ($53 million).
+"Since our operation has grown to a certain scale, we started considering investment and acquisition opportunities overseas . . . that can help drive our future growth," Mr. Cao said.
+Coolpad rarely marketed its brand in the past because it had close ties with the Chinese carriers. But with the rise of e-commerce and different phone-distribution channels, the company wants to pursue a more active marketing campaign, he said.
+---
+Juro Osawa in Hong Kong contributed to this article.
+License this article from Dow Jones Reprint Service
+Document J000000020140822ea8m0001t
+<@End News@>
+
+No Knockoff Here; Meet China's New Gadgets
+By Paul Mozur   
+1,501 words
+22 August 2014
+The Wall Street Journal
+J
+B1
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+BEIJING -- One dreams of making bathroom scales offering fitness advice. Another hopes to sell devices that track and analyze bat swings to players on Major League Baseball teams. A third wants to make bracelets for tracking missing children.
+In laboratories and startups across China, tinkerers with big dreams are pushing what many in the industry see as a potential new wave of Chinese innovation. They see smart gadgets -- wearables and other devices that connect to the Internet or interact with users -- as an opportunity to create a Chinese-designed product for a global audience.
+To get there, they are tapping China's massive electronics supply chain, which is building increasingly sophisticated products ranging from iPads to Xboxes. Proximity to that supply chain lets inventors tweak their pet projects at the factory itself, giving them greater control over the finished product.
+"China will be one of the most advanced research-and-development centers for the new convergence between hardware and software, given it's the world's factory," said Annabelle Long, a director of venture capital for Bertelsmann Group.
+The Bertelsmann fund has invested in a company called Zepp Labs, which makes a motion sensor that can be strapped to the end of a baseball bat. The company was formed by Robin Han, a student at Microsoft Corp.'s China engineering Ph.D. program, who was working on sensors for videogame controls but saw the potential to use them for real sports. The sensor can be attached to the end of a bat with a rubber mount. It tracks data like swing speed and arc to help coaches and players accurately tweak their technique. The sensors can also be used for tennis and golf.
+The company, with offices in China and in Silicon Valley, said it has about 150,000 active users and is pushing to build a brand in the U.S. In 2013 Zepp said it raised $20 million, and it currently has teams of more than 20 employees in both China and the U.S.
+In China, the company has "a team on the ground to develop and manufacture its products," said Jason Fass, Zepp's chief executive and a former Apple Inc. product manager. "Having that coverage has been enormously helpful."
+China has long sought innovation as a way to develop a more sophisticated economy and to shrug off its reputation for succeeding by merely copycatting. But the new wave of gadget makers is attracting both foreign and local investors, drawn by the success of Chinese startups like its numerous mobile-app makers and smartphone maker Xiaomi Inc.
+China is betting heavily on innovation as a way to help its economy develop beyond its traditional reliance on factories, exports and government spending. At a meeting of lawmakers in March, top Chinese economic planning officials called for development of a new generation of smart gadgets as part of a broader effort to emphasize cutting-edge technology. China has invested in areas to help that process, such as a pledge this year to spend 120 billion yuan (nearly $20 billion) over an unspecified period to build its nascent semiconductor industry.
+Already some Chinese companies are showing greater ability to compete in relatively new areas such as smartphones. Lenovo Group Inc. and Xiaomi are making phones with competitive features and pricing and are pushing into overseas markets. Some analysts say they expect leading smartphone makers like Apple and Samsung Electronics Co. to begin ceding global market share to Chinese companies like Xiaomi and Lenovo.
+By contrast, Lenovo launched its first personal computer in 1990 but didn't become an international competitor until it bought International Business Machine Corp.'s PC business 15 years later.
+Jason Krikorian, an investor at venture-capital firm DCM and co-founder of Sling Media, said that the production expertise and growing quality of manufacturing in China is driving innovation in the country.
+"Location is critical," he said. "That can absolutely serve as a benefit to the market and spur local innovation." Zach Smith, a co-founder of a 3-D printer company that Stratasys Inc. purchased last year for $403 million, moved to the southern Chinese city of Shenzhen in 2012 to be closer to major manufacturers like Apple assembler Foxconn Technology Co. "Shenzhen is pretty much paradise for a maker/engineer-type geek like me," he said.
+Chinese companies outside the hardware world are also exploring it. Search-engine and antivirus company Qihoo 360 Technology Co. has released a smartwatch for children, designed to track children's movement to address China's persistent child-kidnapping problem. The colorful watches also allow parents to communicate with their children and track the time they spend in different locations.
+But success isn't ensured. China is still grappling with rampant piracy, which can be a major challenge for a new company worried about losing its ideas.
+"It's a great market, but how is the execution going to work?" said Wallen Mphepo, an entrepreneur who originally chose Beijing as the place to work on a pet project: wearable screens that allow clothes and shoes to change colors with a touch to a smartphone app. This year he shifted his R&D work to Lithuania to assuage potential venture-capital investors worried about idea theft, as well as for tax breaks.
+"They understand the complexity of the Chinese market," said Mr. Mphepo, who kept much of the electronics work in Beijing.
+Industry analysts say China still struggles to nurture its entrepreneurs. Capital can be hard to find in a country where the biggest banks tend to favor large state-owned companies, they say. Chinese corporate culture also isn't usually open to new ideas.
+Some in China are trying to change that. Taiwan's Foxconn, which makes gadgets for Apple, Sony Corp. and many others in its Chinese factories, has set up a new platform called Kick2real to provide support for entrepreneurs looking to make wearable devices and mobile accessories. The site provides expert opinions on ideas for new hardware products before Foxconn eventually selects projects that it will help manufacture.
+In Zhongguancun, the northwest part of Beijing known as the home to many of China's new startups, the local government subsidizes one laboratory for gadgets called the Beijing Makerspace. On a recent visit, the laboratory was littered with 3-D printers, laser cutters and of circuit boards. A number of tinkerers were working on everything from screens that can be attached to shoes to sensors that track the movement of crowds in bars and clubs.
+Its founder, Justin Wang, said a number of local officials became particularly gung ho about helping out after they visited the MIT Media Lab in the U.S. "They see there is cross-boundary, cross-disciplinary innovation from the grass roots," he said.
+"They say 'OK, let's help you,'" he said. Mr. Wang said he plans to cooperate with the local government and Foxconn to create a small factory where aspiring hardware startups can build prototype products before they are sent elsewhere in China for mass production. The new space will feature a library of chips, sensors and material for their use.
+Ken Xu, a partner at Chinese venture-capital firm Gobi Partners, said his firm began investing in hardware startups in China in 2012. In addition to investing in the Beijing laboratory, it has also bet on one company that creates small devices to monitor air quality in Chinese homes and a second that has made a smart scale that gives diet and exercise recommendations.
+"People care a lot about their weight," he said. "They may not do a lot to change it, but they want to know it."
+Domestically, a few companies have generated big buzz. One startup called Tomoon Technology announced plans to make a smartwatch last year after Samsung announced plans for its Galaxy Gear line of smartwatches. It featured an aluminum band and a screen that uses an e-ink screen to increase battery life
+An ad for Tomoon went viral on Chinese social media. In 24 hours it got more than 28,000 preorders for the watch, which it sold for 499 yuan ($81), a discount from the Samsung watch's 2,499-yuan price tag in China.
+The rush proved a challenge, as the company then had only about 30 employees, said Wang Wei, a Tomoon founder. Many of the orders melted away -- out of a total of 70,000 preorders, only about one-tenth paid. Of that group, about 1,000 are still waiting for their watch.
+Tomoon is undaunted. Mr. Wang said that the company is already at work on a second smartwatch, with an expected release date of September. The watch will monitor the wearer's health.
+"I am sure that we can surpass the big international companies in innovation," he said.
+---
+Carlos Tejada and Lilian Lin contributed to this article.
+License this article from Dow Jones Reprint Service
+Document J000000020140822ea8m0001c
+<@End News@>
+
+ Exclusive: Ouya scores Xiaomi partnership to take games to China
+Reuters, 16:02, 21 August 2014, 500 words, Malathi Nayak, (English)
+SAN FRANCISCO (Reuters) - U.S video game service Ouya is turning to Asia to capture the growth that has eluded the startup on its own home turf.
+Document WCLBA00020140821ea8l006mx
+<@End News@>
+
+ Why Chinese Smartphone Makers Are Going Global
+WSJ Blogs, 01:35, 21 August 2014, 536 words, By Juro Osawa, (English)
+Chinese smartphone makers are increasing their presence in the global market. This year, we've already seen Lenovo Group and Huawei Technologies gain global market share, posing a threat to market leader Samsung Electronics. Now, other ...
+Document WCWSJB0020140821ea8l001b9
+<@End News@>
+
+ South Korea's Exports to China: Game Over?
+WSJ Blogs, 20:56, 20 August 2014, 623 words, By Kwanwoo Jun, (English)
+South Korea's boom in exports to China appears to be finally fizzling out.
+In an unusually candid trade report early this month, the trade ministry said it was "concerned" about a sustained fall in exports to China, Seoul's biggest trade ...
+Document WCWSJB0020140821ea8l00001
+<@End News@>
+
+ UPDATE 1-ZTE posts record first-half profit on China's 4G growth
+Reuters, 05:21, 20 August 2014, 448 words, Yimou Lee, (English)
+HONG KONG, Aug 20 (Reuters) - Chinese telecom equipment maker ZTE Corp on Wednesday posted a record first-half net profit thanks to improving margins in its global business and revenue from new contracts to build China's next-generation ...
+Document WCLBA00020140820ea8k0038q
+<@End News@>
+
+ Softbank's Son Joins Ice Bucket Challenge
+WSJ Blogs, 07:40, 19 August 2014, 392 words, By Juro Osawa, (English)
+After the highest-ranking tech executives in Silicon Valley and China dumped ice water over their heads, it was only a matter of time until Masayoshi Son, Japan's most famous Internet executive, joined in.
+Document WCWSJB0020140819ea8j002s1
+<@End News@>
+
+Corporate News: Japan's SoftBank Girds for U.S. Fight
+By Mayumi Negishi   
+813 words
+19 August 2014
+The Wall Street Journal
+J
+B2
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+TOKYO -- SoftBank Corp. gave a glimpse of its plans to tackle the U.S. cellphone market, unveiling a deal to develop low-cost smartphones for its Sprint Corp. unit and a new service that would allow unlimited downloads from select applications.
+SoftBank said Monday that together with fellow Japanese company Sharp Corp. it has developed a smartphone with near-frameless displays that it plans to sell through Sprint. It also introduced App Pass, a service that it plans to launch later this month, which will have a lineup of 100 applications as diverse as games, recipes and free access to news.
+SoftBank and U.S.-based Sprint will offer the handset, the Aquos Crystal, exclusively. App Pass will be preinstalled on the handsets, the Japanese telecommunications company said.
+While SoftBank didn't disclose pricing for the U.S. market, its pricing in Japan offers a look at the kind of services it is trying to bring to the U.S. to set Sprint apart from Verizon Communications Inc. and AT&T Inc.
+In Japan, for example, SoftBank said the handset will be offered free of charge to new users switching from other carriers. For $3.61 a month, users would have access to apps that would cost $390 to download separately. As part of the plan, users also would receive $4.88 of credit to use for in-app purchases. Sprint is expected to announce a similar plan in the U.S. on Tuesday.
+After shelving plans to buy smaller carrier T-Mobile US Inc. earlier this month, Sprint is studying price plans to stop subscriber losses. Sprint, which has previously focused on a network overhaul, is ready to pare costs and engage its rivals in fierce price competition under its new chief executive, Marcelo Claure. The company has been unprofitable since 2007, and winning customers will be a challenge. Many prospective users have their connections locked up in contracts, while rivals already offer low-cost plans. Cable rollouts of Wi-Fi networks also might threaten cellular-network demand.
+"We can use our scale to gain price competitiveness and win exclusive agreements," said Maki Tahara, who heads SoftBank's marketing strategy.
+SoftBank also said Monday it plans to sell 400 billion yen ($3.91 billion) of bonds to individual investors, which some analysts took as a sign the company is looking for further expansion. At the time SoftBank abandoned its bid for T-Mobile, the company was looking at more than a dozen other acquisition targets, people close to SoftBank founder Masayoshi Son have said.
+The handset deal provides a boost for Sharp, which had all but abandoned global phone sales and has been vying with Sony Corp. for a distant No. 2 spot in the Japanese smartphone market, after Apple Inc. Sharp sold only 5.5 million handsets in the fiscal year ended in March, after four straight years of declines. The SoftBank deal will help it achieve a sales goal of 6.3 million units this year, it said.
+The deal comes as Sony, which has been trying to get a better foothold in the U.S. smartphone market, had been wooing Sprint as well.
+Sony has approached Sprint about selling Sony's Xperia smartphone in the U.S., according to people familiar with the talks. Sony, which had pegged hopes for a turnaround on its mobile operations, had also approached Verizon and AT&T, touting the new phone's advanced camera and audio technologies, they said.
+The status of those talks wasn't clear Monday, but Sony last month cut its sales forecast for smartphones, and said its mobile unit might need to lower its forecast to an annual loss.
+"We had received a number of offers from different vendors," said SoftBank's Yoshiaki Adachi, a manager in charge of product design. "That we would be able to make this offering exclusive was a large draw."
+Future tie-ups with other phone makers are a possibility, he said, declining to elaborate.
+Sony declined to comment on any talks with Sprint, adding that the company doesn't comment on speculation.
+Japan's phone makers, pioneers in mobile Internet technology, are fighting for relevance. Abroad, they are hemmed in by Apple Inc.'s iPhones at the high end of the market while Chinese brands such as Huawei Technologies Co., Lenovo Group Ltd. and Xiaomi Inc. are gaining market share at the low end. At home, the iPhone is increasing its market dominance with a 67.4% share after NTT DoCoMo Inc.'s decision last fall to begin supplying the smartphone.
+"We need the U.S. market to truly establish ourselves in the telecom sector. Japan is not enough," Sharp President Kozo Takahashi said.
+---
+Takashi Mochizuki contributed to this article.
+License this article from Dow Jones Reprint Service
+Document J000000020140819ea8j0002r
+<@End News@>
+
+ Not to Be Left Out, China Embraces the 'Ice Bucket Challenge'
+WSJ Blogs, 04:39, 18 August 2014, 347 words, (English)
+The latest red-hot trend hitting China's tech world is ice-cold.
+Over the past couple of days, China's technology tycoons have lined up to get soaking wet by participating in the so-called "ice bucket challenge," in which people pour buckets ...
+Document WCWSJB0020140818ea8i0025w
+<@End News@>
+
+ Singapore Investigating Data Complaint Against Xiaomi
+WSJ Blogs, 07:40, 15 August 2014, 371 words, By Newley Purnell, (English)
+Singapore's Personal Data Protection Commission is investigating a complaint against fast-growing Chinese smartphone maker Xiaomi.
+In the complaint, which was registered in July, a user using a Xiaomi device reported receiving unsolicited ...
+Document WCWSJB0020140815ea8f002s1
+<@End News@>
+
+ UPDATE 2-After China smartphone success, Lenovo plans leap forward overseas
+Reuters, 02:03, 14 August 2014, 711 words, Gerry Shih, (English)
+BEIJING, Aug 14 (Reuters) - China's Lenovo Group said first-quarter profit jumped 23 percent, beating estimates, as a surge in smartphone sales showed how quickly the world's biggest personal computer maker is transforming itself into a ...
+Document WCLBA00020140814ea8e0028m
+<@End News@>
+
+ Is Xiaomi's Red Rice Phone Worth $200?
+WSJ Blogs, 05:20, 13 August 2014, 56 words, (English)
+Chinese electronics company Xiaomi has released its latest phablet. Known as Red Rice, it retails for just under $200 and is designed primarily for the Chinese market. Adam Najberg tells us how close the device is to stealing market share ...
+Document WCWSJB0020140813ea8d00231
+<@End News@>
+
+ Is Xiaomi's Red Rice Phablet Worth $200?
+The Wall Street Journal Asia Today, 13 August 2014, 423 words, (English)
+Summary: Chinese electronics company Xiaomi has released its latest phablet. Known as Red Rice, it retails for just under $200 and is designed primarily for the Chinese market. Adam Najberg tells us how close the device is to stealing ...
+Document MMSAWC0020140813ea8d0005l
+<@End News@>
+
+ For Samsung, More Pessimism
+WSJ Blogs, 05:03, 12 August 2014, 730 words, By Jonathan Cheng, (English)
+For Samsung Electronics, the grim assessments continue to roll in.
+On Tuesday, the company got bad news from two more corners of the market: credit rating agency Fitch Ratings predicted that Samsung's global smartphone position would erode ...
+Document WCWSJB0020140812ea8c00232
+<@End News@>
+
+ Fitch: Samsung and Apple to Lose Global Smartphone Market Share
+Reuters, 23:48, 11 August 2014, 693 words, (English)
+(The following statement was released by the rating agency) SINGAPORE/SYDNEY, August 12 (Fitch) Samsung's and Apple's global smartphone shipment market share will decline to around 25% and 14%, respectively, by 2015 (2013: 31% and 15%), ...
+Document WCLBA00020140812ea8c001mf
+<@End News@>
+
+Asia
+What's News¡X
+471 words
+10 August 2014
+19:01
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+Business & Finance
+A summer of geopolitical unrest is rattling markets, but so far, investors' optimistic view of U.S. stocks has escaped unscathed.
+Indian cellphone makers face competition in the country's market for low-cost phones, as Chinese startups including Xiaomi land in India.
+McDonald's posted its worst monthly calendar-adjusted global same-store sales since early 2003 as it deals with a meat-supplier scandal in China and continued weakness in the U.S.
+Malaysia's state investment firm, which controls nearly 70% of Malaysia Airline, disclosed a $430 million plan to take the airline private, a first step in an restructuring effort that aims to return the carrier to financial strength.
+Amazon said its $2 billion bet on India's tiny e-commerce market is about being ready when the market takes off.
+With its network revamp almost complete, Sprint is ready to pare costs and engage in fierce price competition, says Masayoshi Son, CEO of its parent, SoftBank.
+Japanese auto makers have been clawing back market share in China. But recent data suggest that growth is going to lose traction because cars like the Honda Accord are no longer seen as cool by young Chinese consumers.
+In its first eight days, General Motors's compensation program has received about 120 claims, more than half of which involved deaths allegedly linked to GM cars that were recalled earlier this year.
+China's new restrictions on messaging services could open advertising opportunities for Tencent and its popular WeChat messaging application.
+One of this year's biggest winners in currency markets, the New Zealand dollar, has turned into one of its biggest losers. Despite this, Fund managers are sticking with their bullish bets.
+A plan to give foreign investors more access to China's stock markets is hitting hurdles, with brokers concerned that they won't be fully ready for its start.
+World-Wide
+China's inflation in July stayed well within the government's comfort zone, according to data released Saturday, suggesting tepid consumerdemand remains tepid despite loose monetary policy and government stimulus measures.
+The day after the World Health Organization declared the African Ebola epidemic an international public-health emergency, Zambia on Saturday closed its borders to all people coming from the West African nations where the Ebola virus has broken out, after the WHO declared the virus an international public-health emergency.
+A weakened typhoon slammed into Japan early Sunday, leaving one person dead, more than 30 injured and prompting evacuation alertsfor some 1.1 million residents near swollen rivers.
+A tour bus on a highway in Tibet fell off a 30-foot cliff after crashing into an SUVa sport-utility vehicle and a pickup, killing 44 people and injuring 11 others, China's state-run Xinhua News Agency reported Sunday.
+Document WSJO000020140810ea8b003s6
+<@End News@>
+
+ The Morning Download: Competition for Data Scientists Heats Up
+CIO Report, 06:59, 11 August 2014, 1830 words, By Steve Rosenbush, (English)
+The Morning Download comes from the editors of CIO Journal and?cues up the most important news in business technology every weekday morning.?Send us your tips, compliments and complaints. You can get The Morning Download emailed to you each ...
+Document WCCIOR0020140811ea8b00001
+<@End News@>
+
+ China smartphone maker Xiaomi apologises for unauthorised data access
+Reuters, 05:53, 11 August 2014, 346 words, Gerry Shih, (English)
+BEIJING Aug 11 (Reuters) - Xiaomi Inc said it had upgraded its operating system to ensure users knew it was collecting data from their address books after a report by a computer security firm said the Chinese budget smartphone maker was ...
+Document WCLBA00020140811ea8b003ea
+<@End News@>
+
+ The Morning Ledger: U.S. Lease Expensing Too Complex for International Rule Makers' Tastes
+CFO Report, 05:40, 11 August 2014, 1758 words, By James Willhite, (English)
+The Morning Ledger from CFO Journal cues up the most important news in corporate finance every weekday morning. Send us tips, suggestions and complaints:?james.willhite@wsj.com. Get The Morning Ledger emailed to you each weekday morning ...
+Document WCCFO00020140811ea8b00001
+<@End News@>
+
+WSJ.D Technology: China Phone Companies Make Push in India
+By R. Jai Krishna   
+586 words
+11 August 2014
+The Wall Street Journal
+J
+B6
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+NEW DELHI -- Indian cellphone makers that made their names undercutting the prices of big global brands such as Samsung Electronics Co. and Apple Inc. are now being challenged at their own game as Chinese brands land in India.
+Micromax Informatics Ltd. and Karbonn Mobiles came from relative obscurity in India to dominate the world's second-biggest telecommunications market, after China, by the number of handsets sold. But they are stuck in a pricing and features war for Indian buyers of low-cost phones, as Chinese cellphone startups such as Xiaomi Inc., Oppo Mobile Telecommunications Corp. and Gionee Communication Equipment Co. set their sights on Indian consumers who value a product's cost rather than its brand name.
+"To counter the competition of Chinese brands, both local handset vendors and foreign brands need to [offer] the existing set of device features at even lower price points," said Tarun Pathak, a telecom analyst at Cyber Media Research.
+Cyber Media, based in New Delhi, estimates that Chinese brands have less than a 5% market share right now, but the surge in the market share of previously unknown Indian brands shows how quickly market dominance can change when the South Asian consumer is offered a product at the right price.
+In 2008, the top Indian brands had a market share of a little more than 1%, according to data from research firm IDC. That share has now surged to more than 40%.
+Micromax -- which didn't exist six years ago -- dethroned Samsung as the best-selling cellphone brand in India in the second quarter, according to Counterpoint Technology Market Research, a research-and-consulting company based in Hong Kong. With backing from venture-capital firm Sequoia Capital, Micromax has captured the Indian market by offering phones at 30% lower prices than the big global brands and building its name through a nationwide advertising campaign.
+Gionee -- one of China's larger cellphone makers -- wants to pull off the same kind of surge in market share in India. It currently has about a 3% market share, up from 1% last year. "We have been able to take away market share from both multinational companies as well as domestic brands" by offering a range of phones at competitive prices, said Arvind Vohra, India head for Gionee smartphones.
+Cellphone companies are pursuing Indian consumers such as engineering student Shehzaad, who lives in Meerut, a town near Delhi. He says he has always avoided the big global brands to save a few rupees and recently gave up his Micromax phone for a Gionee phone.
+"It has more features than Micromax, qualitywise it is better and is much cheaper," said the 20-year-old, who goes by only one name.
+The weak spot for the Chinese newcomers is their distribution network in India, where most of the more than 1.2 billion population lives outside of the big cities. One of India's leading low-cost brands, Karbonn Mobiles, for example, already reaches more than 85,000 retail outlets.
+The Indian companies know that the shortcut to capturing market share in India is to sell their products at a few dollars less than the competition. Still, if necessary, it might be difficult for the Indian brands to undercut the Chinese manufacturers on price.
+"Indian handset vendors definitely need to keep a check on the price," said Karan Thakkar, a telecom analyst at IDC.
+License this article from Dow Jones Reprint Service
+Document J000000020140811ea8b0001c
+<@End News@>
+
+Business & Finance
+What's News
+Business & Finance
+296 words
+11 August 2014
+The Wall Street Journal Asia
+AWSJ
+2
+English
+Copyright ? 2014 Dow Jones & Company, Inc. All Rights Reserved.   
+A summer of geopolitical unrest is rattling markets, but so far, investors' optimistic view of U.S. stocks has escaped unscathed.
+---
+Indian cellphone makers face competition in the country's market for low-cost phones, as Chinese startups including Xiaomi land in India.
+---
+McDonald's posted its worst monthly calendar-adjusted global same-store sales since early 2003 as it deals with a meat-supplier scandal in China and continued weakness in the U.S.
+---
+Malaysia's state investment firm, which controls nearly 70% of Malaysia Airline, disclosed a $430 million plan to take the airline private, a first step in an effort that aims to return the carrier to financial strength.
+---
+Amazon said its $2 billion bet on India's tiny e-commerce market is about being ready when the market takes off.
+---
+With its network revamp almost complete, Sprint is ready to pare costs and engage in fierce price competition, says Masayoshi Son, CEO of its parent, SoftBank.
+---
+Japanese auto makers have been clawing back market share in China. But recent data suggest that growth is going to lose traction because cars like the Honda Accord are no longer seen as cool by young Chinese consumers.
+---
+In its first eight days, General Motors's compensation program has received about 120 claims, more than half of which involved deaths allegedly linked to GM cars that were recalled earlier this year.
+---
+China's new restrictions on messaging services could open advertising opportunities for Tencent and its popular WeChat messaging application.
+---
+A plan to give foreign investors more access to China's stock markets is hitting hurdles, with brokers concerned that they won't be fully ready for its start.
+License this article from Dow Jones Reprint Service
+Document AWSJ000020140810ea8b0000b
+<@End News@>
+
+ LG Elec seeks fresh smartphone start in China with G3 launch
+Reuters, 01:39, 8 August 2014, 559 words, Se Young Lee, (English)
+SEOUL Aug 8 (Reuters) - LG Electronics Inc will on Monday begin selling its latest flagship smartphone in China, a market where it has struggled to make a dent and that has become increasingly tough for makers of high-end handsets other ...
+Document WCLBA00020140808ea880025y
+<@End News@>
+
+ UPDATE 3-China imposes new restrictions on instant messaging tools - Xinhua
+Reuters, 07:47, 7 August 2014, 554 words, Paul Carsten, (English)
+BEIJING Aug 7 (Reuters) - China will force real-name registrations on public accounts of instant messaging tools and require those wishing to publish or reprint political news to seek prior approval, state media and Tencent Holdings Ltd ...
+Document WCLBA00020140807ea8700411
+<@End News@>
+
+ Samsung Electronics, Apple call end to patents war outside U.S.
+Reuters, 04:28, 6 August 2014, 871 words, Hyunjoo Jin and Dan Levine, (English)
+SEOUL/SAN FRANCISCO (Reuters) - Samsung Electronics Co Ltd (005930.KS) and Apple Inc (AAPL.O) said they had agreed to drop all patent litigation outside the United States, scaling down a protracted legal battle between the smartphone ...
+Document WCLBA00020140806ea860030e
+<@End News@>
+
+Corporate News: Corporate Watch
+432 words
+6 August 2014
+The Wall Street Journal
+J
+B4
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+DARDEN RESTAURANTS
+Investor Signals Wish
+For Further Shake-Up
+Barington Companies Equity Partners LP said it is withdrawing its proposal that the board of Darden Restaurants Inc. select an independent director as chairman, after the company did so last week, but signaled support for a further shake-up.
+Darden said last week that its chairman and chief executive, Clarence Otis, would step down.
+The Orlando, Fla.-based owner of the Olive Garden and LongHorn Steakhouse chains has been under fire since late last year from activist investors, who have argued it would be better off broken into three pieces. Rather than divide itself, Darden earlier this year sold its Red Lobster chain, infuriating shareholder activists including Starboard Value LP, which said it would seek to replace the board.
+The company said Charles A. Ledsinger Jr., the board's current lead-independent director, would assume the role of chairman, effective immediately.
+On Tuesday, Barington said it appreciates Darden's selection of an independent director, but that the move will have "little impact" if most of Darden's directors are re-elected. The firm signaled its support for Starboard's proposal for an overhaul of a majority of the board.
+-- Erin McCarthy
+---
+SAMSUNG ELECTRONICS
+Dominance In Cellphones
+Starts to Show Cracks
+Signs are emerging that Samsung Electronics Co. is losing its dominance in two of Asia's fastest-growing cellphone markets: China and India. That is because smartphone consumers across the region are flocking to Samsung's local rivals.
+Counterpoint Technology Market Research, a data tracker based in Hong Kong, said Tuesday that Samsung's No. 1 position in India mobile-phone sales was surpassed in the second quarter by Micromax Informatics Ltd.
+Canalys, another market-research firm, released similar figures Tuesday, showing Micromax accounted for 17.5% of mobile-phone sales in India during the second quarter, ahead of Samsung's 15.1%.
+Earlier this week, Canalys said Beijing-based Xiaomi Inc., which has been selling smartphones for only three years, leapfrogged past Samsung. Xiaomi captured a 14% market share in China for the second quarter. Samsung and Lenovo Group Ltd. each had a 12% stake. It is quite a switch from the first quarter, when Xiaomi's 10.7% market share trailed Samsung's 18.3%.
+Taken together, the data point to a worrisome trend for Samsung, which last week reported a 20% decline in second-quarter net profit, its first year-over-year profit pullback in almost three years. Samsung declined to comment on the latest data.
+-- Jonathan Cheng
+License this article from Dow Jones Reprint Service
+Document J000000020140806ea8600034
+<@End News@>
+
+Corporate News: Samsung's Phones Lose Ground in Asia
+By Jonathan Cheng   
+547 words
+6 August 2014
+The Wall Street Journal Asia
+AWSJ
+19
+English
+Copyright ? 2014 Dow Jones & Company, Inc. All Rights Reserved.   
+SEOUL -- Signs are emerging that Samsung Electronics Co. is losing its dominance in two of Asia's fastest-growing cellphone markets: China and India.
+That is because smartphone consumers across the region are flocking to Samsung's local rivals.
+Counterpoint Technology Market Research, a data tracker based in Hong Kong, said Tuesday that Samsung's No. 1 position in India mobile-phone sales was surpassed in the second quarter by Micromax Informatics Ltd., a local rival founded just five years ago.
+Canalys, another market-research firm, released similar figures Tuesday, showing Micromax accounted for 17.5% of mobile-phone sales in India during the second quarter, ahead of Samsung's 15.1%. In smartphones alone, Samsung still retained the lead after stripping out low-end feature phones.
+Earlier this week, Canalys said Beijing-based Xiaomi Inc., which has been selling smartphones for only three years, leapfrogged past Samsung to the top position in China, the world's largest cellphone market. Xiaomi captured a 14% market share in China for the second quarter. Samsung and Lenovo Group Ltd. each had a 12% stake. It is quite a switch from the first quarter, when Xiaomi's 10.7% market share trailed Samsung's 18.3%.
+Taken together, the data points to a worrisome trend for Samsung, which last week reported a 20% decline in second-quarter net profit, its first year-over-year profit pullback in almost three years. Samsung declined to comment on the latest data.
+While it is still the top smartphone maker in Southeast Asia thanks to its aggressive marketing and branding efforts, Samsung has lost market share in Indonesia, Malaysia and Vietnam, which have a combined population of about 360 million people, over the past year, according to Counterpoint.
+In the Philippines and Thailand, Samsung clings to a slight edge over a bevy of local rivals and global competitors such as Apple Inc., whose share has grown in the past year, Counterpoint said.
+"In general in India and China, Samsung is under a lot of pressure in the low end," said Jessica Kwee, a Singapore-based analyst for Canalys, citing increased pressure from local vendors who are trying to compete by delivering more bang for the buck.
+More competition from these rivals is likely to continue pinching Samsung's profitability, analysts say. Operating-profit margins for Samsung's mobile division fell to 15.5% in the second quarter from 17.7% a year earlier, the company said. That is the slimmest margin recorded by the division since late 2011.
+While increased competition is partly to blame, Samsung also has hurt itself. In China in particular, company executives have blamed poor inventory management that left a glut of third-generation smartphones on its shelves -- just as Chinese consumers brace for the arrival of faster smartphones on fourth-generation networks.
+Counterpoint's monthly data shows Samsung's China market share peaked in February and then steadily declined to about 17% in June. Lenovo and Huawei Technologies Co. weren't far behind, according to Tom Kang, a director at the research firm, with about 14% each.
+---
+Juro Osawa, Eva Dou and R. Jai Krishna contributed to this article.
+License this article from Dow Jones Reprint Service
+Document AWSJ000020140805ea8600012
+<@End News@>
+
+ Samsung's Other Weakness: It Is Selling Fewer Chips to Apple
+WSJ Blogs, 02:27, 5 August 2014, 537 words, By Min-Jeong Lee, (English)
+Over the past week,? investors, analysts, journalists and the like have all been focusing on Samsung's less-than-stellar?performance from its?smartphone business in the second quarter.
+Document WCWSJB0020140805ea85001e1
+<@End News@>
+
+ The Morning Download: Security Contrarian Urban Outfitters Makes Case Against Disclosure
+CIO Report, 07:06, 5 August 2014, 2044 words, By Steve Rosenbush, (English)
+The Morning Download comes from the editors of CIO Journal and?cues up the most important news in business technology every weekday morning.?Send us your tips, compliments and complaints. You can get The Morning Download emailed to you each ...
+Document WCCIOR0020140805ea850002t
+<@End News@>
+
+ Xiaomi unseats Samsung to gain China's smartphone throne: report
+Reuters, 04:15, 5 August 2014, 406 words, Paul Carsten, (English)
+BEIJING (Reuters) - China's Xiaomi Inc took China's smartphone crown in the second quarter after the Beijing-based firm replaced Samsung Electronics Co Ltd as China's largest smartphone vendor, according to data from Canalys.
+Document WCLBA00020140805ea85002xl
+<@End News@>
+
+ Xiaomi Overtakes Samsung in China Smartphone Market
+WSJ Blogs, 04:54, 4 August 2014, 408 words, By Eva Dou, (English)
+China's "Little Rice" has gotten big.
+Xiaomi, the Chinese smartphone maker with the diminutive name, became the leading smartphone vendor in China in the second quarter, with its shipments exceeding Samsung's for the first time, according to ...
+Document WCWSJB0020140804ea84002bd
+<@End News@>
+
+ Xiaomi Opens Up About Servers After Spying Allegations
+WSJ Blogs, 03:17, 4 August 2014, 457 words, By Eva Dou, (English)
+Chinese smartphone maker Xiaomi is trying to reassure users by sharing a bit more about its server operations in the wake of spying allegations.
+Document WCWSJB0020140804ea84001up
+<@End News@>
+
+ Sharp's first-quarter operating profit boosted as Chinese smartphone makers swell sales
+Reuters, 04:46, 1 August 2014, 698 words, Sophie Knight, (English)
+TOKYO (Reuters) - Japan's Sharp Corp said it expected revenue from Chinese smartphone makers to increase fivefold in the six months to September after a jump in smartphone panel orders helped boost operating profit by 55 percent in the ...
+Document WCLBA00020140801ea810038p
+<@End News@>
+
+Corporate News: Sony Repairs TV Unit, Not Phones --- Electronics Giant Posts Small Quarterly Profit but Cuts Annual Forecast for Handset Sales
+By Takashi Mochizuki and Eric Pfanner   
+751 words
+1 August 2014
+The Wall Street Journal
+J
+B3
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+TOKYO -- Sony Corp. sharply cut its forecast for sales of smartphones, one of the pillars on which the Japanese technology giant had hoped to rebuild its troubled electronics business.
+The move was a blot on otherwise encouraging results for the first quarter ended June 30: Sony on Thursday posted net income of 26.8 billion yen ($261 million), thanks to upbeat sales of videogames and movies, defying analyst expectations of a loss. Sales rose 5.8% from a year earlier to 1.8 trillion yen, while operating profit nearly doubled to 69.8 billion yen.
+Sony's TV business stayed profitable, and the company said it remained on track to break a 10-year streak of annual losses there, although the company did trim its TV sales forecast.
+But Sony's mobile-phone unit, which a year ago had been the company's most profitable electronics division, posted an operating loss amid sagging sales. The company cut its annual sales target to 43 million handsets from the 50 million it had predicted in May. Instead of making a profit, the mobile division will merely break even this year, Sony said. In the fiscal year that ended in March, Sony sold 39 million phones and the division posted a profit of 12.6 billion yen.
+"Our estimate in May was optimistic," said Sony's chief financial officer, Kenichiro Yoshida, at a news conference.
+Sony stuck with its forecast for a companywide loss of 50 billion yen for the year. It would be its sixth loss in seven years.
+The dialing back of Sony's smartphone ambitions represents a setback to CEO Kazuo Hirai's efforts to revive the company's reputation for innovation.
+Sony executives have said the company needs to expand its smartphone business, because many of the areas in which it competes -- from cameras to videogames and movies -- come together in mobile devices.
+Mr. Yoshida said the mobile unit is reviewing its midterm business plan, and might have to lower its forecast again, to an annual loss.
+To keep the business profitable, Sony plans to cut costs by streamlining its smartphone lineup and slowing the pace of products, Mr. Yoshida said. He added that Sony isn't considering an exit from smartphones, but it will be more selective in terms of the countries it targets and its models.
+To some extent, Sony is suffering from a problem similar to that confronting Samsung Electronics Co., which on Thursday reported a steep drop in operating profit because of slowing smartphone sales. Though Samsung sold about eight times as many smartphones as Sony during the April-June quarter, both companies are facing pressure from Apple Inc.'s iPhones at the high end and from upstart Chinese brands at the low end.
+Three Chinese smartphone makers that rank between No. 3 and No. 5 globally in terms of market share -- Huawei Technologies Co., Lenovo Group Ltd. and Xiaomi Inc. -- all made sizable gains in the latest quarter, according to data from Counterpoint, a technology research firm. While Huawei's smartphone shipments nearly doubled, to 20.6 million, Sony's fell to 9.4 million from 9.6 million, giving it a market share of about 3.1%.
+A problem for Sony is a lack of promotion via U.S. cellular carriers, an important route for sales. Among the four major U.S. networks, only T-Mobile US Inc. sells Sony's Xperia phones directly. Sony has approached the others -- Verizon Communications Inc., AT&T Inc. and Sprint Corp. -- about possible joint sales efforts, people familiar with the matter said.
+Sony trimmed its sales forecast for its troubled TV business, saying it would sell 15.5 million sets in the full year, down from 16 million expected in May. But the company said it could still achieve its goal of making the business profitable this year, by getting it to operate more efficiently. Sony made its TV arm into a separate unit in July. The segment that includes TVs posted a 7.7 billion yen profit in the latest quarter, compared with a 3.4 billion yen profit a year earlier.
+Mr. Yoshida said Sony needed more structural reform, because its electronics business was still generating a loss during the April-June quarter.
+---
+Mayumi Negishi contributed to this article.
+License this article from Dow Jones Reprint Service
+Document J000000020140801ea810003i
+<@End News@>
+
+Tech
+Sony's Smartphone Struggle; Cut in Mobile-Phone Outlook Casts a Shadow over Electronics Recovery
+By Takashi Mochizuki and Eric Pfanner 
+900 words
+31 July 2014
+06:07
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+TOKYO¡XSony Corp. sharply cut its forecast for sales of smartphones, one of the pillars on which the Japanese technology giant had hoped to rebuild its troubled electronics business.
+The move was a blot on otherwise encouraging results for the first quarter ended June 30: Sony on Thursday posted net income of ?26.8 billion ($261 million), thanks to upbeat sales of videogames and movies, defying analyst expectations of a loss. Sales rose 5.8% from a year earlier to ?1.8 trillion, while operating profit nearly doubled to ?69.8 billion.
+Sony's troubled TV business stayed profitable, and the company said it remained on track to break a 10-year streak of annual losses there, although the company did trim its TV sales forecast.
+But Sony's mobile-phone unit, which a year ago had been the company's most profitable electronics division, posted an operating loss amid sagging sales. The company cut its annual sales target to 43 million handsets from the 50 million it had predicted in May. Instead of making a profit, the mobile division will merely break even this year, Sony said. In the fiscal year that ended in March, Sony sold 39 million phones and the division posted a profit of ?12.6 billion.
+"Our estimate in May was optimistic," said Sony's chief financial officer, Kenichiro Yoshida, at a news conference.
+Sony stuck with its forecast for a companywide loss of ?50 billion for the current fiscal year. It would be its sixth loss in seven years.
+The dialing back of Sony's smartphone ambitions represents a setback to CEO Kazuo Hirai's efforts to revive the company's reputation for innovation.
+Sony executives have said the company needs to expand its smartphone business, because many of the areas in which it competes¡Xfrom cameras to videogames and movies¡Xcome together in mobile devices.
+Mr. Yoshida said the mobile unit is reviewing its midterm business plan, and might have to lower its forecast again, to an annual loss.
+To keep the business profitable, Sony plans to cut costs by streamlining its smartphone lineup and slowing the pace of product introductions, Mr. Yoshida said. He added that Sony isn't considering an exit from smartphones, but it will be more selective in terms of the countries it targets and its models.
+To some extent, Sony is suffering from a problem similar to that confronting Samsung Electronics Co., which on Thursday reported a steep drop in operating profit because of slowing smartphone sales. Though Samsung sold about eight times as many smartphones as Sony during the April-June quarter, both companies are facing pressure from Apple Inc.'s iPhones at the high end of the market and from upstart Chinese brands at the low end.
+Three Chinese smartphone makers that rank between No. 3 and No. 5 globally in terms of market share¡XHuawei Technologies Co., Lenovo Group Ltd. and Xiaomi Inc.¡Xall made sizable gains in the latest quarter, according to data from Counterpoint, a technology research firm. While Huawei's smartphone shipments nearly doubled, to 20.6 million, Sony's fell to 9.4 million from 9.6 million, giving it a market share of about 3.1%. Among the leading brands, it was the only one to post a decline.
+Smartphone sales in Latin America were particularly weak, Sony said.
+A problem for Sony is a lack of promotion via U.S. cellular carriers, an important route for sales. Among the four major U.S. networks, only T-Mobile US Inc. sells Sony's Xperia phones directly. Sony has approached the others¡XVerizon Communications Inc., AT&T Inc. and Sprint Corp.¡Xabout possible joint sales efforts, three people familiar with the matter said.
+Sony trimmed its sales forecast for its troubled TV business, saying it would sell 15.5 million sets in the full year, down from 16 million expected in May. But the company said it could still achieve its goal of making the business profitable this year, by getting it to operate more efficiently. Sony made its TV arm into a separate unit in July. The segment that includes TVs posted a ?7.7 billion profit in the latest quarter, compared with a ?3.4 billion profit a year earlier.
+Mr. Yoshida said Sony needed more structural reform, because its electronics business was still generating a loss during the April-June quarter.
+Overall, analysts applauded Mr. Yoshida's continued push to cut costs.
+"In our view, the electronics business is Sony's Achilles' heel,'' wrote Atul Goyal, an analyst at Jefferies & Co., in a note to investors. "We maintain that it needs to shrink its ambitions in this ultracompetitive space, and we are pleased to see CFO Yoshida-San is doing/enforcing exactly that."
+Sony's videogame business performed well during the period, with strong sales of the PlayStation 4 console and additional fees from users playing online. The segment posted a profit of ?4.3 billion, compared with a loss of ?16.4 billion last year.
+The movie business marked a ?7.8 billion profit, up from ?3.7 billion last year. "The Amazing Spider-Man 2" performed well, though not quite as well as hoped, Sony said.
+Mayumi Negishi contributed to this article.
+Document WSJO000020140731ea7v001xh
+<@End News@>
+
+ Android Market Share Hits New Record
+WSJ Blogs, 07:26, 31 July 2014, 235 words, By Rolfe Winkler, (English)
+Google's Android is extending its dominance over rival mobile-operating systems, including Apple's iOS, new data show.
+Smartphones running Android accounted for 85% of global shipments in the second quarter, according to research firm ...
+Document WCWSJB0020140731ea7v0038p
+<@End News@>
+
+ New products to return Taiwan's HTC to growth by year end
+Reuters, 06:11, 31 July 2014, 515 words, Michael Gold, (English)
+TAIPEI (Reuters) - Taiwan's HTC Corp will return to growth in the final three months of 2014 after a bruising few years that has seen market share dwindle amid steep sales declines.
+Document WCLBA00020140731ea7v003mn
+<@End News@>
+
+ Sony warns smartphone weakness will brake profit progress after first-quarter surge
+Reuters, 04:29, 31 July 2014, 744 words, Sophie Knight, (English)
+TOKYO (Reuters) - Japan's Sony Corp warned it doesn't now expect to make money on smartphones this year, citing weak demand, as the consumer electronics maker said restructuring will still help it turn a profit on its TVs after 10 years of ...
+Document WCLBA00020140731ea7v0030e
+<@End News@>
+
+ Xiaomi's star rises as Chinese handset makers gnaw at Samsung's share: report
+Reuters, 03:20, 31 July 2014, 366 words, (English)
+BEIJING, July 31 (Reuters) - Xiaomi Inc, the three-year old company known as the Apple of China, has become the world's No.5 smartphone maker by market share while Samsung Electronics Co Ltd's lead has continued to shrink, a report by ...
+Document WCLBA00020140731ea7v002mo
+<@End News@>
+
+WSJ.D Technology: Alibaba Eyes Snapchat Stake
+By Douglas MacMillan, Juro Osawa and Telis Demos   
+654 words
+31 July 2014
+The Wall Street Journal
+J
+B5
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+Snapchat Inc. has held preliminary talks with Chinese e-commerce giant Alibaba Group Holdings Ltd. to raise a new round of financing that could value the mobile-messaging startup at about $10 billion, according to people familiar with the matter.
+The discussions may not lead to a deal, the people said. It is unclear whether the talks are ongoing.
+An 11-figure valuation for a company with close to zero revenue and an app that didn't exist four years ago would mark a new high watermark in this era of investor optimism, as financiers compete to buy shares of the hottest technology companies and drive up valuations.
+The discussions also highlight the growing allure of U.S. tech startups to China's largest e-commerce giant. As Alibaba prepares to hold an initial public offering later this year, it has made a series of investments in fast-growing Silicon Valley startups -- such as video-call app maker TangoMe Inc. -- with an eye toward expanding into the U.S. market.
+While Alibaba's Taobao and Tmall shopping sites dominate China's e-commerce market, Alibaba also is competing with homegrown rival, Tencent Holdings Ltd., for the attention of China's more than 500 million smartphone users. Tencent's WeChat messaging service has about 400 million active users, with a bulk of them in China, and the company is trying to integrate other services like mobile games and e-commerce into the chat app.
+Alibaba has been trying to promote its own messaging map called Laiwang, but the app has far fewer users than WeChat. So it has struck a number of deals with other Chinese companies since last year to bolster its services for mobile users. Among those deals, Alibaba bought a stake and later reinvested in Sina Corp.'s Twitter-like Weibo microblog business.
+The latest investment talks could put Alibaba and Tencent in a tug of war over Snapchat. Tencent is already an investor in Snapchat after participating in an earlier round of fundraising. Alibaba's investment could prevent Tencent from deepening its ties with Snapchat. Tencent couldn't be reached for comment.
+Bloomberg News earlier reported the possible investment from Alibaba.
+Snapchat makes no money from its mobile app, which sends visual messages that vanish after a few seconds. But the increasing popularity of the service with young smartphone users has sparked interest in the business, evidenced by Facebook Inc.'s acquisition offer for Snapchat of around $3 billion and an investment led by Coatue Management LLC valuing the startup at more than $2 billion, both last year.
+A $10 billion valuation may not be far-fetched in the fast-moving technology landscape. Facebook paid $19 billion earlier this year for messaging app WhatsApp, and four other private companies have been tagged by venture capitalists with a valuation of $10 billion valuation of more.
+However, those companies -- which includes taxi-hailing app Uber Technologies Inc., online storage company Dropbox Inc., home-rental site Airbnb Inc. and Chinese smartphone maker Xiaomi Inc. -- are all said to have revenue in the hundreds of millions of dollars.
+Evan Spiegel, Snapchat's 24-year-old co-founder and chief executive, could use additional capital to fuel a hiring spree and speed product development. The startup has raised close to $130 million from investors, which beside Tencent include venture firms Benchmark, SV Angel, Lightspeed Venture Partners and General Catalyst.
+Snapchat doesn't disclose its number of users, but researcher comScore estimates 27 million people used the app on iPhones and Android phones in June, up from 11 million a year ago. Mr. Spiegel has said users send more than 400 million "snaps," or vanishing messages, per day and that the service is most popular with young women.
+---
+Lizette Chapman contributed to this article.
+License this article from Dow Jones Reprint Service
+Document J000000020140731ea7v0001j
+<@End News@>
+
+ Key Takeaways From Samsung Earnings Call
+WSJ Blogs, 00:16, 31 July 2014, 884 words, By Jonathan Cheng, (English)
+Samsung Electronics had some bad news for shareholders on Thursday morning: ?for the first time since its ascendance in the global smartphone wars three years ago, the company's net profit fell from a year ago.
+Document WCWSJB0020140731ea7v000xd
+<@End News@>
+
+ Samsung Electronics downbeat on third quarter prospects as profits slide
+Reuters, 23:47, 30 July 2014, 789 words, Se Young Lee, (English)
+SEOUL (Reuters) - Samsung Electronics Co Ltd. on Thursday reported its worst quarterly profit in two years and flagged uncertain earnings prospects for its key handset business, fuelling worries about its ability to return to growth.
+Document WCLBA00020140731ea7v001jm
+<@End News@>
+
+ Tech Companies' Secret Weapon: Animal Logos
+WSJ Blogs, 09:54, 30 July 2014, 422 words, By Georgia Wells, (English)
+The booming tech industry may be sexy, but companies with little-known brands can still find it difficult connecting with people. Some, though, have discovered what single people have long known: walking a dog can get you a date.
+Document WCWSJB0020140730ea7u003pk
+<@End News@>
+
+ ZTE Gets Cozier With Google
+WSJ Blogs, 07:13, 24 July 2014, 556 words, By Juro Osawa, (English)
+ZTE's latest smartphone is going full-on Google.
+The Chinese handset maker launched a new smartphone that not only runs on the Android operating system, but also comes pre-loaded with Google's software that determines the look and feel of ...
+Document WCWSJB0020140724ea7o0030d
+<@End News@>
+
+ Picture China: Fidel Castro Meeting, New Xiaomi Phone, Mongolian Fair
+WSJ Blogs, 23:28, 22 July 2014, 58 words, (English)
+The day's China news in pictures:?Cuba's Fidel Castro speaks with China's President Xi Jinping in Havana, the CEO of China's smartphone manufacturer Xiaomi releases a new phone, herdsmen in Mongolia celebrate the country's 23rd Nadam Fair ...
+Document WCWSJB0020140723ea7n000p1
+<@End News@>
+
+Countering Samsung, Apple Prepares Big-Screen Phones
+By Lorraine Luk in Hong Kong, Daisuke Wakabayashi in San Francisco and Eva Dou in Taipei   
+1,006 words
+23 July 2014
+The Wall Street Journal Asia
+AWSJ
+15
+English
+Copyright ? 2014 Dow Jones & Company, Inc. All Rights Reserved.   
+Apple Inc. is preparing for its largest initial production run of iPhones, betting that larger-screen models will lure consumers now attracted to similar phones from Samsung Electronics Co. and others.
+The Cupertino, Calif., company is asking suppliers to manufacture between 70 million and 80 million units combined of two large-screen iPhones with 4.7-inch and 5.5-inch displays by Dec. 30, according to people familiar with the matter.
+Its forecast for what is commonly called the iPhone 6 is significantly larger than the initial order last year of between 50 million and 60 million versions of the iPhone 5S and 5C -- which had a display measuring 4-inches diagonally, these people said. Both of the coming models are expected to feature metal cases similar to the iPhone 5S and likely come in multiple colors, these people said.
+Apple stuck with smaller displays on iPhones even as rival smartphone makers rolled out bigger screens and customers clamored for larger phones. Demand for larger-screen smartphones boosted Samsung, which started offering a 4.8-inch display in its Samsung Galaxy S models in 2012 and introduced an array of bigger phones.
+Apple was scheduled to report its fiscal third-quarter results on Tuesday and provide a financial outlook for the current period ending Sept. 28. Historically, Apple has released a new iPhone in mid-September.
+Analysts were forecasting Apple will report sales of about 35.9 million iPhone units for the three months ended June 30. That would be up about 15% from a year earlier.
+For Apple, one possible hiccup with the larger screen is that display makers for the new iPhones are struggling to improve the production of the larger 5.5-inch screens, people familiar with the matter said. The production is complicated because the displays are using in-cell technology, which allows the screens to be thinner and lighter by integrating touch sensors into the liquid crystal display and making it unnecessary to have a separate touch-screen layer.
+To factor in the possibility of a higher failure rate for displays, Apple has asked component makers to prepare for up to 120 million iPhones by year-end, the people familiar with the matter said. It made a similar request last year to prepare enough parts for a combined 90 million iPhones to provide some slack in its supply chain.
+The 5.5-inch iPhone screen would face an additional manufacturing complication if it uses a cover using sapphire crystal, a more durable but costly alternative to glass, people familiar with the matter said.
+Apple's iPhone production forecast assumes a surge in demand from Apple's partnership with China Mobile Ltd., the world's largest carrier, which started offering the iPhone earlier this year. Bigger-screen smartphones are also popular in China and other emerging markets where the smartphone is replacing the personal computer as a main computing device.
+As Apple competes against Google Inc.'s Android operating system, larger screens are now common in Apple's core mobile market -- high-price phones. In May, 98% of Android smartphones that sold globally at the equivalent of $400 or above featured a display greater than 5 inches, according to Counterpoint Research.
+The new iPhones are coming to market as Samsung's smartphone business is showing signs of sluggishness. Earlier this month, Samsung warned that its earnings would fall for a third straight quarter due to a glut of unsold smartphones. It is feeling the pinch in emerging markets where its low- to mid-end smartphones are facing intense price competition from rival Asian handset makers including Lenovo Group Ltd. and Xiaomi Inc.
+Every year, Apple faces a delicate balancing act. It is critical for Apple to ensure that it has enough supplies of a new iPhone during the holiday season when demand is greatest. Shortages can often result in sales for its rivals, although too much inventory also is a concern.
+Apple disappointed investors in last year's December quarter when iPhone sales rose 7% from a year earlier, falling short of Wall Street expectations of a 15% increase as it struggled to fulfill demand for the 5S and failed to move enough 5C units. The slump proved temporary, with Apple reporting a 17% increase in the following quarter.
+Michael Walkley, an analyst at Canaccord Genuity, said there is "strong pent-up demand" for the iPhone 6 because customers have held off on upgrading from older iPhone models.
+To fulfill Apple's demands, the company's two main iPhone assemblers -- Pegatron Corp. and Hon Hai Precision Industry Co., also known as Foxconn -- are on a hiring binge at their respective manufacturing sites in China. Foxconn, for example, is hiring workers by the hundreds a day to staff production lines at their respective manufacturing sites in China, said people familiar with those companies.
+Foxconn and Pegatron plan to start mass producing the 4.7-inch iPhone model next month and Hon Hai will begin making the 5.5-inch version exclusively in September, the people said.
+Often, Apple's production forecasts are adjusted based on early demand, according to people familiar with the matter. For example, Apple tweaked its initial forecasts for the iPhone 5S and iPhone 5C last year when the more expensive 5S initially sold better than expected and the 5C slumped in the first few months, these people said.
+Apple Chief Executive Tim Cook has also warned that the supply chain is "very complex" and that it is impossible to take a data point from a supplier and extrapolate a broader meaning for Apple's business.
+Suppliers also say that Apple likes to build up inventory heading into the new year, because it is difficult to keep production lines humming at full capacity since many workers go home during Lunar New Year, which is in February next year.
+License this article from Dow Jones Reprint Service
+Document AWSJ000020140722ea7n00018
+<@End News@>
+
+Business
+Xiaomi Reveals New Phone; Xiaomi 4 Has Faster Processor and Bigger Battery
+100 words
+21 July 2014
+22:19
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+BEIJING¡XChina's Xiaomi Inc. unveiled the fourth generation of its smartphone on Tuesday as part of its effort to build its presence in the world's largest smartphone market.
+The Beijing gadget maker said the Xiaomi 4 will have a faster processor that its predecessors and a larger battery than phones from rivals such as Samsung Electronic Co. and HTC Corp., Chairman Lei Jun said at a company presentation.
+The phone will be powered by a 2.5 gigahertz Qualcomm processor.
+Yang Jie and Carlos Tejada
+Document WSJO000020140722ea7m001up
+<@End News@>
+
+Corporate News: Xiaomi Hits Delays In Indonesia, Brazil
+By R. Jai Krishna   
+518 words
+21 July 2014
+The Wall Street Journal Asia
+AWSJ
+18
+English
+Copyright ? 2014 Dow Jones & Company, Inc. All Rights Reserved.   
+NEW DELHI -- Xiaomi Inc., the Chinese company that aims to take on Apple Inc. and Samsung Electronics Co. in the global smartphone market, has hit a snag in its expansion plans to launch its flagship smartphone in Indonesia and Brazil.
+Hugo Barra, Xiaomi's vice president for global operations, said in an interview in New Delhi that the delay is due to a "long and painful device-certification process."
+Handset makers need to get their products certified by government agencies across the world before they can launch and sell in different markets. In Indonesia, Brazil and Mexico, the process can take as long as six months to meet local standards and get products certified for sale, he said.
+Mr. Barra, however, said Xiaomi is hopeful about introducing its smartphone in Indonesia by the end of August. Xiaomi's plans to offer its smartphones in Brazil could take longer, he said, citing local laws that require companies like Xiaomi to assemble their products in the South American country.
+"It may take a long time, probably within the next 12 months, but hard to say," Mr. Barra said.
+Xiaomi -- which means "little rice" in Chinese -- has intensified competition in a smartphone market dominated by Apple and Samsung. Xiaomi has created buzz in China for selling high-end phones for prices that are close to cost. The company offers services like mobile applications and movies via its software and earns money by selling an array of accessories. As of the end of last year, it held a 6% market share in China, compared with nothing three years ago, making it No. 6 there, according to research firm IDC. Apple's iPhones held a 7% share. It sells its phones mostly in small batches online but hopes to grow, with plans to sell 60 million smartphones this year, said President Lin Bin.
+In February, Mr. Lin said the company planned to sell about 40 million phones this year.
+Xiaomi has in recent months made its products available in Singapore, Malaysia and the Philippines. On Tuesday, it launched its latest phone in India and Mr. Barra said the company is also setting its sights on Brazil despite hurdles.
+"Without a doubt, India and probably Brazil will become our biggest markets to focus on after China," Mr. Barra said.
+As part of its expansion in India, Xiaomi is also working on licensing content. "India will be the first market where we put in a significant effort to launch our services with a local flavor," after China, he said.
+The company is also working on a project to make its Mi user-interface software accessible to local Indian languages, according to Manu Jain, Xiaomi's India head.
+Mr. Barra said his company aims to hire at least five engineers in India and work with startups to create features, applications and services that can be offered on its handsets.
+For the current year, Xiaomi is targeting revenue of at least 70 billion yuan ($11.28 billion).
+License this article from Dow Jones Reprint Service
+Document AWSJ000020140720ea7l00011
+<@End News@>
+
+ Taiwan's Asustek Joins the Low-Cost Smartphone Race in India
+WSJ Blogs, 04:48, 11 July 2014, 328 words, By R. Jai Krishna and Eva Dou, (English)
+Asustek Computer?Inc.?is selling smartphones for as little as $100 in emerging markets this year as the maker of Asus-brand electronics seeks to increase the revenue that comes from outside its core personal computer business.
+Document WCWSJB0020140711ea7b001xi
+<@End News@>
+
+ Hot Pot to Herbal Tea: Report Names China's 10 Most Eye-Catching Companies
+WSJ Blogs, 23:34, 9 July 2014, 396 words, (English)
+China's most eye-catching local companies aren't owned by the government and don't have traditional advantages.
+According to consultancy Boston Consulting Group, which ranked the top 50 domestic-focused companies from emerging markets, ...
+Document WCWSJB0020140710ea7a000ji
+<@End News@>
+
+Samsung's Profit Slide Continues
+By Min-Jeong Lee and Jonathan Cheng   
+809 words
+9 July 2014
+The Wall Street Journal Asia
+AWSJ
+1
+English
+Copyright ? 2014 Dow Jones & Company, Inc. All Rights Reserved.   
+SEOUL -- Samsung Electronics Co.'s warning of a third-straight decline in quarterly profit highlights the pitfalls of the South Korean technology giant's reliance on smartphone sales.
+Strong smartphone sales have propelled the company's growth over the last two and a half years, benefitting its other businesses, including components. But Samsung estimated Tuesday that its operating earnings in the latest quarter fell by between 22.3% and 26.5% from a year earlier, hit by a glut of unsold smartphones, which also hurt the performance of the businesses that make microprocessors and displays used in its mobile devices.
+In the first quarter of the year, Samsung's mobile unit accounted for about 76% of company profit, compared with just 25% for the same quarter four years earlier when Samsung derived the bulk of its earnings from the sale of semiconductors.
+Though Samsung forecast better results in the traditionally strong third quarter, the company, the world's biggest maker of TVs, mobile phones and memory chips, won't likely snap its string of quarterly declines anytime soon, analysts say. That is because smartphone penetration in developed markets is nearing saturation. Meanwhile, in emerging markets, Samsung is facing stiff price competition from Asian handset makers including Xiaomi Inc. and Lenovo Group Ltd.
+Samsung said in an unusual explanatory note accompanying its profit forecast that in the second quarter, the company had to boost marketing to unload older and lower-end smartphones. In China, where consumers are waiting for the rollout of next-generation 4G LTE networks, Samsung suffered from a pileup of older 3G phones.
+In addition, the company said that its sales of tablets were hit by the success of its own smartphone-tablet hybrids, dubbed phablets.
+The company's admitted trouble in managing its inventory highlights the flip side of the company's vaunted reach into more than 100 markets: It is difficult to accurately gauge consumer demand in a fast-moving industry like the smartphone business.
+Another challenge are fluctuations in the foreign-exchange market, which have pushed the South Korean won to six-year highs. In the past year, the won has gained 13% against the U.S. dollar, a trend that traders expect to continue in the longer term -- bad news to a Korean company that relies on exports for a major part of its revenue.
+Even though there are high expectations for Samsung product launches in the second half, including for its flagship large-screen Galaxy Note device, the company's main rival in the high-end market, Apple Inc., is expected to launch bigger screen iPhones, according to people familiar with the matter.
+"Samsung's earnings may bottom out in the second quarter, but the expected launch of iPhone 6 models will be a huge challenge for the company's high-end models in the second half," said Lee Seung-woo, an analyst with IBK Securities in Seoul.
+Nomura analyst C.W. Chung said that given the increased pressure from rivals, and the difficulty of differentiating its products, Samsung would likely see the operating-profit margin at its mobile unit, which was 19.8% in the first quarter, whittled down over the next few years.
+"In terms of the big picture, investors have already decided" that Samsung will struggle to differentiate itself, Mr. Chung said. "The big trend will be a downward trend."
+This week, brokerage I'M Investment & Securities Co. cut its recommendation on Samsung to "hold," arguing the company will likely continue losing market share to Chinese brands.
+Samsung said its second-quarter operating profit likely fell to between seven trillion won ($6.9 billion) and 7.4 trillion won from 9.53 trillion won a year earlier. Tuesday's disappointing forecast followed a 3.3% decline in operating profit in the first quarter compared with a year ago.
+Investors had been bracing for Tuesday's weak numbers. In the past month, they had sent Samsung shares down by about 11%, wiping about $25 billion off its market value, as management gave off worrying signs about earnings. The stock closed Tuesday's session up 0.2% after closing at a three-month low on Monday.
+The company estimated its sales fell between 7.8% and 11.2% from a year ago to a range of 51 trillion won to 53 trillion won. Samsung didn't disclose net profit estimates.
+Memory chips widely used in PCs and other consumer electronics are likely to show continued improvement when the company releases its full earnings at the end of the month, analysts say. But even so, they noted that has less to do with Samsung's fundamental strengths and more with tight supply conditions that have provided a cyclical lift in prices.
+License this article from Dow Jones Reprint Service
+Document AWSJ000020140708ea790000w
+<@End News@>
+
+ Xiaomi Becomes the Latest Company to Target India With Low-Cost Smartphones
+WSJ Blogs, 05:04, 8 July 2014, 246 words, By R. Jai Krishna, (English)
+China's Xiaomi Inc. is set to become the latest global brand to bring a low-priced smartphone to India but analysts say it will have trouble competing in the already-crowded market.
+Document WCWSJB0020140708ea7800209
+<@End News@>
+
+ Huawei Sells New Smartphone Through WeChat App
+WSJ Blogs, 06:30, 4 July 2014, 479 words, By Juro Osawa, (English)
+When Huawei Technologies released its new smartphone in China this week, the company chose the Chinese messaging app WeChat as one of its main sales channels.
+Document WCWSJB0020140704ea7400209
+<@End News@>
+
+ Investors Demand Free Phones at HTC Annual Meeting
+WSJ Blogs, 05:02, 19 June 2014, 575 words, By Aries Poon, (English)
+Almost three hours into HTC's annual shareholders' meeting Thursday, investors still didn't let up: Where are the ?free phones?
+Nearly 2,000 HTC shareholders packed into a ballroom at a three-star hotel 30 kilometers away from capital ...
+Document WCWSJB0020140619ea6j0028l
+<@End News@>
+
+WSJ.D Technology: Samsung Makes Big Push in Tablets
+By Min-Jeong Lee and Yun-Hee Kim   
+837 words
+13 June 2014
+The Wall Street Journal
+J
+B4
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+Can Samsung Electronics Co. take the No. 1 spot in tablet computers away from Apple Inc. and conquer that market as it has dominated smartphones?
+The Korean electronics giant is giving it a shot, with a strategy that piggybacks on the success of its high-end Galaxy S handsets.
+Samsung on Thursday rolled out a pair of high-end, Android-based tablets that have a more sophisticated look and feel, with a brighter, thinner and lighter screen than previous models. It is branding the tablets as an extension of that premium Galaxy S line, by adding an "S" to the end of the Galaxy Tab name as well.
+"What I really tried to achieve was to give it a premium feel," said Lee Soo-jung, a senior designer with the team overseeing the Galaxy Tab S, who says she worked to put shades of gold in the white-colored tablet.
+The company is also pouring more marketing dollars into the push, throwing for the first time a launch event for the tablets at a theater in New York's Madison Square Garden, a 46-year-old arena in midtown Manhattan that is more commonly the site of concerts and home to local professional basketball and ice hockey teams. Last year, Samsung launched its flagship Galaxy S4 smartphone at Radio City Music Hall.
+Samsung declined to disclose how much it is spending on the launch; the company spent billions of dollars to promote its high-end flagship mobile devices globally in the past year.
+Mobile-industry experts warn it will take more than glitzy promotions and glittery devices for Samsung to replicate its success in smartphones, which are currently the company's top profit generator.
+Samsung's global tablet market share is already growing at the expense of Apple's, climbing to 22.3% in the first quarter from 17.5% a year earlier, while Apple's share shrank to 32.5% from 40.2%, according to research firm IDC. But the growth of the tablet market overall is slowing significantly as penetration increases in developed markets like the U.S. IDC expects global tablet shipments to rise only 12% this year to 245.4 million units, versus a 52% increase the year before.
+Tablet sales are also showing signs of being undercut by oversize smartphones known as phablets, a category that Samsung is pursuing assiduously as well.
+Analysts say one challenge for Samsung will be competing with myriad Android-based tablets that have equally good hardware but are cheaper. The 10.1-inch version of Samsung's Galaxy Tab S will cost $499, while the 8.4-inch version will cost $399. Last month, Chinese startup Xiaomi launched a 7.9-inch tablet called the MiPad that packs 16-gigabytes of memory for about $240. Taiwanese computer maker Asustek Computer Inc. unveiled a phone-tablet combo last month in the U.S. for $199 with a two-year AT&T Inc. contract.
+With the Galaxy Tab S, Samsung is trying to make design the differentiator. Last month, Samsung named a new head of mobile design, Lee Min-hyouk, who is almost 15 years younger than his predecessor and credited with the design of some Galaxy smartphones.
+Samsung designers sweated the Galaxy Tab S details, discussing everything from whether the back should have tiny circular punctures like the Galaxy S5 to the ideal tilt for flipping through Web pages sitting down, say people familiar with the matter.
+But critics say Samsung muddies its premium image with its exhaustive lineup of mobile devices that come in various sizes and colors as its tries to address different price ranges.
+In an interview, Samsung co-Chief Executive J.K. Shin defended Samsung's "all-segments" for "all-markets" strategy, saying "it's in our DNA to make everything from premium products to cheap ones." He stressed that the vast number of products Samsung manufactures is having an increasing influence on the daily life of consumers in various markets.
+Bringing a better software experience to tablets also remains a challenge for Samsung.
+The company has packed its new tablets with features like call forwarding, which allows users to take calls from their tablets after syncing them with their smartphones, and a magazine service dubbed Papergarden, with which users can view high-resolution photos from popular fashion magazines.
+Samsung executives say the Tab S line will be the company's flagship tablet model. The tablets will use Samsung's organic light emitting diode or OLED display and have an 8-megapixel rear camera.
+Samsung will continue to use Android for its future tablets, Mr. Shin said, adding the company doesn't have immediate plans to bring its homegrown Tizen operating system to tablets.
+Samsung said the Tab S will be available in some markets starting in July, including the U.S.
+---
+Thomas Gryta contributed to this story.
+License this article from Dow Jones Reprint Service
+Document J000000020140613ea6d00025
+<@End News@>
+
+WSJ.D Technology: China's ZTE Courts BlackBerry, Motorola Engineers
+By Lorraine Luk and Juro Osawa   
+813 words
+11 June 2014
+The Wall Street Journal
+J
+B7
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+Corrections & Amplifications
+Cao Teng, an executive at ZTE Corp., left Motorola Mobility last year and joined ZTE this year. A Technology article about ZTE in Wednesday's Marketplace section incorrectly said the company recruited him directly from Motorola Mobility.
+(WSJ June 13, 2014)
+(END)
+SHANGHAI -- ZTE Corp. is poaching talent from struggling Western smartphone makers such as BlackBerry Ltd. and Motorola Mobility, as the Chinese company tries to expand its handset business overseas, its mobile-devices CEO said.
+Amid uncertainties surrounding the prospects for BlackBerry and Motorola Mobility -- the cellphone maker that Google Inc. is in the process of selling to China's Lenovo Group Ltd. -- over the past year, ZTE has found opportunities to cherry-pick talent from those established global competitors.
+Inside ZTE's human-resources department, a special team is tasked with recruiting talent from BlackBerry. While the team has so far recruited fewer than 20 people, it plans to hire more, a person familiar with the situation said. Most of the new hires from BlackBerry, which include senior engineers, are currently based in Canada, but they may later move to the U.S. or China to play greater roles for ZTE, the person added.
+"We hope the talent from BlackBerry can enhance our product security and design capability," said Adam Zeng, who became the head of ZTE's mobile-device business in January, in an interview Monday. Mr. Zeng said the company will continue to actively recruit more talent from BlackBerry and other competitors.
+Apart from the new hires from BlackBerry, ZTE recently recruited Cao Teng, an executive in charge of handset marketing, from Motorola Mobility.
+ZTE's hiring spree comes as major Chinese smartphone makers are trying to expand globally, while some Western competitors are moving away from handset businesses. In January, Chinese personal-computer maker Lenovo agreed to buy Motorola Mobility from Google for $2.91 billion. Before announcing the Motorola deal, Lenovo had also considered buying BlackBerry, people familiar with the situation told The Wall Street Journal last year.
+BlackBerry laid off as much as 40% of its workforce last year as part of its efforts to turn around its unprofitable business. Representatives for BlackBerry and Motorola Mobility couldn't immediately be reached for comment.
+"To expand in North America, we need more people with international background," a ZTE spokesman said.
+ZTE's biggest business is supplying networking gear such as routers and switches to telecommunications carriers world-wide. Last year, the telecom-gear business accounted for a little over half of ZTE's overall revenue, which stood at roughly $12 billion. Its handset business, meanwhile, accounted for nearly 30% of its revenue, while software and services took up the remainder.
+As potential growth in the telecom gear-market is limited, ZTE has been trying to create a new source of growth by expanding its consumer-device business.
+Still, ZTE's smartphone market share in China has recently declined amid intensifying competition from both domestic and foreign brands. In the first quarter, ZTE was the eighth-largest smartphone vendor in China by shipment, as its market share fell to 5% from 8% a year earlier, according to research firm Canalys.
+Samsung Electronics Co. was the market leader in the quarter with an 18% share, followed by Lenovo and Beijing-based startup Xiaomi Inc., which each held 11%. Analysts attributed the drop in ZTE's market share to weak brand recognition and unattractive product design.
+Mr. Zeng said ZTE plans to double its marketing expenses this year to sell more smartphones. The company now aims to ship 80 million smartphones next year, up from the 40 million units last year, he said. This year, it expects to ship 60 million smartphones.
+"In the past, we mainly relied on carriers to sell our phones. But it has to change as only direct communications with customers can help provide the best user experience," Mr. Zeng said.
+ZTE has established user-experience study centers in China and the U.S., the top two smartphone markets, to survey the demand and preference of customers world-wide, said Mr. Zeng.
+In China, social media and online shopping are playing key roles in smartphone brands' efforts to sell more handsets. Xiaomi, for example, has built a strong fan base by communicating with online shoppers through social networks and Internet forums. Learning from Xiaomi's success, ZTE is expanding its online sales channels and responding to users' comments and suggestions on Internet forums, Mr. Zeng said.
+ZTE also plans to launch a smartphone this year that will allow users to watch videos of U.S. National Basketball Association games, Mr. Zeng said. ZTE signed an agreement in late 2013 to be the NBA's exclusive handset partner in China.
+License this article from Dow Jones Reprint Service
+Document J000000020140611ea6b0000t
+<@End News@>
+
+ The Daily Startup: How Star Investors Are Driving China VC Fundraising
+WSJ Blogs, 08:30, 6 June 2014, 1050 words, By Zoran Basich, (English)
+Beijing-based Shunwei Capital Partners' new $525 million venture capital fund highlights a recent surge of fundraising for China-focused funds. It's the fourth such major fund closure in the last two weeks, and the $2.23 billion worth of ...
+Document WCWSJB0020140606ea66003jt
+<@End News@>
+
+ China IPO Buzz Sparks Surge In Venture Capital Fundraising
+WSJ Blogs, 12:37, 5 June 2014, 502 words, By Sonja Cheung, (English)
+Four Chinese venture capital firms that invest in Chinese technology start-ups secured $2.23 billion in total new funding in the last two weeks, more than double the $1.07 billion raised in the entire first quarter.
+Document WCWSJB0020140605ea65005v5
+<@End News@>
+
+ Investor Talk on Uber's Valuation Hits as High as $17 Billion
+WSJ Blogs, 16:39, 25 May 2014, 269 words, By Evelyn M. Rusli, Douglas MacMillan and Mike Spector, (English)
+The bids for Uber's funding round rolled in this past week, and the price for the on-demand car service seems poised to steeply rise.
+Several investors have stepped up during the bidding process, offering valuations near or above $17 ...
+Document WCWSJB0020140525ea5p000ul
+<@End News@>
+
+WSJ. D Technology: Investors Bet on Uber Growth
+By Evelyn M. Rusli, Mike Spector and Douglas MacMillan 
+950 words
+23 May 2014
+The Wall Street Journal
+J
+B5
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.) 
+Uber Inc. is in discussions with a group of fund managers for a large investment that could value the startup at more than $12 billion, people familiar with the matter said.
+The five-year-old company, whose mobile app connects people with drivers for hire, is talking this week to several firms to raise near or above $500 million in funding, these people said. Possible investors include hedge funds, mutual fund BlackRock Inc. and private-equity firms General Atlantic and Technology Crossover Ventures, the people said.
+Prospective investors are expected to formally express their interest by the end of this week. The company is aiming to close a deal in the next few weeks or by the end of the second quarter, these people said. The people also cautioned that a deal wasn't assured.
+Bloomberg earlier reported that Uber is seeking to raise financing of more than $10 billion.
+Uber is already one of the world's most valuable venture-backed startups. But a valuation of more than $12 billion would put it in an elite club.
+Three tech startups -- home-rental site Airbnb Inc., file-storage service Dropbox Inc. and Chinese handset maker Xiaomi Inc. -- were valued at $10 billion apiece by investors in the past year. The funding round could also value Uber higher than two of the largest publicly traded car-rental companies. Hertz Global Holdings Inc. has a market value of about $12.8 billion and Avis Budget Group Inc. is valued at $5.8 billion.
+Unlike those companies, which manage expensive fleets of vehicles and hundreds of rental offices, Uber simply maintains a network of riders and drivers, much like OpenTable Inc. operates a reservation system for diners and restaurants.
+People who have looked at Uber's funding rounds are optimistic that the company could make as much as $1.5 billion in net revenue next year.
+The ascent of Uber, led by its brash co-founder and chief executive, Travis Kalanick, has been meteoric, if at times controversial.
+Founded in 2009, Uber's mobile app is upending the taxi industry by making it easy for people to hail cabs, whether taxis, limos or cars driven by average people looking to make extra money. The app shows a map of vehicles nearby and their estimated time of arrival. Uber takes a 20% cut on each ride and collects the largest fees from its premium service of black town cars and luxury sport-utility vehicles.
+The service has proved popular among consumers, though Uber has faced criticism for so-called surge pricing during in-demand times. Uber also has clashed with regulators and taxi and limousine commissions eager to shut down the service or severely restrict it. The service also is fighting local rules so that it can open in markets such as Miami and Las Vegas.
+The legal wrangling, however, has yet to stymie growth. Uber is now in more than 100 cities spanning 36 countries and offers services in several top cities around the world, including New York, San Francisco and Hong Kong.
+Legal challenges haven't deterred would-be investors. It has raised more than $300 million, from venture firms such as Google Ventures and Benchmark and individual investors like Amazon.com Inc. CEO Jeff Bezos. Uber's previous round, completed last summer, valued the company at $3.5 billion.
+For investors, part of Uber's allure is its grand ambition to be more than an on-demand car service. Mr. Kalanick, 37 years old, known for defending his company on Twitter, envisions Uber as a logistics network, not just for people, but also for goods and services. Uber has run limited promotions to deliver specialty items on demand, including Mariachi bands, kittens for cuddles and ice cream.
+Uber is raising funds at a precarious time for technology startups. After a spate of multibillion-dollar financings and acquisitions, the technology investment market has cooled amid a sharp pullback in the equity markets and renewed skepticism that valuations for some startups have run ahead of fundamentals. Uber, which is battling several well-funded competitors, such as Lyft Inc., isn't immune from such skepticism, but it does benefit from its lead position in the market.
+Uber is part of a growing family of apps in the so-called sharing economy, where users sell excess resources or their time to other users. A large portion of Uber's workforce is made up of part-time drivers. Airbnb Inc., company with a similar model that operates a home-rental marketplace, raised $450 million in April at a $10 billion valuation from an investor group led by private-equity firm TPG, also an Uber backer.
+The spread of such services has become an issue for many regulators, who are often torn between supporting new technologies and upholding policies designed to protect consumers. Mr. Kalanick, who has described regulatory hurdles as evidence of the taxi industry's "war" on Uber, has bulked up his staff, most recently adding Ashwini Chhabra, a former top official at the New York Taxi and Limousine Commission, in May.
+Uber's ability to justify its lofty valuation is partly dependent on navigating these legal tests and on squashing competitors, which have forced Uber to spend large sums on marketing and discounts. Nowhere is that challenge more apparent than on its home turf in San Francisco, where Uber has paid for roaming ads on vehicles prodding drivers to "shave the 'stache," a play on its rival Lyft's mascot, a pink mustache.
+---
+Kirsten Grind contributed to this article.
+License this article from Dow Jones Reprint Service
+Document J000000020140523ea5n0001n
+<@End News@>
+
+ The Easiest-to-Use Smartphone in Asia? Apple, Meet Smartisan
+WSJ Blogs, 01:30, 22 May 2014, 553 words, (English)
+First Steve Jobs captured the pocketbooks of Chinese with the iPhone. Then local entrepreneur Lei Jun did the same with his low-priced Xiaomi phone.
+Document WCWSJB0020140522ea5m002bd
+<@End News@>
+
+WSJ.D Technology: Lenovo Calls China A Tough Market
+By Juro Osawa   
+385 words
+22 May 2014
+The Wall Street Journal
+J
+B5
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+Lenovo Group Ltd.'s chief executive warned of slower growth and hotter competition in China's smartphone market but said his company will overcome challenges through its purchase of Google Inc.'s Motorola Mobility handset business.
+"Now is a very tough period" for smartphone makers in China, CEO Yang Yuanqing said in an interview. "I believe China is the most fiercely competitive smartphone market in the world."
+Mr. Yang's comments came as the Chinese personal-computer maker on Wednesday reported another quarter of solid earnings growth. Profit for its fiscal fourth quarter rose 25% from a year earlier, helped by stronger sales of computers and mobile devices.
+Lenovo, which last year overtook Hewlett-Packard Co. as the world's largest PC maker by volume, is betting on smartphones as its next growth engine. In January, it said it would buy the Motorola business for $2.91 billion, a week after the Chinese company said it would purchase International Business Machines Corp.'s low-end server business for $2.3 billion. The Motorola and IBM deals await U.S. regulatory approval.
+Mr. Yang said Motorola has strong relationships with carriers in North and South America. Lenovo plans to sell Motorola-branded smartphones in the U.S. following the deal, rather than handsets with the Lenovo logo, he said.
+The Motorola acquisition means Lenovo is betting heavily on handsets as China's smartphone market shows signs of a slowdown after years of robust growth.
+Total smartphone shipments in China stood at 97.5 million units in the first quarter, down 3% from the fourth, according to research firm Canalys. Nearly 65% of China's mobile-phone subscribers already use smartphones, Canalys analyst Nicole Peng estimated.
+Lenovo is the second-largest smartphone vendor in China, after Samsung Electronics Co. But it faces challenges from foreign and domestic competitors, such as Apple Inc., HTC Corp. and fast-growing Chinese startup Xiaomi Inc.
+Mr. Yang said the Chinese smartphone market will become less crowded as some players fail to survive the intense competition. At that time, Lenovo's handset business in China will become a more profitable, sustainable business, he said, similar to what happened in the PC market.
+License this article from Dow Jones Reprint Service
+Document J000000020140522ea5m0000w
+<@End News@>
+
+ Xiaomi Launches Smartphone in Malaysia
+WSJ Blogs, 23:53, 19 May 2014, 301 words, Newley Purnell, (English)
+Xiaomi, the Chinese smartphone maker, is continuing its push into Southeast Asia.
+The company, which has quickly gained market share in the world's top smartphone market thanks to its low-cost devices, on Tuesday made one of its smartphones ...
+Document WCWSJB0020140520ea5k001me
+<@End News@>
+
+Baidu Sets Up Shop In Google's Backyard
+By Paul Mozur and Rolfe Winkler   
+665 words
+19 May 2014
+The Wall Street Journal Asia
+AWSJ
+19
+English
+Copyright ? 2014 Dow Jones & Company, Inc. All Rights Reserved.   
+SUNNYVALE, Calif. -- Chinese search company Baidu Inc. is often known as the Google of China. Now, it is setting up shop in Google's backyard.
+Baidu said Friday it would invest $300 million in a new research-and-development center in Silicon Valley that would have almost 200 employees and be led by Andrew Ng, most recently the head of Stanford University's artificial-intelligence lab. Mr. Ng, who also helped Google Inc. set up its artificial-intelligence efforts, was part of the research team that built a computer that taught itself to recognize cats after looking at millions of YouTube videos.
+The move highlights the growing ambition and influence of China's largest Internet companies. "There's been this old stereotype that other countries copy U.S. technology," Mr. Ng said in an interview, "[but] there's tons of stuff that Baidu has done that just isn't anywhere else in the world."
+China's Internet companies have grown to be some of the largest Web companies in the world, in part because the Chinese government blocks foreign-based services such as Facebook Inc. and Twitter Inc. The Chinese companies' users are still mostly located in China, but they are increasingly active in Silicon Valley through investments and recruitment initiatives.
+Baidu rivals Alibaba Group Holding Ltd. and Tencent Holdings Ltd. both have offices near Silicon Valley that spearheaded growing efforts to acquire and invest in local startups. Alibaba has filed for an initial public offering of stock in the U.S. that might become the largest listing in history. Last year, Chinese smartphone startup Xiaomi Inc. hired executive Hugo Barra away from Google's Android mobile-software arm.
+Baidu's new lab will focus on the development of artificial intelligence and deep learning, a field that has recently drawn investment from the likes of Google, Facebook and Microsoft Corp.
+Deep learning is a branch of artificial intelligence, in which computer scientists attempt to simulate the human brain through computers that can see and learn for themselves. Internet companies so far have primarily used artificial intelligence to improve computer recognition of images and speech, though deep learning could be used in an array of future technologies from driverless cars to robotics.
+Baidu, which already has a deep-learning center in Beijing, has used the technology to help refine how it targets ads on its site and develop its speech-recognition software. Last year, it released an application that identifies objects in smartphone photographs.
+Mr. Ng, part of a small fraternity of researchers with expertise in deep learning, said the new Baidu lab would give him more resources than he had at Stanford and the ability to assemble larger teams that could focus on specific projects.
+"The philosophy of the lab will be to have a small number of projects with strong leaders," said Mr. Ng. Adam Coates, another Stanford artificial-intelligence researcher, is joining him at Baidu.
+Baidu doesn't compete directly with Facebook and Google for users -- because both face significant blocks in China -- but the three companies compete for talent. Facebook late last year hired New York University researcher Yann LeCun to lead its own artificial-intelligence efforts. Microsoft has said it is using deep-learning technology to improve image searches for its Bing search engine.
+Both U.S. companies have recently made big moves in a field that has a limited number of accomplished researchers. Another well-known person is Geoffrey Hinton, formerly of the University of Toronto, whom Google scooped up when it bought his startup DNNresearch Inc. in early 2013 for an undisclosed amount.
+Earlier this year, Google bought DeepMind Technologies for more than $500 million, according to two people with knowledge of the matter. DeepMind was a London-based startup that, among other advances, built a computer that learned to master basic Atari videogames such as "Pong."
+License this article from Dow Jones Reprint Service
+Document AWSJ000020140518ea5j0000u
+<@End News@>
+
+ Xiaomi Unveils Tablet in Challenge to Apple
+WSJ Blogs, 05:14, 15 May 2014, 325 words, By Carlos Tejada, (English)
+The scrappy Chinese cellphone maker with "little" in its name is thinking a bit bigger.
+Xiaomi, the gadget maker and tchotchke seller?that has quickly gained market share in the world's No. 1 smartphone market thanks to its low-priced ...
+Document WCWSJB0020140515ea5f002xm
+<@End News@>
+
+Nvidia Shifts Mobile Plans --- Graphics-Chip Maker Focuses on Phones, Tablets Aimed at Playing Videogames
+By Don Clark   
+488 words
+14 May 2014
+The Wall Street Journal
+J
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+Nvidia has been jostling with other chip makers to supply key components for smartphones and tablets. That is a tough market, and the Silicon Valley company has decided to concentrate on where it has the most muscle.
+That would be devices that are especially tailored for playing videogames, building on the graphics technology for rendering three-dimensional images that has long been at the core of Nvidia's business.
+Signs of a strategy shift have been increasingly evident in some of the company's recent statements, including remarks by Nvidia Chief Executive Jen-Hsun Huang at the company's annual technology conference in March.
+In an interview after the release of first-quarter results last week, Mr. Huang said prioritizing graphics-oriented applications in mobile devices mirrors the targeted strategy the company has long used for products like personal computers. "We really focus on visual computing problems," Mr. Huang said.
+The goal seemed broader two years ago. Nvidia's Tegra chips were selected for some high-profile tablets -- including a $249 seven-inch AsusTek model that Huang showed off at the 2012 Consumer Electronics Show -- and Microsoft's original Surface tablet launched that year.
+Smartphones were a tougher proposition. Rival Qualcomm, for one thing, has decades of experience in the cellular communications technology that often is combined on the same piece of silicon with calculating functions. Nvidia spent $367 million to buy the British chip company Icera to add wireless technology.
+The two biggest smartphone makers, Apple and Samsung, have used Qualcomm's products for communications but favor their own processor chips.
+Meanwhile, many other chip makers are targeting the mobile market, including Intel, MediaTek, Broadcom and Marvell.
+Not that Nvidia's broader pitch to the mobile market hasn't paid some dividends. Last September, the fast-growing Chinese company Xiaomi selected the company's Tegra 4 processor for a smartphone. In France, Wiko Mobile earlier this year launched a handset with Nvidia's Tegra 4i chip, which includes LTE wireless capability. Nvidia also has shown success in getting Tegra selected for automotive applications.
+Besides just selling chips, Nvidia has tried to spur interest among gamers with Shield, an unusual portable device with a display and game controllers, and a design for a tablet called the Tegra Note 7 being brought to market by hardware partners in several countries.
+Yet the company doesn't seem eager to participate in parts of the market where low prices trump performance.
+Rather, Mr. Huang is betting that Google's Android software is going to become a major target for game developers. And that should spur the creation of performance-oriented devices where Nvidia chips can shine.
+"You are going to see us do some really great things in gaming on top of Tegra," he said.
+License this article from Dow Jones Reprint Service
+Document J000000020140514ea5e0002t
+<@End News@>
+
+Corporate News: In India, Nokia Launches A Midtier Windows Phone
+By R. Jai Krishna   
+270 words
+13 May 2014
+The Wall Street Journal Asia
+AWSJ
+19
+English
+Copyright ? 2014 Dow Jones & Company, Inc. All Rights Reserved.   
+NEW DELHI -- Microsoft Corp.'s cellphone unit on Monday launched a new midtier smartphone in India in an effort to recoup eroding market share in a critical developing market.
+The phone, dubbed the Nokia Lumia 630, is aimed at a niche in between the premium models sold by Apple Inc. and Samsung Electronics Co. and lower-end phones made by the likes of China's Xiaomi Inc. and India's Micromax Informatics Ltd.
+When Microsoft took over Nokia Corp.'s handset business last month, it inherited the Finnish company's weakened competitive position in India, the world's second-largest telecommunications market, after China.
+P. Balaji, managing director of Nokia India Sales Pvt. Ltd., a unit of Microsoft's Microsoft Mobiles Oy, said the Lumia 630 will be priced at just under $200 in the Indian market and will accommodate two SIM cards.
+The sub-$200 price category "is the largest growth area for smartphones," said Mark C. Newman, a Hong Kong-based analyst at Sanford C. Bernstein. In addition, he said, "dual-Sim phones are becoming more common in emerging markets."
+Indian consumers have in recent years begun to favor dual-Sim phones so they can take advantage of different network operators' pricing deals and toggle between personal and business numbers on a single handset.
+The new phone has a 4.5-inch screen and runs on Microsoft Corp's latest Windows 8.1 software. It will be available in retail stores starting Friday, the company said.
+License this article from Dow Jones Reprint Service
+Document AWSJ000020140512ea5d0000j
+<@End News@>
+
+Tech
+Nokia Launches Midtier Windows Phone in India
+R. Jai Krishna 
+258 words
+12 May 2014
+02:19
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+NEW DELHI--Microsoft Corp.'s cellphone unit on Monday launched a new midtier smartphone in India in an effort to recoup eroding market share in a critical developing market.
+The phone, dubbed the Nokia Lumia 630, is aimed at a niche in between the premium models sold by Apple Inc. and Samsung Electronics Co. and lower-end phones made by the likes of China's Xiaomi and India's Micromax Informatics Ltd.
+When Microsoft took over Nokia Corp.'s handset business last month, it inherited the Finnish company's weakened competitive position in India, the world's second-largest telecommunications market, after China.
+P. Balaji managing director of Nokia India Sales Pvt. Ltd, a unit of Microsoft's Microsoft Mobiles Oy, said the Lumia 630 will be priced at just under $200 in the Indian market and will accommodate two SIM cards.
+The sub-$200 price category "is the largest growth area for smartphones," said Mark C. Newman, a Hong Kong-based analyst at Sanford C. Bernstein. In addition, he said, "dual-Sim phones are becoming more common in emerging markets."
+Indian consumers have in recent years begun to favor dual-Sim phones so they can take advantage of different network operators' pricing deals and toggle between personal and business numbers on a single handset.
+The new phone has a 4.5-inch screen and runs on Microsoft Corp's latest Windows 8.1 software. It will be available in retail stores from Friday, the company said.
+Document WSJO000020140512ea5c00335
+<@End News@>
+
+Phone Maker HTC Points Back to Black
+By Eva Dou   
+729 words
+7 May 2014
+The Wall Street Journal Asia
+AWSJ
+18
+English
+Copyright ? 2014 Dow Jones & Company, Inc. All Rights Reserved.   
+TAIPEI -- Once a leading mobile-phone maker has been knocked off its throne, can it ever come back?
+That is the question facing smartphone maker HTC Corp. as it forecast Tuesday a return to profit in the second quarter but warned its revenue would continue to fall.
+For many handset makers, the track record isn't good. Experts say that few except Apple Inc. and Motorola Mobility have pulled off turnarounds, and Motorola's reprieve was temporary. In both cases, the key was producing megahit products: the iPhone and the Razr.
+"Very few companies have been able to withstand this kind of spiral," said Alvin Kwock, J.P. Morgan's Asia head of technology hardware, adding that HTC will need an innovative product that competitors can't easily counter.
+Just three years ago, HTC was the world's leading smartphone maker using Google Inc.'s Android operating system, but it has struggled in recent years to match sales with Samsung Electronics Co. and low-cost Chinese competitors. In March, the company unveiled a high-end flagship smartphone called the HTC One (M8). The device features a sleek metal design, and the company is betting that the new smartphone will help reverse declining sales.
+Chief Financial Officer Chialin Chang said Tuesday that HTC is on the mend. The company has worked to smooth out supply-chain problems for its high-end devices, and has introduced smartphones priced as low as $145 this quarter as it begins to outsource some production to contract manufacturers in Taiwan and China to cut costs. It has also hired Samsung's former U.S. marketing chief, Paul Golden, as a consultant, in an effort to shore up marketing.
+"We're seeing an encouraging sign, a good start. [The question is] how we sustain it," said Mr. Chang.
+HTC said it expects to return to profit in the second quarter after three quarters of operating losses, but forecast revenue will fall to between 65 billion New Taiwan dollars and NT$70 billion (US$2.16 billion and US$2.32 billion), from NT$70.7 billion a year earlier. The company also said it is selling a 9.5% stake in a Chinese private-equity fund for US$69 million, which will result in a pretax gain of US$2 million in the second quarter.
+HTC got its first big break in 2007 amid a product vacuum. After the launch of Apple's iPhone in 2007, HTC was the first to provide a viable alternative based on the open-source Android operating system. The success helped HTC rise from a fledgling Taiwanese brand into the world's largest smartphone vendor by shipments in 2011.
+"When HTC was doing well, it was because it had an early alternative to the iPhones, not because it had a strong global brand," said Willy Shih, a Harvard Business School professor who studies Asian technology companies.
+HTC's fortunes changed when Samsung began to tap its massive marketing purse with the launch of its Galaxy smartphones and as an influx of low-cost Chinese competitors such as Xiaomi Inc. flooded the market. While HTC has sought to shore up its marketing to counter Samsung, it faces the reality of a shrinking budget.
+Tighter finances have also made it more difficult for HTC to retain talent. Most recently, the company said design chief Scott Croyle has stepped down.
+Analysts say HTC's prospects aren't so bleak for at least the next quarter or two because significant rivals like Apple haven't yet launched competing devices.
+"HTC's supply-chain management is much better this year, so I think the second and third quarter should be OK," said Barclays analyst Dale Gai. "The challenge will be the fourth quarter."
+Mr. Chang also said Tuesday that HTC is submitting for shareholder approval a plan to issue as many as five million restricted shares to employees. The company's shares rose 3.6% to close at NT$175 ahead of the announcement. Still, HTC's shares have lost more than 85% of their value since April 2011, and its global smartphone market share has slid to less than 2%, according to analysts' estimates. HTC's revenue fell to a five-year low in the first quarter.
+License this article from Dow Jones Reprint Service
+Document AWSJ000020140506ea570001b
+<@End News@>
+
+HTC Starts Outsourcing Production To Cut Costs
+By Eva Dou   
+512 words
+6 May 2014
+The Wall Street Journal Europe
+WSJE
+19
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+TAIPEI -- HTC Corp. began to outsource production of some of its smartphones for the first time this quarter, looking to slash costs and better pursue new customers in developing markets.
+The unprofitable Taiwanese smartphone maker has selected Taiwan-based contract manufacturer Compal Electronics Inc. and China's Wingtech Group for at least three of the new models in its midprice Desire series, said people familiar with the matter. Both assemblers began to mass produce smartphones for HTC this spring, the people said. Traditionally, HTC has produced all of its phones at its own factories.
+The move accompanies other efforts by HTC to turn around its business. Chairwoman Cher Wang has taken a more active role in management in the past year, and the company recently hired Samsung Electronics Co.'s former U.S. marketing chief, Paul Golden, as a consultant to beef up its marketing.
+HTC has long focused on high-end phones and resisted outsourcing, even as competitors from Apple Inc. to Nokia Corp. have turned to contract manufacturers to focus on design and save costs over the years. But as HTC struggles to hold its ground against Samsung and rapidly growing Chinese brands, it has decided to launch more low-price phones this year with the help of contract manufacturers.
+Once the world's largest smartphone maker by shipments at its peak in 2011, HTC has contended with a stock slump of more than 86% amid unsuccessful marketing campaigns, supply-chain mishaps and growing competition. The mistakes brought HTC its second net loss on record in the first quarter, and it has fallen out of the world's top-10 smartphone makers since last year. The company's stock rose by the maximum daily limit of 6.9% on Monday to 169 New Taiwan dollars (US$5.59) on expectations that HTC would forecast a return to profit for the second quarter when it releases guidance on Tuesday.
+HTC declined to comment.
+Chief Financial Officer Chialin Chang said in an interview with The Wall Street Journal in March that HTC was considering the possibility of using contract manufacturers, but that the company had no plans to outsource its flagship HTC One line or its key midprice phone, the Desire 816.
+While it is keeping production of its most advanced devices in-house, HTC has outsourced a high-power smartphone aimed at the China market. Chinese contract manufacturer Wingtech, which also makes phones for Chinese brands such as Xiaomi Inc., is preparing to mass produce the Desire 616, which will run a fast eight-core processor made by budget chip maker Mediatek Inc., said two people familiar with the matter.
+Wingtech also manufacturers HTC's least-expensive smartphone to date, the Desire 210, which was launched last month in India for 8,700 rupees (US$145), one of the people said.
+Taiwan's Compal, which also supplies Nokia, began production in the second quarter of some HTC Desire series phones, another person said.
+License this article from Dow Jones Reprint Service
+Document WSJE000020140506ea5600014
+<@End News@>
+
+WSJ.D Technology: Little Payoff in Apple Trial
+By Daisuke Wakabayashi and Jonathan Cheng   
+889 words
+1 May 2014
+The Wall Street Journal
+J
+B5
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+As Apple Inc. and Samsung Electronics Co. squabble in court over who copied whose phone features, the companies' grip over the smartphone industry is slipping.
+The two companies account for nearly all smartphone hardware profits. But they are losing market share to Chinese rivals with lower-priced phones, particularly in developing nations.
+Two years ago, Apple and Samsung accounted for more than 55% of world-wide smartphones shipments, according to research firm Strategy Analytics. In the first quarter, that fell to 47%. Samsung said Tuesday that quarterly operating profit at its mobile division fell from a year earlier for the first time since 2010. Apple's annual profit fell last year for the first time in more than a decade.
+Compared with those shifts, the stakes in their high-profile courtroom dispute are surprisingly small. Apple's $930 million verdict in a prior case amounts to little more than one week of its profits; Apple has yet to collect a dime. Neither company has had to pull a meaningful product off the shelf.
+For that, the companies have suffered through embarrassing revelations. Emails showed Apple bickering with its advertising agency after the firm suggested its brand was slipping. An Apple employee created a slide titled "Consumers Want What We Don't Have." Internal Samsung emails revealed executives saying that it was suffering a "crisis of design" and that the difference between its early smartphones and the iPhone was "heaven and earth."
+The case is "a distraction," said Sundeep Bajikar, an analyst for Jefferies. "There are potentially more important structural changes happening in the industry," he added. "The implications are not that meaningful."
+Attorneys for the two companies delivered closing arguments in the latest case Tuesday in U.S. District Court in San Jose, Calif. Apple is seeking $2.2 billion from Samsung for infringing five of its software patents. Samsung has counter-sued Apple for infringing two of its patents and is seeking a mere $7 million.
+"Bringing this lawsuit was Apple's last choice," said Apple's lawyer Harold McElhinny, adding that it first asked Samsung to stop infringing its patents in 2010. "Apple simply cannot walk away from its inventions."
+Samsung's lawyers said Apple should recharge its growth through new products instead of stifling competition through the legal system. "What Apple needs to understand is that the answer to the innovator's dilemma is not here in the courtroom suing people," said Samsung's lawyer John Quinn.
+As the lawyers argue for yesterday's profits, rivals are moving to crack the Apple-Samsung duopoly over the smartphone industry. The current field is pretty fragmented, with nobody else controlling more than 5% of the smartphone market. Microsoft Corp. last week finished swallowing Nokia Corp., replicating Apple by uniting hardware and software. Lenovo Group Ltd., one of China's biggest smartphone manufacturers, is in the process of acquiring Google Inc.'s Motorola unit to expand its global reach. Xiaomi Inc., the smartphone startup that has rocked China with low-priced phones and wildly loyal customers, plans to move into 10 emerging markets this year, including India, Indonesia, Russia and Turkey.
+As the field grows more competitive, market growth is slowing. World-wide smartphone sales increased 38% last year to more than one billion units, according to market researcher IDC. This year's growth is expected to be half that rate. The bulk of the expansion is coming in developing nations, which tend to favor lower-price handsets over the high-end models that drive Apple's and Samsung's bottom lines.
+Litigation is a particularly fraught strategy in technology, where the pace of innovation is so quick that a once-key feature can become obsolete in a few years.
+Consider the "swipe to unlock" feature at issue in the current trial. When it was introduced with the first iPhone in 2007, it was a simple, novel way to prevent people from accidently unlocking touchscreen handsets. However, Apple's latest iPhone 5S and Samsung Galaxy S5 use fingerprint sensors to offer a more secure way to start the device.
+On the hardware side, the processor that powers the latest iPhone is 56-times as powerful as that of the original iPhone introduced six years earlier.
+By comparison, the companies' patent disputes move at a snail's pace. Apple first filed suit against Samsung in April 2011. The trial began in August 2012. A retrial to determine the damages owed by Samsung was completed in November 2013. The suit in the latest trial was filed two years ago.
+This means that even if one party is found to have copied, the most meaningful penalty that the court can assess -- an injunction blocking sales of an infringing product -- is largely neutered because those products now sell in small quantities, or not at all. U.S. District Judge Lucy Koh, who has presided over both Apple-Samsung trials, has rebuffed nearly all of Apple's efforts for an injunction.
+"Generally, these cases only make economic sense if you can get an injunction," said Brian Love, a patent law expert and an assistant professor of law at Santa Clara University. "It continues to amaze me that this case hasn't settled."
+License this article from Dow Jones Reprint Service
+Document J000000020140501ea5100010
+<@End News@>
+
+ The Morning Download: Facebook is 'Growing Up'
+CIO Report, 06:57, 1 May 2014, 2119 words, By Michael Hickins, (English)
+The Morning Download comes from the editors of CIO Journal and?cues up the most important news in business technology every weekday morning.?Send us your tips, compliments and complaints. You can get The Morning Download emailed to you each ...
+Document WCCIOR0020140501ea5100001
+<@End News@>
+
+ The Morning Ledger: Actuaries Bear Brunt of Obamacare Changes
+CFO Report, 05:44, 1 May 2014, 2221 words, By James Willhite, (English)
+The Morning Ledger from CFO Journal cues up the most important news in corporate finance every weekday morning. Send us tips, suggestions and complaints:?james.willhite@wsj.com. Get The Morning Ledger emailed to you each ...
+Document WCCFO00020140501ea5100001
+<@End News@>
+
+Tech
+The Winner of Apple-Samsung Patent Fight? Their Rivals; As Both Companies Squabble in Court, Their Grip Over Smartphone Market Is Slipping
+Daisuke Wakabayashi 
+1,109 words
+30 April 2014
+12:27
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+As Apple Inc. and Samsung Electronics Co. squabble in court over who copied whose phone features, the companies' grip over the smartphone industry is slipping.
+The two companies account for nearly all smartphone hardware profits. But they are losing market share to Chinese rivals with lower-priced phones, particularly in developing nations.
+Two years ago, Apple and Samsung accounted for more than 55% of world-wide smartphones shipments, according to research firm Strategy Analytics. In the first quarter, that fell to 47%. Samsung said Tuesday that quarterly operating profit at its mobile division fell from a year earlier for the first time since 2010. Apple's annual profit fell last year for the first time in more than a decade.
+Compared with those shifts, the stakes in their high-profile courtroom dispute are surprisingly small. Apple's $930 million verdict in a prior case amounts to little more than one week of its profits; Apple has yet to collect a dime. Neither company has had to pull a meaningful product off the shelf.
+For that, the companies have suffered through embarrassing revelations. Emails showed Apple bickering with its advertising agency after the firm suggested its brand was slipping. An Apple employee created a slide titled "Consumers Want What We Don't Have." Internal Samsung emails revealed executives saying that it was suffering a "crisis of design" and that the difference between its early smartphones and the iPhone was "heaven and earth."
+The case is "a distraction," said Sundeep Bajikar, an analyst for Jefferies. "There are potentially more important structural changes happening in the industry," he added. "The implications are not that meaningful."
+Attorneys for the two companies delivered closing arguments in the latest case Tuesday in U.S. District Court in San Jose, Calif. Apple is seeking $2.2 billion from Samsung for infringing five of its software patents. Samsung has counter-sued Apple for infringing two of its patents and is seeking a mere $7 million.
+"Bringing this lawsuit was Apple's last choice," said Apple's lawyer Harold McElhinny, adding that it first asked Samsung to stop infringing its patents in 2010. "Apple simply cannot walk away from its inventions."
+Samsung's lawyers said Apple should recharge its growth through new products instead of stifling competition through the legal system. "What Apple needs to understand is that the answer to the innovator's dilemma is not here in the courtroom suing people," said Samsung's lawyer John Quinn.
+As the lawyers argue for yesterday's profits, rivals are moving to crack the Apple-Samsung duopoly over the smartphone industry. The current field is pretty fragmented, with nobody else controlling more than 5% of the smartphone market. Microsoft Corp. last week finished swallowing Nokia Corp., replicating Apple by uniting hardware and software. Lenovo Group Ltd., one of China's biggest smartphone manufacturers, is in the process of acquiring Google Inc.'s Motorola unit to expand its global reach. Xiaomi Inc., the smartphone startup that has rocked China with low-priced phones and wildly loyal customers, plans to move into 10 emerging markets this year, including India, Indonesia, Russia and Turkey.
+As the field grows more competitive, market growth is slowing. World-wide smartphone sales increased 38% last year to more than one billion units, according to market researcher IDC. This year's growth is expected to be half that rate. The bulk of the expansion is coming in developing nations, which tend to favor lower-price handsets over the high-end models that drive Apple's and Samsung's bottom lines.
+That's hurting both sales and profit margins at Apple and Samsung. Strategy Analytics says Samsung's share of smartphones fell to 31.2% in the first quarter, from 32.4% a year earlier, marking the first year-to-year decline in a quarter since 2009. While holding strong in the high-end of the market, Apple's share fell to 15.3% from 17.5% in the year-ago period. Strategy Analytics said Apple's lack of a new entry-level smartphone¡Xthe company tends to discount its older models instead of offering new lower-end products¡Xis hurting it in fast-growing regions like Latin America.
+Smartphone prices are tumbling, further pressuring profitability for both companies. IDC says the average selling prices of smartphones fell 18% globally to $335 in 2013; it forecasts another 8% decline in 2014.
+Litigation is a particularly fraught strategy in technology, where the pace of innovation is so quick that a once-key feature can become obsolete in a few years.
+Consider the "swipe to unlock" feature at issue in the current trial. When it was introduced with the first iPhone in 2007, it was a simple, novel way to prevent people from accidently unlocking touchscreen handsets. However, Apple's latest iPhone 5S and Samsung Galaxy S5 use fingerprint sensors to offer a more secure way to start the device.
+On the hardware side, the processor that powers the latest iPhone is 56-times as powerful as that of the original iPhone introduced six years earlier.
+By comparison, the companies' patent disputes move at a snail's pace. Apple first filed suit against Samsung in April 2011. The trial began in August 2012. A retrial to determine the damages owed by Samsung was completed in November 2013. The suit in the latest trial was filed two years ago.
+This means that even if one party is found to have copied, the most meaningful penalty that the court can assess¡Xan injunction blocking sales of an infringing product¡Xis largely neutered because those products now sell in small quantities, or not at all. U.S. District Judge Lucy Koh, who has presided over both Apple-Samsung trials, has rebuffed nearly all of Apple's efforts for an injunction.
+"Generally, these cases only make economic sense if you can get an injunction," said Brian Love, a patent law expert and an assistant professor of law at Santa Clara University. "It continues to amaze me that this case hasn't settled."
+The way Apple runs its business makes a settlement more difficult. Other companies license their technology, and go to court in part to fight over the terms. But Apple aims to differentiate its products by keeping its technology for itself, leaving it at the mercy of the courts.
+"It's a waste of time," said Gene Munster, an analyst at Piper Jaffray. "It's been proven over time that litigation doesn't get you anywhere with technology."
+Document WSJO000020140430ea4u005pm
+<@End News@>
+
+Business
+Shopping in China: Are Any of These Real?; In Looking for a Xiaomi Phone, Fakes Outnumber Authentic Ones
+Marc Lajoie 
+650 words
+28 April 2014
+04:49
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+About a year ago, I got a lesson in how ubiquitous and sophisticated counterfeits are in China.
+It started with a shopping expedition for a Xiaomi phone in Zhongguancun (pronounced jong-gwan-tsun), Beijing's foremost electronics district.
+Chinese smartphone maker Xiaomi's popular handsets offer top-end hardware at a relatively low price, and fun and customizable software. The only caveat: They are hard to get. Xiaomi sells a lot of its phones online, but their official website is often sold out. When my girlfriend asked me to help her buy one, we headed to Zhongguancun.
+Zhongguancun is full of aggressive, grabby hawkers, but also official resellers of big-name brands, both domestic and foreign. We fought our way through the laptop and camera salespeople to the area where smartphones were sold.
+There were ads for Xiaomi everywhere we looked. We found a friendly seller, negotiated a price for a brand new Xiaomi, and headed home triumphant.
+Back at my apartment, our sense of triumph evaporated. There was something wrong with the phone. The system refused to update, apps started crashing, all sorts of details were off. The camera had the wrong number of megapixels. The storage capacity was wrong. The app store was named "Feiliu" instead of "Mi Market."
+After some research on the Internet I understood what was wrong. We had been fooled. The phone was a knockoff.
+We charged back to Zhongguancun, found the seller, and got a refund.
+On our way out, we came across a more reputable looking store with a sign advertising Xiaomi phones and decided to try again.
+The store could have been an Apple shop, with its clean surfaces and white lights. The young clerk brought out a Xiaomi box and opened it up. I asked to try the phone out. Armed with my new-found knowledge of fake Xiaomis, I navigated to the app store to check the name. It was "Feiliu."
+"It's a fake," I said.
+"Oh, you want the real one?" The seller seemed surprised. "You know, they're more expensive."
+We told him we did, indeed, want a real one. He made several calls, went off and came back with another box. I checked the phone and everything was in order. Mission accomplished.
+Xiaomi wasn't immediately available for comment.
+A few months later, we decided to get a Xiaomi for my girlfriend's sister. Again, we headed to Zhongguancun.
+We found a new seller, who brought out a phone. I immediately outed it as a fake. The seller got another phone. I checked the app store and storage capacity, and all seemed well.
+It wasn't until we took that second phone home that we realized we had been upgraded to a better grade of fake.
+This time, it was much harder to identify. I followed an online guide for detecting fakes, which instructed me to boot the phone in recovery mode. What should have loaded was Xiaomi's custom Mi-recovery software. Instead, I got a text-based menu that the online guide identified as a tell for counterfeits.
+We headed back to Zhongguancun, and found the seller.
+"It's not real," I said.
+"It's a real phone," he answered, splitting hairs.
+Eventually, he relented and conceded I was right. He wouldn't give a refund, but offered to replace the phone with an authentic Xiaomi if we paid the difference.
+We took the phone home and subjected it to all the tests of the online guide. It checked out.
+But a few days after we gave the phone to my girlfriend's sister, it started having problems. When I examined it, I heard an electric pop, and the screen went blank.
+It was a real Xiaomi phone... but it was defective.
+Document WSJO000020140428ea4s0048x
+<@End News@>
+
+ China's Xiaomi Phones are Coming to India
+WSJ Blogs, 23:20, 23 April 2014, 250 words, R. Jai Krishna, (English)
+Chinese smartphone maker Xiaomi Inc. plans to target India as part of its expansion into ten emerging markets in 2014, the company said Thursday.
+Document WCWSJB0020140424ea4o00209
+<@End News@>
+
+Corporate News: Delayed Teslas Upset Buyers in China --- Furor Reflects Difficulties Auto Makers Face in Selling New-Energy Vehicles in Major Asian Market
+By Colum Murphy   
+890 words
+22 April 2014
+The Wall Street Journal
+J
+B7
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+BEIJING -- A group of disgruntled Tesla Motors Inc. customers in China is protesting delayed deliveries of their cars one day before the electric-vehicle maker is set to make its first China delivery.
+The furor underscores the challenges facing auto makers in marketing new-energy vehicles in China, which so far hasn't delivered on the promise of becoming a major new market for electric cars.
+Tesla's launch had been heralded as a possible catalyst that could push China further down the electric-car path. The Palo Alto, Calif., company said in January that it would sell its Model S for $121,000 in China and compete with luxury brands like BMW AG and Volkswagen AG's Audi. Tesla is set on Tuesday to hand over the company's first Model S to a buyer in China at a high-profile event that is scheduled to feature Tesla Chief Executive Elon Musk.
+Now, some once-enthusiastic customers like Sam Long are unhappy with the reason he says Tesla is offering to explain the delivery delays. "The company told me they are still training electricians in Zhuhai," said Mr. Long, referring to the southern Chinese city where he lives. "I feel my rights have been hurt."
+Mr. Long, a 37-year-old businessman, said he ordered his Model S last year, but that as of Monday, the Tesla website showed his car has yet to be manufactured. Mr. Long and 22 other consumers who booked Tesla cars have recently hired attorneys to negotiate with Tesla over the delivery, he said.
+Tesla spokesman Simon Sproule said the company wouldn't ship to customers outside the major cities of Beijing and Shanghai until June because of a lack of service centers and charging considerations. "You would never sell any brand unless you have the tools to service it," he said.
+Mr. Sproule added that the company is in an "ongoing dialogue" with the customers. (In the U.S., some Tesla buyers have waited for as long as three or four months to get their cars.)
+Tesla doesn't report order numbers, only deliveries on a quarterly basis, Mr. Sproule said. In a January interview, Mr. Musk said he would consider it a success if Tesla sold 5,000 vehicles or more in China this year.
+China has set itself the ambitious goal of putting 500,000 plug-in hybrid and electric vehicles on the road by next year and five million by 2020. Beijing hopes so-called green cars will help battle chronic pollution and give a much-needed boost to Chinese auto makers by encouraging them to pioneer such vehicles. Such cars could also help reduce the country's dependency on imported oil.
+Now China looks increasingly like it will miss its goal. In 2013, about 1,005 plug-in hybrids and 11,410 electric vehicles were sold in the country, according to data from consultancy Automotive Foresight.
+Central and local governments offer generous incentives to encourage consumers to buy environmentally friendly cars made by certain Chinese car manufacturers. Some cities exempt car buyers from expensive license-plate fees, which some municipalities impose in an effort to reduce traffic.
+But a significant stumbling block is the lack of charging infrastructure in China. There is still a dearth of public places to recharge cars -- the city of Shanghai for example has only a few hundred charging stations, according to Andreas Graef, principal at consultancy A.T. Kearney's office there. Prohibitive investment costs and low financial returns mean state utility providers have little incentive to build the stations, although there are signs this might change as the providers reach out to more private investors, he said.
+Issues related to individual charging facilities, whether at home or the office, appear to be a factor explaining Chinese buyers' current displeasure with Tesla.
+But Tesla said that, in China, as long as a customer has a designated parking space -- in an apartment building, an individual house or at a workplace -- its service technicians will provide the customer with a secure electrical wiring plan and help install the wall connector.
+"We'll also work with property management to find a solution that everyone is happy with. We work with the customer to make sure they have a proper charging option as part of the sales-and-delivery process," Mr. Sproule said.
+Tesla is recruiting and training electricians so customers can pay to have them help with charging, he said.
+Mr. Graef also said typical new-energy vehicles are less comfortable and spacious compared with more popular cars in China such as sport-utility vehicles.
+He added that the Beijing auto show, currently taking place, offers encouraging signs that more appealing new-energy vehicles are in the pipeline from car manufacturers, citing an electric vehicle developed by Daimler AG and Chinese car company BYD Co.
+Fans of Tesla in China include some of the country's most prominent executives, such as Lei Jun, founder of Chinese smartphone brand Xiaomi Inc. Last year, Mr. Lei posted a photo online of his meeting with Mr. Musk.
+---
+Rose Yu and Yang Jie contributed to this article.
+License this article from Dow Jones Reprint Service
+Document J000000020140422ea4m0000f
+<@End News@>
+
+Corporate News: TPG-Led Investment Puts Airbnb's Value at $10 Billion
+By Mike Spector, Douglas MacMillan and Evelyn M. Rusli 
+482 words
+21 April 2014
+The Wall Street Journal
+J
+B2
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.) 
+A group led by private-equity firm TPG has finalized an agreement to invest more than $450 million in Airbnb Inc., valuing the home-rental site at $10 billion, according to people familiar with the situation.
+The funding round makes Airbnb one of the world's most valuable startups, matching investors' price tags for file-storage company Dropbox Inc. and Chinese smartphone maker Xiaomi Inc. Airbnb, which lets people rent their homes to travelers, is also now valued higher than large publicly traded hotel chains Wyndham Worldwide Corp. and Hyatt Hotels Corp.
+The investor group also includes investment firm Dragoneer Investment Group, mutual fund T. Rowe Price Group Inc. and venture-capital firm Sequoia Capital. TPG Growth, the buyout firm's middle-market and growth-equity arm, and Dragoneer are expected to invest roughly $75 million apiece in Airbnb as part of the deal, the people said. Sequoia, an earlier Airbnb investor, is expected to invest about $85 million, they said.
+The deal includes some so-called downside protections for the investor group should Airbnb's value decrease in a future deal, the people said. The details of those terms weren't immediately learned.
+Investors are betting on Airbnb's potential to disrupt the multibillion-dollar hospitality industry. Its service gives budget travelers an alternative to hotels by letting them rent people's couches, rooms, apartments and houses. Homeowners gain a new source of income, and Airbnb collects a small portion of the nightly rate.
+The six-year-old company, which previously raised more than $300 million in capital, is padding its coffers as it prepares to expand globally and add more services for travelers. Earlier this year, Airbnb began testing a cleaning service for hosts in certain neighborhoods of San Francisco and New York.
+Airbnb also needs financial ammunition to battle a powerful hotel industry and scrutiny from regulators, and to cover costly damages from thefts and vandalism. Hotels argue that the company's rentals unfairly skirt lodging taxes and should be held to the same fire codes and other regulations. Regulators, meanwhile, are concerned about safety, oversight and tax collections.
+Last October, New York Attorney General Eric Schneiderman subpoenaed Airbnb for information on its 15,000 hosts in the state, to determine if any are violating a 2010 state law that prohibits renters from subletting their homes for more than 30 days if they aren't present. The company is contesting the order in state Supreme Court, which has scheduled a hearing to begin April 22.
+Airbnb, which operates in about 32,000 cities, has said in recent weeks that it is aiming to start collecting taxes from renters on behalf of hosts in New York, San Francisco and Portland, Ore.
+License this article from Dow Jones Reprint Service
+Document J000000020140421ea4l0002f
+<@End News@>
+
+ TPG-Led Group Closes $450 Million Investment in Airbnb
+WSJ Blogs, 12:34, 18 April 2014, 231 words, Mike Spector, (English)
+A group led by private equity firm TPG has finalized an agreement to invest $450 million in Airbnb Inc., valuing the home-rental site at $10 billion, according to people familiar with the situation.
+Document WCWSJB0020140418ea4i00691
+<@End News@>
+
+ The Daily Startup: Wall Street Unease Dragging Startups Down
+WSJ Blogs, 08:30, 11 April 2014, 1044 words, By Zoran Basich, (English)
+Two biotech companies had rocky entries to the public markets Thursday, deepening an IPO slump for venture-backed companies. Cancer drug developer Cerulean Pharma dropped from its opening price of $7 to $6.85, after previously estimating it ...
+Document WCWSJB0020140411ea4b005bp
+<@End News@>
+
+ Dropbox Promotes Sujay Jaswa to Financial Chief Ahead of IPO
+WSJ Blogs, 18:31, 3 April 2014, 845 words, By Douglas MacMillan, (English)
+Online-storage startup Dropbox Inc. promoted Sujay Jaswa to chief financial officer, entrusting an insider with little executive experience in a key role at one of the likeliest candidates for an upcoming initial public offering.
+Document WCWSJB0020140403ea43007vd
+<@End News@>
+
+Business
+Hon Hai Profit Rises 13%, Boosted By iPads and iPhones; Taiwan Manufacturer Also Announces New Investment and Fundraising Plans
+Lorraine Luk 
+669 words
+28 March 2014
+04:35
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+HONG KONG¡XHon Hai Precision Industry Co., the biggest assembler of Apple Inc. products, said Friday its profit last year rose 13%, helped by an increase in iPad and iPhone sales.
+The world's largest contract manufacturer for electronics, commonly known as Foxconn Technology Group, also unveiled nearly $90 million in investments in manufacturing and software development in China, as well as two fundraising measures, as it girds for tougher competition and a possible sales slowdown. Its sales last year rose just 1%.
+Taiwan-based Hon Hai, which earns more than 40% of its revenue from Apple, has been seeking new avenues of growth, as income from contract manufacturing slows. The company has been making a push into software development and telecommunications services, as well as entering the retail market by selling its mobile accessories under its own Coverbank brand.
+Hon Hai's 2013 profit was 106.70 billion new Taiwan dollars ($3.5 billion), up from NT$94.76 billion a year earlier. Its revenue edged up to 3.95 trillion new Taiwan dollars from NT$3.91 trillion.
+Hon Hai's results were underpinned by demand from Apple, which sold 51 million iPhones in last year's final quarter, up 7% from a year earlier. The Cupertino, Calif.-based company also sold a record 26 million iPads in the quarter, up from 22.9 million.
+But Apple has been facing stiff competition, and there is growing skepticism that it can repeat its successful innovations in new product categories¡Xas it did with the iPhone in 2007 and the iPad in 2010.
+Faced with the possibility of a slowdown in orders from its biggest customer, Hon Hai has been busy finding ways of trimming costs to operate more efficiently and improve its profit margin.
+The company, which employs over one million factory workers across China, is accelerating automation of factories, announcing plans on Friday to invest $15 million in a robot-manufacturing and sales unit in China. The company also said it will invest $30 million in a software-development unit and another $42 million to set up a new trading-and-manufacturing unit for components in China.
+Hon Hai is also expanding manufacturing in lower-cost inland China, building facilities in the central and western provinces of Chengdu, Wuhan and Zhengzhou. In those areas, the typical wage could be two-thirds or less of levels for the more-developed coastal provinces, analysts said.
+Hon Hai said it plans to raise funds by selling global depositary receipts to replenish its working capital. Such receipts are used as a proxy for stock, letting companies raise money in markets where their securities don't trade.
+Hon Hai also said it will issue up to NT$24 billion in corporate bonds to repay short-term debt. The company didn't provide a timetable, or a value for the global depositary receipt issue.
+A turnaround at its handset manufacturing unit, FIH Mobile Ltd., also helped boost the company's earnings. Hong Kong-listed FIH Mobile, which serves customers besides Apple, said last week it swung to a full-year net profit of $77.7 million after reporting net losses for the past four years.
+FIH Mobile had reported losses as major customers such as Nokia Corp. and Motorola Mobility continued to lose ground in the fast-growing smartphone market. However, in a bid to turn around its operations, FIH recently signed on new customers, including BlackBerry Ltd. and China's Xiaomi Inc., a startup that has rocked the Chinese smartphone market
+Earlier this week, smaller rival Pegatron Corp. said its fourth-quarter profit rose 22% as the company benefited from its growing role as an Apple assembler. Although Pegatron previously made some older iPhone models, last year was the first time Pegatron was the primary manufacturer of a new iPhone model, the 5C, according to people familiar with the matter.
+Document WSJO000020140328ea3s002s4
+<@End News@>
+
+Value of Site That Turns Homes Into Hotels Nears $10 Billion
+By Evelyn M. Rusli, Douglas MacMillan and Mike Spector 
+994 words
+21 March 2014
+The Wall Street Journal
+J
+A1
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.) 
+Airbnb Inc., which once sold novelty cereal boxes to stay afloat before emerging as a threat to the hotel industry, is close to becoming one of the world's most valuable startups.
+The online service that lets people rent their homes to travelers is in advanced talks to raise capital that would value it at about $10 billion, according to people familiar with the matter.
+Private-equity firm TPG and boutique investment firm Dragoneer Investment Group are leading the funding round, which could total between $400 million and $500 million, these people said. Mutual funds including T. Rowe Price Group Inc. are expected to be part of the investment group, the people said. Fidelity Investments is also in discussions to join the group, the people said.
+The negotiations between the various investment groups and Airbnb remain fluid and could fall apart, these people cautioned.
+The rich price tag reflects Airbnb's potential to disrupt the hotel industry. In six years, the company has become a required destination for millions of tourists looking for cheap rooms, while giving homeowners a new source of income. It is part of a trend of technology startups -- including car-sharing service Uber Technologies Inc. -- creating markets by letting people share excess resources.
+The company could be worth more than Wyndham Worldwide Corp., which manages 7,500 hotels under the Wyndham, Ramada and other brands, and is valued at $9.3 billion. Hyatt Hotels Corp., has a market value of $8.4 billion.
+Airbnb's growth has drawn scrutiny from regulators wary about safety, oversight and tax collections. The company has also attracted the ire of hotel operators, who argue that the rentals unfairly skirt lodging taxes and aren't held to the same fire codes and other regulations.
+Last October, New York Attorney General Eric Schneiderman subpoenaed Airbnb for information on its 15,000 hosts in the state, to determine if any are violating a 2010 state law that prohibits renters from subletting their homes for more than 30 days if they're not present. The company is contesting the order in court.
+Airbnb doesn't own any property rented on its service, employ bellhops or serve any continental breakfasts. Instead, the service has created an alternative to hotels by turning individuals into hoteliers, allowing hosts to rent their couches, rooms, apartments and homes through an online marketplace. Hosts set a nightly rate, and Airbnb collects guests' payments, keeping a small portion of the fees for itself.
+The quality of accommodations isn't as standardized as the hotels listed on sites like Priceline.com, but within Airbnb's marketplace, there is the opportunity to find a quirky property -- a treehouse in Hawaii, a houseboat with a view of the Eiffel Tower, or simply a cheaper bed.
+Founded in 2008, Airbnb is a classic rags-to-riches Silicon Valley startup story. As new transplants to San Francisco struggling to pay rent, Airbnb co-founders Brian Chesky and Joe Gebbia rented out air mattresses in their apartment during a bustling conference in a bid to make extra money. The informal arrangement became a website called Airbedandbreakfast.com. But it wasn't a rocket ship at first. CEO Mr. Chesky -- a designer -- didn't fit the mold of the typical engineer and many venture capitalists were wary of the unorthodox business model.
+To get by, the company designed and sold cereal boxes of then presidential candidates Barack Obama and John McCain, from which it made tens of thousands of dollars. The move impressed Paul Graham, the founder of Y Combinator, a Silicon Valley incubator, who accepted them into his program in 2009.
+The company has since expanded its rental service to more than 600,000 listings in more than 190 countries, doubling revenue last year to about $250 million, according to people familiar with the matter. Airbnb last raised funding at a valuation of $2.5 billion in 2012, from venture-capital investors including Peter Thiel's Founders Fund, Andreessen Horowitz and Sequoia Capital.
+Beyond room rentals, Airbnb expects to add an array of hospitality services. Earlier this year, Airbnb began testing a cleaning service for hosts in certain neighborhoods in San Francisco and New York.
+Top executives at the large hotel brands, for the most part, have played down any rivalry between the industry and Airbnb. When they have complained, those gripes have centered on fairness and guest safety.
+But smaller hotel operators are starting to speak out. "These guys are scofflaws," said Vijay Dandapani, president of New York hotel chain Apple Core Hotels. "There's no reason why they should be subjected to a completely different set of rules than the legacy hotel businesses."
+As a huge marketplace with little control over its users, Airbnb has also had to grapple with hosts or guests behaving badly. After a smattering of thefts and vandalism, Airbnb put in place a $1 million insurance policy for hosts. Still, headlines of guests running amok continue to plague the startup. Earlier this month, a host said one guest turned his Manhattan apartment into the site of a sex party, which led to tens of thousands of dollars in property damage. Airbnb reimbursed the owner for his losses.
+Even with these challenges, Airbnb could command one of the richest valuations for a company backed by venture capital.
+In the past 12 months, at least 22 companies have raised new funds that valued them at $1 billion or more. At the top of that list, online-storage provider Dropbox Inc. and Chinese mobile-phone maker Xiaomi Inc. notched $10 billion valuations last year. Uber, which is unsettling the taxi industry by turning qualified car owners into chauffeurs, was valued last year at $3.8 billion following an investment from a group including TPG.
+---
+Craig Karmin contributed to this article.
+License this article from Dow Jones Reprint Service
+Document J000000020140321ea3l00039
+<@End News@>
+
+ The Daily Startup: Gigwalk Gathers $10M for Army of 'Gigwalkers'
+WSJ Blogs, 08:32, 21 March 2014, 827 words, By Zoran Basich, (English)
+Top stories in today's VentureWire:
+Art by Mike Lucas
+Gigwalk was started in 2010 by former employees of Yahoo as a way to connect businesses to contractors, called Gigwalkers. The idea was that these contractors would use their iPhones to ...
+Document WCWSJB0020140321ea3l003s5
+<@End News@>
+
+ How Does Airbnb's $10 Billion Valuation Size Up?
+WSJ Blogs, 08:41, 20 March 2014, 345 words, By Scott Austin, (English)
+Airbnb is in advanced talks to raise funds that would value the home-sharing company at more than $10 billion, according to several people familiar with the process.
+Document WCWSJB0020140320ea3k0048u
+<@End News@>
+
+ The Daily Startup: VCs Boost Google Glass Developer Augmedix
+WSJ Blogs, 08:33, 19 March 2014, 865 words, By Zoran Basich, (English)
+Top stories in today's VentureWire:
+Art by Mike Lucas
+Augmedix, a startup that aims to bring Google Glass into hospitals and doctors' offices, has raised what appears to be the first publicly announced round of venture financing for a ...
+Document WCWSJB0020140319ea3j003h1
+<@End News@>
+
+ Xiaomi Considers Closer Ties With Asia's Richest Man
+WSJ Blogs, 05:51, 18 March 2014, 454 words, By Lorraine Luk, (English)
+Xiaomi Inc., the startup that has rocked Chinese smartphone market, is looking to leverage the global footprint of Asia's richest man, Li Ka-shing, and his telecommunications empire to further expand in overseas markets.
+Document WCWSJB0020140318ea3i0025t
+<@End News@>
+
+ Q&A: PCH Chief Sees Edge in Having Base in Shenzhen
+WSJ Blogs, 17:35, 2 March 2014, 677 words, Lorraine Luk, (English)
+Rising wages and labor shortages in China's?southern?Pearl River Delta region may have spurred Taiwan's Foxconn Technology Group, one of Apple's major?components?supplier and assembler, to expand further inland in the country and accelerate ...
+Document WCWSJB0020140303ea32000gq
+<@End News@>
+
+ The Next Asian Google Trade: Sunny Optical
+WSJ Blogs, 20:57, 24 February 2014, 596 words, (English)
+By Michelle Yuan
+If you missed out on Himax Technologies's 167% surge last year on news the Taiwanese company will be a supplier to Google Glass, then look no further than Hong Kong.
+Document WCWSJB0020140225ea2p001jl
+<@End News@>
+
+ Xiaomi President: Supply Chain an Obstacle to Reaching Sales Goal
+WSJ Blogs, 00:21, 19 February 2014, 545 words, By Paul Mozur, (English)
+The startup that has rocked China's smartphone market is aiming to sell 40 million phones this year. The only limitation, according to Xiaomi President Lin Bin, is how fast the company can make the phones.
+Document WCWSJB0020140219ea2j00106
+<@End News@>
+
+ Apple Gains Some Ground in China Smartphone Market
+WSJ Blogs, 16:24, 18 February 2014, 664 words, (English)
+By Juro Osawa and Paul Mozur
+Apple seems to be gaining some ground in the world's largest smartphone market.
+In China, Apple's market share rose slightly in the fourth quarter of last year, helped by strong demand for its new iPhone 5S, the ...
+Document WCWSJB0020140219ea2i000gq
+<@End News@>
+
+ Xiaomi Backs Gaming Co. as Chinese Corporations Build in VC
+WSJ Blogs, 15:44, 18 February 2014, 331 words, By Sonja Cheung, (English)
+In another case of China's biggest corporates muscling into the venture scene, Xiaomi Ventures, a unit of one of the country's biggest smartphone makers, Xiaomi, has invested $20 million into mobile gaming business Westhouse.
+Document WCWSJB0020140218ea2i005pl
+<@End News@>
+
+In China, the Coolpad Is Hotter Than the iPhone
+By Lorraine Luk and Juro Osawa   
+1,187 words
+30 January 2014
+The Wall Street Journal Asia
+AWSJ
+17
+English
+Copyright ? 2014 Dow Jones & Company, Inc. All Rights Reserved.   
+HONG KONG -- Apple Inc. and Samsung Electronics Co. are the dominant smartphone brands in the U.S. and in many other parts of the world. But in China, the world's biggest smartphone market, there isn't a clear winner yet.
+Virtually unheard of outside China, several homegrown brands are gaining ground and seeking to challenge the technology giants' duopoly. Working in their favor: advanced hardware at lower prices, strong relationship with Chinese carriers, as well as creative ways to build a fan base through social media and online forums.
+Hundreds of millions of Chinese mobile users still haven't replaced their basic phones, making the country a critical battleground for global smartphone brands at a time when growth is slowing in the U.S. and other mature markets.
+Research firm Canalys estimates that smartphone shipments in China totaled 354 million units last year -- compared with 139 million units in the U.S. Canalys expects Chinese shipments to increase to 422 million units this year.
+Zhou Cheng, a 25-year-old shop manager in the southern province of Hunan, recently purchased his first smartphone to replace his old Nokia handset. He spent nearly $500 for the Oppo Find 5 from Oppo Mobile Telecommunications Corp., based in Dongguan. The device runs on Google Inc.'s Android operating system, and comes with a 13-megapixel camera and a 5-inch high-resolution screen that has more pixels per inch than Apple's new iPhone 5S.
+"It looks good and works well," Mr. Zhou says, describing Oppo as cooler than other Chinese smartphone brands such as Lenovo Group Ltd. and Huawei Technologies Co. "Oppo is for young people and its phones are more stylish." The Find 5, which is about 30% cheaper than Apple's entry-level iPhone 5C in China, also fit his budget.
+Mr. Zhou is one of many Chinese consumers that companies like Oppo, Coolpad and Xiaomi Inc. are targeting. Their growing presence is creating a more challenging environment for foreign brands such as Apple and Samsung.
+China's mobile market is so big that some local handset vendors, despite focusing mainly on the domestic market, already sell more smartphones overall than global competitors. In the third quarter of last year, Coolpad, the smartphone brand of China's Yulong Computer Telecommunication Scientific (Shenzhen) Co., was the sixth-biggest smartphone vendor by units sold world-wide, ahead of Nokia Corp. and Sony Corp., according to Canalys.
+In China itself, Coolpad ranked third with a market share of 11%, behind Samsung's 21% and Lenovo's 13%. Apple came in fifth with 6%.
+Apple will likely get a boost in China this year after China Mobile Ltd., the country's largest carrier with more than 760 million subscribers, started selling iPhones for the first time on Jan. 17.
+Still, analysts said the higher upfront costs of China Mobile's iPhone contracts -- compared with those at other Chinese carriers -- could deter many price-conscious consumers.
+Coolpad, which started out in 1993 as a maker of pagers and telecom equipment, is now one of the more established players in China's mobile industry. Its strength lies in its close business ties with all major Chinese telecom carriers, which help distribute its phones outside major urban centers such as Sichuan and Hunan.
+One of Coolpad's most popular phones, the Coolpad 9080W, comes with a 5.7-inch screen, an 8-megapixel camera and a quad-core processor, even though it sells for about $260.
+Coolpad says it is trying to attract millions of first-time smartphone users in China. Its parent company reported that its first-half profit in 2013 rose 40% to 212.8 million Hong Kong dollars (US$27.4 million) from HK$152.5 million in 2012.
+"When first-time smartphone users have a good experience with our phones, they may buy more expensive Coolpad models later when their purchasing power increases," said Coolpad Vice President Zhang Guang-qiang in an interview.
+Some analysts are skeptical about Coolpad's strategy, noting it will be a big challenge to raise its brand and convince consumers to pay more for its handsets.
+Apple remains one of the most desirable brands in China, as local consumers' recent frenzy over the gold-colored iPhone 5S indicated. Samsung, a household name in China because of its TV sets, sells smartphones that cost less than $200 to compete against local handset vendors.
+Apple and Samsung declined to comment about competition in China.
+Executives from Chinese smartphone makers say their companies are well positioned to understand the local market and cater to the needs of specific types of Chinese consumers.
+Oppo, which has previously used actor Leonardo DiCaprio in its ads and promoted its phones through tie-ins with local TV shows, has been particularly successful in attracting young female customers.
+The private company doesn't disclose earnings, though it said it makes a profit from smartphones.
+Beijing-based Xiaomi is another Chinese smartphone vendor known for its marketing savvy. The company, founded in 2010, has since created a cultlike fan base among techie types who are often early adopters of new gadgets.
+Xiaomi, which doesn't disclose whether it is profitable, sells its phones mainly through its own website, and offers an array of accessories including multicolored batteries and dolls. It builds brand loyalty in part by constantly tweaking its version of the Android operating system with suggestions from users and by offering weekly updates.
+"If you give us a suggestion, and we quickly change it, you will have a long-lasting sense of achievement," said Xiaomi founder Lei Jun in an interview. In the third quarter, Xiaomi was the No. 6 smartphone vendor in China, slightly behind Apple, according to Canalys.
+Social media has played a role in Xiaomi's popularity. Mr. Lei, who has been often compared with Apple's late founder Steve Jobs for his presentation style at product releases, has close to eight million followers on Sina Weibo.
+Looking to expand its business overseas, Xiaomi last year hired Hugo Barra, who was an executive at Google's Android business. Mr. Barra said earlier this month that Xiaomi would expand into Singapore.
+The success of Xiaomi and Oppo made other Chinese companies see the importance of marketing and social media.
+Coolpad's Mr. Zhang said that the company's executives have become more active on social-media platforms like Sina Weibo and on the Chinese smartphone messaging service WeChat.
+"Being a software engineer, I didn't talk to users and media several years ago," said Mr. Zhang. "But the market has changed a lot. Now I always interact with users on my Weibo," said Mr. Zhang, who has more than 275,000 followers on the microblog.
+Coolpad has won fans including Yang Guang, an 18-year-old student in Guangzhou who bought the Coolpad 9070 smartphone several months ago.
+"Only a minority of students from wealthy families can afford to buy expensive foreign-brand smartphones," said Mr. Yang.
+License this article from Dow Jones Reprint Service
+Document AWSJ000020140129ea1u0000r
+<@End News@>
+
+ The Morning Download: Hardware Joins the Software Revolution
+CIO Report, 08:07, 29 January 2014, 2163 words, By Michael Hickins, (English)
+The Morning Download comes from the editors of CIO Journal and?cues up the most important news in business technology every weekday morning.?Send us your tips, compliments and complaints. You can get The Morning Download emailed to you each ...
+Document WCCIOR0020140129ea1t00001
+<@End News@>
+
+Tech
+In China, the Coolpad Is Hotter Than Apple's iPhone
+Lorraine Luk 
+1,271 words
+28 January 2014
+06:46
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+HONG KONG¡XApple Inc. and Samsung Electronics Co. are the dominant smartphone brands in the U.S. and in many other parts of the world. But in China, the world's biggest smartphone market, there isn't a clear winner yet.
+Virtually unheard of outside China, several homegrown brands are gaining ground and seeking to challenge the technology giants' duopoly. Working in their favor: advanced hardware at lower prices, strong relationship with Chinese carriers, as well as creative ways to build a fan base through social media and online forums.
+Hundreds of millions of Chinese mobile users still haven't replaced their basic phones, making the country a critical battleground for global smartphone brands at a time when growth is slowing in the U.S. and other mature markets.
+Research firm Canalys estimates that smartphone shipments in China totaled 354 million units last year¡Xcompared with 139 million units in the U.S. Canalys expects Chinese shipments to increase to 422 million units this year.
+Zhou Cheng, a 25-year-old shop manager in the southern province of Hunan, recently purchased his first smartphone to replace his old Nokia handset. He spent nearly $500 for the Oppo Find 5 from Oppo Mobile Telecommunications Corp., based in Dongguan. The device runs on Google Inc.'s Android operating system, and comes with a 13-megapixel camera and a 5-inch high-resolution screen that has more pixels per inch than Apple's new iPhone 5S.
+"It looks good and works well," Mr. Zhou says, describing Oppo as cooler than other Chinese smartphone brands such as Lenovo Group Ltd. and Huawei Technologies Co. "Oppo is for young people and its phones are more stylish." The Find 5, which is about 30% cheaper than Apple's entry-level iPhone 5C in China, also fit his budget.
+Mr. Zhou is one of many Chinese consumers that companies like Oppo, Coolpad and Xiaomi Inc. are targeting. Their growing presence is creating a more challenging environment for foreign brands such as Apple and Samsung.
+China's mobile market is so big that some local handset vendors, despite focusing mainly on the domestic market, already sell more smartphones overall than global competitors. In the third quarter of last year, Coolpad, the smartphone brand of China's Yulong Computer Telecommunication Scientific (Shenzhen) Co., was the sixth-biggest smartphone vendor by units sold world-wide, ahead of Nokia Corp. and Sony Corp., according to Canalys.
+In China itself, Coolpad ranked third with a market share of 11%, behind Samsung's 21% and Lenovo's 13%. Apple came in fifth with 6%.
+Apple will likely get a boost in China this year after China Mobile Ltd., the country's largest carrier with more than 760 million subscribers, started selling iPhones for the first time on Jan. 17. Earlier this month, China Mobile Chairman Xi Guohua said the carrier had received preorders for more than a million iPhones since it started accepting them in late December.
+Apple on Monday reported a 29% increase in its revenue in China, Hong Kong and Taiwan combined for the quarter ended Dec. 28. The company didn't disclose its iPhone sales in China, but Chief Executive Tim Cook said, "We've been selling with China Mobile now for about a week. And last week was the best week for activations we've ever had in China."
+Still, analysts said the higher upfront costs of China Mobile's iPhone contracts¡Xcompared with those at other Chinese carriers¡Xcould deter many price-conscious consumers.
+Coolpad, which started out in 1993 as a maker of pagers and telecom equipment, is now one of the more established players in China's mobile industry. Its strength lies in its close business ties with all major Chinese telecom carriers, which help distribute its phones outside major urban centers such as Sichuan and Hunan.
+One of Coolpad's most popular phones, the Coolpad 9080W, comes with a 5.7-inch screen, an 8-megapixel camera and a quad-core processor, even though it sells for about $260.
+Coolpad says it is trying to attract millions of first-time smartphone users in China. Its parent company reported that its first-half profit in 2013 rose 40% to 212.8 million Hong Kong dollars (US$27.4 million) from HK$152.5 million in 2012.
+"When first-time smartphone users have a good experience with our phones, they may buy more expensive Coolpad models later when their purchasing power increases," said Coolpad Vice President Zhang Guang-qiang in an interview.
+Some analysts are skeptical about Coolpad's strategy, noting it will be a big challenge to raise its brand and convince consumers to pay more for its handsets.
+Apple remains one of the most desirable brands in China, as local consumers' recent frenzy over the gold-colored iPhone 5S indicated. Samsung, a household name in China because of its TV sets, sells smartphones that cost less than $200 to compete against local handset vendors.
+Apple and Samsung declined to comment about competition in China.
+Executives from Chinese smartphone makers say their companies are well positioned to understand the local market and cater to the needs of specific types of Chinese consumers.
+Oppo, which has previously used actor Leonardo DiCaprio in its ads and promoted its phones through tie-ins with local TV shows, has been particularly successful in attracting young female customers.
+The private company doesn't disclose earnings, though it said it makes a profit from smartphones.
+Beijing-based Xiaomi is another Chinese smartphone vendor known for its marketing savvy. The company, founded in 2010, has since created a cultlike fan base among techie types who are often early adopters of new gadgets.
+Xiaomi, which doesn't disclose whether it is profitable, sells its phones mainly through its own website, and offers an array of accessories including multicolored batteries and dolls. It builds brand loyalty in part by constantly tweaking its version of the Android operating system with suggestions from users and by offering weekly updates.
+"If you give us a suggestion, and we quickly change it, you will have a long-lasting sense of achievement," said Xiaomi founder Lei Jun in an interview. In the third quarter, Xiaomi was the No. 6 smartphone vendor in China, slightly behind Apple, according to Canalys.
+Social media has played a role in Xiaomi's popularity. Mr. Lei, who has been often compared with Apple's late founder Steve Jobs for his presentation style at product releases, has close to eight million followers on Sina Weibo.
+Looking to expand its business overseas, Xiaomi last year hired Hugo Barra, who was an executive at Google's Android business. Mr. Barra said earlier this month that Xiaomi would expand into Singapore.
+The success of Xiaomi and Oppo made other Chinese companies see the importance of marketing and social media.
+Coolpad's Mr. Zhang said that the company's executives have become more active on social-media platforms like Sina Weibo and on the Chinese smartphone messaging service WeChat.
+"Being a software engineer, I didn't talk to users and media several years ago," said Mr. Zhang. "But the market has changed a lot. Now I always interact with users on my Weibo," said Mr. Zhang, who has more than 275,000 followers on the microblog.
+Coolpad has won fans including Yang Guang, an 18-year-old student in Guangzhou who bought the Coolpad 9070 smartphone several months ago.
+"Only a minority of students from wealthy families can afford to buy expensive foreign-brand smartphones," said Mr. Yang.
+Document WSJO000020140128ea1s005sd
+<@End News@>

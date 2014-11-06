@@ -4,13 +4,14 @@ url = ARGV[0].to_s
 
 f = File.new("#{url}-write.txt",'w')
 isEnd = false
-
+number = 0 
 File.open("#{url}.txt").each do |line|
 
 
 	if line[0] == "\n"
 		if isEnd
-			f << "<@End News@>"
+			f << "<@End News@>\n\n"
+			number += 1
 		end
 
 		isEnd = false
@@ -25,3 +26,5 @@ File.open("#{url}.txt").each do |line|
 	f << line
 end
 f.close
+
+puts "News Number : #{number}\n"

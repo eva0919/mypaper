@@ -1,20 +1,4 @@
-<title:>By Rolfe Winkler   
-<Date:>7 December 2013
+<title:>BRIEF-Taiwan smartphone maker HTC's August consolidated revenue up 10.43 pct y/y at T$14.5 bln
+<Date:>2 September 2014
 <Content:>
-Google Inc.'s Motorola unit is selling its new Moto G smartphone at starkly thinner profit margins than rival phones, according to a new analysis, a move that could put new pressure on industry leaders Apple Inc. and Samsung Electronics Co.
-Research firm TechInsights estimates that the components inside a Moto G with 16 gigabytes of memory cost $123. Motorola charges $199 for the device in the U.S. without a wireless contract.
-Including other costs, Sanford C. Bernstein & Co. analyst Mark Newman estimates that the Moto G will generate an operating profit margin of less than 5%. A Motorola spokeswoman said "we make money on every device sold."
-By comparison, Mr. Newman estimates that Samsung records a roughly 20% operating margin on a midtier phone such as the Galaxy S3 Mini, and a 28% margin on its high-end Galaxy S4 device. His Bernstein colleague Toni Sacconaghi estimates that Apple's operating-profit margins on its new iPhone 5S and 5C phones are 30% to 35%.
-Viewed another way, the Galaxy S4 includes about $91 more smartphone circuitry than the Moto G, according to TechInsights, but U.S. consumers would pay roughly $440 more for the device without a contract at AT&T Inc.
-Google's 2012 acquisition of Motorola was a provocative move that put it in competition with partners making phones based on its Android operating system, including Samsung.
-Selling devices at thinner margins than they do may add to tensions. "Samsung doesn't want to move away" from Android says Mr. Newman, "but if [Google] points a gun at their head, they may be forced to."
-A Samsung spokesman declines to comment.
-Motorola Chief Executive Dennis Woodside has previously said rival phone makers' prices are too high. In an interview, he says, "The way I see it is there is massive demand and the market isn't satisfying that demand."
-Since Google acquired Motorola, the unit has posted operating losses of roughly $2 billion, while pricing its phones slightly lower than rivals.
-Google introduced the Moto G last month, aiming at price-sensitive consumers and less-developed markets. It isn't compatible with the latest-generation LTE networks, which may limit its appeal in the U.S.
-Mr. Woodside declined to discuss sales figures, but noted the phone is on best-seller lists on Amazon.com Inc. websites in the U.K., Germany and Spain.
-Samsung has the most to lose from Motorola's aggressive pricing strategy. Samsung is the world's leading seller of mobile phones, with 31.4% market share in the third quarter, according to Strategy Analytics. The South Korean company generates more than two-thirds of its operating profit from the sale of mobile devices, and it controls nearly all the profits among the makers of Android phones.
-The company's vast scale and vertical integration help insulate it from competition, analysts say. Samsung makes components like the display and memory that go into many of its devices.
-Smaller players without those advantages are seeing profit margins collapse. Taiwan's HTC Corp., for example, posted a loss in the third quarter.
-Even in emerging markets, Google is pricing the Moto G significantly below rivals. In Brazil, for example, the base model costs $348 without a contract, about $500 less than Apple's 5C. The difference in component costs, according to TechInsights: less than $90.
-License this article from Dow Jones Reprint Service
+Thomson Reuters is the world's largest international multimedia news agency, providing investing news, world news, business news, technology news, headline news, small business news, news alerts, personal finance, stock market, and mutual ...

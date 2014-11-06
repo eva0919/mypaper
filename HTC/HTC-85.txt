@@ -1,23 +1,15 @@
-<title:>By ERIC PFANNER   
-<Date:>4 November 2013
+<title:>Corporate News: Microsoft Claims Samsung Violated Patent Agreement
+<Date:>2 August 2014
 <Content:>
-TOKYO -- Secrecy has served Samsung Electronics well. Keeping its rivals guessing has helped Samsung, the South Korean technology giant, build a formidable lead in the smartphone industry, where it now sells more than one in three handsets worldwide.
-This summer, however, Samsung suffered from an unusual loss of confidence among investors -- caused partly by uncertainty over its strategy. Investors question what it intends to do with the $50 billion it has built up by selling all of those Galaxy S4's and Note 3's, and the chips in them. From early June through mid-July, Samsung's stock lost about one-fifth of its value.
-Foremost in many investors' minds is the future of the smartphone business, which provides about two-thirds of Samsung's earnings.
-The summer sell-off was also caused by concerns that smartphones were about to become commoditized, widely available and interchangeable. As differences in design and technology become less pronounced, companies like Samsung and its archrival, Apple, might lose their ability to charge a premium for high-end models, which now provide most of the profit in the industry.
-Though the share price has recovered, Samsung is trying to address lingering doubts. It has invited 350 analysts and institutional investors to a Seoul hotel on Wednesday for a rare gathering with the company's top management. While other big technology companies routinely hold such analyst days, it is Samsung's first since 2005, and only the second in its history.
-''In the past, they thought it was enough just to have rising earnings,'' said Byun Han-joon, an analyst in Seoul for KB Investment and Securities. ''Now they realize they need to be more investor-friendly.''
-Company officials, including the chief executive, Kwon Oh-hyun, are scheduled to take to the stage in Dynasty Hall at the Shilla Seoul hotel -- owned by another company in the Samsung industrial group -- for a day of presentations of a variety of subjects, including Samsung's financial situation and the outlook for mobile phones, memory chips, display screens and other products.
-''It will be a great chance to give investors better understanding on Samsung and to discuss its latest strategy and vision for 2020,'' the company said in a statement.
-After Samsung reassured shareholders with two strong quarterly financial reports, its stock price rebounded and is back near its highest levels. While smartphones remain highly profitable, the company also is benefiting from a recent surge in the price of memory chips.
-Samsung is the biggest maker of memory chips, accounting for about one-third of global output. It also makes display screens and other major components of smartphones. This separates it from Apple, which outsources the purchase of smartphone parts and their assembly, and other phone makers that have fallen on hard times, including BlackBerry, Nokia and HTC.
-''There is still a perception gap around the Samsung model and how they can keep making money while all the others are crashing down,'' said Sundeep Bajikar, an analyst at Jefferies, a brokerage firm, who is based in San Francisco.
-Many analysts say that, rather than crashing, Samsung will continue to make a lot of money, with semiconductors contributing a growing share of earnings. Now investors want to know what Samsung intends to do with all that cash.
-Mark Newman, an analyst in Hong Kong for Sanford C. Bernstein, predicts that Samsung's cash pile will soar to $77 billion next year and $160 billion in 2017. Apple, by comparison, has $147 billion in cash.
-Yet Samsung investors have seen little of it. The percentage of net income the company has paid out in dividends or stock buybacks fell to 5 percent last year from 50 percent in 2004, Mr. Newman wrote in a note to investors.
-He said that is one reason the company's stock price has lagged. Despite the recent rebound, Samsung trades at a significant discount to Apple, in price-to-earnings ratios. It has less than half the market value of Apple, despite higher revenue.
-''The company needs to either return cash or convince investors of the next profit driver after memory -- preferably both,'' Mr. Newman said.
-Others say it would be smarter for Samsung to invest its money in semiconductors, a highly capital-intensive business, and in other potential growth areas.
-''I think their dollars or won are best invested in disrupting their competition,'' Mr. Bajikar said.
-''Samsung will continue to look for ways to be more open to shareholders,'' the company said in its statement about analyst day.
-The Galaxy S4 sells well, but investors worry about the future  of smartphones, which provide two-thirds of Samsung's profits. (PHOTOGRAPH BY JUNG YEON-JE/AGENCE FRANCE-PRESSE -- GETTY IMAGES)   
+Microsoft Corp. sued Samsung Electronics Co., claiming its Korean rival violated a patent-licensing contract.
+The dispute involves technology included in Android, Google Inc.'s operating system for mobile phones and tablets. Samsung is the leading maker of Android devices.
+Microsoft holds patents on technologies it says are included in Android, such as methods for displaying multiple windows in a Web browser. The Redmond, Wash., company has struck patent cross-licensing agreements with several Android-device makers including Samsung and HTC Corp. Microsoft also on occasion has sued some Android device makers for allegedly infringing on its patents.
+Under a 2011 deal, Samsung pays Microsoft an undisclosed amount for each Android phone and tablet it sells. Nomura Securities analyst Rick Sherlund last year estimated Microsoft collects roughly $2 billion annually from patent fees on Android devices.
+In a complaint filed in U.S. District Court in Manhattan, Microsoft said Samsung failed to make a recent royalty payment on time, and then refused to pay interest on its late payment. Samsung has said Microsoft's April purchase of Nokia Corp.'s mobile-devices business violated terms of the companies' licensing contract and another business agreement, according to Microsoft's court filing.
+"After becoming the leading player in the world-wide smartphone market, Samsung decided late last year to stop complying with its agreement with Microsoft," David Howard, a Microsoft deputy general counsel, wrote in a blog post Friday.
+"We will review the complaint in detail and determine appropriate measures in response," a Samsung spokeswoman said Friday.
+Patent disputes have become a fixture of the smartphone age, and they have spilled repeatedly into court including tussles between Samsung and Apple Inc. The Microsoft lawsuit shows intellectual property remains a flash point for wars among technology giants.
+The filing also highlights the secretive nature of patent negotiations. The public version of Microsoft's complaint is heavily redacted, including portions that appear to disclose the amount of patent royalty fees Samsung pays Microsoft, the method of calculating the fee and the length of the patent-licensing contract.
+Microsoft is asking a judge to enforce the terms of the 2011 contract, and declare that the Nokia acquisition doesn't invalidate the companies' licensing agreement.
+Samsung makes PCs running Microsoft's Windows operating system, and it sells smartphones with Windows Phone software.
+License this article from Dow Jones Reprint Service

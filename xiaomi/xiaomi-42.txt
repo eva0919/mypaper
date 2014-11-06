@@ -1,14 +1,4 @@
-<title:>By Tiernan Ray   
-<Date:>13 January 2014
+<title:>The Morning Risk Report: SEC Tactics Cause Counsel to Change Strategy
+<Date:>24 October 2014
 <Content:>
-[Financial Analysis and Commentary]
-Samsung Electronics' turn in the smartphone sun is coming to an end. To keep prospering, it needs a compelling software platform that sets it apart from rivals, not more gimmicks like curved screens.
-Samsung told investors Tuesday that fourth-quarter operating profit was likely down by 3.8% to 8.4% from a year earlier, the first year-over-year decline in nine quarters. Analysts had expected a 9% rise. Investors' reaction was mild because Samsung's stock already had fallen by more than 7% since Christmas in anticipation of weak results.
-Full details aren't available yet, but Samsung's cash cow, smartphones, were the likely culprits. A stronger Korean currency and employee bonuses may have also weighed, but slowing sales and slimmer margins in smartphones have been evident for some time.
-Samsung faces brutal competition because its phones employ Google's free Android software, the same as used by high-end rivals such as HTC and low-end Chinese phone makers like Xiaomi. Google's Motorola Mobility cut the price of its Android-powered Moto X to $399 from $550. That compares with $600 for Samsung's Galaxy S4. As a small part of Google, Motorola doesn't have to fret over margins.
-At the International CES show in Las Vegas this week, Samsung continued its strategy of trying every possible hardware design and seeing what sticks. This included a 105-inch bendable television and a tablet with a 12-inch screen.
-It is unclear why exactly anyone would want these, and designs can always be copied. The only real solution for Samsung is to drop its addiction to hardware and differentiate on software. Samsung's "smart home" initiative, also unveiled at CES, is a step in the right direction. It will allow, for instance, people to control air conditioning and lights from their phones.
-This is the kind of technology ecosystem -- like Apple's -- that binds people to a company and builds moats against competitors. But Samsung is just one of many vying to remake the home experience. That includes Microsoft, which is bidding to take over the living room with the Xbox One.
-Samsung Chairman Lee Kun-hee's annual speech to employees at the start of the year was a strident call for change. He urged employees to "get rid of business models and strategies from five, 10 years ago and hardware-focused ways."
-So Samsung is aware of the challenges. That doesn't mean, though, it will overcome them.
-License this article from Dow Jones Reprint Service
+The Securities and Exchange Commission is increasingly steering cases to hearings in front of the agency¡¦s appointed administrative judges, The Wall Street Journal reported this week, and those judges have ruled in the SEC's favor in every ...

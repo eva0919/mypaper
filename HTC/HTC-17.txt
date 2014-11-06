@@ -1,15 +1,4 @@
-<title:>By Shira Ovide   
-<Date:>2 August 2014
+<title:>Google¡¦s Nexus Line: Nexus 6 Phablet, Nexus 9 Tablet and Nexus Player
+<Date:>15 October 2014
 <Content:>
-Microsoft Corp. sued Samsung Electronics Co., claiming its Korean rival violated a patent-licensing contract.
-The dispute involves technology included in Android, Google Inc.'s operating system for mobile phones and tablets. Samsung is the leading maker of Android devices.
-Microsoft holds patents on technologies it says are included in Android, such as methods for displaying multiple windows in a Web browser. The Redmond, Wash., company has struck patent cross-licensing agreements with several Android-device makers including Samsung and HTC Corp. Microsoft also on occasion has sued some Android device makers for allegedly infringing on its patents.
-Under a 2011 deal, Samsung pays Microsoft an undisclosed amount for each Android phone and tablet it sells. Nomura Securities analyst Rick Sherlund last year estimated Microsoft collects roughly $2 billion annually from patent fees on Android devices.
-In a complaint filed in U.S. District Court in Manhattan, Microsoft said Samsung failed to make a recent royalty payment on time, and then refused to pay interest on its late payment. Samsung has said Microsoft's April purchase of Nokia Corp.'s mobile-devices business violated terms of the companies' licensing contract and another business agreement, according to Microsoft's court filing.
-"After becoming the leading player in the world-wide smartphone market, Samsung decided late last year to stop complying with its agreement with Microsoft," David Howard, a Microsoft deputy general counsel, wrote in a blog post Friday.
-"We will review the complaint in detail and determine appropriate measures in response," a Samsung spokeswoman said Friday.
-Patent disputes have become a fixture of the smartphone age, and they have spilled repeatedly into court including tussles between Samsung and Apple Inc. The Microsoft lawsuit shows intellectual property remains a flash point for wars among technology giants.
-The filing also highlights the secretive nature of patent negotiations. The public version of Microsoft's complaint is heavily redacted, including portions that appear to disclose the amount of patent royalty fees Samsung pays Microsoft, the method of calculating the fee and the length of the patent-licensing contract.
-Microsoft is asking a judge to enforce the terms of the 2011 contract, and declare that the Nokia acquisition doesn't invalidate the companies' licensing agreement.
-Samsung makes PCs running Microsoft's Windows operating system, and it sells smartphones with Windows Phone software.
-License this article from Dow Jones Reprint Service
+A day ahead of Apple's expected introduction of next-gen iPads and iMacs, Google is announcing three new Nexus devices: a Nexus 6 smartphone, a Nexus 9 tablet and the Nexus Player, a set-top box for streaming media and games. The new trio ...

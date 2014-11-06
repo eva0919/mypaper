@@ -1,12 +1,5 @@
-<title:>By Eva Dou   
-<Date:>6 January 2014
+<title:>The Internet of (Hardly Connected) Things
+<Date:>8 September 2014
 <Content:>
-TAIPEI -- HTC Corp. eked out a small net profit for the fourth quarter, buoyed by gains from selling its stake in a U.S. headphone company. But the Taiwanese smartphone maker again posted an operating loss amid falling sales.
-Preliminary net profit totaled 310 million New Taiwan dollars (US$10.4 million), after HTC sold its remaining stake in Beats Electronics LLC for NT$265 million, the Taiwan-based company said Sunday.
-The headline number was better than the average forecast from 24 analysts polled by Thomson One Analytics, who had expected a net loss of NT$1.09 billion. It was also an improvement from the third quarter, when the company posted a net loss of NT$2.97 billion, HTC's first since it listed on the stock market in 2002.
-But HTC remained in the red on the operating level, because of higher production costs and shrinking sales. The operating loss narrowed to NT$1.56 billion in the fourth quarter from a loss of NT$3.5 billion in the third quarter, the company said.
-Revenue totaled NT$42.9 billion, in line with the company's previous forecast for a range of NT$40 billion to NT$45 billion, and down from NT$47 billion in the third quarter.
-In its brief statement, the company neither elaborated on its results nor provided year-earlier figures.
-HTC posted a net profit of NT$1 billion and revenue of NT$60 billion for the same period a year earlier, but Taiwan's accounting standards have since changed.
-The top maker of Android smartphones in the U.S. during its heyday in 2010, HTC has since found it difficult to keep up with competition and is no longer among the top 10 global smartphone makers.
-License this article from Dow Jones Reprint Service
+By ?Stephan D?rner and Chase Gummer
+The "Internet of Things" ?which refers to the billions of devices that are expected to be connected to each other and to the Internet, is a catchphrase that's hard to escape these days.

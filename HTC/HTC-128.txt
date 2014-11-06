@@ -1,0 +1,14 @@
+<title:>Home & Digital: #ASKWSJD
+<Date:>7 May 2014
+<Content:>
+[Nathan Olivarez-Giles answers readers' technology questions]
+In this week's #AskWSJD, reader Daniel Fujii asks if there are any smartphone apps that mimic the new HTC One M8's UFocus camera feature, which lets users adjust the focus of a photo after it's been shot. The HTC pulls this off by using a two-camera setup, with one camera dedicated to recording depth info.
+Unfortunately for Daniel and anyone else who doesn't buy the newest HTC One, there are no apps for phones running iOS, Android or even Windows Phone that offer the same feature. There are plenty of great photo apps out there that have a feature called tilt shift, which blurs certain parts of a picture to simulate the effect of refocusing a photo.
+Our top choices: TiltShift Generator on iOS, Awesome Miniature on Android, and, on either operating system, Snapseed and Instagram. For Windows Phone, there's Tilt Shift.
+If you own an iPhone and want to take your smartphone photo editing beyond tilt shift, there are plenty of other apps to check out. VSCO Cam, which is also available on Android, has become popular for its photo filters. Mextures enables you to create "formulas" from 130 options of light leaks, grain and color gradients. And Camera+ offers a broad range of editing features with iCloud syncing too.
+But for people interested in focus tricks beyond a smartphone, there is the Lytro camera, which uses an entirely different approach called light-field photography to allow you to change the focus of already snapped photos.
+Lytro cameras use special sensors to capture not only the light hitting a lens, but also the direction of the light. The result is essentially a three-dimensional data capture that allows images to be manipulated after the fact using Lytro's special software.
+The entry-level Lytro camera sells for $249.
+---
+To ask a question, send a tweet with the question and the hashtag, #AskWSJD or send an email to personaltech@wsj.com.
+License this article from Dow Jones Reprint Service

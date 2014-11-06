@@ -1,13 +1,30 @@
-<title:>By Dan Gallagher   
-<Date:>9 January 2014
+<title:>No sapphire on your new iPhone? China's Huawei has you covered
+<Date:>10 September 2014
 <Content:>
-[Financial Analysis and Commentary]
-The International CES trade show is no longer the prime launching ground for mobile phones. But an early read from this week's conference points to one literally big trend: Smartphone makers are pushing screen sizes even larger.
-But big sales of such devices might not follow suit.
-Larger screens are in demand, but remain a small part of the smartphone market. Kantar Worldpanel ComTech estimates that phones with screens of five inches and larger accounted for about 15.2% of U.S. smartphone sales during October and November. And that period saw the launch of Samsung's Galaxy Note 3, which sports a 5.7-inch screen.
-Samsung has championed so-called phablets with the Galaxy Note family. It said in December that it shipped 10 million units of the Note 3 in its initial two months. Yet its profit warning this week was chalked up in part to slowing smartphone sales. Mark Newman of Sanford C. Bernstein reckons Samsung "aggressively cleared channel inventory" during the fourth quarter.
-Still, the phablet segment's growth has attracted the interest of rivals. Nokia, Sony, LG Electronics, HTC and even BlackBerry launched smartphones with screens five inches and larger in late 2013, and Google entered this segment with its own Nexus 5. At CES this week, Huawei, a Chinese maker of networking gear, unveiled the 6.1-inch Ascend Mate 2. Personal-computer maker Asus unveiled a new line of smartphones that includes the Padfone -- a 4.3-inch smartphone that docks with a 10.1-inch tablet -- and three Zenfone models with screen sizes of four, five and six inches.
-And more may be coming. Handset makers have taken to using the Mobile World Congress trade show in Barcelona as a launchpad for new devices. Samsung, LG and Sony already are rumored to have more smartphones in the queue to announce at the event, which gets under way on Feb. 24.
-One big question: What Apple will do? Most analysts expect it to put out a larger-screen iPhone this year, having sat out of this segment to date. Conventional wisdom says doing so has cost Apple sales, though Kantar's data indicate that sales in the four-inch category still accounted for 47.3% of total smartphone sales in October and November.
-If Apple launches an iPhab, it will be a behemoth weighing into an already crowded market. The problem with the next big thing is that it makes a large target for your rivals.
-License this article from Dow Jones Reprint Service
+SEOUL/TAIPEI (Reuters) - Apple Inc <AAPL.O> may have disappointed many consumers by not putting sapphire glass covers on its new iPhone, but the scratch-resistant material is gradually making its way into mobile devices despite manufacturing challenges and high costs.
+Speculation had been rife in the weeks leading up to Tuesday's unveiling of the iPhone 6 that some models would have the extra protection after Apple partnered in November with U.S.-based GT Advanced Technologies Inc <GTAT.O>, a mineral crystal specialist, to make sapphire materials for its devices.
+Apple said sapphire glass would be used on its first smartwatch. It also continues to use the durable material to cover the iPhone's camera lens and home button, but gave no hints as to if, or when, the glass would be used on iPhone screens.
+China's Huawei Technologies Co Ltd [HWT.UL] last week became the first major handset maker to announce the use of sapphire screen covers, saying it would release a limited edition version of its high-end phone with such protection.
+Sapphire glass is the hardest material in nature after diamonds. It is used in LED lighting, high-end jewelry and military equipment such as submarine and rocket windows.
+According to a recent survey by used phone marketplace www.uSell.com, the most wanted new iPhone 6 feature had been sapphire glass, which is also more sensitive to the touch than other screen protectors.
+JP Morgan expects the adoption of sapphire faceplates for smartphones to rise several times next year, albeit from a very low base.
+Some Asian handset makers have been talking with the world's two biggest suppliers of raw sapphire glass: U.S.-based Rubicon Technology <RBCN.O> and South Korea's Sapphire Technology <123260.KQ>.
+"All smartphone manufacturers have been meeting with all the major sapphire producers including Rubicon," William Weissman, chief financial officer of Rubicon, told Reuters by email.
+Sapphire Technology said it had received inquiries from several handset manufacturers, although it declined to identify any prospective customers. Neither have secured big supply deals, company officials say.
+Companies such as Rubicon and Sapphire Technology usually sell big chunks of glass to fabricators who then slice it into thin wafers before polishing it.
+Apple locked in exclusive supply of the material from GT Advanced with a $578 million investment in a sapphire manufacturing facility in Arizona.
+MORE EXPENSIVE THAN GORILLA GLASS
+Many analysts expect sapphire glass to be limited initially to premium products due to high prices and the defect rates stemming from difficulties in configuring the glass into smartphone covers.
+Finished sapphire covers could cost as much as $40-$45, compared with less than $10 for Gorilla Glass, the screen of choice for most smartphones, according to analysts.
+Another Chinese company, Xiaomi Inc, has ordered sapphire covers for a limited edition premium smartphone, according to a recent report by South Korea's Electronic Times. Xiaomi declined to comment.
+China's ZTE Corp <000063.SZ> would use sapphire glass on wearable devices it was on the verge of pushing out, an executive said, but did not have immediate plans to introduce such covers on smartphones.
+"We believe it's not appropriate for large-scale use because the sapphire supply chain remains complicated, the volume is not high and production capacity is insufficient," said Qianhao Lv, global marketing director of ZTE's mobile business group.
+LG Electronics Inc <066570.KS> spokesman Ken Hong said the South Korean company had looked at sapphire screen protection but did not believe the technology was ready yet.
+Samsung Electronics Co <005930.KS> and Taiwan's HTC Corp <2498.TW> declined to comment. Shenzhen-based Coolpad <2369.HK> was not immediately available to comment.
+The sapphire industry has battled thin margins and falling prices for years due to weak demand from the LED lighting sector, the biggest driver of sapphire consumption. Prices of sapphire wafers for LED lights have dropped to a quarter of where they were a decade ago.
+Sapphire crystals are created by applying high heat to purified aluminum oxide in a cylinder called a boule, which is then sliced into thin wafers and polished to form products.
+"A major reason for the high cost is that sapphire has just begun to catch on so the defect-free rate is not very stable ... but recently players have been putting a lot of effort into solving this problem," said Hsu Ya-ling, chief financial officer at Tera Xtal Technology, a fabricator based in Taiwan.
+Weissman said Rubicon was working on hybrid solutions that would provide many benefits of sapphire as well as a couple of processes that would eliminate the slicing and polishing steps.
+Sapphire Technology is also making the boule in a rectangular shape, which allows more smartphone faceplate cuts than bar-type boules.
+(Additional reporting by Jeremy Wagstaff in SINGAPORE, Gerry Shih in BEIJING, J.R. Wu in TAIPEI and Christina Farr in SAN FRANCISCO; Writing by Miyoung Kim; Editing by Dean Yates) 
+Released: 2014-9-10T06:20:33.000Z

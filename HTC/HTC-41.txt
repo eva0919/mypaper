@@ -1,26 +1,7 @@
-<title:>By Tiernan Ray   
-<Date:>21 April 2014
+<title:>BUZZ-WiLan Inc: Loses patent case against Apple
+<Date:>1 October 2014
 <Content:>
-Becoming the world leader in the mobile handset market was no easy task. Or at least that was the point Samsung tried to make Monday in its patent trial against Apple.
-In the trial, Apple has argued that Samsung became a world leader in the mobile handset business by copying features of its iPhones and iPads, violating patents along the way. On Monday, Samsung called one of the company's top marketing executives to the stand to argue that strong marketing was the major driver of sales.
-Todd Pendleton, the chief marketing officer for Samsung's American division, testified that when he joined Samsung in 2011, he was not even aware the company made smartphones. And that, he said, demonstrated that the company had a branding problem.
-''I think people knew Samsung for televisions,'' Mr. Pendleton said. ''But in terms of smartphones, there was no recognition for what our product was or what it stood for.''
-Samsung already had a better phone than Apple, Mr. Pendleton argued, but people just didn't know about it. At the time, Samsung was still No. 4 in the market, behind Apple, HTC and Research in Motion, now called BlackBerry. Mr. Pendleton said he had to build a marketing plan from scratch. He said he decided to build a brand around the idea that Samsung would stand for ''relentless innovation'' by shipping the best hardware on the market before anyone else.
-Eventually Samsung began a marketing campaign called the Next Big Thing, which aggressively mocked the iPhone while promoting Samsung devices as the best on the market.
-Samsung's phone sales grew quickly. In 2012, sales of Samsung's Galaxy S III surpassed the iPhone for a short period, making it the best-selling smartphone in the world.
-When asked whether Samsung plotted to surpass Apple, Mr. Pendleton said: ''Our goals at Samsung are always to be No. 1 at everything we do. To beat everyone.''
-Earlier in the trial, which started two weeks ago, Apple presented evidence that suggested Apple in particular was in Samsung's cross hairs. Apple's lawyers presented a memo written by Dale Sohn, a former Samsung executive in charge of its phone business, which said: ''Beating Apple is no longer merely an objective. It is our survival strategy.''
-When Apple's lawyers questioned Mr. Pendleton, they showed an email written by Mr. Sohn in 2012 about the company's attack plan against the iPhone 5.
-''There will be a tsunami when iPhone 5 is coming,'' the email read, and Samsung needed to find a way to counter.
-Mr. Pendleton acknowledged that Samsung had a specific plan during the release of the iPhone 5. Typically when new iPhones are released, he said, sales of Samsung's phones dip, and the company was trying to prevent that dip.
-In the lawsuit, Apple is seeking about $2 billion in damages from Samsung for violating a handful of mobile software patents. Samsung, meanwhile, contends Apple has violated two of its patents.
-This is the second big patent trial between the companies. But unlike the earlier one, which Samsung lost, both sides have relied more on storytelling, rather than the actual details of the patents, to sway the jury.
-Several main witnesses in this trial, including Mr. Pendleton, Mr. Sohn and Philip W. Schiller, Apple's marketing chief, have all acknowledged that they know very little, if anything, about the patents being disputed. Rather, the companies have been leaning on these executives to paint the broad strokes: Apple wants to show how hard the iPhone was to develop before Samsung copied it, while Samsung wants the jury to recognize that catching up to Apple was hard work and that it had to innovate a lot on its own.
-Throughout the trial, Apple's lawyers have insisted that the fight is about getting money from Samsung, which is based in South Korea, to discourage it from copying. But Samsung's lawyers have said Apple's real goal was more broad: to eliminate competition for the iPhone by attacking Google's Android system, which runs on over a billion devices on the market.
-While Google is not a defendant in this case, Samsung's phones include Android, and some of the Apple patents in this trial involve features that Google put in Android.
-So Samsung has held Google up as a shield, calling several Google employees as witnesses throughout this trial. For instance, on Monday, it called Paul Westbrook, a software engineer for Google, as a witness to explain how Google's data syncing for email worked -- to defend itself against Apple's accusation that Samsung infringed a patent on data syncing.
-But Apple's lawyers are not humoring any arguments from Google. They have repeatedly stressed to the jury that Google is not an official defendant in this case, and that Samsung is the one that gets to decide what software it loads on its phones before selling them.
-''This case is about smartphones and tablets that Samsung makes and sells in the United States, right?'' Rachel Krevans, a lawyer representing Apple, said while questioning Mr. Westbrook. ''Samsung made the choice what code to put on them, right?''
-Mr. Westbrook replied, ''Um, sure,'' and Ms. Krevans soon after wrapped up her questioning.
-This is a more complete version of the story than the one that appeared in print.
-Todd Pendleton   
+** Canadian patent licensing company's U.S.-listed shares down 12 pct at $3.08 after market
+** Company says U.S. judge ruled in favor of Apple Inc in a patent infringement lawsuit brought by WiLan in December 2012
+** HTC Corp and Sierra Wireless Inc, also accused by WiLan, had signed licensing deals to settle the dispute
+Released: 2014-10-4T22:26:42.000Z

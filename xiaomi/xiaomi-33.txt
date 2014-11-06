@@ -1,17 +1,19 @@
-<title:>By Don Clark   
-<Date:>14 May 2014
+<title:>Tech
+Xiaomi Defends Its Smartphone Business Model; Markets Chosen to Fit Low-Cost Approach, Hugo Barra Says
+<Date:>28 October 2014
 <Content:>
-Nvidia has been jostling with other chip makers to supply key components for smartphones and tablets. That is a tough market, and the Silicon Valley company has decided to concentrate on where it has the most muscle.
-That would be devices that are especially tailored for playing videogames, building on the graphics technology for rendering three-dimensional images that has long been at the core of Nvidia's business.
-Signs of a strategy shift have been increasingly evident in some of the company's recent statements, including remarks by Nvidia Chief Executive Jen-Hsun Huang at the company's annual technology conference in March.
-In an interview after the release of first-quarter results last week, Mr. Huang said prioritizing graphics-oriented applications in mobile devices mirrors the targeted strategy the company has long used for products like personal computers. "We really focus on visual computing problems," Mr. Huang said.
-The goal seemed broader two years ago. Nvidia's Tegra chips were selected for some high-profile tablets -- including a $249 seven-inch AsusTek model that Huang showed off at the 2012 Consumer Electronics Show -- and Microsoft's original Surface tablet launched that year.
-Smartphones were a tougher proposition. Rival Qualcomm, for one thing, has decades of experience in the cellular communications technology that often is combined on the same piece of silicon with calculating functions. Nvidia spent $367 million to buy the British chip company Icera to add wireless technology.
-The two biggest smartphone makers, Apple and Samsung, have used Qualcomm's products for communications but favor their own processor chips.
-Meanwhile, many other chip makers are targeting the mobile market, including Intel, MediaTek, Broadcom and Marvell.
-Not that Nvidia's broader pitch to the mobile market hasn't paid some dividends. Last September, the fast-growing Chinese company Xiaomi selected the company's Tegra 4 processor for a smartphone. In France, Wiko Mobile earlier this year launched a handset with Nvidia's Tegra 4i chip, which includes LTE wireless capability. Nvidia also has shown success in getting Tegra selected for automotive applications.
-Besides just selling chips, Nvidia has tried to spur interest among gamers with Shield, an unusual portable device with a display and game controllers, and a design for a tablet called the Tegra Note 7 being brought to market by hardware partners in several countries.
-Yet the company doesn't seem eager to participate in parts of the market where low prices trump performance.
-Rather, Mr. Huang is betting that Google's Android software is going to become a major target for game developers. And that should spur the creation of performance-oriented devices where Nvidia chips can shine.
-"You are going to see us do some really great things in gaming on top of Tegra," he said.
-License this article from Dow Jones Reprint Service
+LAGUNA BEACH, Calif.¡XChinese smartphone maker Xiaomi Inc. said its international expansion plans are dictated by choosing markets where its low-cost business model will work well and not by avoiding areas of potential intellectual-property-litigation risk sweeping across the smartphone industry.
+Speaking at the WSJD Live Global Technology Conference, Hugo Barra, Xiaomi¡¦s global vice president, said it looks for markets where the price of a smartphone constitutes a large part of a consumer¡¦s income. Those markets, Mr. Barra said, are where Xiaomi¡¦s model of selling smartphones at near cost works especially well.
+Xiaomi passed Apple Inc. and Samsung Electronics Co. to become the best-selling smartphone provider in China in the second quarter, according to Canalys, a research firm. It has moved into India, Indonesia and other parts of Asia. Mr. Barra said the company is looking at a move into Brazil and Mexico next.
+Xiaomi has taken the Chinese smartphone market by storm. It offers its phones at rock-bottom prices, often selling out new models online in minutes. It makes money by charging for services and accessories that accompany the phones. It also relies on a legion of loyal fans to test new features and drum up enthusiasm for the company.
+But for all of Xiaomi¡¦s successes, rivals and critics have said the company would face patent infringements if it expanded to the U.S. or Europe because it doesn¡¦t have enough intellectual property to strike cross-licensing patent deals with other smartphone manufacturers.
+¡§Our situation when it comes to patents is the same as everyone else,¡¨ said Mr. Barra, noting that his company files for a significant number of patents in China and strikes licensing deals abroad. Litigation risk ¡§is not a determining factor¡¨ in deciding the best markets for Xiaomi¡¦s international expansion, he said.
+The issue came to prominence earlier this month when Jony Ive, Apple¡¦s senior vice president of design, was asked about Xiaomi and how some smartphone designs seem to resemble the iPhone. Without mentioning Xiaomi specifically, the usually soft-spoken Mr. Ive said it was ¡§theft¡¨ and called it ¡§lazy.¡¨
+Mr. Barra said there is no such thing as a completely unique design language in the smartphone industry, noting that Apple¡¦s iPhone 6 takes a chapter from designs by Taiwanese smartphone maker HTC Corp. He says that what Apple does is no different than what Xiaomi does. ¡§This idea of building upon great ideas and putting a twist on it is what we do,¡¨ he said.
+An Apple spokeswoman declined to comment.
+Xiaomi¡¦s smartphones run on a version of Google Inc.¡¦s Android operating system. Xiaomi is sometimes called ¡§the Apple of China¡¨ for the excitement it generates among consumers. Xiaomi sold about 18 million phones in the past year and it is forecasting sales of 60 million units this year.
+The company poses a threat to other smartphone manufacturers because of its willingness to accept low margins on hardware to make money elsewhere. For example, Xiaomi¡¦s popular Redmi phone is about a quarter of the price of the iPhone 6, which sells for more than $800 in China.
+¡§We fundamentally believe that innovation is not a luxury item. Innovation is for everyone,¡¨ said Mr. Barra. ¡§We fundamentally believe that when it costs you $200 to make something, you shouldn¡¦t sell it for $600.¡¨
+Mr. Barra reiterated that the company has been moving data belonging to international users to servers outside China¡Xin Singapore and North America¡Xin an effort to assuage users¡¦ concerns about privacy. He said the decision to migrate servers outside of China was driven partially by a desire to improve performance by reducing network outages and latency, but he said users like to have data close.
+¡§It makes people feel better that they have data next to them,¡¨ Mr. Barra said.
+¡§Chinese companies are held to a higher standard than other companies out there.¡¨

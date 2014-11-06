@@ -1,13 +1,5 @@
-<title:>By Juro Osawa   
-<Date:>22 May 2014
+<title:>Xiaomi's Hugo Barra on Apple's Design Language
+<Date:>28 October 2014
 <Content:>
-Lenovo Group Ltd.'s chief executive warned of slower growth and hotter competition in China's smartphone market but said his company will overcome challenges through its purchase of Google Inc.'s Motorola Mobility handset business.
-"Now is a very tough period" for smartphone makers in China, CEO Yang Yuanqing said in an interview. "I believe China is the most fiercely competitive smartphone market in the world."
-Mr. Yang's comments came as the Chinese personal-computer maker on Wednesday reported another quarter of solid earnings growth. Profit for its fiscal fourth quarter rose 25% from a year earlier, helped by stronger sales of computers and mobile devices.
-Lenovo, which last year overtook Hewlett-Packard Co. as the world's largest PC maker by volume, is betting on smartphones as its next growth engine. In January, it said it would buy the Motorola business for $2.91 billion, a week after the Chinese company said it would purchase International Business Machines Corp.'s low-end server business for $2.3 billion. The Motorola and IBM deals await U.S. regulatory approval.
-Mr. Yang said Motorola has strong relationships with carriers in North and South America. Lenovo plans to sell Motorola-branded smartphones in the U.S. following the deal, rather than handsets with the Lenovo logo, he said.
-The Motorola acquisition means Lenovo is betting heavily on handsets as China's smartphone market shows signs of a slowdown after years of robust growth.
-Total smartphone shipments in China stood at 97.5 million units in the first quarter, down 3% from the fourth, according to research firm Canalys. Nearly 65% of China's mobile-phone subscribers already use smartphones, Canalys analyst Nicole Peng estimated.
-Lenovo is the second-largest smartphone vendor in China, after Samsung Electronics Co. But it faces challenges from foreign and domestic competitors, such as Apple Inc., HTC Corp. and fast-growing Chinese startup Xiaomi Inc.
-Mr. Yang said the Chinese smartphone market will become less crowded as some players fail to survive the intense competition. At that time, Lenovo's handset business in China will become a more profitable, sustainable business, he said, similar to what happened in the PC market.
-License this article from Dow Jones Reprint Service
+Summary: Xiaomi's Hugo Barra offers his thoughts on Apple's approach to product design at the WSJD Live conference in Laguna Beach, Calif.
+So I've had a few times and I'll repeat that. In our designers our engineers are inspired by great ...

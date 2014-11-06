@@ -1,26 +1,4 @@
-<title:>By Charlie Wells   
-<Date:>27 September 2014
+<title:>HTC forecasts higher Q4 sales; above market estimates
+<Date:>31 October 2014
 <Content:>
-Technology companies want you to lose your wallet. The jury is still out on what this means for your money.
-Apple says it sold over 10 million units of its latest iPhone last weekend. That means over 10 million devices will be compatible with the company's Apple Pay, a service launching in October that will let users forgo cash or plastic and pay merchants with the tap of a phone. The service is linked to a credit or debit card.
-Apple's entry is just the latest in an expanding galaxy of mobile-payment systems with tap-to-pay capabilities.
-Over the past decade, companies such as Samsung Electronics, Google and HTC, along with credit-card networks MasterCard and Visa, have dabbled in such systems using near-field communication, or NFC, which allows devices like phones and receivers at the cash register to transmit information through a narrow radio frequency.
-This year, payments using NFC will double to $8.2 billion, according to market researcher Gartner. Still, that is just 2.5% of total mobile payments, a broader term that refers to the many different types of financial transactions that can be made using mobile devices.
-Coffee retailer Starbucks started letting customers pay with their phones in 2011, and now processes an average of six million U.S. mobile transactions a week, with 15% of all U.S. transactions at Starbucks made with a mobile device -- up from 10% last year -- according to a spokeswoman.
-The transactions are linked to a Starbucks prepaid card, which is reloadable from a credit- or debit-card account.
-Other retailers will need to follow suit in order for the technology to take off, says Jim DuBoyce, a payment specialist at W. Capra Consulting Group in Chicago. "Mobile payment on its own doesn't seem to have an appeal to the customer," he says. "The mobile plus loyalty plus rewards relationship does."
-Mary Liz Curtin, a 60-year-old small-business owner in Clawson, Mich., is an iPhone user and wants to upgrade to an iPhone 6. She thinks she would like to use Apple Pay, especially if it would prevent her from digging around her purse for loyalty cards when it comes time to pay. Ms. Curtin says she has taken to calling such cards "annoyalty cards."
-Apple says that its new payment system will offer security as well as convenience over the decades-old magnetic-stripe card technology. For one thing, Apple Pay will require a fingerprint authentication for payments to be made.
-Another reason, says Allen Weinberg, managing partner and co-founder of Glenbrook, a payments-industry consulting and research firm: Apple Pay won't store actual credit- or debit-card numbers on phones. And for each transaction, the technology will create a unique number that can be used only once, he says.
-If a digital interloper gets this information after the transaction, it will be virtually useless.
-Experts say that before using a mobile payment system, consumers should make sure they are familiar with and able to use the service's security functions.
-Google Wallet, for example, requires anyone using a phone to make a payment to type in an extra PIN, and allows users who have lost their phones to deactivate the payment feature.
-Although technology companies have been quick to ensure that convenience stores, large pharmacies and fast-food restaurants accept mobile payment, be careful about tapping to pay for small, regular purchases, says Paul Golden, a spokesman at the National Endowment for Financial Education.
-"If you buy the same $4.99 latte every day, it's hard to monitor and scrutinize the amount," he says. It could get difficult to differentiate between your own purchases, a glitch or foul play.
-While Silicon Valley firms tout the simplicity of mobile wallets, the relationships they keep with banks and credit-card companies may be complicated, Mr. Golden says.
-He recommends checking with your card issuer to make sure you know if the limits and liability are the same for tap-to-pay consumers, for example.
-Using mobile payments alone won't change your credit score, says Anthony Sprauve, senior consumer-credit specialist at credit-scoring firm Fair Isaac. But he cautions that consumers should take advantage of tools like Mint.com that make it easier to track spending on mobile devices to keep on top of their spending.
-Barry Saik, senior vice president of the consumer-ecosystem group at Mint parent company Intuit, says that debit cards tend to send information to the app faster than credit cards, and that of credit cards, American Express cards are the fastest.
-Depending on the network and bank, it can take from 30 seconds to up to a day for your spending information to reach Mint, he says. The closer to real-time the information hits, the better you can track and control your spending.
-For her part, Ms. Curtin says, there really is one lesson about credit cards that will likely continue to ring true: "Pay them off in full every month."
-License this article from Dow Jones Reprint Service
+TAIPEI Oct 31 (Reuters) - Taiwanese smartphone maker HTC Corp said on Friday that it expects revenue in the fourth quarter to reach T$43 billion-T$47 billion ($1.4 billion-$1.57 billion), beating market expectations of T$41.5 billion.
