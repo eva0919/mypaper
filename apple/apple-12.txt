@@ -1,0 +1,20 @@
+<title:>By Juro Osawa   
+<Date:>29 October 2014
+<Content:>
+A possible alliance in electronic payments between two of the tech world's hottest companies -- Alibaba Group Holding Ltd. and Apple Inc. -- could open doors for both in China, the world's biggest e-commerce market.
+But analysts and payment experts say such an alliance, which was suggested Monday by Alibaba Executive Chairman Jack Ma during an interview at the WSJD Live global technology conference, would face a host of technical and possibly regulatory hurdles.
+Mr. Ma said that Alibaba, the Chinese e-commerce giant that last month raised $25 billion in the world's biggest-ever initial public offering, is interested in partnering with iPhone maker Apple in payments. Apple Chief Executive Tim Cook said at the same conference that he is going to meet with Mr. Ma to discuss partnerships, without specifying what kind.
+Any such partnership could be a formidable force in China, where Alibaba controls roughly 80% of the country's online shopping market, valued at around $302 billion last year, according to the Chinese government.
+Alibaba's payment affiliate, Alipay, already handles a bulk of those online transactions, as well as a small share of in-store purchases. It is trying to expand further into payments at brick-and-mortar venues -- from shops to restaurants, taxis and theaters. Analysts say it could make headway with a tie-up that allows iPhone users to pay for goods from Alipay accounts with a tap of their handsets.
+Apple recently launched its own payment system, called Apple Pay. Working with Alipay in China could give the U.S. company access to Alipay's powerful transactions-settling system, which is already used by hundreds of millions of consumers and businesses. It would also let Apple take advantage of Alipay's existing agreements with more than 200 Chinese financial institutions, which allow users to transfer money from their bank accounts to Alipay accounts.
+Apple Pay, a feature of the new iPhone 6 and iPhone 6 Plus, uses a smart-chip technology that lets users pay by bringing their phones near an electronic reader, but it isn't yet available in China.
+A partnership with Apple would allow Alibaba to get access to information on payments made in brick-and-mortar stores through Apple Pay, analysts say.
+"If Alipay wants to collect more data on offline payments from high-end customers, working with Apple would make sense," said Forrester Research analyst Bryan Wang, noting that iPhone owners in China tend to be affluent.
+For payments at stores, Alipay currently uses QR codes -- complex patterns that can be scanned by smartphone cameras -- as well as a technology that beams payment information through sound waves. But machines that work with QR codes and sound-wave technology aren't widely available at large retail stores in China.
+An alliance between Apple and Alibaba would encounter challenges, including how China's financial regulators might respond.
+Alipay's expansion into offline payments as well as other financial services such as money-market funds has already met calls from traditional state-run Chinese banks for tighter regulation.
+Apple has options for payment partners in China other than Alipay. One possibility would be an alliance with China UnionPay Co., a state-run credit card and debit-card monopoly that already has card readers across China that are compatible with the payment chips in Apple's new iPhones.
+"For the short term, a deal with UnionPay would make sense [for Apple], whereas any alliance with Alipay could be more for future developments in the long run," said Chris Harvey, global leader of financial services at Deloitte Touche Tohmatsu Ltd.
+---
+Rolfe Winkler contributed to this article.
+License this article from Dow Jones Reprint Service

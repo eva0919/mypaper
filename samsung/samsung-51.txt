@@ -1,0 +1,16 @@
+<title:>UPDATE 2-Broadcom 3rd-quarter results beat views, stock jumps
+<Date:>21 October 2014
+<Content:>
+(Adds comment from analyst, background on company; updates stock price)
+By Noel Randewich
+SAN FRANCISCO, Oct 21 (Reuters) - Broadcom posted third-quarter results on Tuesday that exceeded Wall Street's expectations as the chipmaker focused on networking and smartphone chips, sending its shares 5 percent higher.
+Broadcom, whose wifi connectivity chips are used in Apple's iPhones, reported third-quarter revenue of $2.26 billion, up 5.3 percent from the year-ago period. Analysts on average had expected third-quarter revenue of $2.17 billion, according to Thomson Reuters I/B/E/S.
+The company said it saw strength in broadband and connectivity chips in the quarter. Broadcom may have received a boost from brisk sales of Apple's newest smartphones, Bernstein analyst Stacy Rasgon said.
+In the third quarter, Broadcom had a net profit of $98 million, or 16 cents a share, compared with a net profit of $316 million, or 55 cents a share, last year. Non-GAAP earnings per share were 91 cents in the third quarter. Analysts on average expected 84 cents.
+It said revenue in the fourth quarter would be $2.0 billion to $2.15 billion, with the midpoint of its forecast at $2.075 billion.
+Analysts on average had expected third-quarter revenue of $2.17 billion and fourth-quarter revenue of $2.11 billion.
+Broadcom's report comes as the company winds down its money-losing cellular baseband chip business. Broadcom struggled to compete against larger rival Qualcomm Inc, which has a major lead in 4G cellphone technology increasingly used in smartphones.
+Getting out of baseband frees up cash to return to shareholders and lets Broadcom concentrate on its better-performing networking and broadband businesses. However, that may leave the chipmaker at a competitive disadvantage selling its wifi chips in the smartphone market.
+As well as Apple, the Irvine, California, company supplies wifi chips for Samsung Electronics' Galaxy S5 and other high-end handsets.
+Broadcom's stock rose about 5 percent in extended trading after closing up 2.84 percent at $37.33 in regular Nasdaq trade. (Reporting by Noel Randewich; Editing by Chris Reese, Bernard Orr and Andre Grenon)
+Released: 2014-10-24T21:23:15.000Z

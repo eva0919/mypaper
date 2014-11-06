@@ -1,0 +1,219 @@
+<title:>CRISIL ratings for Indian debt instruments-Oct 8
+<Date:>7 October 2014
+<Content:>
+Oct 8 (Reuters) - Below are the ratings awarded by Credit Rating Information Service of
+India (CRISIL) for local debt instruments as of October 7, 2014.
+COMPANY                               INSTRUMENT         RATING         AMOUNT  MOVEMENT
+                                                                        (RS.MLN)
+------                                ----------         ------         -----   ---------
+SHORT TERM RATINGS:
+-------------------
+Anubhav Plast Pvt Ltd                 BG                 CRISIL A4      15      Assigned
+Econ Antri Ltd                        BG                 CRISIL A3+     60      Reaffirmed
+Finolex Industries Ltd                ST Debt            CRISIL A1+     1100    Upgraded from
+                                                                                CRISIL A1
+Finolex Industries Ltd                LOC & BG#          CRISIL A1+     12957.5 Upgraded from
+                                                                                CRISIL A1
+# Letter of Credit & Bank Guarantee are interchangeable with buyer's credit
+Golden Texo Fabs Ltd                  BG                 CRISIL A3      31.7    Upgraded from
+                                                                                CRISIL BB
+Hyprecision Hydraulik                 LOC                CRISIL A4+     90      Assigned
+Hyprecision Hydraulik                 BG                 CRISIL A4+     20      Assigned
+J. M. Financial & Investment          ST Debt Programme  CRISIL A1+     1000    Reaffirmed
+Consultancy Services Pvt Ltd
+J. M. Financial & Investment          CP Issue^          CRISIL A1+     10000   Withdrawal
+Consultancy Services Pvt Ltd
+^Assigned for initial public offering financing on episodic basis
+JM Financial Products Ltd             ST Bk Fac          CRISIL A1+     1000    Reaffirmed
+JM Financial Products Ltd             CP Programme       CRISIL A1+     35000   Reaffirmed
+JM Financial Products Ltd             CP Issue^          CRISIL A1+     6000    Withdrawal
+^Assigned for initial public offering financing on episodic basis
+JM Financial Products Ltd             CP Issue^          CRISIL A1+     20000   Withdrawal
+^Assigned for initial public offering financing on episodic basis
+National Bank for Agriculture and RuraCP                 CRISIL A1+     190000  Enhanced from
+Development                                                                     150 Billion
+National Bank for Agriculture and RuraOne-Year CDs       CRISIL A1+     20000   Reaffirmed
+Development                           Programme
+Nuray Chemicals Pvt Ltd               BG                 CRISIL A4      10      Reaffirmed
+Nuray Chemicals Pvt Ltd               LOC                CRISIL A4      10      Reaffirmed
+Pillai & Sons Motor Company           Inventory Funding  CRISIL A4+     120     Reaffirmed
+                                      Fac
+Raksha TPA Pvt Ltd                    BG                 CRISIL A2      100     Reaffirmed
+Raksha TPA Pvt Ltd                    Proposed ST Bk     CRISIL A2      50      Assigned
+                                      Loan Fac
+Rateria Laminators Pvt. Ltd           BG                 CRISIL A4+     24      Reaffirmed
+Samsung Overseas Ltd                  BG                 CRISIL A4+     3       Reaffirmed
+Samsung Overseas Ltd                  Bill Discounting   CRISIL A4+     250     Reaffirmed
+Samsung Overseas Ltd                  LOC                CRISIL A4+     700     Reaffirmed
+Sanco Industries Ltd                  BG                 CRISIL A4+     20      Reaffirmed
+Sanco Industries Ltd                  LOC*               CRISIL A4+     134     Reaffirmed
+* Fully interchange able with standby line of credit
+Shriram Transport Finance Co. Ltd     ST Bk Fac          CRISIL A1+     9.05    Reaffirmed
+Shriram Transport Finance Co. Ltd     BG Fac             CRISIL A1+     26.0757 Reaffirmed
+Shriram Transport Finance Co. Ltd     ST Debt Programme  CRISIL A1+     20000   Reaffirmed
+Somany Ceramics Ltd                   LOC                CRISIL A1      730     Reaffirmed
+Tirupati Cylinders Ltd                BG                 CRISIL A3      160     Upgraded from
+                                                                                CRISIL BB+
+Tirupati LPG Industries Ltd           BG                 CRISIL A3      150     Upgraded from
+                                                                                CRISIL A4+
+Trans Damodar Coal Mining (P) Ltd.    BG                 CRISIL A3      40.8    Reaffirmed
+Unique Gems                           Post Shipment      CRISIL A4+     68      Reaffirmed
+                                      Credit
+VM Coallogix Pvt Ltd                  LOC                CRISIL D       140     Downgraded
+                                                                                from CRISIL
+                                                                                A4+
+VM Coallogix Pvt Ltd                  Proposed CC Limit  CRISIL D       240     Downgraded
+                                                                                from CRISIL BB
+VM Coallogix Pvt Ltd                  Proposed LOC       CRISIL D       310     Downgraded
+                                                                                from CRISIL
+                                                                                A4+
+MEDIUM TERM RATINGS:
+-------------------
+National Bank for Agriculture and RuraFD Programme       FAAA           1000    Reaffirmed
+Development
+Shriram Transport Finance Co. Ltd     FD Programme       FAA+                   Reaffirmed
+LONG TERM RATINGS:
+-------------------
+Alard Charitable Trust                TL                 CRISIL D       160     Reaffirmed
+Alard Charitable Trust                WC Demand Loan     CRISIL D       30      Reaffirmed
+Anubhav Plast Pvt Ltd                 Proposed LT Bk     CRISIL B+      10      Assigned
+                                      Loan Fac
+Anubhav Plast Pvt Ltd                 CC*                CRISIL B+      70      Assigned
+*Sublimit of Rs.25 million for Book Debts
+City Heart Hotels Pvt Ltd             Proposed LT Bk     CRISIL BB      31.8    Assigned
+                                      Loan Fac
+City Heart Hotels Pvt Ltd             TL                 CRISIL BB      83.2    Assigned
+Cosmo Electro Industries Pvt Ltd      CC                 CRISIL BB+     200     Upgraded from
+                                                                                CRISIL BB
+Cosmo Electro Industries Pvt Ltd      TL                 CRISIL BB+     35      Upgraded from
+                                                                                CRISIL BB
+Dwarkadhish Sakhar Karkhana Ltd       CC                 CRISIL BB      121.5   Upgraded from
+                                                                                CRISIL BB-
+Dwarkadhish Sakhar Karkhana Ltd       LT Loan            CRISIL BB      206.7   Upgraded from
+                                                                                CRISIL BB-
+Econ Antri Ltd                        CC                 CRISIL BBB     15      Reaffirmed
+Econ Antri Ltd                        Proposed LT Bk     CRISIL BBB     126.5   Reaffirmed
+                                      Loan Fac
+Finolex Industries Ltd                NCD                CRISIL AA-     2250    Upgraded from
+                                                                                CRISIL A+
+Finolex Industries Ltd                CC                 CRISIL AA-     1000    Reaffirmed
+Finolex Industries Ltd                TL                 CRISIL AA-     1000    Upgraded from
+                                                                                CRISIL A+
+G.R.S. Ispat Company Pvt Ltd          CC                 CRISIL BB-     147.5   Assigned
+G.R.S. Ispat Company Pvt Ltd          Proposed LT Bk     CRISIL BB-     2.5     Assigned
+                                      Loan Fac
+Golden Floor Furnishing Pvt Ltd       CC                 CRISIL BBB-    58      Assigned
+Golden Floor Furnishing Pvt Ltd       TL                 CRISIL BBB-    117     Assigned
+Golden Texo Fabs Ltd                  CC                 CRISIL BBB-    369     Upgraded from
+                                                                                CRISIL BB
+Golden Texo Fabs Ltd                  TL                 CRISIL BBB-    597.3   Assigned
+Golden Texo Fabs Ltd                  Foreign LOC        CRISIL BBB-    2       Assigned
+Guru Nanak Rice & Gen. Mills          CC                 CRISIL B       100     Reaffirmed
+Guru Nanak Rice & Gen. Mills          Proposed LT Bk     CRISIL B       22.5    Reaffirmed
+                                      Loan Fac
+Guru Nanak Rice & Gen. Mills          TL                 CRISIL B       10      Reaffirmed
+Guru Ram Dass Educational Society     TL                 CRISIL B+      120     Reaffirmed
+Hyprecision Hydraulik                 CC                 CRISIL BB-     25      Assigned
+JM Financial Products Ltd             CC                 CRISIL AA-     500     Reaffirmed
+JM Financial Products Ltd             LT Bk Fac          CRISIL AA-     1500    Reaffirmed
+JM Financial Products Ltd             Proposed LT Bk     CRISIL AA-     2000    Reaffirmed
+                                      Loan Fac
+JM Financial Products Ltd             NCD                CRISIL AA-     7000    Reaffirmed
+Kartik International                  CC                 CRISIL B+      100     Reaffirmed
+Livewel Air Team Pvt Ltd              CC                 CRISIL BB+     450     Reaffirmed
+Livewel Air Team Pvt Ltd              Proposed CC Limit  CRISIL BB+     60      Reaffirmed
+Livewel Aviation Services Pvt Ltd     CC                 CRISIL BB+     300     Reaffirmed
+Livewel Aviation Services Pvt Ltd     Proposed CC Limit  CRISIL BB+     120     Reaffirmed
+Livewel Aviation Services Pvt Ltd     TL                 CRISIL BB+     100     Reaffirmed
+Narmadeshwar Rice Mills Pvt Ltd       CC                 CRISIL B+      20      Upgraded from
+                                                                                CRISIL B
+Narmadeshwar Rice Mills Pvt Ltd       Proposed TL        CRISIL B+      6.9     Upgraded from
+                                                                                CRISIL B
+Narmadeshwar Rice Mills Pvt Ltd       TL                 CRISIL B+      32.3    Assigned
+National Bank for Agriculture and RuraBonds              CRISIL AAA     760000  Reaffirmed
+Development
+North India Steel Company             CC                 CRISIL BB-     60      Upgraded from
+                                                                                CRISIL B+
+North India Steel Company             Proposed LT Bk     CRISIL BB-     50      Assigned
+                                      Loan Fac
+Nuray Chemicals Pvt Ltd               CC                 CRISIL B       70      Reaffirmed
+Nuray Chemicals Pvt Ltd               LT Loan            CRISIL B       210     Reaffirmed
+Nuray Chemicals Pvt Ltd               Proposed LT Bk     CRISIL B       30      Assigned
+                                      Loan Fac
+Pillai & Sons Motor Company           CC                 CRISIL BB      20      Upgraded from
+                                                                                CRISIL BB-
+Pillai & Sons Motor Company           Proposed LT Bk     CRISIL BB      10      Upgraded from
+                                      Loan Fac                                  CRISIL BB-
+Rateria Laminators Pvt. Ltd           Channel Financing  CRISIL BB      40      Reaffirmed
+Samsung Overseas Ltd                  Export Packing     CRISIL BB      100     Reaffirmed
+                                      Credit
+Samsung Overseas Ltd                  Proposed LT Bk     CRISIL BB      12.5    Reaffirmed
+                                      Loan Fac
+Sanco Industries Ltd                  CC                 CRISIL BB      134     Reaffirmed
+Sanco Industries Ltd                  Proposed LT Bk     CRISIL BB      2       Assigned
+                                      Loan Fac
+Savitridevi Cotton & Oil Ltd          CC                 CRISIL D       47.5    Reaffirmed
+Savitridevi Cotton & Oil Ltd          TL                 CRISIL D       22.5    Reaffirmed
+Shriram Transport Finance Co. Ltd     NCDs               CRISIL AA      132800  Reaffirmed
+Shriram Transport Finance Co. Ltd     Subordinated Debt  CRISIL AA      15000   Reaffirmed
+                                      Issue (Tier-II
+                                      Bonds)
+Shriram Transport Finance Co. Ltd     LT Bk Fac          CRISIL AA      156.08  Reaffirmed
+Shriram Transport Finance Co. Ltd     Proposed LT Bk     CRISIL AA      35.8993 Reaffirmed
+                                      Loan Fac
+Shriram Transport Finance Co. Ltd     CC/WC Demand Loan  CRISIL AA      64.895  Reaffirmed
+Shriram Transport Finance Co. Ltd     BG Fac             CRISIL AA      8       Reaffirmed
+Somany Ceramics Ltd                   CC                 CRISIL A       1400    Reaffirmed
+Somany Ceramics Ltd                   Proposed LT Bk     CRISIL A       4.9     Reaffirmed
+                                      Loan Fac
+Somany Ceramics Ltd                   TL                 CRISIL A       935.1   Assigned
+Tata Capital Financial Services Ltd   Perpetual Bonds    CRISIL AA-     2000    Reaffirmed
+                                      Programme
+Tata Capital Financial Services Ltd   NCDs               CRISIL AA+     20000   Assigned
+Tata Capital Financial Services Ltd   NCDs               CRISIL AA+     58000   Reaffirmed
+Tata Capital Financial Services Ltd   Subordinated Debt  CRISIL AA+     5000    Reaffirmed
+Tirupati Cylinders Ltd                CC                 CRISIL BBB-    150     Upgraded from
+                                                                                CRISIL A4+
+Tirupati LPG Industries Ltd           CC                 CRISIL BBB-    175     Upgraded from
+                                                                                CRISIL BB+
+Trans Damodar Coal Mining (P) Ltd.    Proposed LT Bk     CRISIL BBB-    332.1   Reaffirmed
+                                      Loan Fac
+Trans Damodar Coal Mining (P) Ltd.    TL                 CRISIL BBB-    27.1    Assigned
+Unique Gems                           Export Packing     CRISIL BB-     17      Reaffirmed
+                                      Credit
+Unique Gems                           Proposed LT Bk     CRISIL BB-     115     Reaffirmed
+                                      Loan Fac
+VM Coallogix Pvt Ltd                  CC                 CRISIL D       60      Downgraded
+                                                                                from CRISIL BB
+Xrbia Hinjewadi Developers Pvt Ltd    CC                 CRISIL BBB     850     Upgraded from
+                                                                                CRISIL BBB-
+--------------------------------------------------------------------------------------------
+$: Rating watch with positive implication
+#: Rating Watch with Developing implications
+@: Rating Watch with Negative Implications
+%: Rating under Credit Watch
+wd -Rating Stands Withdrawn
+sp -Rating Suspended
+pp -Principal Protected
+pn -Principal Not Protected
+CRISIL may apply + or - signs for ratings to reflect a comparative standing within the category.
+BG-Bank Guarantee; CC-Cash Credit; CCPS-Cumulative Convertible Preference Share; CD-Certificate
+of Deposit; CLO-Collateralized Loan Obligation; CPA-Claims Paying Ability; CP-Commercial
+Paper; CPS-convertible preference shares; CRPS- Cumulative Redeemable Convertible Preference
+shares; DDB-Deep Discount Bond; EPBI-Exchange premium bond; FBL-Fund Based Limits; FRB/FRN
+-Floating Rate Bond/Note; ICD -Inter Corporate Deposit; ITD-Immediate Term Debt; LOC-Letter of
+Credit; LT -Long Term; LTB -Long Term Borrowing; LTD -Long Term Debt; MOCD-multiple option
+convertible debenture; MTD -Medium term Debenture; MTN-medium term notes; NCD(SO) -
+Non-Convertible Debenture-(Structured Obligation); NCD-Non-convertible Debentures; NCRB-Non
+Convertible Redeemable Bonds; NM-Not Meaningful; OCD-optionally convertible debenture; OD-Over
+Draft; OFCD-Optionally Fully Convertible Debenture; PCD-Partially Convertible Debenture;
+PCN-partly convertible notes; PCPS-Partly Convertible Preference Share; POCD-partly optional;
+PP-privately placed; PSPC-Post Shipment & Packing Credit; PS-Preference Shares; PTC-Pass
+Through Certificates; RPS-Redeemable Preference Shares; SCPN-secured convertible preference
+notes; SDO-Structured Debt Obligation; SLR-Statutory Liquidity Ratio; SO-Structured
+Obligation; SPCD - Secured Partly Convertible Debentures; SPN-secured premium notes; STB-Short
+Term Bond; STD-Short Term Debentures; ST-Short Term; Sub. Bonds-Subordinate Bonds; TB-Taxable
+Bond; TFB-Tax Free Bond; TL-Term Loan; TOCD-triple option convertible debentures.
+(Mumbai Rate Reporting Unit + 91 22 6180 7222 / 3317 7222 , E-mail at
+rru.data@thomsonreuters.com)
+Released: 2014-10-8T05:45:27.000Z

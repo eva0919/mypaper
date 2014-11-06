@@ -1,0 +1,23 @@
+<title:>UPDATE 1-Gemalto reaffirms long-term goals, says Apple not a threat
+<Date:>23 October 2014
+<Content:>
+* Gemalto reports Q3 revenue below expectations
+* SIM card & payment security firm reasserts long-term goals
+* CEO says market "overreacted" to Apple SIM card announcement (Adds CEO comments, detail)
+By Nicholas Vinocur
+Oct 22 (Reuters) - Gemalto NV, the Franco-Dutch digital security company that makes smart chips for mobile phones, bank cards and biometric passports, reiterated long-term revenue and profit targets on Thursday and said Apple's move to pre-install its own SIM cards in iPads did not threaten its business, as third-quarter revenue came in below expectations.
+The company said it would still achieve a double-digit growth rate in its profit from operations for the full year as well as faster revenue growth in the rest of 2014.
+Third-quarter revenue was 626 million euros($791.70 million) on a constant currency basis, helped by growth in EMV payment cards. However, it was below average analyst expectations for revenue of 661 million euros.
+Gemalto shares slumped this week after Apple announced that new tablets sold in the United States would be equipped with its own SIM cards for connecting to mobile phone networks, which some analysts said could rob Gemalto of revenue.
+Gemalto's CEO Olivier Piou said he had struggled to understand the market's reaction as SIM cards only made up a small fraction of Gemalto's revenue and that greater use of payment chips in general was good for the brand.
+"Every time Apple makes an announcement there's an overreaction, but this time, it was more surprising," he said. "The more the market grows... for (payment) security hardware, the more those things need to be administered, and the more Gemalto is able to profit."
+Piou added that Gemalto would profit from U.S. government decisions to make all public bodies use two-step authentication procedures - which Gemalto administers - and make all public financial institutions take standard EMV payment cards.
+EMV is a fraud-reducing technology built into payment cards with a smart chip.
+Analysts said Gemalto's long-term targets "looked "optimistic".
+"While Gemalto continues to expect double-digit growth in EBIT for the full-year 2014, we would argue that it remains optimistic given weakness on the top line," Credit Suisse said in a research note.
+Piou said part of the shortfall had to do with the delayed roll-out of World Bank development programmes in Western Africa, due to the outbreak of the Ebola virus, which in turn had cut into Gemalto's predicted revenue.
+Gemalto's revenue from payment and identity products grew by 12 percent to 289.2 million euros on a constant currency basis.
+Chief Executive Olivier Piou said in a statement that Gemalto's EMV revenues in the United States tripled and Asia grew by 18 percent, adding that the company's pace of growth accelerated during the third quarter.
+The group reaffirmed its profit forecasts for the years ahead that it made in August along with the announcement of the acquisition of U.S.-based data protection specialist SafeNet for $890 million.
+Gemalto reaffirmed that the deal should allow it to raise its 2017 target for profit from operations of 600 million euros by 10 percent. (U.S. $1 = 0.7907 euros) (Reporting by Aurindom Mukherjee in Bangalore & Nicholas Vinocur in Paris; Editing by Leslie Adler and Greg Mahlich) 
+Released: 2014-10-23T12:56:30.000Z

@@ -1,0 +1,10 @@
+<title:>By Min-Jeong Lee   
+<Date:>29 October 2014
+<Content:>
+Taiwan Semiconductor Manufacturing Co., which has boosted its profile in the chip-manufacturing industry by signing deals with Apple Inc., has added LG Electronics Inc. to its list of customers for the high-tech chipsets used in smartphones.
+LG Electronics said Friday that it has developed its own microprocessor to power a variation of its flagship G3 smartphone, a first for the South Korean electronics company. Thus far, LG has relied mainly on Qualcomm Inc. for the chips that run its smartphones.
+"The chips will be made by TSMC, as LG doesn't have chip factories," a person familiar with the matter said. He said LG and TSMC have been working together for months to develop the new chipset, dubbed Nuclun, but didn't provide further details.
+Specifications for the Nuclun aren't quite at top-notch level, but they are similar to the chips that power other premium smartphones, according to LG. For example, one version of Samsung Electronics Co.'s Galaxy Note 4 smartphone comes with a mobile processor similar in structure to the Nuclun, just slightly faster.
+With the new push into chip development, LG said it was aiming to further diversify its product strategy against stronger competition. Following a period of losses, LG's mobile unit has been in recovery in recent months thanks to a better-than-expected reception for the company's G3 model, which was launched earlier this year.
+But it is too early to tell if LG's internally developed chipsets will bring the company success. Making the right microprocessor has been a challenge even for Samsung, which has a long history of expertise in chip making, analysts say. Samsung-branded mobile processors, called the Exynos series, haven't been a popular choice, even for its Galaxy lineup of smartphones. LG used to have its own chip business but divested itself of the division in the wake of the Asian financial crisis in the late 1990s as a part of a broad restructuring of the country's conglomerates.
+License this article from Dow Jones Reprint Service

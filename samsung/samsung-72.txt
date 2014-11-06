@@ -1,0 +1,15 @@
+<title:>U.S. FCC to look into new-generation wireless networks
+<Date:>17 October 2014
+<Content:>
+WASHINGTON, Oct 17 (Reuters) - In the words of Buzz Lightyear, and U.S. Federal Communications Commissioner Jessica Rosenworcel on Friday, U.S. regulators will look "to infinity and beyond" to harness new technology that can help build a new generation of mobile wireless connections.
+The FCC on Friday voted unanimously to open a so-called "notice of inquiry" into what it and the industry can do to turn a new swath of very high-frequency airwaves, previously deemed unusable for mobile networks, into mobile-friendly frequencies.
+The FCC's examination would serve as a regulatory backdrop for research into the next generation of wireless technology, sometimes referred to as 5G and which may allow wireless connections to carry a thousand times more traffic.
+"Today we're stepping in front of the power curve," FCC AaChairman Tom Wheeler said on Friday at the meeting.
+In question are frequencies above 24 gigahertz (GHz), sometimes called millimeter waves, that have previously been deemed technically unweildy for mobile connections, though have the potential to carry large amounts of data and give the promise of lightning-fast speeds.
+Millimeter waves work best over short distances and have required a direct line-of-sight connection to a receiver. They are now largely used for point-to-point microwave connections.
+The FCC said it will study what technologies could help get around the technological and practical obstacles and what kind of regulatory regime could help a variety of technologies to flourish on those airwaves, including the potential for services other than mobile.
+The U.S. wireless industry continues to work on deploying the 4G connections, though some equipment manufacturers, such as Samsung are already testing data transmission on the higher frequencies.
+"While we will always work to locate more cleared licensed spectrum under 3 GHz, we also need to expand our search to find other complementary spectrum bands, and this Notice is an important step in that effort," Meredith Attwell Baker, head of CTIA-The Wireless Association, said in a statement.
+Google on Monday asked the FCC for permission to conduct tests on some of the extremely high-frequency airwaves, which experts say may provide the foundation for a wireless version of its high-speed fiber Internet service.
+Rosenworcel said growing data demand made it necessary for next-generation wireless networks to carry heavy traffic, quickly and without draining the phones' batteries. "How do we meet these demands? We look up. Way, way, up. To infinity and beyond," she said at the meeting. (Reporting by Alina Selyukh and Marina Lopes; editing by Andrew Hay) 
+Released: 2014-10-17T19:28:18.000Z

@@ -1,0 +1,34 @@
+<title:> Does the Phablet Pioneer Still Lead the Way?
+<Date:>Summary: WSJ's Hank Weisbecker talks to Personal Technology Columnist Joanna Stern about how the Samsung Galaxy Note 4 compares to the iPhone 6 Plus.
+<Content:>
+(The author is a Reuters Breakingviews columnist. The opinions expressed are his own.)
+By Dominic Elliott
+LONDON, Oct 15 (Reuters Breakingviews) - Qualcomm's 1.6 billion pound ($2.5 billion) deal to buy Britain's CSR sends a positive signal to rivals on Bluetooth. The U.S. chipmaker's $120 billion market cap means the purchase isn't a stretch - but it comes at a high price and an odd time.
+Qualcomm's 900 pence-a-share offer represents a toppy 57 percent premium to where CSR shares were trading in late August before another suitor, Qualcomm's smaller rival Microchip Technology, first emerged. That desire to see off a competitor presumably helps explain the big sweetener.
+The bid also looks rich in multiple terms. The price is 27 times 2015 forecast earnings, based on Starmine data which weights analysts' estimates based on their track record. Rivals trade on a maximum of 20 times forward 12-month earnings - although trading multiples do not include the control premium paid in a takeover.
+Nor is there probably much scope for synergies, since Qualcomm focuses on kit used in smartphones and other Wi-Fi devices. CSR, by contrast, sold its handset business to Samsung in 2012.
+Moreover, this comes just five days after Microchip warned the industry was facing a cyclical correction. Solid quarterly numbers from sector heavyweight Intel, on Oct. 14, were less gloomy. But Microchip has proved a good bellwether before.
+For Qualcomm, though, this is a long-term bet on the rise of the "Internet of Things." CSR's specialty is Bluetooth, the short-range radio technology that connects devices like watches and stereos to internet-linked computers and smartphones.
+As demand growth for smartphones slows, Qualcomm hopes this will be offset by consumers buying networked appliances. Industry analysts Gartner reckon the typical family home in the rich world will contain more than 500 internet-enabled consumer products within eight years.
+If so, this could look smart. But exponential growth is easy to predict. It doesn't always arrive as planned. And even if it does, it doesn't always deliver outsized profits for the suppliers. 
+              
+              
+              
+              
+CONTEXT NEWS
+              
+- U.S. chipmaker Qualcomm agreed on Oct. 15 to buy Britain's CSR for 1.56 billion pounds ($2.5 billion), to grow in markets including automotive and audio products.
+- Qualcomm's bid was made hours before a so-called "put up or shut up" deadline triggered by rival bid interest from Microchip Technology, which approached CSR in August.
+- Qualcomm said it would pay 900 pence a share in cash for CSR, a 57 percent premium to the closing price on Aug. 26, the day before the offer period started. By 1335 BST on Oct. 15, CSR shares had risen 30 percent to 858 pence.
+- Qualcomm Chief Executive Steven Mollenkopf said CSR's Bluetooth expertise would help his company sell microchips for portable audio, automotive and wearable devices. "Combining CSR's highly advanced offering of connectivity technologies... will unlock new opportunities for growth," he said in a statement.
+- CSR statement http://bit.ly/1u4SKi7  statement
+- Qualcomm statement http://bit.ly/1yDoy4E  statement
+- Reuters: Qualcomm trumps Microchip with $2.5 billion deal for Britain's CSR trumps Microchip with $2.5 billion deal for Britain's
+RELATED COLUMNS
+Infine-off
+Don't pass go
+Toq, not revenue
+- For previous columns by the author, Reuters customers can click on
+(Editing by Quentin Webb and Sarah Bailey)
+(On Twitterhttps://twitter.com/DominicElliott ) 
+Released: 2014-10-15T15:31:40.000Z

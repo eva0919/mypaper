@@ -1,0 +1,27 @@
+<title:> Deals of the Day: Second Thoughts for AbbVie, Qualcomm Pounces
+<Date:>Deals of the Day is your one-stop-shop for the morning¡¦s biggest news from the finance beat, including M&A, IPOs, banks, hedge funds and private equity.?Here¡¦s what¡¦s happening today:
+<Content:>
+* Chip tool maker maintains full-year guidance
+* Timing of demand for next-generation systems unclear
+* Fourth quarter guidance should offset weaker third quarter (Adds analyst comment, updates share price)
+By Thomas Escritt
+AMSTERDAM, Oct 15 (Reuters) - Dutch semiconductor equipment supplier ASML blamed delayed shipments as it brushed off weaker-than-expected quarterly sales on Wednesday, confirming its full-year target and forecasting a strong start to 2015.
+Analysts have expressed concern over uncertain demand for next-generation systems, but investors were cheered by ASML's robust order book and a positive outlook from major customer Intel on Tuesday, lifting the stock in early trade.
+Sales figures from ASML - which supplies chip lithography systems to all of the world's largest chip makers, including Intel, Samsung Electronics and Taiwan Semiconductor Manufacturing - serve as a leading indicator of the investment plans for the industry as a whole.
+"Looking ahead, we see a solid start to 2015," ASML Chief Executive Peter Wennink said, adding a "strong backlog" would mean higher sales of systems for making computer memory chips.
+Sales of next-generation logic systems, however, depended on demand further down the chain: "The timing and volume depends on the business allocations by our customers' customers."
+The company posted net sales of 1.32 billion euros ($1.67 billion) for the three months to end-September, slightly below the 1.4 billion it had forecast in the previous quarter and virtually flat on the same period last year.
+The company said sales were just shy of forecasts and analyst expectations because of "a couple of system shipments shifting into Q4". It said that would not affect the full-year forecast for net sales of at least 5.6 billion euros, up from 5.25 billion in 2013.
+"We believe the miss in the third quarter will be more than compensated for in the fourth quarter. We expect to see (2014 earnings per share) upgrades of 2 percent on the back of the results," said ING analyst Robin van den Broek, who has a "buy" rating on the stock.
+"The order book ... shows strong momentum."
+Uncertainty over the future still weighed on ASML shares, however, trading down 0.8 percent at 0900 GMT at 73.23 euros, having pared earlier gains.
+"The third quarter was of course a bit disappointing, but with some systems being shifted into the fourth quarter that's not a major issue, with the reiteration of the full year guidance," said Rabobank analyst Philip Scholte.
+NEXT GENERATION
+ASML's third-quarter gross margin dipped by two percentage points on the previous quarter to 43.7 percent and the company predicted a fourth-quarter margin of 43 percent, down from 43.6 percent in the same quarter last year.
+The company said average selling prices for its photolithography systems fell to 29.5 million euros in the third quarter from 40.1 million euros in the second quarter, as customers continued to upgrade existing systems rather than increase spending on new ones.
+Half of the company's total sales were of older 28-nanometre scale products to Asian foundries, which act as contract manufacturers for chip designers with no production capacity of their own.
+Customers were still looking to add capacity in the high end 14, 16 and 20-nanometre segments, but the timing remained unclear, Chief Financial Officer Wolfgang Nickl said.
+The company has been investing heavily in next-generation extreme ultra-violet (EUV) lithography systems, and two customers recently passed the crucial 500 chip wafers per day volume milestone using these devices.
+Nickl said the company expected to ship six EUV systems in 2015.
+On Tuesday Intel Corp, the world's largest chip maker, defied recent gloom among chip investors in giving an end-of-year forecast above expectations. It also said its supply chain was in good shape ahead of the holiday season as demand for personal computers recovered. (1 US dollar = 0.7907 euros) (Reporting By Thomas Escritt; Editing by Gopakumar Warrier, Greg Mahlich and Clara Ferreira Marques) 
+Released: 2014-10-15T10:19:23.000Z

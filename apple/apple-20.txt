@@ -1,0 +1,11 @@
+<title:> Morning MoneyBeat Asia: U.S. Stocks Rally as QE Sun Sets
+<Date:><dl class="wp-caption aligncenter caption-centered imageFormat-F" style="width: 571px;"> <dt class="wp-caption-dt"></dt> <dd class="wp-caption-dd wp-cite-dd" style="text-align: right;">Agence France-Presse/Getty ...
+<Content:>
+LAGUNA BEACH, Calif.¡XThe ubiquity of a handful of computer programs, such as Microsoft Corp.¡¦s Word or Apple Inc.¡¦s OSX operating system, is endangering us all, a Defense Department official said Tuesday at The Wall Street Journal¡¦s WSJD Live Global Technology Conference.
+Dan Kaufman, head of innovation at the Defense Advanced Research Projects Agency, said the widespread use of such programs gives hackers an easy way to target scores of people with one security hole.
+¡§Cybersecurity today is just fundamentally broken,¡¨ Mr. Kaufman said, ¡§deeply and fundamentally broken.¡¨
+Hackers find their way into machines¡Xboth classified networks and retailers¡Xby searching for unnoticed flaws in the software these networks use. After an initial incident, it can take weeks or years for other companies to patch their systems to prevent a similar incident using the software hole exploited in the original attack.
+That gives hackers a big window to reuse the same cyberweapon.
+The Defense Department official was joined on stage by Kevin Mandia, chief operating officer at FireEye Inc., which on Tuesday released a detailed report on a Russian cyberspying campaign that has relied on the same set of tools since 2007.
+If Mr. Kaufman had his way, programs such as Microsoft Word or Apple¡¦s OSX would change continually, making it harder for hackers to exploit the same flaws repeatedly.
+Mr. Kaufman¡¦s dream, however, could be a way off, because a constantly changing program would consume a computer¡¦s resources, slowing other tasks. Users ¡§won¡¦t put up with that,¡¨ he said.

@@ -1,0 +1,25 @@
+<title:>By Daisuke Wakabayashi   
+<Date:>31 March 2014
+<Content:>
+Apple Inc. and Samsung Electronics Co. are squaring off in a new round of their long-running patent feud. This time, however, the docket might as well read Apple Inc. v. Google Inc.
+The trial, which starts Monday in U.S. District Court in San Jose, Calif., shows how the battle lines are drawn across the mobile-phone landscape. Apple and Samsung are the biggest makers of smartphones and reap most of the industry's profits.
+But when it comes to software, the world is divided between Apple and Google, whose dominant operating systems give them control over the apps where smartphone users spend most of their time.
+In this case, Apple is accusing Samsung of violating five of its software patents. Samsung contends that it licensed four of those features as part of Google's Android operating system, and that Google had been working on the technology before Apple filed its patents.
+"Google will be a lot more front and center than in previous cases," said Michael Carrier, a patent expert and law professor at Rutgers University in New Jersey. "Google vs. Apple makes it more of a clash of the titans on the same turf."
+A Google spokesman declined to comment.
+This time the stakes are larger than when Apple and Samsung faced off in the same court in 2012. The patents in question pertain to more recent phone models, including Apple's iPhone 5 and Samsung's Galaxy S3, both released in 2012. Those models sold briskly, so any damages would apply to more phones.
+In all, Apple is seeking about $2 billion from Samsung -- more than twice as much as juries awarded Apple in the earlier case.
+A verdict in Apple's favor could force Google to make changes in Android. Although unlikely, it is possible that Samsung or Apple, whichever loses the patent battle, could be banned from selling infringing products.
+To help defend Samsung, Google engineers are expected to take the stand to refute Apple's arguments that it forged new ground with the iPhone. Andy Rubin, the former head of Google's mobile business who oversaw the development of Android, is listed as a potential witness. Mr. Rubin worked for Apple from 1989 to 1992.
+In the first trial in 2012, Apple set its sights on Samsung, accusing the South Korean electronics conglomerate of making products that copied the look and feel of the iPhone and iPad. A jury ruled for Apple, and Samsung was ordered to pay Apple $930 million in damages. Samsung is appealing that verdict.
+"Apple had an easier story to tell in the first trial, because it could hold up the phones and say, 'Look how similar that they are,'" said Mark Lemley, an intellectual-property attorney and law professor at Stanford University. Mr. Lemley is representing Google in an unrelated case.
+This time, Apple claims Samsung violated patents for detecting data in messages and converting them into a link that can be clicked, background syncing of data, universal search used in its Siri voice-recognition digital assistant, an auto-complete feature that suggests words as a user is typing, and the "slide to unlock" feature.
+Samsung says all but "slide to unlock" are Android features.
+Apple has sued other phone makers that use Android, including HTC Corp. of Taiwan, but hasn't gone after Google directly. Google licenses its Android free of charge, making it a difficult target for a damages claim. Google designs a few smartphones and tablets, but it doesn't sell many compared with its hardware partners.
+Apple is seeking damages of $40 per phone for the five patents at issue in the case.
+Brian Love, a law professor at Santa Clara University, said Apple's figure seems excessive, given that there are roughly 250,000 patents in a modern smartphone.
+"It's really, really hard to make that argument that these patents are so much more valuable than the average patent in a phone," said Mr. Love.
+Apple says the figure is appropriate because that is what it would have accepted from Samsung in August 2011 -- a date chosen by the court -- if the two sides had been forced to negotiate a settlement. Apple says the number reflects that it had filed other patent suits against Samsung at the time and its view that the Korean company was cutting into Apple's profits by copying its technology and undercutting phone prices.
+Samsung counters that Apple violated two of its patents. In a move that illustrates some of legal gamesmanship between the two sides, Samsung is asking for about $7 million, a small sum for a case of this magnitude.
+By countering with such a small damages claim, Samsung is trying to make the point that individual smartphone patents aren't worth as much as what Apple is asking.
+License this article from Dow Jones Reprint Service

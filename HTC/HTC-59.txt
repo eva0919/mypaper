@@ -1,0 +1,26 @@
+<title:>By Rolfe Winkler 
+<Date:>13 February 2014
+<Content:>
+Google Inc. says its Android mobile operating system is "open." But newly discovered documents reveal the strings attached.
+The documents show that Google has imposed strict restrictions on device makers that want access to its search engine, YouTube or the more than one million apps in its Play Store. In return, the device makers must feature other Google apps and set Google search as the default for users, according to the agreements.
+European antitrust authorities are examining those conditions, among others, as they consider whether Google has abused Android's position as the leading smartphone operating system. In Europe, companies with dominant market share are required to promote competition, said Ioannis Lianos, a professor at University College London who studies competition law.
+There is no such requirement in the U.S., and experts said it would be difficult to show that Google's Android stance has violated antitrust rules. But it conflicts with Google's rhetoric.
+"One of the greatest benefits of Android is that it fosters competition at every level of the mobile market -- including among application developers," Google Executive Chairman Eric Schmidt wrote to then-U.S. Senator Herb Kohl in 2011.
+A Google spokeswoman declined to comment.
+Android is the dominant operating system for mobile devices, running 79% of smartphones and 62% of tablets shipped world-wide in 2013, according to Strategy Analytics.
+Google makes Android available free to handset makers, as a rival to Apple Inc.'s iOS operating system that powers the iPhone. Android handsets deliver queries to Google's cash-cow search engine, where advertisers pay to appear in results.
+Such a trade-off has been the premise of Android from the beginning. The documents reveal details about how the trade actually works.
+To get access to key apps like the Play Store, Android device makers like Samsung Electronics Co. must sign a "Mobile Application Distribution Agreement," with Google. Full terms of the agreements haven't previously been disclosed, but two were admitted as exhibits during a 2012 patent and copyright case between Google and Oracle Corp. Harvard Business School Professor Ben Edelman recently published the documents on his blog.
+The agreements, with Samsung and HTC Corp., cover 2011 and 2012. Google still uses similar agreements, but it isn't known if current versions include the same conditions.
+The Samsung and HTC agreements specify a dozen Google applications that must be "preinstalled" on the devices, that Google Search be set as the default search provider, and that Search and the Play Store appear "immediately adjacent" to the home screen, while other Google apps appear no more than one screen swipe away.
+The terms put rival mobile apps, like AOL Inc.'s MapQuest and Microsoft Corp.'s Bing search, at a disadvantage on most Android devices. Mr. Edelman, who is a paid consultant for Microsoft, said the terms "help Google expand into areas where competition could otherwise occur."
+Rajeev Chand, head of research at boutique-investment bank Rutberg & Co., said Google's "all or nothing" offer for device makers is a mixed bag for consumers.
+On one hand, Mr. Chand says, Google's rules may mean fewer "mobile experiences." At the same time, he says, Android's strength and consistency attracts more developers, leading to more and better apps for users.
+Google has successfully promoted its own apps on Android. Four of the top 10 most-used apps on Android smartphones in the U.S. during December were Google's, according to comScore. On Apple's iPhone, only one Google app -- YouTube -- was among the top 10.
+Not every device maker accepts Google's terms. Amazon.com Inc. uses a customized version of Android in its Kindle Fire tablet. As a result, the Fire doesn't include Google Search, YouTube, Maps or the Play Store. Amazon created its own app store, which has 146,000 apps, according to App Annie, far fewer than in the Play Store.
+Nokia Corp. and Microsoft are following a similar strategy with an Android smartphone to be introduced later this month. The phone was developed by Nokia, whose handset unit is being acquired by Microsoft.
+Google also exercises control over device makers through the Open Handset Alliance, which counts 84 members, according to its website.
+As a condition for joining the alliance, device makers agree to restrict the way they distribute Android. In 2012, Google prevented Acer Inc. from releasing a smartphone based on a version of Android developed by Alibaba Group Holding Ltd. Google argued that Acer gave up its right to do so when it joined the alliance.
+The European Commission last year began studying whether Google's Android distribution practices run afoul of antitrust rules. The commission's top antitrust cop, Joaquin Almunia, said last week that it will shift its focus to Android now that it has reached a settlement with Google over its search practices.
+Mr. Lianos, the University College London professor, said the commission will want to know how easily users can get around the default settings that Google imposes on device makers. Such requirements could be "problematic," he said.
+License this article from Dow Jones Reprint Service

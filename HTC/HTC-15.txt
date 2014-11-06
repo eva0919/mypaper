@@ -1,0 +1,34 @@
+<title:>By Joanna Stern   
+<Date:>20 August 2014
+<Content:>
+Last week, I went hunting for people using Windows Phones in Times Square. Two hours and zero sightings. Instead, there were thousands of people holding up their glowing iPhones or Android phones to take pictures of Great White Way. A kind lady from London did tell me she was fairly certain her great uncle owned a Windows Phone.
+While my method wasn't scientific, the straw poll represents the reality of the global smartphone market. Google's Android has 85% of the market share while Apple's iPhone is at 12%, according to IDC's latest numbers. Microsoft? Windows Phone has a measly 2.5% and it isn't growing.
+So what's wrong with the "third" smartphone platform? Until now, the assumption was that Windows Phones weren't as good as the others. And for the first years of the platform's life that was true because of middling hardware and nascent software.
+But thanks to software updates released this summer, Windows Phone has as much or more functionality than Android or iOS -- that is, if you don't consider third-party apps. And the hardware has caught up, too. Just today, the best-designed Android phone -- the HTC One -- is being released with Windows Phone 8.1, for now exclusively at Verizon.
+So, why don't more people give Windows Phone a go? At this point, it has little to do with how good the platform has become and everything to do with the rule of the masses: It's hard to go against the crowd.
+If there was any doubt that Windows Phone devices were as attractive or well made as the iPhone or the best Android phones, the striking HTC One (M8) for Windows immediately dispels that myth.
+A carbon copy of the Android model I've loved since its March debut, the One's bright and crisp 5-inch 1080p screen is enclosed in a solid piece of aluminum, giving it a high-quality heft. And despite its thinner dimensions, it can last all day long on a charge, even with the screen brightness cranked up.
+Like on the Android model, my biggest complaint is about its rear-facing camera. Despite some novel shooting tricks, the photos didn't turn out as sharp and well balanced as the ones you'd take with the priciest Nokia Windows Phones.
+That said, it does capture photos faster than any smartphone I've tested and if you're vying to be a better selfie-snapper than Kim Kardashian herself, the 5-megapixel front-facing camera is what you need.
+So if all things are now equal in hardware, software must be Windows Phone's big problem, right? That used to be the case.
+Windows Phone is now as good an operating system as the others. I find it easier to navigate than Android, yet more customizable than iOS. Live tiles show core information without having to open an app and a new notification center puts new messages and important system settings in closer reach. Customizing app notifications, creating folders, organizing apps on the tile screen -- even toggling between open apps -- are all simple moves.
+The core apps are more fully baked now, too. With the email and calendar apps, I can manage my work and Gmail messages and schedules as easily as I do on an iPhone or Moto X Android phone. Better yet, Internet Explorer is as snappy as the rivals, and opening and saving documents in Office doesn't require a coffee break.
+I didn't even miss Google Maps on Windows Phone. Bing Maps consistently provided really good transit directions, and Waze, a Google-owned, third-party app, helped me fight traffic while driving into New York City.
+How about Cortana, Microsoft's answer to Siri and Google Now? Without a prompt, she told me what traffic would be like on my way to work and gathered top news stories based on my interests.
+I repeatedly used her location-aware reminder feature to remember to do things when I got to the office and relied on her for the weather. I was starting to think she was the world's smartest digital assistant until she recommended, out of all of the great and affordable restaurants in New York City, dinner at Applebee's.
+Apps are still where Windows Phone struggles to keep up with the Joneses. There are more than 320,000 apps in the Microsoft Store and you'll find most of the big names -- everything from Facebook to Netflix to Spotify to Uber to Instagram. But because there aren't as many Windows Phone users, app makers don't pay attention to their Windows Phone apps as much as iOS or Android.
+As for buzzy new iPhone and Android apps, they usually arrive later for Windows Phone -- if they turn up at all. And Google doesn't offer its core apps for the platform, including YouTube, Hangouts, Maps or Google Drive. You'll be hard pressed to find the apps that work with your connected accessories, too.
+Microsoft says it is trying to make it easier for developers to create apps that work across Windows, Windows Phone and Xbox. But it's hard to imagine that being as good as the competition will change the tide. People don't use Windows Phones because . . . people don't use Windows Phones.
+By the time Microsoft got its act together, the masses had chosen sides between iPhones and Android phones. For most, a switch just isn't worth it.
+But stranger things have happened than a solid platform from a committed tech giant gaining in popularity. If you're tired of the current options and can live without the apps and services that set the Internet abuzz, the HTC One (M8) for Windows is a great device and it's just $100 with a two-year contract at Verizon.
+---
+Microsoft's Windows Phone
+PROS
+-- Customizable, easy-to-use 'live tile' interface
+-- Solid, fully featured core apps
+-- Easy to manage and edit documents and attachments
+CONS
+-- Quality of third-party apps not as good as iOS and Android
+-- Many popular third-party apps still not available in store
+-- Cortana makes some odd recommendations
+License this article from Dow Jones Reprint Service

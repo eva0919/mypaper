@@ -1,0 +1,42 @@
+#1
+從Factiva 抓下新聞文章
+檔案型態是rtf
+透過Word轉成txt
+
+#2
+接著使用程式處理抓下來的文章
+先經過
+ruby txtToFormat.rb Factiva-20141017-2213
+就能將Factiva-20141017-2213 轉換成沒有空行的Factiva-20141017-2213-write
+
+#3
+ruby factiva_parse.rb Factiva-20141017-2213-write xiaomi
+這行指令可以將Factiva-20141017-2213-write內的Title Date Content分析出來
+存成一個一個檔案 後面的參數是這些新聞是Factiva中針對哪一家公司下的關鍵字
+範例中為小米，就會在該路徑下產生一個資料夾為xiaomi，裡面存下很多處理好的文章。
+
+#4
+ruby forStopWordSpace.rb
+是在處理StopWord這檔案前的前置處理(因為裡面很多空行) output -> stopWordList.txt
+
+#5
+ruby calWord.rb
+會拿取stopWordList.txt來當作StopWordList
+接著處理apple 和 samsung底下的文章，各拿1-50篇文章
+目的是做分出那些是講phone相關的新聞，哪些不是，將這些新聞的字擷取出來
+之後好做DF IDF等分析，就能自動化去分更多文章是不是phone相關新聞
+output(五個檔案) -> 
+wordList.txt 
+phoneDfWord.txt 
+phoneWord.txt 
+nonPhoneWord.txt 
+phoneDfWord.txt 
+為圖方便我在相同的檔案中直接計算自己公式的分數
+output -> phoneWordScore.txt
+
+#6
+ruby getWordFromPhoneWord.rb
+在這個檔案中，設定了threshold，
+只有大過那個值得字會被輸出
+
+

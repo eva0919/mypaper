@@ -1,0 +1,17 @@
+<title:>By Don Clark   
+<Date:>14 May 2014
+<Content:>
+Nvidia has been jostling with other chip makers to supply key components for smartphones and tablets. That is a tough market, and the Silicon Valley company has decided to concentrate on where it has the most muscle.
+That would be devices that are especially tailored for playing videogames, building on the graphics technology for rendering three-dimensional images that has long been at the core of Nvidia's business.
+Signs of a strategy shift have been increasingly evident in some of the company's recent statements, including remarks by Nvidia Chief Executive Jen-Hsun Huang at the company's annual technology conference in March.
+In an interview after the release of first-quarter results last week, Mr. Huang said prioritizing graphics-oriented applications in mobile devices mirrors the targeted strategy the company has long used for products like personal computers. "We really focus on visual computing problems," Mr. Huang said.
+The goal seemed broader two years ago. Nvidia's Tegra chips were selected for some high-profile tablets -- including a $249 seven-inch AsusTek model that Huang showed off at the 2012 Consumer Electronics Show -- and Microsoft's original Surface tablet launched that year.
+Smartphones were a tougher proposition. Rival Qualcomm, for one thing, has decades of experience in the cellular communications technology that often is combined on the same piece of silicon with calculating functions. Nvidia spent $367 million to buy the British chip company Icera to add wireless technology.
+The two biggest smartphone makers, Apple and Samsung, have used Qualcomm's products for communications but favor their own processor chips.
+Meanwhile, many other chip makers are targeting the mobile market, including Intel, MediaTek, Broadcom and Marvell.
+Not that Nvidia's broader pitch to the mobile market hasn't paid some dividends. Last September, the fast-growing Chinese company Xiaomi selected the company's Tegra 4 processor for a smartphone. In France, Wiko Mobile earlier this year launched a handset with Nvidia's Tegra 4i chip, which includes LTE wireless capability. Nvidia also has shown success in getting Tegra selected for automotive applications.
+Besides just selling chips, Nvidia has tried to spur interest among gamers with Shield, an unusual portable device with a display and game controllers, and a design for a tablet called the Tegra Note 7 being brought to market by hardware partners in several countries.
+Yet the company doesn't seem eager to participate in parts of the market where low prices trump performance.
+Rather, Mr. Huang is betting that Google's Android software is going to become a major target for game developers. And that should spur the creation of performance-oriented devices where Nvidia chips can shine.
+"You are going to see us do some really great things in gaming on top of Tegra," he said.
+License this article from Dow Jones Reprint Service

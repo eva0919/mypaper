@@ -1,0 +1,343 @@
+<title:>Forbes Staff   
+<Date:>14 April 2014
+<Content:>
+1 James Goetz (7)
+Sequoia Capital
+WhatsApp, Palo Alto Networks, Nimble Storage
+2 Marc Andreessen (2)
+Andreessen Horowitz
+Facebook, Twitter, Groupon
+3 Peter Fenton (6)
+Benchmark Capital
+Twitter, Yelp, New Relic
+4 Peter Thiel (3)
+Founders Fund Management
+Facebook, Zynga, Palantir Technologies
+5 Jim Breyer (1)
+Accel Partners
+Facebook, Spotify, Legendary Entertainment
+6 Doug Leone (4)
+Sequoia Capital
+FireEye, ServiceNow, Meraki
+7 Reid Hoffman (5)
+Greylock Partners
+Facebook, Groupon, Zynga
+8 Steve Anderson (22)
+Baseline Ventures
+Twitter, ExactTarget, Tremor Video
+9 Paul Madera (11)
+Meritech Capital Partners
+Facebook, 21Vianet Group, Fusion-io
+10 Scott Sandell (8)
+New Enterprise Associates
+Workday, Bloom Energy, Data Domain
+11 Josh Kopelman (12)
+First Round Capital
+LinkedIn, Square, Five Below
+12 Chris Sacca (21)
+Lowercase Capital
+Twitter, Uber Technologies, Lookout
+13 Michael Moritz (13)
+Sequoia Capital
+LinkedIn, First Republic Bank, Green Dot
+14 Mike Maples (25)
+Floodgate
+Twitter, ExactTarget, Chegg
+15 Fred Wilson (16)
+Union Square Ventures
+Twitter, Zynga, LendingClub
+16 David Sze (10)
+Greylock Partners
+Facebook, LinkedIn, Pandora Media
+17 Aneel Bhusri (14)
+Greylock Partners
+Workday, ServiceNow, Data Domain
+18 Todd Chaffee (23)
+Institutional Venture Partners
+Twitter, Pandora Media, HomeAway
+19 Jeremy Levine (9)
+Bessemer Venture Partners
+LinkedIn, Pinterest, Box
+20 Benjamin Horowitz (17)
+Andreessen Horowitz
+Twitter, Skype Technologies, Jawbone
+21 Mary Meeker (47)
+Kleiner Perkins Caufield & Byers
+Square, Spotify, LendingClub
+22 Deven Parekh (New)
+Insight Venture Partners
+Twitter, Fanatics, Chegg
+23 John Doerr (26)
+Kleiner Perkins Caufield & Byers
+Twitter, Square, Bloom Energy
+24 Richard Wong (86)
+Accel Partners
+Atlassian, Airwatch, Rovio Mobile
+25 Kevin Efrusy (18)
+Accel Partners
+Facebook, Groupon, SpringSource
+26 Alfred Lin (90)
+Sequoia Capital
+Uber Technologies, Airbnb, Jawbone
+27 Promod Haque (returnee)
+Norwest Venture Partners
+FireEye, PCH International, Cyan
+28 Benjamin Nye (24)
+Bain Capital Ventures
+BMC Software, LinkedIn, SolarWinds
+29 Roelof Botha (19)
+Sequoia Capital
+Square, Jawbone, MongoDB
+30 Navin Chaddha (52)
+Mayfield Fund
+Qunar Cayman Islands, Fab, SolarCity
+31 Robert Ward (31)
+Meritech Capital Partners
+Tableau Software, Fortinet, Acclarent
+32 Bijan Sabet (51)
+Spark Capital
+Twitter, Tumblr, FourSquare Labs
+33 Neil Shen (15)
+Sequoia Capital
+Qihoo 360 Technology, JD.com, Renhe
+34 Harry Weller (28)
+New Enterprise Associates
+Groupon, MongoDB, Opower
+35 Yuri Milner (35)
+Digital Sky Technologies
+Facebook, Groupon, Zynga
+36 Byron Deeter (29)
+Bessemer Venture Partners
+Box, Criteo SA, Cornerstone OnDemand
+37 Neeraj Agrawal (27)
+Battery Ventures
+Wayfair, Nutanix, Bazaarvoice
+38 Sandy Miller (42)
+Institutional Venture Partners
+Zynga, Data Domain, Supercell
+39 George Bischof (43)
+Meritech Capital Partners
+Isilon, Box, Fusion-io
+40 George Zachary (40)
+Charles River Ventures
+Twitter, Yammer, Millennial Media
+41 Sameer Gandhi (44)
+Accel Partners
+Dropbox, Spotify, Sourcefire
+42 Randy Glein (91)
+Draper Fisher Jurvetson
+Twitter, Space Exploration Technologies, Box
+43 Kevin Comolli (New)
+Accel Partners
+Atlassian Pty, Supercell, Varonis Systems
+44 Michael Goguen (returnee)
+Sequoia Capital
+FireEye, Infoblox, Virident Systems
+45 Ryan Sweeney (New)
+Accel Partners
+Groupon, Atlassian, Airwatch
+46 Ann Lamont (returnee)
+Oak Investment Partners
+Castlight Health, Benefitfocus, NetSpend
+47 Joel Cutler (38)
+General Catalyst Partners
+Airbnb, Kayak Software, ITA Software
+48 Jeffrey Jordan (74)
+Andreessen Horowitz
+Pinterest, zulily, Airbnb
+49 Ping Li (returnee)
+Accel Partners
+Fusion-io, Nimble Storage, Cloudera
+50 Aydin Senkut (new)
+Felicis Ventures
+Meraki, Rovio Mobile, The Climate
+51 Klaus Hommels (66)
+Lakestar
+Facebook, Spotify, Airbnb
+52 Jenny Hong Lee (36)
+GGV Capital
+21Vianet Group, Pactera, YY
+53 Peter Wagner (78)
+Wing Ventures
+Fusion-io, Nimble Storage, Opower
+54 Hurst Lin (New)
+DCM
+58.com, Shanghai Luxin Packing Materials Science, Tuniu
+55 Asheem Chandna (20)
+Greylock Partners
+Palo Alto Networks, AppDynamics, Imperva
+56 Dan Levitan (New)
+Maveron
+Zulily, Potbelly, The Motley Fool
+57 Venky Ganesan (32)
+Menlo Ventures
+Palo Alto Networks, Virident Systems, oDesk
+58 Lee Fixel (30)
+Tiger Global Management
+Facebook, Palantir Technologies, LinkedIn
+59 Stephen Jurvetson (57)
+Draper Fisher Jurvetson
+Space Exploration Technologies, Tesla Motors, Synthetic Genomics
+60 Bing Gordon (80)
+Kleiner Perkins Caufield & Byers
+Zynga, Spotify, Jawbone
+61 Bryan Roberts (75)
+Venrock
+Castlight Health, Ironwood Pharmaceuticals, Zeltiq Aesthetics
+62 Ted Schlein (37)
+Kleiner Perkins Caufield & Byers
+Chegg, Mandiant, Jive Software
+63 Vinod Khosla (68)
+Khosla Ventures
+Square, Beceem Communications, Xsigo Systems
+64 Carl Gordon (New)
+OrbiMed Advisors
+Inhibitex, Aragon Pharmaceuticals, Adimab
+65 Ron Conway (41)
+SV Angel
+Twitter, Zynga, Snapchat
+66 Christopher Schaepe (55)
+Lightspeed Venture Partners
+Fusion-io, Solazyme, Aerohive Networks
+67 Salil Deshpande (71)
+Bain Capital Ventures
+LendingClub, MuleSoft, Buddy Media
+68 David Weiden (39)
+Khosla Ventures
+Jawbone, Yammer, Lookout
+69 Hans Tung (100)
+GGV Capital
+Beijing Xiaomi Technology, VANCL, Forgame Holdings
+70 Bill Gurley (33)
+Benchmark Capital
+Uber Technologies, Zillow, Nextdoor
+71 Craig Sherman (New)
+Meritech Capital Partners
+Zulily, SurveyMonkey.com, Evernote
+72 Bryan Schreier (new)
+Sequoia Capital
+Dropbox, Qualtrics, Trulia
+73 Roger Lee (54)
+Battery Ventures
+Groupon, Angie's List, BlueKai
+74 Christopher Gabrieli (returnee)
+Bessemer Venture Partners
+Bright Horizons Family Solutions, Stromedix, Acceleron Pharma
+75 Rob Hayes (97)
+First Round Capital
+Square, Uber Technologies, Rearden Commerce
+76 Peter Barris (49)
+New Enterprise Associates
+Groupon, Boingo Wireless, Echo Global Logistics
+77 Jeff Crowe (New)
+Norwest Venture Partners
+LendingClub, RetailMeNot, Turn
+78 Gordon Ritter (returnee)
+Emergence Capital Partners
+Veeva Systems, Lithium Technologies
+79 Izhar Armony (new)
+Charles River Ventures
+Yammer, RPX, TerraPower
+80 Mamoon Hamid (New)
+The Social+Capital Partnership
+Castlight Health, Box, Yammer
+81 Kui Zhou (new)
+Sequoia Capital
+Xiamen Changelight, Beijing Shouhang Resources Saving, Sinnet
+82 David Lee (New)
+SV Angel
+Twitter, Dropbox, Square
+83 Peter Nieh (New)
+Lightspeed Venture Partners
+Nest Labs, QuantumScape, 99Bill
+84 Richard Liu (60)
+Morningside Group
+Beijing Xiaomi Technology, Phoenix New Media, YY
+85 Daniel Rimer (34)
+Index Ventures
+Facebook, Dropbox, Flipboard
+86 Gaurav Garg (New)
+Wing Ventures
+FireEye, Jawbone, Ruckus Wireless
+87 Glenn Solomon (76)
+GGV Capital
+Square, Pandora Media, QuinStreet
+88 Jerry Murdock (New)
+Insight Venture Partners
+Twitter, Flipboard
+89 Jonathan Silverstein (96)
+OrbiMed Advisors
+Enobia Pharma, Relypsa, superDimension
+90 Shervin Pishevar (New)
+Sherpa Ventures
+Uber Technologies, Tumblr, Fab
+91 Terrance McGuire (returnee)
+Polaris Partners
+Ironwood Pharmaceuticals, Adimab, Acceleron Pharma
+92 Peter Chung (67)
+Summit Partners
+Ubiquiti Networks, M/A-COM Technology Solutions Holdings, A10 Networks
+93 Bruce Dunlevie (65)
+Benchmark Capital
+WeWork Companies, ServiceSource International, Pure Digital Technologies
+94 John Walecka (59)
+Redpoint Ventures
+Intermolecular, Qihoo 360 Technology, BCD Semiconductor Manufacturing
+95 Forest Baskett (58)
+New Enterprise Associates
+Fusion-io, Tableau Software, Audience
+96 David Yuan (new)
+Redpoint Ventures
+Qihoo 360 Technology, Focused Photonics (Hangzhou), iDreamsky
+97 Josh Stein (70)
+Draper Fisher Jurvetson
+Box, Yammer, Glam Media
+98 Theresia Gouw Ranzetta (82)
+Accel Partners
+Glam Media, Imperva, Trulia
+99 Matt Cohler (46)
+Benchmark Capital
+Dropbox, Domo, Peixe Urbano
+100 Randy Komisar (new)
+Kleiner Perkins Caufield & Byers
+Nest Labs, RPX
+James Goetz Leaps to No. 1 because of the WhatsApp sale. He was the only VC in the deal.
+Mary Meeker The former Wall Street tech sage is the top-ranked woman on the list.
+Yuri Milner He moved his head office to Hong Kong to be closer to his China deals.
+Hans Tung Two-time Midas lister splits his time between Beijing and San Francisco.
+Peter Nieh Debuts on the list thanks to a bet on Nest Labs. And he's 48, the Midas average.
+FIRMS WITH THE MOST PARTNERS ON LIST
+Sequoia Capital 9
+Accel Partners 8
+Kleiner Perkins Caufield & Byers 5
+Greylock Partners 4
+Benchmark Capital 4
+New Enterprise Associates 4
+Meritech Capital Partners 4
+Andreessen Horowitz 3
+GGV Capital 3
+Bessemer Venture Partners 3
+Draper Fisher Jurvetson 3
+FIRMS WITH THE MOST RECENT EXITS >$200M
+Kleiner Perkins Caufield & Byers 15
+Sequoia Capital 15
+Acc el Partners 12
+New Enterprise Associates 12
+Meritech Capital Partners 9
+Northwest Venture Partners 8
+Bessemer Venture Partners 7
+Orbimed Advisors 7
+Battery Ventures 6
+DATA POINT: 20 New
+DATA POINT: 7 Returnees
+DATA POINT: 4 Women
+DATA POINT: 48 Average Age
+HALL OF FAME: MOST APPEARANCES ON LIST
+John Doerr 13
+Michael Moritz 13
+Jim Breyer 12
+Vinod Khosla 10
+Douglas Leone 9
+John Walecka 9
+Peter Wagner 9
+Hall of famers not on 2014 list (appearances): Jay Hoag (12), David Cowan (11), William Ford (9), Kevin Harvey (9).

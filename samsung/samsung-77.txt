@@ -1,0 +1,51 @@
+<title:>Dirty Tanker Fixtures - Oct 16
+<Date:>16 October 2014
+<Content:>
+BANGALORE, Oct 16(Reuters) - Dirty Tankers Fixtures (Bookings):
+ Vessel                    KT     Date    Load/Dest           Rate           Charterer
+                                                                             
+ MIDEAST GULF/BLACK SEA                                                      
+ BRIGHTOIL GRAVITY         270    29/10   MEG/WCI             RNR            RELIANCE
+ DESH VISHAL               270    01/11   MEG/WCI             RNR            RELIANCE
+ ALFA GLORY                270    01/11   MEG/SIKKA           RNR            RELIANCE
+ MARAN CANOPUS             270    29/10   MEG/SPORE           W45            CHEVRON
+ DYNACOM TBN               130    30/10   MEG/DAESAN          COA            SAMSUNG T
+ EUROHOPE                  140    31/10   MEG/UKCM            W40            PETRACO
+ OLYMPIA I                 80     26/10   MEG/NZ              W95            SHELL-RPLC
+ C. J. Z. GUANG            265    28/10   MAF/CHINA           COA            UNIPEC
+ SCI TBN  FO               80     25/10   FUJA/JEDDAH         $750'          ATC
+ TH SONATA FO              80     21/10   KUWAIT/EAST         W82.5 NH       VITOL
+                                                                             
+ WEST AFRICA                                                                 
+ NANTUCKET                 130    30/10   WAFR/UKCM           W85            EXXON
+ LEONID LOZA               130    30/10   WAFR/ABIDJAN        $850'          SAHARA
+ MARE PICENUM              130    01/11   WAFR/BRAZIL         RNR            PETROBRAS
+ GODAVARI SPIRIT           130    04/11   WAFR/UKCM           W80            PETROINEOS
+ MARAN CASSIOPEIA          130    24/10   ALGERIA/UKC         W87.5          VALERO
+ EAGLE BALTIMORA FO        80     27/10   ALGERIA/TA          RNR            VALERO
+ BONITA                    70     20/10   PAJARITOS/UKCM      W82.5          VITOL
+                                                                             
+ WEST HEMISPHERE                                                             
+ DELTA KANARIS FO          135    24/10   KERCH/FEST          $3.6M          SOLAL-FLD
+ NELL JACOB  FO            130    28/10   UST LUGA/USG        W51.5          CLEARLAKE
+ RICH DUCHESS II FO        80     22/10   GREECE/RSEA         $1.2M          ATC
+ MINERVA CLARA             70     20/10   CBS/SPAIN           RNR            REPSOL
+ AET TBN                   70     25/10   P. MIRANDA/USAC     W125           EXXON
+                                                                             
+ UK CONTINENT                                                                
+ NORDIC SPRINTER FO        130    22/10   BALTIC/SPORE        $3.9M HT C/A   KOCH
+ SEAFAITH II               100    26/10   HONNINGSVAG/UKC     W75            LITASCO
+ TH SERENADE               80     20/10   NSEA/UKC            W100           TOTAL-FLD
+                                                                             
+ MED BLACK SEA                                                               
+ MINERVA ZOE               80     23/10   LIBYA/MED           W105           PETRACO-FLD
+ 
+    
+    
+Please Note :    
+    
+DNR : Date Not Reported    
+      
+Dirty tankers reports on, weekly clean tankers report      
+For general shipping stories, For Tanker Rates double click <0#FRT->
+Released: 2014-10-16T13:18:31.000Z

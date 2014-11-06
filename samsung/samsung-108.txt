@@ -1,0 +1,84 @@
+<title:> The Morning Download: A Lowe¡¦s Robot Aims to Cut ¡¥Friction¡¦ From Big-Box Shopping
+<Date:>The Morning Download comes from the editors of CIO Journal and?cues up the most important news in business technology every weekday morning.?Send us your tips, compliments and complaints. You can get The Morning Download emailed to you each ...
+<Content:>
+SINGAPORE, Oct 28 (Reuters) - The Asian naphtha crack rose
+slightly from a 27-month low on Tuesday to $59.18 a tonne, with
+a lower Brent price and spot demand giving a temporary lift to
+an over-supplied market, traders said.
+    South Korea's Samsung Total bought a full-range naphtha
+cargo for first-half December delivery at a discount wider than
+$13 a tonne to Japan quotes on a cost-and-freight (C&F) basis,
+they said. 
+    The steep discounts reflected the level of oversupply in
+Asia, where prices are rarely in the negative zone because the
+region is usually short of the feedstock. 
+    This changed in August after the West, including Europe and
+the Mediterranean lined up a massive amount of cargoes to be
+shipped to the East. 
+    The situation could deteriorate further for sellers, traders
+said, as the United Arab Emirates (UAE) is expanding its Ruwais
+refinery which is due to be completed soon. UAE's naphtha
+exports are expected to increase. 
+    The weak market has weighed on sellers all over Asia.
+    Bangladesh Petroleum Corp (BPC) offered 170,000 barrels for
+Nov. 27-29 loading from Chittagong for the second time after
+receiving low bids in its earlier offer, said a BPC official. 
+    The new tender will close on Nov. 17, with bids to stay
+valid until Nov. 17. 
+    
+    TENDERS: Thailand's IRPC offered 30,000 tonnes of heavy
+naphtha for Dec. 5-28 loading from Rayong in a tender closing on
+Oct. 31. 
+    India's Essar Oil offered 35,000 tonnes of naphtha for Nov.
+23-27 loading from Vadinar in a tender closing on Oct. 30. 
+    Egypt, which has a quarterly contract ending December with
+Total, has offered similar volumes but for Dec. 22-24 loading
+from Suez in a tender closing on Nov. 10. 
+    Indonesia's Pertamina was seeking 100,000 barrels of
+92-octane gasoline for Nov. 8-10 delivery to Tanjung Gerem and
+another 100,000 barrels for Nov. 13-15 arrival at Jakarta in a
+tender closing on Oct. 30. 
+    SINGAPORE CASH DEALS: One deal each on naphtha and gasoline.
+    Vitol sold to PTT a 92-octane gasoline cargo for Nov. 23-27
+loading from Singapore at a premium of $1.40 a barrel to
+Singapore quotes on a free-on-board (FOB) basis. 
+    Vitol, on the other hand, bought a first-half January
+naphtha cargo from Sietco at $711 a tonne. 
+    
+ CASH ($/T)                        ASIA CLOSE        Change   % Change   Prev    RIC
+                                                                         Close   
+ OSN Naphtha CFR Japan M1                    702.00    -1.00      -0.14  703.00  <NAF-1H-TYO>
+ OSN Naphtha CFR Japan M2                    711.00    -1.00      -0.14  712.00  <NAF-2H-TYO>
+ OSN Naphtha Diff                             -9.00     0.00       0.00   -9.00  <NAF-TYO-DIF>
+ Naphtha Netback FOB Sing                     75.87    -0.13      -0.17   76.00  <NAF-SIN>
+ Naphtha Diff FOB Sing                        -1.48    -0.03       2.07   -1.45  <NAF-SIN-DIF>
+ Naphtha-Brent  Crack                         59.18     0.95       1.63   58.23  <NAF-SIN-CRK>
+ Gasoline 97                                  98.30    -0.15      -0.15   98.45  <GL97-SIN>
+ Gasoline 95                                  97.40    -0.30      -0.31   97.70  <GL95-SIN>
+ Gasoline 92                                  94.65    -0.20      -0.21   94.85  <GL92-SIN>
+ Gasoline crack                                8.94     0.06       0.68    8.88  <GL92-SIN-CRK>
+                                                                                                
+ For a list of derivatives prices, including margins, please double                             
+ click the RICs below.                                                           
+ Brent M1                                                                                       
+ Naphtha CFR Japan M1                                                                           
+ Naphtha CFR Japan M1/M2                                                                        
+ Naphtha CFR Japan M2                                                                           
+ Naphtha Japan-Sing Netback M1                                                                  
+ Naphtha Japan-Sing Netback M2                                                                  
+ Naphtha FOB Sing M1                                                                            
+ Naphtha FOB Sing M1/M2                                                                         
+ Naphtha FOB Sing M2                                                                            
+ Naphtha Cracks M1                                                                              
+ East-West Naphtha M1                                                                           
+ East-West Naphtha M2                                                                           
+ NWE Naphtha M1                                                                                 
+ NWE Naphtha M1/M2                                                                              
+ NWE Naphtha M2                                                                                 
+ Crack NWE Naphtha-Brent M1                                                                     
+ Crack NWE Naphtha-Brent M2                                                                     
+ *Sing refers to Singapore                                                                      
+    
+    
+ (Editing by Jane Merriman)
+Released: 2014-10-28T13:42:57.000Z

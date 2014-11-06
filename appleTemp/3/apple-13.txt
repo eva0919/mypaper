@@ -1,0 +1,28 @@
+<title:>By John F. Wasik   
+<Date:>25 October 2014
+<Content:>
+The stock market has been taking investors on a white-knuckle ride in recent weeks. Some of the ways investors try to manage volatility can be nerve-racking, too.
+The S&P 500 has fallen more than 1% six times and risen more than 1% five times since the index hit an all-time high on Sept. 18. By contrast, there weren't any such single-day swings between Aug. 9 and Sept. 24.
+Jittery investors are worried about the U.S. economic recovery, higher interest rates and slow growth in Europe, among other issues. Strong gains in recent years have boosted share prices and stoked concerns that stocks are priced too high.
+The market upheaval has put a spotlight on strategies investors can use to try to protect themselves from steep losses in a downturn. For example, a handful of funds allow investors to profit from volatile moves and log gains when stocks fall.
+But the share prices of such funds can just as quickly leap or fall. "You don't just plunk them in a portfolio for the long term," says Eric Dutram, an analyst who tracks exchange-traded funds at Zacks Investments, a research firm based in Chicago.
+For investors who just want to smooth out a bumpy ride, the better bet may be a balanced fund that holds a mix of stocks and bonds. Here's what you need to know about each approach.
+-- The wagers of fear. Financial whizzes look for signs of volatility in stock prices by watching the Chicago Board Options Exchange's Volatility Index, or VIX, informally known as the fear gauge.
+The VIX tracks near-term volatility as measured by S&P 500 index options prices. A high VIX means stock prices are more likely to fluctuate -- and often decline. As recently as July, the VIX was at its lowest level since 2007, before the financial crisis.
+But the index has spiked recently, which has benefited investors in funds that track the VIX. The iPath S&P 500 VIX Short-Term Futures Exchange-Traded Note, which has $968 million invested, gained 15% over the past month, through Thursday, according to Chicago-based investment researcher Morningstar. Exchange-traded notes are debt instruments backed by the issuer that promise to pay a return based on the performance of a market measure.
+A similar fund, the ProShares VIX Short-Term Futures ETF, which has $90 million invested, is up 14% over the same period.
+The iPath note charges annual fees of 0.89%, or $89 on a $10,000 investment, while the ProShares fund charges 0.83%.
+But such products also can lose big in periods of calm, such as when stocks are gaining steadily or basically flat, which makes them unsuitable for most buy-and-hold investors. The iPath note, for example, fell nearly 78% in 2012 and 67% last year. Even with its recent gains, the note is down 21% year to date, according to Morningstar.
+The risks are real even for investors who watch their portfolios carefully, because it is difficult if not impossible to consistently predict when stocks will be calm or volatile.
+-- Down is the new up. Some funds aim to profit when stocks drop. As with funds that benefit from volatility, however, the secret to success is the perilous art of timing your bets.
+The ProShares Short S&P 500 ETF, for example, offers investors the inverse of the daily return of the S&P 500, including dividends. If the index loses 1% in a day, the fund should gain about 1%, and the profits and losses can diverge to some extent and compound over time for investors who hold the fund for longer periods.
+For example, the ProShares fund is up 1.3% over the past month, through Thursday, while the S&P 500 has fallen 1.5% over that period. But the fund is down 8% year to date, compared with a 7.3% return for the S&P 500. The fund has $1.8 billion in assets and charges annual fees of 0.89%.
+The ProShares fund can help insulate investors. In 2008, during the financial crisis, the fund rose 39%. But it has dropped every year since, including a nearly 26% decline last year, as stocks recovered.
+A similar ETF, the ProShares Short Dow30, places a narrower bet on the Dow Jones Industrial Average, which has lagged behind the S&P 500 this year.
+-- Striking a balance. Investors who have no special insight into what the stock market will do nonetheless have ways to cushion their portfolios.
+One of the simplest options is a balanced fund that holds chunks of both stocks and bonds in hopes that the stocks will provide growth and the bonds some measure of insurance because their prices often rise when stocks fall.
+The Vanguard Balanced Index Fund, for example, had 56% of its assets in stocks such as Apple and Exxon Mobil, as of Sept. 30, and the rest in U.S. Treasurys and other bonds as well as some cash. The fund is down 0.3% over the past month, through Thursday, but up 5.9% year to date.
+A similar fund, the Fidelity Balanced Fund, had 72% of its assets in stocks and the rest in bonds, cash and other investments as of Sept. 30. The fund is down 1% over the past month, but up 6.3% this year.
+These types of funds have attracted wide interest. The Vanguard fund has $23.2 billion in assets and the Fidelity fund has $26.6 billion. The annual fee on Admiral shares of the Vanguard fund is 0.09%, and the fee is 0.58% for the Fidelity fund.
+The returns on a balanced fund may not be anything to brag about. But if wild rides are what bother you, it may be a calmer place to park your money.
+License this article from Dow Jones Reprint Service

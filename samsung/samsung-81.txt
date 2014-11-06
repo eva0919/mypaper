@@ -1,0 +1,26 @@
+<title:> 5 Things To Read Today: U.S. Stocks Sink, Texas Ebola Patient Flew to Ohio, And More
+<Date:>#1: Market Turmoil as Dow Sinks Amid Flight to Safety
+<Content:>
+(The author is a Reuters Breakingviews columnist. The opinions expressed are his own.)
+By Reynolds Holding
+NEW YORK, Oct 15 (Reuters Breakingviews) - Twitter and Tesla deserve a crisp salute for helping to cool the patent wars. Recent U.S. Supreme Court decisions clearly contributed to a 40 percent drop in the number of infringement suits. But the microblogging site and Elon Musk's electric carmaker eased pressures to sue with efforts to share technology - and goose future demand.
+Some 330 patent complaints landed in federal courts in September, compared with around 550 a year earlier, according to litigation analysis firm Lex Machina. The numbers have dropped steadily since reaching an April high.
+A big reason is probably a Supreme Court decision in June that said merely running abstract ideas through a computer doesn't make them patentable. Since then, lower courts have declared patents invalid in at least a dozen cases. The ruling has also cast doubt on protections for certain types of software.
+Two other top-court cases discouraged weak infringement lawsuits by giving their targets more leeway to recoup legal fees. The Patent and Trademark Office's appeal board has been using new powers to review and nullify dodgy patents that have already been granted.
+More companies may be realizing, though, that costly enforcement actions aren't worth it. Twitter announced two years ago that it would allow engineers to veto litigation involving intellectual property they developed. Tesla opened up its technology to other users in June, just before the Supreme Court decision.
+The upside for Twitter was the possibility of attracting more customers and top-notch engineers. Its lack of a big patent arsenal, of course, meant the risk was low. Musk's company reckons sharing IP will speed development of batteries, charging stations and other technology integral to the industry's success - and, therefore, its own.
+History suggests they're on to something. The early technology behind personal computers, wireless communications and even textile manufacturing was left open for rivals to copy and develop. The tactic encouraged innovation and the creation of complementary products that helped expand demand.
+Other companies may be coming around. Samsung is to share patents with Google over the next decade and has ended its legal battles with Apple outside the United States. After years of vicious fighting, the lure of a peace dividend can be tough to resist. 
+              
+              
+              
+              
+CONTEXT NEWS
+              
+- The number of U.S. patent lawsuits filed in September dropped 40 percent from the total a year before, from 549 to 329, according to litigation analysis firm Lex Machina. Filings in each of the past five months have also decreased significantly since reaching a high of 675 in April, the company reported.
+- The U.S. Supreme Court on June 19 decided that abstract ideas cannot be patented merely because they are implemented through a computer. The court's nine justices ruled unanimously in favor of CLS Bank International, which had challenged Australian derivatives market operator Alice Corp's patents for a computer system that keeps track of financial transactions.
+- Lex Machina report: http://bit.ly/1o1vepS
+RELATED COLUMN
+Fancy free
+- For previous columns by the author, Reuters customers can click on (On Twitterhttps://twitter.com/holdingren. Editing by Antony Currie and Martin Langfield) 
+Released: 2014-10-15T19:21:57.000Z

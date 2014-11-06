@@ -1,0 +1,41 @@
+<title:>In China, high demand for robots but too many robot manufacturers
+<Date:>28 October 2014
+<Content:>
+* Automation seen as solution to sliding Chinese productivity
+* Central, local governments rolling out policy support, incentives
+* Over 400 robot makers, 30 industrial parks for robotics
+By Pete Sweeney
+SHANGHAI, Oct 29 (Reuters) - China wants domestic companies to buy more locally made robots to lift productivity, but industry insiders have warned its policies are over-stimulating the market and that robot manufacturers were "coming up like mushrooms."
+Government officials, worried that productivity growth may have turned negative since 2009, see the promotion of automation as a policy that will increase efficiency. Chinese manufacturers, struggling with increasing costs of labour, also favour more use of robots where possible.
+The confluence of policy support and market demand made China the world's biggest buyer of robots in 2013, overtaking Japan.
+At the same time, both central and local governments are encouraging new domestic players to capture market share from established foreign brands. In its five-year economic plan for 2011-2015, Beijing specifically targeted robotics as a key sector for development, hoping to create four or five domestic robotics "champion" firms to meet an annual production target of about 13,000 robots.
+But Stefan Sack, CEO of robot manufacturer Comau Shanghai Engineering, warned that the government policies carried a risk.
+"Government intervention can help industry to grow but it can also create bubbles," he said at a robotics industry conference, adding that small manufacturers in the sector were "coming up like mushrooms".
+"Everybody wants to become a robot manufacturer now because it's sexy," Sack said.
+The official Xinhua news agency reported on Monday that China now has 420 robot companies, adding that more than 30 industrial parks devoted to robotics were being built or were already functioning around the country.
+Beijing's industrial policies have a history of going astray, most recently in renewable energy, where official endorsement of what was seen as a cutting edge technology resulted in duplicated investment around the country, ending in a wave of bad debt as profit margins were wiped out.
+EARLY SIGNS
+Although analysts said the robotics industry is not at that stage, there are already early warning signs.
+"China's market is totally fragmented; you've basically got 31 provincial markets," said Andrew Polk, resident economist at the Conference Board research house in Beijing. "You get a directive on the central front to build robots or whatever, and everyone moves to create their own local champions."
+"They are doing this at a point where wages are rising, but their comparative advantage is still relatively cheap labour," he added. "They could be pushing this too hard too early."
+According to the China Robot Industry Alliance, about 37,000 robots were sold in China in 2013, almost three-fourths of them manufactured overseas.
+The number of domestically produced industrial robots tripled to about 10,000 units, on track to meet Beijing's goal of having domestic brands account for a third of sales by 2015.
+Official media said that by mid-summer, 54 listed Chinese companies had invested in robotics firms, of which 80 percent were first-time investors, causing the number of robot stocks to nearly triple since July 2012.
+The mergers have been welcomed by mainland investors: when JS Corrugating Machinery Co Ltd said it would acquire a robotics firm in June, its stock spiked by 60 percent in a few trading days.
+Established players are also doing well. Shanghai Siasun Robotics & Automation, one of China's best-known robot makers, is up over 50 percent this year and pricing at around 84 times earnings, far outperforming benchmarks.
+GENUINE PROBLEM
+Few economists dispute that the export powerhouse provinces of Zhejiang and Guangdong, China's main manufacturing hubs, are facing a genuine problem.
+"Zhejiang province is facing a worker shortage. We have new constraints on resources, input factors, and the environment; we need to adjust our economy's structure," said Zhou Tufa, division chief at the province's industrial investment department.
+"We hope to substitute machines for labourers doing heavy physical work," he said in an interview in the provincial capital Hangzhou.
+Local governments have adopted a variety of different stimulus tactics in robotics. Dongguan, a manufacturing centre in Guangdong, has been particularly aggressive, creating a 200 million yuan ($33 million) investment fund to subsidise robotics investments by local firms.
+Wang Dayong, president of Zhejiang Sanhua Automotive Components, told Reuters that his major challenge is attracting and retaining workers, a problem he hopes robots can solve.
+"We are automating for long-term competitiveness," he said.
+But customers warned that demand for more robots does not equate to demand for more robot suppliers.
+Frank Chuang, assistant director of manufacturing operations at Ford Greater China, said that since most robot manufacturers use customised operating systems and components, his company is conservative regarding suppliers.
+"If we don't carefully select the robots, then in the near future we will generate not just programming language issues but also maintenance issues."
+It is also possible that firm owners are over-estimating the potential benefits of automation.
+For example Foxconn, a major supplier for Apple , said in 2011 that it aimed to have one million robotic arms in operation by 2014. It subsequently scaled back its plans, with managers saying the robots were not able to replace humans as effectively as expected.
+Even automation enthusiasts like Wang of Zhejiang Sanhua are careful.
+"There are still areas where robots aren't as good as people," he said. "Excessive automation carries its own risks."
+($1 = 6.1385 yuan) (Additional reporting by the Shanghai Newsroom; Editing by Raju Gopalakrishnan) 
+Released: 2014-10-28T22:00:00.000Z

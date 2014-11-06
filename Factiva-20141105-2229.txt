@@ -1,0 +1,2495 @@
+ 
+
+
+Corporate News --- PERSONAL TECHNOLOGY: A Powerful Tablet for Android Die-Hards
+
+By Nathan Olivarez-Giles   
+972 words
+5 November 2014
+The Wall Street Journal Asia
+AWSJ
+25
+English
+Copyright ? 2014 Dow Jones & Company, Inc. All Rights Reserved.   
+
+Google has had a really good thing going with the Nexus 7 these past two years. With its 7-inch display, it was the tablet equivalent of a paperback book: effortless to tote around, and cheap enough ($200 for the first-Gen; $230 for last year's model) to be a no-brainer purchase. It was perfect for e-books, games, email, video, websites and social feeds. With its great display, ample power and pleasing portability, it felt like it was worth more than its price tag.
+
+The Nexus 7 formula wasn't broken, but Google went and fixed it anyway. The Nexus 7 tablet has been discontinued, and the Nexus 9 is the replacement.
+
+Designed by Google in collaboration with HTC, the Nexus 9 is bigger, less portable and almost twice as expensive as its predecessor. With a 9-inch display and $399 price tag, it is now competing squarely against Apple's iPad Air models. After using the Nexus 9 for almost a week, I can say that while it is a great tablet, it isn't for everybody.
+
+Performance isn't a concern with the Nexus 9. It feels Dale Earnhardt Jr.-fast thanks to a new 64-bit Nvidia Tegra K1 processor and 2GB of RAM. The 8.9-inch display packs a 2048x1536-pixel resolution, the same found on Apple's 9.7-inch iPad Air 2, and it does look about as good as Apple's latest -- although the Nexus is more prone to glare.
+
+The styling is refreshingly minimal and utilitarian compared with the upscale flash of Apple's aluminum iPads, or Samsung's chrome-edged and leather-backed Galaxy tablets. The soft-touch plastic back offers plenty of grip without feeling sticky. The one detail that feels remotely luxurious is a brushed-metal frame sandwiched between the back panel and the Gorilla Glass 3 face. At 0.31 inches thick and 0.93 pounds, it is thin and light enough that holding it with one hand is easy -- though still not as easy as the slightly thinner, slightly lighter iPad Air 2.
+
+The Nexus 9 is really designed to fade away into the background, so that what grabs your attention is Google's beautifully slick new version of Android known as 5.0 or, more commonly, Lollipop. In fact, the Nexus 9's most commendable feature is that it is among the first devices that can give you a taste of that new OS.
+
+Every hardware maker changes Android in the name of differentiation, but they all introduce faults: Samsung overloads Android with features you don't need, LG makes Android feel cluttered, Asus makes it look different with no added utility. And Amazon reworks Android entirely, making it a more direct pipeline to its digital storefront.
+
+If you want to see Android as Google intended it -- not coincidentally the best rendition of Android available -- you need to get a Nexus device.
+
+Every aspect of Android has been totally redesigned for Lollipop, and many details demonstrate how Lollipop is easier to use than previous versions. For example, you can double tap on the Nexus 9's display to wake the tablet up. If you have any app notifications, they'll appear stacked like a pile of fortune cookie paper strips, right in the middle of the lock screen. You can swipe away any that you don't want to see again, and double tap a paper scrap to jump directly to the app it that sent it.
+
+The interface is so smooth that it feels almost like liquid, and its playful pop-art look brings more personality to Android than I've ever seen before. Google's clock, calculator and calendar apps are full of bright colors (magentas, teals, light blues), and there are illustrations, reminiscent of those used in Google Now, within the calendar and other apps.
+
+Details like this make Android feel like it was thoughtfully crafted rather than coldly programmed. And playing up the connection to Google Now is wise: The service that aims to predict what you might need -- appointments, sports scores, flight details, package deliveries, nearby concerts, upcoming birthdays -- before you ask for it is one thing Google has cooked up that Apple still can't match.
+
+Unfortunately, when it comes to apps, Android still feels behind the curve compared with iOS. The iPad just has more apps tailored specifically to the larger display. Sure, Android now has a ton of top-notch games to play ("Clash of Clans," "Star Wars: Galactic Defense," "Monument Valley"). It also has access to Netflix, Hulu, Amazon Instant Video, Spotify, Pandora and Beats -- nearly any decent streaming media besides iTunes. But must-have apps like Twitter and Facebook still feel like stretched-out phone apps rather than something built for the big screen. And app makers still overwhelmingly launch their latest designs on iOS before heading over to Android.
+
+The Nexus 9 also lacks the multitasking powers that some key non-iPads have: Samsung hacked its version of Android to run multiple apps in pop-up windows; Windows tablets run apps side by side.
+
+This all leaves the Nexus 9 in a peculiar place. It is an outstanding piece of hardware, and the best all-round Android experience available on a tablet. But if you care about apps, you're still going to lean toward an iPad, and if you care about productivity, you may well aim toward the Galaxy Tab S or even a Surface Pro 3 instead. And if you just want to curl up on the couch with a good book or movie, well, go to eBay and find yourself a Nexus 7. They're still great.
+
+License this article from Dow Jones Reprint Service
+
+Document AWSJ000020141104eab50001f
+
+
+ Disney Gets Apple and Google to Play Nice
+The Wall Street Journal Tech Talk, 4 November 2014, 918 words, (English)
+Summary: Sprint reports a huge drop in subscribers; Apple and Google will let you share Disney content between operating systems; Taylor Swift yanks her catalog from Spotify and a review of the Nexus 9. WSJ's Mathew Passy on those stories ...
+Document MMSAJW0020141104eab400001
+
+
+
+WSJ.D Live (A Special Report) --- No Stores; No Ads; Just a Lot of Sales: Xiaomi's Hugo Barra describes how the Chinese phone maker relies on its 'family' of customers
+
+By Rebecca Blumenstein   
+847 words
+3 November 2014
+The Wall Street Journal
+J
+R7
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+
+Hugo Barra left Google Inc. a year ago to join Chinese-based Xiaomi Inc., the manufacturer of the best-selling phone in the world's biggest market, and a company that operates almost entirely without traditional advertising or retail stores. Xiaomi sold about 18 million phones in 2013 and is forecasting sales of 60 million units this year. The Wall Street Journal's deputy editor in chief, Rebecca Blumenstein, talked to Mr. Barra, Xiaomi's global vice president. Edited excerpts follow.
+
+MS. BLUMENSTEIN: What is the biggest contributor to Xiaomi's success? Is it a cult that you've created in China?
+
+MR. BARRA: Our core belief is basically that if you treat your users or customers as friends, if you listen to them carefully for their feedback, if you respect their views, if you really take care of them, they become attached to you and to your products. They tell their friends. They forgive your mistakes. They help you out. It's kind of like becoming part of a family. So, I prefer family to cult.
+
+MS. BLUMENSTEIN: Many companies say they involve customers or fans in beta tests and testing. Does Xiaomi do completely external beta testing constantly?
+
+MR. BARRA: That's a nice way to look at it. We have this website, which is our user forum. On the China side of the website, we have about 30 million registered users, and about 400,000 posts every day, from product feedback, bug reports, questions, feature recommendations and so on. On top of that, about 10% of people who buy our smartphones are on what we call our beta track. They've chosen to receive software updates every Friday, with new features, some of which are still sort of only half baked, half implemented, because they want to provide feedback.
+
+MS. BLUMENSTEIN: You sell your phones at cost. You are a $10 billion company in revenue, perhaps one of the fastest-growing tech companies ever. But how are you going to make money?
+
+MR. BARRA: We've built our own e-commerce platform from the very beginning. We sell the majority of our products on e-commerce that way. And it's not just phones. We have about 1,000 SKUs on our website.
+
+If you look at our product portfolio, it's incredibly simple and focused. This year, we've only announced two new smartphone models, Redmi Note and Mi4. These models stay in the market for up to 24 months, so it's a very long life cycle. The economies of scale are huge. And all marketing is social media.
+
+MS. BLUMENSTEIN: There have been some headlines about the security of data stored in Xiaomi phones being in data centers in China. Are you moving data centers outside of China to counter such concerns?
+
+MR. BARRA: I actually think Chinese companies are, to a certain extent, held to a higher privacy standard than most companies out there.
+
+We are moving to a global infrastructure with data centers in Asia Pacific, North America, and next year India.
+
+That will help with performance. It helps us comply with local data protection regulations and so on. But then, it has this amazing benefit of making people feel better that they have their data next to them.
+
+MS. BLUMENSTEIN: Jony Ive, Apple's senior vice president of design, has criticized certain phone makers for producing phones that looked a lot like iPhones. He called it outright theft. Many people took that to be, even if he didn't say Xiaomi, a direct slap at Xiaomi. What's your reaction?
+
+MR. BARRA: I don't think Jony mentioned the word "Xiaomi." Our designers, our engineers, are inspired by great products, by great design out there. In today's world, who isn't? Point me to a product in our industry that had completely unique design language. You're not going to be able to find one.
+
+Apple is the world's design Mecca. And Apple inspires itself on great products and great ideas as well. The iPhone 6, in my opinion the most beautiful smartphone ever built, without a doubt, carries design language that's very HTC-like from a few years back, of course with an astonishing twist of Apple innovation on top of it. But it is a somewhat familiar design language.
+
+It's fascinating that Apple took existing ideas that were very good, added their twist of innovation on top, and in many cases actually made those ideas better or much better. Like, quick settings on iOS is much better than quick settings on Android. But it was on Android well before you'd find it on an iOS device. So, this idea of building upon great ideas and adding a twist of innovation is what they do. It's what we do.
+
+License this article from Dow Jones Reprint Service
+
+Document J000000020141103eab30000s
+
+
+
+
+Business
+Corporate Watch
+
+521 words
+2 November 2014
+12:51
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+
+Diageo
+
+Agreement to Swap Brands
+
+Diageo PLC is nearing an asset-swap deal with Jose Cuervo that would give the British liquor company full ownership of a fast-growing tequila brand in exchange for its Bushmills whiskey label.
+
+The two sides are in advanced talks for a deal that would hand Diageo the 50% of Don Julio tequila that it doesn¡¦t already own as well as a cash payment, according to people familiar with the matter.
+
+In return, it would hand over Bushmills to Cuervo, they said.
+
+Exact terms of the expected agreement, which could be announced as soon as this week, couldn¡¦t be learned.
+
+Consummation of the deal would enable Diageo to realize its stated ambition of boosting its presence in the high-end tequila segment after its efforts to buy Jose Cuervo outright fell apart nearly two years ago.
+
+Diageo and Jose Cuervo, owned by the Beckmann family of Mexico, long had a distribution pact that terminated last year. In advance of the expiration, the two sides discussed a takeover of Cuervo by Diageo, but couldn¡¦t ultimately agree on terms.
+
+Dana Mattioli
+
+HTC
+
+Smartphone Maker Expects Flat Sales, Profitable Quarter
+
+HTC Corp. on Friday predicted sales would at least stay flat in the fourth quarter after three years of decline.
+
+The Taiwanese smartphone maker expects revenue of between 43 billion New Taiwan dollars and NT$47 billion (US$1.41 billion to US$1.54 billion) for the current quarter ending Dec. 31. The target range represents a growth of 2.7% to 12% from NT$41.86 billion in the third quarter, and as much as 9.6% higher than the NT$42.90 billion it fetched in the same period in 2013.
+
+HTC also expects to remain profitable for the third straight quarter. For the three months ended Sept. 30, HTC reported a net profit of NT$640 million, compared with a net loss of NT$2.97 billion a year earlier.
+
+¡§We are forecasting a pretty material increase in handset shipment volume¡¨ for the fourth quarter, Chief Financial Officer Chialin Chang told investors during a conference call. Mr. Chang declined to disclose the company¡¦s shipment forecast.
+
+But analysts say HTC still faces headwinds in a market dominated by Apple Inc. and fast-growing Chinese competitors. A challenge HTC and most Android handset makers face in this quarter is the stronger-than-expected demand for the new iPhones.
+
+Aries Poon
+
+Danone
+
+Dairy Giant to Acquire Stake In Chinese Milk-Powder Firm
+
+Danone SA has agreed to acquire a 25% stake in Chinese milk-powder maker Yashili International Holdings Ltd. for $566 million to bolster its presence in China.
+
+The French dairy company will buy 1.2 billion shares in Yashili for 3.70 Hong Kong dollars (48 U.S. cents) each, the Hong Kong-listed Chinese company said Friday.
+
+When the deal is completed, China Mengniu Dairy Co.¡¦s stake in Yashili will decline to 51.04% from 68.05%.
+
+China¡¦s dairy industry is fragmented, making quality control a challenge. That is pushing dairy companies to consolidate.
+
+Yvonne Lee
+
+Document WSJO000020141102eab2004pl
+
+
+
+
+Tech
+HTC Sees Brighter Fourth-Quarter Sales; Smartphone Maker HTC Faces Competition From China, Apple but Expects to Stay Profitable
+
+By Aries Poon 
+554 words
+31 October 2014
+02:13
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+
+TAIPEI¡XHTC Corp. on Friday predicted sales would at least stay flat in the fourth quarter after three years of decline.
+
+The Taiwanese smartphone maker expects revenue of 43 billion New Taiwan dollars to NT$47 billion (US$1.41 billion to US$1.55 billion) for the current quarter ending Dec. 31. The target range represents a growth of 2.7% to 12% from NT$41.86 billion in the third quarter, and as much as 9.6% higher than the NT$42.90 billion it fetched in the same period in 2013.
+
+HTC also expects to remain profitable for the third straight quarter. In the three months ended Sept. 30, HTC reported a net profit of NT$640 million, compared with a net loss of NT$2.97 billion a year earlier.
+
+We are forecasting a pretty material increase in handset shipment volume [for the fourth quarter],¡¨ Chief Financial Officer Chialin Chang told investors during a conference call. Mr. Chang declined to disclose the company¡¦s shipment forecast.
+
+¡§I hope the momentum will extend into the first quarter of next year,¡¨ Mr. Chang said.
+
+But analysts say HTC still faces headwinds in a market dominated by Apple Inc. and fast-growing Chinese players.
+
+A challenge HTC and most Android handset makers face in this quarter is the stronger-than-expected demand for the new iPhones. Apple recently launched two iPhones, one with a bigger 5? inch screen. Both offer one of the biggest revamps to the iPhone in two years and are well-timed for the year-end holiday season.
+
+HTC, once the world¡¦s top smartphone maker by volume, dropped out of the top 10 largest handset vendors by shipments last year. Apple and Samsung Electronics Co. have been grabbing HTC¡¦s share in the high-end market, while low-cost Chinese makers have been squeezing the Taiwanese company in the mid- and low-end markets.
+
+HTC is hoping to reverse years of shrinking sales by beefing up its midrange product lines and expanding into non-smartphone businesses.
+
+The company has recently added a selfie-focused smartphone to its midprice Desire line. It has also unveiled the Nexus 9 tablet with Google Inc., a waterproof action camera and software for taking selfie photos.
+
+Mr. Chang said HTC has plans to launch new smartphones over the next two quarters, but declined to give more details.
+
+He also said the project with Google doesn¡¦t mean HTC is returning to contract manufacturing of phones and tablets for other brands.
+
+¡§We are open to, and will also consider, co-branding opportunities with partners,¡¨ he added.
+
+But the midtier market is getting crowded, which complicates HTC¡¦s reliance on that segment as a solution, analysts say.
+
+Samsung said Thursday it would seek to compete head-on against low-priced Chinese rivals amid falling sales in China. Chinese brands like Xiaomi Inc., Huawei Technologies Co. and Lenovo Group Ltd. are already dominating the that market.
+
+¡§Apparently HTC is trying to stay away from the competition from Apple in the high-end segment. But the smartphone market, especially the mid- and low-end segments, is still very tough,¡¨ said KGI Securities analyst Richard Ko.
+
+Document WSJO000020141031eaav0015p
+
+
+ HTC forecasts higher Q4 sales; above market estimates
+Reuters, 02:17, 31 October 2014, 241 words, (English)
+TAIPEI Oct 31 (Reuters) - Taiwanese smartphone maker HTC Corp said on Friday that it expects revenue in the fourth quarter to reach T$43 billion-T$47 billion ($1.4 billion-$1.57 billion), beating market expectations of T$41.5 billion.
+Document WCLBA00020141031eaav002e6
+
+ Taiwan stocks up on Wall Street, GDP data; HTC up before outlook
+Reuters, 22:29, 30 October 2014, 185 words, Faith Hung, (English)
+TAIPEI Oct 31 (Reuters) - Taiwan stocks rose 0.2 percent on Friday as market sentiment was buoyed by a rally on Wall Street and better-than-expected economic growth at home, paced by gains of Apple Inc suppliers.
+Document WCLBA00020141031eaav001bc
+
+ Android co-founder Andy Rubin to leave Google
+Reuters, 20:00, 30 October 2014, 258 words, Devika Krishna Kumar, (English)
+Oct 30 (Reuters) - Google Inc said on Thursday that Andy Rubin, co-founder of its Android mobile business and head of its nascent robotics effort is leaving the company.
+Document WCLBA00020141031eaav000gr
+
+ Xiaomi's Hugo Barra on Apple's Design Language
+Wall Street Journal Video, 28 October 2014, 304 words, (English)
+Summary: Xiaomi's Hugo Barra offers his thoughts on Apple's approach to product design at the WSJD Live conference in Laguna Beach, Calif.
+So I've had a few times and I'll repeat that. In our designers our engineers are inspired by great ...
+Document MMSAJB0020141028eaas0018i
+
+
+
+Tech
+Xiaomi Defends Its Smartphone Business Model; Markets Chosen to Fit Low-Cost Approach, Hugo Barra Says
+
+By Daisuke Wakabayashi 
+678 words
+28 October 2014
+09:32
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+
+LAGUNA BEACH, Calif.¡XChinese smartphone maker Xiaomi Inc. said its international expansion plans are dictated by choosing markets where its low-cost business model will work well and not by avoiding areas of potential intellectual-property-litigation risk sweeping across the smartphone industry.
+
+Speaking at the WSJD Live Global Technology Conference, Hugo Barra, Xiaomi¡¦s global vice president, said it looks for markets where the price of a smartphone constitutes a large part of a consumer¡¦s income. Those markets, Mr. Barra said, are where Xiaomi¡¦s model of selling smartphones at near cost works especially well.
+
+Xiaomi passed Apple Inc. and Samsung Electronics Co. to become the best-selling smartphone provider in China in the second quarter, according to Canalys, a research firm. It has moved into India, Indonesia and other parts of Asia. Mr. Barra said the company is looking at a move into Brazil and Mexico next.
+
+Xiaomi has taken the Chinese smartphone market by storm. It offers its phones at rock-bottom prices, often selling out new models online in minutes. It makes money by charging for services and accessories that accompany the phones. It also relies on a legion of loyal fans to test new features and drum up enthusiasm for the company.
+
+But for all of Xiaomi¡¦s successes, rivals and critics have said the company would face patent infringements if it expanded to the U.S. or Europe because it doesn¡¦t have enough intellectual property to strike cross-licensing patent deals with other smartphone manufacturers.
+
+¡§Our situation when it comes to patents is the same as everyone else,¡¨ said Mr. Barra, noting that his company files for a significant number of patents in China and strikes licensing deals abroad. Litigation risk ¡§is not a determining factor¡¨ in deciding the best markets for Xiaomi¡¦s international expansion, he said.
+
+The issue came to prominence earlier this month when Jony Ive, Apple¡¦s senior vice president of design, was asked about Xiaomi and how some smartphone designs seem to resemble the iPhone. Without mentioning Xiaomi specifically, the usually soft-spoken Mr. Ive said it was ¡§theft¡¨ and called it ¡§lazy.¡¨
+
+Mr. Barra said there is no such thing as a completely unique design language in the smartphone industry, noting that Apple¡¦s iPhone 6 takes a chapter from designs by Taiwanese smartphone maker HTC Corp. He says that what Apple does is no different than what Xiaomi does. ¡§This idea of building upon great ideas and putting a twist on it is what we do,¡¨ he said.
+
+An Apple spokeswoman declined to comment.
+
+Xiaomi¡¦s smartphones run on a version of Google Inc.¡¦s Android operating system. Xiaomi is sometimes called ¡§the Apple of China¡¨ for the excitement it generates among consumers. Xiaomi sold about 18 million phones in the past year and it is forecasting sales of 60 million units this year.
+
+The company poses a threat to other smartphone manufacturers because of its willingness to accept low margins on hardware to make money elsewhere. For example, Xiaomi¡¦s popular Redmi phone is about a quarter of the price of the iPhone 6, which sells for more than $800 in China.
+
+¡§We fundamentally believe that innovation is not a luxury item. Innovation is for everyone,¡¨ said Mr. Barra. ¡§We fundamentally believe that when it costs you $200 to make something, you shouldn¡¦t sell it for $600.¡¨
+
+Mr. Barra reiterated that the company has been moving data belonging to international users to servers outside China¡Xin Singapore and North America¡Xin an effort to assuage users¡¦ concerns about privacy. He said the decision to migrate servers outside of China was driven partially by a desire to improve performance by reducing network outages and latency, but he said users like to have data close.
+
+¡§It makes people feel better that they have data next to them,¡¨ Mr. Barra said.
+
+¡§Chinese companies are held to a higher standard than other companies out there.¡¨
+
+Document WSJO000020141028eaas005pl
+
+
+ iPad Mini 3 Review: Buy the iPad Mini 2 Instead
+WSJ Blogs, 20:02, 21 October 2014, 437 words, By Joanna Stern, (English)
+Here¡¦s my review of the $400 iPad Mini 3: Buy the $300 iPad Mini 2 instead.
+While Apple worked overtime to upgrade the iPad Air 2, the Mini 3 just got a fingerprint sensor. Oh, and sorry, how dare I forget? It also now comes in gold.
+Document WCWSJB0020141022eaam0002t
+
+
+
+WSJ.D Technology: Pricey Google Devices Target Apple Buyers --- Bigger Nexus Smartphone, Tablet, TV Set-Top Box Arriving Next Month
+
+By Alistair Barr and Rolfe Winkler   
+670 words
+16 October 2014
+The Wall Street Journal
+J
+B6
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+
+Google Inc. unveiled three Nexus-branded devices on Wednesday, signaling plans to compete with Apple Inc. for high-end consumers.
+
+Google's new Nexus 6 smartphone, Nexus 9 tablet and Nexus Player set-top box are priced slightly below, or in line with, competing devices from Apple. In the past, Google has priced new models significantly below Apple products.That is a departure for Google, which in the past has priced new models significantly below Apple products.
+
+Google also said it would introduce a new version of its Android operating system, dubbed Android L, for Lollipop, next month.
+
+Unlike Apple, Google licenses its operating system to other phone makers. With the new releases, Google aims to compete more with Apple at the premium end of the mobile-device market and help partners churn out cheap handsets for developing markets.
+
+"We deeply respect what Apple is doing, but we take a very different approach," said Sundar Pichai, who runs Google's Android, Chrome and Apps businesses. "With Android L, we wanted to show the entire spectrum."
+
+Android powered 85% of smartphones shipped globally in the second quarter, according to Strategy Analytics. But in developed markets, such as the U.S., Apple devices remain popular with more affluent customers. That gives Apple an advantage because its users spend more on applications, encouraging developers to work on its platform first.
+
+Google's three new devices can be preordered online later this week. The phone will be sold in 27 countries and will be in stores in November.
+
+At 5.9 inches diagonally, the Nexus 6 is larger than Apple's new iPhone 6 Plus, which measures 5.5 inches. It will sell for $649, compared with $749 for the iPhone 6 Plus. Last year, Google introduced the Nexus 5 at $349.
+
+Mr. Pichai said the goal of Nexus products isn't to sell lots of devices, but to provide a "road map" to help other Android device makers, such as Samsung Electronics Co., develop similar products.
+
+The Nexus 6 will be available through the four major U.S. wireless carriers and sold in their stores, with two-year contracts and monthly installment plans that reduce the upfront cost of the device, Mr. Pichai said. Verizon Communications Inc. didn't carry the two most recent Nexus phones.
+
+The Nexus 6 smartphone is made by Motorola Mobility, the handset manufacturer that Google is selling to China's Lenovo Group.
+
+The Nexus 9 tablet, made by HTC Corp., features an 8.9-inch screen and starts at $399. An optional keyboard cover costs $129. It will be available in 30 countries and in stores next month. Google hopes the Nexus 9 can substitute for laptops in some work situations. Microsoft Corp. has tried that strategy with its Surface tablet, but it has failed to catch on with lots of consumers.Mr. Pichai said many people already use Android tablets, which should help get the Nexus 9 adopted in the office and on business trips.
+
+The Nexus 9's $399 starting price is also close to what Apple charges for its iPads. The 9.7-inch tablets from Apple start at $399 and the latest iPad Air tablet starts $499. Apple is expected to unveil new iPads Thursday.
+
+The Nexus Player is a small set-top box shaped like a hockey puck that connects to TVs and uses Wi-Fi to stream movies and TV shows. It doubles as a gaming console, letting users play Android games on a larger screen. Asustek Computer Inc. made the gadget.
+
+The set-top box costs $99 and will be sold in the U.S. and Canada through Google's Play store in early November. That matches Apple's $99 set-top box, Apple TV. The Nexus Player has an optional game controller that costs $39.99.
+
+License this article from Dow Jones Reprint Service
+
+Document J000000020141016eaag00030
+
+
+ L Is for Lollipop: Google¡¦s Android 5.0 Gets Sweet New Name
+WSJ Blogs, 11:01, 15 October 2014, 348 words, By WSJ Staff, (English)
+Google showed the world the first peek of Android 5.0, its latest phone and tablet operating system, back in June, but only called it "L." On Wednesday, Google confirmed that the L stands for Lollipop.
+Document WCWSJB0020141015eaaf004pk
+
+ Google¡¦s Nexus Line: Nexus 6 Phablet, Nexus 9 Tablet and Nexus Player
+WSJ Blogs, 11:01, 15 October 2014, 856 words, By WSJ Staff, (English)
+A day ahead of Apple's expected introduction of next-gen iPads and iMacs, Google is announcing three new Nexus devices: a Nexus 6 smartphone, a Nexus 9 tablet and the Nexus Player, a set-top box for streaming media and games. The new trio ...
+Document WCWSJB0020141015eaaf004ph
+
+ A Merry Shopping Season On The Way
+The Wall Street Journal What's News, 9 October 2014, 638 words, (English)
+Summary: Patrice Sikora reports on the latest holiday shopping forecast, college grads with non-degree jobs, a camera just for selfies and more.
+Document MMSAJZ0020141009eaa9000dx
+
+ PC Sales Drop
+The Wall Street Journal Tech Talk, 9 October 2014, 824 words, (English)
+Summary: PC sales take a tumble - and - Apple prepares to host a media event. WSJ's Bill Fantini has those stories and more.
+Good morning this is clearly tech briefing from the Wall Street Journal for Thursday October 9 I'm bill found ...
+Document MMSAJW0020141009eaa900001
+
+ 5 Things to Read Today: Stocks Fall Sharply, Hong Kong Protest Talks Called Off, and More
+WSJ Blogs, 15:06, 9 October 2014, 593 words, (English)
+#1: Stocks Take a Tumble
+The Dow Jones Industrial Average tumbled more than 300 points on Thursday. This reversed the gains made in Wednesday¡¦s rally and put?U.S. stocks on course for their most-volatile stretch since 2011 amid growing ...
+Document WCWSJB0020141009eaa9006pp
+
+ Google wins bid on which court to fight Rockstar over patents
+Reuters, 11:48, 9 October 2014, 335 words, (English)
+WASHINGTON Oct 9 (Reuters) - Google Inc will fight patent holder Rockstar Consortium in a California court instead of a Texas court that lawyers consider more friendly toward plaintiffs.
+Document WCLBA00020141009eaa90050q
+
+ The Morning Download: Critical Infrastructure at Risk Because of Careless Exposure to Internet
+CIO Report, 07:00, 9 October 2014, 2666 words, By Steve Rosenbush, (English)
+The Morning Download comes from the editors of CIO Journal and?cues up the most important news in business technology every weekday morning.?Send us your tips, compliments and complaints. You can get The Morning Download emailed to you each ...
+Document WCCIOR0020141009eaa900001
+
+
+
+WSJ.D Technology: HTC Takes New Look at Itself With Selfie Camera
+
+By Eva Dou   
+637 words
+9 October 2014
+The Wall Street Journal
+J
+B4
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+
+TAIPEI -- While working on a product road map for smartphone maker HTC Corp. earlier this year, company Vice President Jerry Hsiao did some research.
+
+"British women spend a month of their lives taking selfies," read an article from the British tabloid the Daily Mail that Mr. Hsiao selected for a PowerPoint slideshow highlighting his findings.
+
+While Mr. Hsiao had included the article jokingly in a presentation this week about new products from the Taiwanese company, the observation holds true that people today are often endlessly fascinated with their own images refracted through high-tech gadgets. And long-suffering HTC is hoping that tendency will help it engineer a turnaround.
+
+On Wednesday in New York, HTC, once the world's top smartphone maker by volume in 2011, launched a waterproof action camera and software for taking selfie photos, a departure from its usual emphasis on mobile-phone hardware. HTC also unveiled a selfie-focused smartphone to bolster the company's midprice Desire line.
+
+It is a strategic change that the company hopes will help it reverse three years of falling sales. Last year, HTC fell out of the world's top 10 smartphone brands by shipments amid branding weakness and strong competition from Samsung Electronics Co. of South Korea in the high-end market and Chinese rivals such as Xiaomi in the low-cost segment. This month, the company said its third-quarter revenue fell 11% to 41.86 billion New Taiwan dollars (US$1.37 billion), compared with NT$47 billion a year earlier, despite returning to a net profit largely on cost cuts.
+
+Chief Financial Officer Chialin Chang said in an interview that the company hopes its new products will help it return to sales growth. HTC's sales have fallen year-over-year for the past 12 quarters.
+
+HTC's $199 Re Camera is a slim tube-shaped camera that can be clipped to a backpack, mounted on a bicycle or taken underwater. It is the company's first major venture outside smartphones since its launch of a tablet computer three years ago, and will be sold on Amazon.com and through other retailers. The camera weighs about 2.5 ounces.
+
+Chairwoman Cher Wang has blamed marketing weakness for HTC's decline. Its third marketing chief in two years left HTC this fall, after an advertising campaign with actor Robert Downey Jr. failed to stem the company's sales slide.
+
+In an interview, Ms. Wang said HTC is looking to invest its marketing dollars more effectively. "The most important thing is to make the end-user love you," she said.
+
+The smartphone maker released its Zoe slideshow app free for devices powered by Google Inc.'s Android software and Apple Inc.'s iOS. Its new selfie app, HTC Eye, offers voice-activated photo-taking and a video-chat feature that keeps a subject's face centered in the screen even if the person is walking around. The company plans to eventually make the selfie app available free of charge for non-HTC users.
+
+HTC plans to offer the new smartphone, called Desire Eye, through AT&T Inc. later this month. Unsubsidized, the smartphone would cost between US$450 and US$500, Mr. Chang said. It comes with 13-megapixel cameras on both the front and rear and has a 5.2-inch screen.
+
+A number of competitors await HTC in the selfie-smartphone niche. Samsung, Sony Corp. of Japan and others have also rolled out smartphones with features intended to make it easier to take and edit selfie photos.
+
+With the Re camera, HTC will have to vie against other action-camera makers, such as GoPro Inc. of San Mateo, Calif.
+
+License this article from Dow Jones Reprint Service
+
+Document J000000020141009eaa90001r
+
+
+ HTC CFO says company will not need to tap markets in 2015
+Reuters, 20:09, 8 October 2014, 476 words, Christian Plumb, (English)
+NEW YORK (Reuters) - HTC Corp (2498.TW) will not need to tap the capital markets in 2015 or even beyond, the Taiwanese smartphone maker's chief financial officer told Reuters on Wednesday, citing its lack of debt, $1.7 billion in cash and ...
+Document WCLBA00020141009eaa9000dx
+
+
+
+Business & Finance
+What's News
+Business & Finance
+
+281 words
+9 October 2014
+The Wall Street Journal Asia
+AWSJ
+2
+English
+Copyright ? 2014 Dow Jones & Company, Inc. All Rights Reserved.   
+
+Shanghai Chaori, which this year became the first Chinese company to default on its domestic corporate bonds, plans to bring in a new controlling shareholder and two bond guarantors.
+
+---
+
+Dalian Wanda plans to set up an annual fund to lure movie producers to a multibillion-dollar studio project in China.
+
+---
+
+HTC launched a waterproof camera for taking selfies, a departure from the Taiwan firm's focus on mobile-phone hardware.
+
+---
+
+London Mining's shares closed 76% lower after the Sierra Leone-focused miner warned its shares would likely be worthless as it struggles with weak iron-ore prices and the Ebola outbreak.
+
+---
+
+Yum Brands said its sales in China fell 14% in the latest quarter at restaurants open more than a year, hurt by the latest scare about food safety in the country.
+
+---
+
+A new class of car has been born in India from the unique aspirations of the country's consumers and a tax loophole.
+
+---
+
+The number of U.S. venture-capital-backed firms with a valuation of $1 billion or more has hit 49, the highest on record, as many find private funding readily available and see no rush to go public.
+
+---
+
+Apple said it was surprised by the bankruptcy filing this week by one of its sapphire partners, GT Advanced.
+
+---
+
+IKEA is making a push into the insurance market, rolling out trial sales of a range of policies within the next few weeks.
+
+---
+
+The U.K. Court of Appeal found in favor of the London Metal Exchange, but a monthslong dispute with Rusal over the storage of aluminum may continue.
+
+License this article from Dow Jones Reprint Service
+
+1102
+
+Document AWSJ000020141008eaa900019
+
+
+
+
+Asia
+What¡¦s News¡X
+
+398 words
+8 October 2014
+19:01
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+
+Business & Finance
+
+Shanghai Chaori, which this year became the first Chinese company to default on its domestic corporate bonds, plans to bring in a new controlling shareholder and two bond guarantors.
+
+Dalian Wanda plans to set up an annual fund to lure movie producers to a multibillion-dollar studio project in China.
+
+HTC launched a waterproof camera for taking selfies, a departure from the Taiwan firm¡¦s focus on mobile-phone hardware.
+
+London Mining¡¦s shares closed 76% lower after the Sierra Leone-focused miner warned its shares would likely be worthless as it struggles with weak iron-ore prices and the Ebola outbreak.
+
+Yum Brands said its sales in China fell 14% in the latest quarter at restaurants open more than a year, hurt by the latest scare about food safety in the country.
+
+A new class of car has been born in India from the unique aspirations of the country¡¦s consumers and a tax loophole.
+
+The number of U.S. venture-capital-backed firms with a valuation of $1 billion or more has hit 49, the highest on record, as many find private funding readily available and see no rush to go public.
+
+Apple said it was surprised by the bankruptcy filing this week by one of its sapphire partners, GT Advanced.
+
+IKEA is making a push into the insurance market, rolling out trial sales of a range of policies within the next few weeks.
+
+The U.K. Court of Appeal found in favor of the London Metal Exchange, but a monthslong dispute with Russian aluminum producer Rusal over the storage of aluminum bars may yet continue.
+
+World-Wide
+
+Security forces from India and Pakistan traded mortar and small-arms fire, forcing thousands to flee amid a dayslong outbreak of cross-border violence that is among the worst in a decade.
+
+The Spanish nursing aide infected with Ebola thinks she may have caught it by touching her face with a gloved hand while removing safety garments, a doctor said.
+
+Hundreds of people have been killed in eastern Ukraine since a cease-fire was signed Sept. 5, bringing the death toll from the six-month-old conflict to more than 3,500, the U.N. said.
+
+An earthquake that struck in China¡¦s Yunnan province late Tuesday killed at least one person and damaged buildings, while aftershocks continued in the area.
+
+Document WSJO000020141008eaa9006y1
+
+
+ HTC Joins Action-Camera Market
+Wall Street Journal Video, 8 October 2014, 557 words, (English)
+Summary: HTC introduced a waterproof camera for taking selfie photos. The WSJ's Eva Dou has more details.
+Facing stiff competition in the handset market. Taiwanese Smartphone maker ATC is venturing into new product areas welcome to Asia ...
+Document MMSAJB0020141008eaa8000rt
+
+ HTC Focuses on Images with Desire Eye Phone and Re Camera
+WSJ Blogs, 15:45, 8 October 2014, 760 words, By Nathan Olivarez-Giles, (English)
+HTC is hoping that a focus on photos and video will lure in consumers this holiday season. On Wednesday, HTC introduced the Desire Eye, a smartphone with a 13-megapixel front-facing camera for high-quality selfies, and the Re, a camera ...
+Document WCWSJB0020141008eaa8006el
+
+ Q&A: HTC Executives on Move Beyond Smartphones
+WSJ Blogs, 15:55, 8 October 2014, 711 words, By Eva Dou and Yun-Hee Kim, (English)
+After three years of sales decline, Taiwanese smartphone maker HTC is venturing beyond its core smartphone business as it seeks a turnaround. The company launched a waterproof action camera, the $199 Re Camera, along with new selfie-taking ...
+Document WCWSJB0020141008eaa8006hd
+
+
+
+Asia
+What¡¦s News¡X
+
+434 words
+5 October 2014
+19:01
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+
+Business & Finance
+
+Hewlett-Packard plans to break in two, separating its PC and printer businesses from its corporate hardware and services operations, people familiar with the matter said. It could announce the move as early as Monday.
+
+Discord at OPEC is turning into a price war, loosening the cartel¡¦s grip on the oil market and exacerbating a recent steep selloff.
+
+Yahoo plans to reinvest a small portion of the cash it made from an early bet on Alibaba in another fast-growing startup: Snapchat.
+
+Samsung is taking cues from Silicon Valley, acting more quickly with acquisitions as it ventures into new business areas such as content and services.
+
+Google¡¦s secretive advanced-projects lab is developing a display composed of smaller screens that plug together like Legos to create a seamless image.
+
+HTC said it was profitable for a second consecutive quarter, but the company continued a three-year revenue decline as competition from low-price Chinese phone makers remains fierce.
+
+A cyberattack on J.P. Morgan Chase compromised the personal information for 76 million households. Two state attorneys general in the U.S. are looking at how the bank alerted customers.
+
+National Australia Bank aims to sell a minority stake in its U.S. banking operation through an initial public offering.
+
+China¡¦s cabinet said that Beijing won¡¦t bail out local governments when they fail to repay their debts and will impose ceilings on their borrowing.
+
+The head of Citigroup¡¦s Mexican unit, Grupo Financiero Banamex, resigned, the latest casualty of the bank¡¦s struggles with alleged fraud by a big borrower.
+
+World-Wide
+
+An All Nippon Airways co-pilot who accidentally put his plane into a violent dive and roll in 2011 came closer to losing control of it than previously believed, data released by investigators showed.
+
+Pakistan is struggling to fight a surge in polio cases, as it reported 202 children paralyzed this year, the highest number of cases since the 199 recorded in 2000.
+
+U.S. officials said they remain confident the country won¡¦t suffer a widespread Ebola outbreak.
+
+U.K. leader Cameron decried the beheading of British aid worker Alan Henning, which came days after Parliament authorized military action against Islamic State.
+
+Thai police said they arrested two migrant workers from Myanmar in the killings of two British tourists last month and said DNA samples from the workers match those taken from the female victim.
+
+Brazilians headed to the polls, capping the first round of an unpredictable and often acrimonious presidential campaign. Polls show President Rousseff leading her two main rivals. 
+
+Document WSJO000020141005eaa60030d
+
+
+ Hewlett Packard to Split Into Two Companies
+The Wall Street Journal Tech Talk, 6 October 2014, 773 words, (English)
+Summary: HP plans to split into two companies; Facebook could create health apps; Samsung investing in a new chip plant and new iPads could be announced soon. WSJ's Mathew Passy on those stories and more.
+Document MMSAJW0020141006eaa600001
+
+
+
+Business & Finance
+What's News
+Business & Finance
+
+280 words
+6 October 2014
+The Wall Street Journal Asia
+AWSJ
+2
+English
+Copyright ? 2014 Dow Jones & Company, Inc. All Rights Reserved.   
+
+Hewlett-Packard plans to break in two, separating its PC and printer businesses from its corporate hardware and services operations, people familiar with the matter said. It could announce the move as early as Monday.
+
+---
+
+Discord at OPEC is turning into a price war, loosening the cartel's grip on the oil market and exacerbating a recent steep selloff.
+
+---
+
+Yahoo plans to reinvest a small portion of the cash it made from an early bet on Alibaba in another fast-growing startup: Snapchat.
+
+---
+
+Samsung is taking cues from Silicon Valley, acting more quickly with acquisitions as it ventures into new business areas such as content and services.
+
+---
+
+Google's secretive advanced-projects lab is developing a display composed of smaller screens that plug together like Legos to create a seamless image.
+
+---
+
+HTC said it was profitable for a second consecutive quarter, but the company continued a three-year revenue decline as competition from low-price Chinese phone makers remains fierce.
+
+---
+
+A cyberattack on J.P. Morgan Chase compromised the personal information for 76 million households. Two state attorneys general in the U.S. are looking at how the bank alerted customers.
+
+---
+
+National Australia Bank aims to sell a minority stake in its U.S. banking operation through an initial public offering.
+
+---
+
+China's cabinet said that Beijing won't bail out local governments when they fail to repay their debts and will impose ceilings on their borrowing.
+
+---
+
+The head of Citigroup's Mexican unit, Grupo Financiero Banamex, resigned, the latest casualty of the bank's struggles with alleged fraud by a big borrower.
+
+License this article from Dow Jones Reprint Service
+
+Document AWSJ000020141005eaa600008
+
+
+ Roku Can Now Mirror Phone, PC and Tablet Screens
+WSJ Blogs, 15:53, 3 October 2014, 304 words, By Nathan Olivarez-Giles, (English)
+Screen mirroring¡Xgetting what's on your phone, tablet or laptop to appear on your TV¡Xis coming to Roku media players. On Thursday, the set-top-box company announced that it was testing mirroring in a beta for its Roku 3 and Roku Streaming ...
+Document WCWSJB0020141003eaa300795
+
+ Making Your Home Smarter
+RealEstateJournal, 05:51, 3 October 2014, 2093 words, Viktor Koen, (English)
+IT¡¦S NOT AN EXAGGERATION to say that the Dyson DC44 vacuum made me a better person. Up until 2012, vacuums were dreaded appliances that I only brought out when my floors got filthy enough to require serious attention. The cordless DC44 ...
+Document WC86565020141003eaa30000a
+
+ UPDATE 1-HTC Q3 profit beats estimates as cost cuts offset weak sales
+Reuters, 03:48, 3 October 2014, 343 words, Michael Gold and Faith Hung, (English)
+TAIPEI Oct 3 (Reuters) - Taiwanese smartphone maker HTC Corp swung to better-than-expected profit in the third quarter from a heavy loss a year earlier, as cost cuts helped it offset the impact of still-sluggish sales.
+Document WCLBA00020141003eaa30030e
+
+
+
+Tech
+HTC Posts Second Straight Quarterly Profit; Sales Continue to Slide as Smartphone Maker Loses Market Share to Apple and Low-Cost Chinese Competitors
+
+By Eva Dou and Jenny W. Hsu 
+374 words
+2 October 2014
+23:10
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+
+TAIPEI¡XHTC Corp. said Friday it was profitable for a second consecutive quarter, but the company continued a three-year revenue decline as competition from low-priced Chinese phone makers remains fierce.
+
+The Taiwanese smartphone maker has spent the past year cutting costs and diversifying from its high-end flagship line, after falling into the red last year for the first time since its public listing in 2002.
+
+While the cost cuts have returned HTC to a narrow profit, it has yet to find a way to reverse the slide in sales. HTC has lost share to market leaders like Apple Inc. and to rapidly growing low-cost Chinese rivals like Xiaomi.
+
+The company has rolled out more midtier phones this year, but those new devices have yet to offset the decline in sales of its flagship HTC One line.
+
+HTC executives have said they plan to expand into other product categories this year to try to revive the business. The company sent invitations for a launch event on Oct. 8, with a teaser video that suggests it will release an action camera that can be used while playing sports or swimming.
+
+The company is also joining with Google Inc. to release a Nexus tablet, which will be HTC¡¦s first tablet in three years, according to people familiar with the matter. These new devices could help offset declining sales in HTC¡¦s smartphone business, analysts say.
+
+HTC said its preliminary third-quarter earnings were 640 million New Taiwan dollars (US$21 million), above analyst expectations of NT$556.8 million, according to Thomson One Analytics. That compares with a net loss of NT$2.97 billion in the year-earlier quarter.
+
+In the quarter ended Sept. 30, HTC posted NT$41.86 billion in revenue, down from NT$47 billion in the year-earlier quarter.
+
+In the fourth quarter, HTC will face strong competition from Apple, which announced on Sept. 22 it sold a record 10 million of its iPhone 6 and iPhone 6 Plus smartphones in their first weekend of sales.
+
+Document WSJO000020141003eaa3001ur
+
+
+ HTC Q3 profit beats estimates as cost cuts take effect
+Reuters, 02:49, 3 October 2014, 207 words, (English)
+TAIPEI Oct 3 (Reuters) - Taiwanese smartphone maker HTC Corp said on Friday it earned T$640 million ($21 million) in unaudited net profit during its third quarter, as cost reductions helped pull the smartphone maker back into the black ...
+Document WCLBA00020141003eaa3002mj
+
+ WiLan says loses LTE patent case against Apple
+Reuters, 15:56, 1 October 2014, 324 words, (English)
+TORONTO Oct 1 (Reuters) - Canadian patent licensing company WiLan Inc on Wednesday said a U.S. judge had ruled in favour of Apple Inc in a litigation case against it.
+Document WCLBA00020141001eaa1006bv
+
+
+
+HTC Hints at Waterproof Camera
+
+By Eva Dou   
+265 words
+1 October 2014
+The Wall Street Journal
+J
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+
+HTC Corp. is answering the question investors have asked for several years: Can you give us something new?
+
+While HTC's smartphones have garnered critical plaudits, it hasn't been enough for it to battle the marketing power of Samsung Electronics Co. The smartphone-focused Taiwanese firm's sales have continued to slide, despite continued rollouts of highly rated smartphones.
+
+HTC this week released a video teasing what is apparently a waterproof camera to be launched Oct. 8. The video is shot from the camera's perspective and doesn't show the camera itself, but the footage suggests it can be attached to a person while playing sports, zoom in for selfies and go underwater.
+
+The device presents a hope to investors for an HTC comeback after three years of sliding sales and falling smartphone market share. It also comes as HTC is looking for ways to diversify beyond smartphones, such as plans to launch its first tablet since 2011.
+
+HTC will be going up against several established action-camera vendors, such as GoPro, which began selling its cameras in 2004. However, while the GoPro looks somewhat like a traditional camera, HTC's may stand apart with a sleek, periscope-like design, according to unverified pictures circulating online.
+
+Bloomberg reported in September that HTC was working on a waterproof camera to challenge GoPro.
+
+Market research firm Futuresource Consulting estimates that the action camera market will grow to nine million units in 2018 from almost five million units last year.
+
+License this article from Dow Jones Reprint Service
+
+Document J000000020141001eaa10000h
+
+
+ INDIA PRESS-HTC eyes bigger pie of Indian smartphone market - Business Standard
+Reuters, 22:43, 30 September 2014, 108 words, (English)
+Thomson Reuters is the world's largest international multimedia news agency, providing investing news, world news, business news, technology news, headline news, small business news, news alerts, personal finance, stock market, and mutual ...
+Document WCLBA00020141001eaa10012y
+
+
+
+PERSONAL TECHNOLOGY
+Pack New GoPro For Next Vacation?
+
+By Geoffrey A. Fowler   
+1,238 words
+30 September 2014
+The Wall Street Journal
+J
+B1
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+
+GoPro Inc., the company known for rugged little cameras used by extreme surfers and snowboarders, has new models that might appeal to a more timid demographic.
+
+In stores Oct. 5, the first new cameras since GoPro's blockbuster summer initial public offering aren't big reinventions. They're subtle but important improvements to help the less extreme among us create the whoa-check-that-out perspectives that made GoPro a cultural phenomenon.
+
+One is a $400 version called Hero4 Silver that adds a touch screen, finally making GoPro as easy to use as normal cameras. Another is a new version of its palm-size camera that's cheap enough -- $130 -- to lose or break on vacation. (A third, the $500 Hero4 Black, will appeal to pros, with a faster processor for shooting video at four times the resolution of high definition.)
+
+I've had a chance to dangle two of the new GoPros out of a cable car, clamp them to a go-kart, and strap them to a "selfie stick" -- among other vacationing challenges -- and the experience was eye-opening. The cameras suffer from a short 2.5-hour battery life, but GoPro is now worth considering as the go-anywhere camera for the rest of us.
+
+Don't we have smartphones for that? Those cameras have gotten remarkably good at taking photos and video, and are usually close at hand to capture a moment. But GoPros can do two things most smartphones can't: First, you can stick them places a phone might not fit, or you might not like. Second, GoPros have a 170 degree wide-angle lens that makes it easy to capture most situations in focus.
+
+Here's the problem: Nobody really wants to watch our boring vacation videos. Does a GoPro help produce footage of a less thrill-seeking life worthy of Facebook and YouTube?
+
+To answer, I spent last Thursday as a tourist in my town of San Francisco, with one GoPro in my hand and another strapped to my head. The day's events were planned by GoPro. Our itinerary included riding a cable car and go-karts, taking a boat ride around San Francisco Bay, and trampolining -- yes, trampolining -- by the Golden Gate Bridge. I continued testing the cameras through the weekend, capturing more ordinary moments: a mountain hike, a drive around town and a sunset. Even then, I found myself taking shots with the GoPros I couldn't -- or just hadn't -- with other cameras.
+
+GoPro isn't the only small camera on the market; Sony and Garmin make models that are only a tad larger, and smartphone maker HTC has hinted at a coming waterproof camera.
+
+What makes GoPros so effective is solid imaging technology in a tiny package that doesn't feel precious. You accessorize them with a collection of straps and clamping doodads that encourage -- actually, demand -- experimentation, like the "Chesty" chest mount and "Fetch" dog-harness mount. There's even a line of mounts for guitars and drums.
+
+The new cameras tout improved sensors and processors that mean better shots and more creative options.
+
+Since the top-model Hero4 Black shoots 4K video at 30 frames a second, I used it to zoom in on the Golden Gate Bridge when I couldn't get close enough to fill the frame. (Warning: the video files it produces at that resolution are gargantuan -- five minutes takes up more than two gigabytes on a storage card, sold separately.)
+
+The image quality isn't as professional as a digital SLR camera but it is impressive for such a portable package. In my tests on a swaying boat at night, the Hero4 Silver's wide-angle lens picked up clouds above a cityscape more dramatically than the iPhone 6 but wasn't as good at capturing neon signs. I also made a cool time-lapse video of a sunset by making the GoPro take a 12-megapixel photo twice a minute over a few hours; both Hero4 models can take up to 30 of those a second.
+
+For video, you're able to shoot up to 120 frames a second, letting you use GoPro's editing software to slow down the action and make anyone look like a character from "The Matrix." A button lets you tag interesting moments that you want to find quickly when it comes time to edit. I wish GoPros also had GPS technology so I could tag locations, too.
+
+Previous models may have helped extreme athletes capture insane video but they didn't have LCD screens and were cumbersome to use. The addition of a display to the Hero4 Silver makes it much more user friendly. Controlling the camera from the screen on the back means you can preview shots, and get less up-the-nose footage of you fiddling with button s while the camera is rolling. (GoPro has previously sold a $70 add-on touchscreen, but it added bulk to the camera.)
+
+Alas, the built-in screen is only on the new Hero4 Silver model. The Hero and Hero4 Black have streamlined menus but still must be controlled with three buttons and a dim black-and-gray screen on the front. I recommend the Silver model for anyone but the pros.
+
+My biggest reservation is that both Hero4 cameras I tested still have too-short battery lives -- about 2.5 hours. (I burned through three or four batteries in a day of heavy usage.) The screen on the Silver model is an even further tax; anyone thinking about taking one on vacation will want to carry a few battery backups.
+
+I wasn't able to evaluate one other important factor: how easy it is to get footage from the new GoPros online. GoPros have wireless connections, and the company is building a new version of its smartphone app that will let you control your camera, view what you've taken, and share photos via Instagram and Facebook. I couldn't test it -- the app isn't finished -- but it was clear from a brief demo that using the app will be yet another drain the camera's lightweight battery. To get video and photos online, I used GoPro Studio on my computer. GoPro's editing software is powerful but lacks a simple way to post to the Internet. My time with the cameras did produce Instagram-worthy footage. But could I have done the same thing without a GoPro if I put my mind to it?
+
+When I was crossing San Francisco's Bay Bridge on Saturday, I attached a GoPro to one of its "3-Way" stick mounts, and poked it out of my passenger window like a periscope. On such a windy bridge, this felt unwise at first, but the driver of a car next to me flashed me a broad smile that read, "Righteous, dude."
+
+The camera stayed in its mount and captured the whole span. It's an amazing video, especially when sped up. I've always dreamed of taking that shot but never would have done it with my phone or, God forbid, fancy DSLR. Having a GoPro gave me the excuse to go out and try more interesting shots, which is ultimately the key to less-boring footage.
+
+---
+
+Follow Geoffrey A. Fowler on Twitter @geoffreyfowler
+
+License this article from Dow Jones Reprint Service
+
+Document J000000020140930ea9u0001m
+
+
+
+
+Tech
+Can GoPro Hero4 Make You a Vacation Hero?; New Line of Cameras Brings Extreme Photography Down to Earth, but Stock Up on Batteries
+
+By Geoffrey A. Fowler 
+1,294 words
+29 September 2014
+03:13
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+
+GoPro Inc., the company known for rugged little cameras used by extreme surfers and snowboarders, has new models that might appeal to a more timid demographic.
+
+In stores Oct. 5, the first new cameras since GoPro¡¦s blockbuster summer initial public offering aren¡¦t big reinventions. They¡¦re subtle but important improvements to help the less extreme among us create the whoa-check-that-out perspectives that made GoPro a cultural phenomenon.
+
+One is a $400 version called Hero4 Silver that adds a touch screen, finally making GoPro as easy to use as normal cameras. Another is a new version of its palm-size camera that¡¦s cheap enough¡X$130¡Xto lose or break on vacation. (A third, the $500 Hero4 Black, will appeal to pros, with a faster processor for shooting video at four times the resolution of high definition.)
+
+I¡¦ve had a chance to dangle two of the new GoPros out of a cable car, clamp them to a go-kart, and strap them to a ¡§selfie stick¡¨¡Xamong other vacationing challenges¡Xand the experience was eye-opening. The cameras suffer from a short 2.5-hour battery life, but GoPro is now worth considering as the go-anywhere camera for the rest of us.
+
+Don¡¦t we have smartphones for that? Those cameras have gotten remarkably good at taking photos and video, and are usually close at hand to capture a moment. But GoPros can do two things most smartphones can¡¦t: First, you can stick them places a phone might not fit, or you might not like. Second, GoPros have a 170 degree wide-angle lens that makes it easy to capture most situations in focus.
+
+Here¡¦s the problem: Nobody really wants to watch our boring vacation videos. Does a GoPro help produce footage of a less thrill-seeking life that is worthy of Facebook and YouTube?
+
+To answer, I spent last Thursday as a tourist in my town of San Francisco, with one GoPro in my hand and another strapped to my head. The day¡¦s events were planned by GoPro for training but all the footage you see in this review is my own. Our itinerary included riding a cable car and go-karts, taking a boat ride around San Francisco Bay, and trampolining¡Xyes, trampolining¡Xby the Golden Gate Bridge. I continued testing the cameras through the weekend, capturing more ordinary moments: a mountain hike, a drive around town and a sunset. Even then, I found myself taking shots with the GoPros I couldn¡¦t¡Xor just hadn¡¦t¡Xwith other cameras.
+
+GoPro isn¡¦t the only small camera on the market; Sony and Garmin make models that are only a tad larger, and smartphone maker HTC has hinted at a coming waterproof camera.
+
+What makes GoPros so effective is solid imaging technology in a tiny package that doesn¡¦t feel precious. You accessorize them with a collection of straps and clamping doodads that encourage¡Xactually, demand¡Xexperimentation, like the ¡§Chesty¡¨ chest mount and ¡§Fetch¡¨ dog-harness mount. There¡¦s even a line of mounts for guitars and drums.
+
+The new cameras tout improved sensors and processors that mean better shots and more creative options.
+
+Since the top-model Hero4 Black shoots 4K video at 30 frames a second, I used it to zoom in on the Golden Gate Bridge when I couldn¡¦t get close enough to fill the frame. (Warning: the video files it produces at that resolution are gargantuan¡Xfive minutes takes up more than two gigabytes on a storage card, sold separately.)
+
+The image quality isn¡¦t as professional as a digital SLR camera but it is impressive for such a portable package. In my tests on a swaying boat at night, the Hero4 Silver¡¦s wide-angle lens picked up clouds above a cityscape more dramatically than the iPhone 6 but wasn¡¦t as good at capturing neon signs. I also made a cool time-lapse video of a sunset by making the GoPro take a 12-megapixel photo twice a minute over a few hours; both Hero4 models can take up to 30 of those a second.
+
+For video, you¡¦re able to shoot up to 120 frames a second¡Xthe number of still images that combine to create motion¡Xletting you use GoPro¡¦s editing software to slow down the action and make anyone look like a character from ¡§The Matrix.¡¨ (It helps if you have a trampoline handy.) A button lets you tag interesting moments that you want to find quickly when it comes time to edit. I wish GoPros also had GPS technology so I could tag locations, too.
+
+Previous models may have helped extreme athletes capture insane video but they didn¡¦t have LCD screens and were cumbersome to use. The addition of a display to the Hero4 Silver makes it much more user friendly. Controlling the camera from the screen on the back means you can preview shots, and get less up-the-nose footage of you fiddling with button s while the camera is rolling. (GoPro has previously sold a $70 add-on touchscreen, but it added bulk to the camera.)
+
+Alas, the built-in screen is only on the new Hero4 Silver model. The Hero and Hero4 Black have streamlined their menus but still must be controlled with three buttons and a dim black-and-gray screen on the front. I recommend the Silver model for anyone but the pros.
+
+My biggest reservation is that both Hero4 cameras I tested still have too-short battery lives¡Xabout 2.5 hours. (I burned through three or four batteries in a day of heavy usage.) The screen on the Silver model is an even further tax; anyone thinking about taking one on vacation will want to carry a few battery backups, which cost $20.
+
+I wasn¡¦t able to evaluate one other important factor: how easy it is to get footage from the new GoPros online. GoPros have wireless connections, and the company is building a new version of its smartphone app that will let you control your camera, view what you¡¦ve taken, and share photos via Instagram and Facebook. I couldn¡¦t test it¡Xthe app isn¡¦t finished¡Xbut it was clear from a brief demo that using the app will be yet another drain the camera¡¦s lightweight battery.
+
+To get video and photos online, I used GoPro Studio on my computer. GoPro¡¦s editing software is powerful but lacks a simple way to post to the Internet.
+
+My time with the cameras did produce Instagram-worthy footage. But could I have done the same thing without a GoPro if I put my mind to it?
+
+When I was crossing San Francisco¡¦s Bay Bridge on Saturday, I attached a GoPro to one of its ¡§3-Way¡¨ stick mounts, and poked it out of my passenger window like a periscope. On such a windy bridge, this felt unwise at first, but the driver of a car next to me flashed me a broad smile that read, ¡§Righteous, dude.¡¨
+
+The camera stayed in its mount and captured the whole span. It¡¦s an amazing video, especially when sped up. I¡¦ve always dreamed of taking that shot but never would have done it with my phone or, God forbid, fancy DSLR.
+
+Having a GoPro gave me the excuse to go out and try more interesting shots, which is ultimately the key to less-boring footage.
+
+¡XWrite to Geoffrey A. Fowler at Geoffrey.Fowler@wsj.com or follow him on Twitter @geoffreyfowler. 
+
+Document WSJO000020140929ea9t002xo
+
+
+ RPT-Phoning 'home': what your mobile may be giving away
+Reuters, 16:00, 28 September 2014, 1229 words, Jeremy Wagstaff, (English)
+SINGAPORE, Sept 28 (Reuters) - When popular Chinese handset maker Xiaomi Inc admitted that its devices were sending users' personal information back to a server in China, it prompted howls of protest and an investigation by Taiwan's ...
+Document WCLBA00020140928ea9s003bl
+
+
+
+WEEKEND INVESTOR --- The New Basics: Tap to Pay? Read This First
+
+By Charlie Wells   
+863 words
+27 September 2014
+The Wall Street Journal
+J
+B8
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+
+Technology companies want you to lose your wallet. The jury is still out on what this means for your money.
+
+Apple says it sold over 10 million units of its latest iPhone last weekend. That means over 10 million devices will be compatible with the company's Apple Pay, a service launching in October that will let users forgo cash or plastic and pay merchants with the tap of a phone. The service is linked to a credit or debit card.
+
+Apple's entry is just the latest in an expanding galaxy of mobile-payment systems with tap-to-pay capabilities.
+
+Over the past decade, companies such as Samsung Electronics, Google and HTC, along with credit-card networks MasterCard and Visa, have dabbled in such systems using near-field communication, or NFC, which allows devices like phones and receivers at the cash register to transmit information through a narrow radio frequency.
+
+This year, payments using NFC will double to $8.2 billion, according to market researcher Gartner. Still, that is just 2.5% of total mobile payments, a broader term that refers to the many different types of financial transactions that can be made using mobile devices.
+
+Coffee retailer Starbucks started letting customers pay with their phones in 2011, and now processes an average of six million U.S. mobile transactions a week, with 15% of all U.S. transactions at Starbucks made with a mobile device -- up from 10% last year -- according to a spokeswoman.
+
+The transactions are linked to a Starbucks prepaid card, which is reloadable from a credit- or debit-card account.
+
+Other retailers will need to follow suit in order for the technology to take off, says Jim DuBoyce, a payment specialist at W. Capra Consulting Group in Chicago. "Mobile payment on its own doesn't seem to have an appeal to the customer," he says. "The mobile plus loyalty plus rewards relationship does."
+
+Mary Liz Curtin, a 60-year-old small-business owner in Clawson, Mich., is an iPhone user and wants to upgrade to an iPhone 6. She thinks she would like to use Apple Pay, especially if it would prevent her from digging around her purse for loyalty cards when it comes time to pay. Ms. Curtin says she has taken to calling such cards "annoyalty cards."
+
+Apple says that its new payment system will offer security as well as convenience over the decades-old magnetic-stripe card technology. For one thing, Apple Pay will require a fingerprint authentication for payments to be made.
+
+Another reason, says Allen Weinberg, managing partner and co-founder of Glenbrook, a payments-industry consulting and research firm: Apple Pay won't store actual credit- or debit-card numbers on phones. And for each transaction, the technology will create a unique number that can be used only once, he says.
+
+If a digital interloper gets this information after the transaction, it will be virtually useless.
+
+Experts say that before using a mobile payment system, consumers should make sure they are familiar with and able to use the service's security functions.
+
+Google Wallet, for example, requires anyone using a phone to make a payment to type in an extra PIN, and allows users who have lost their phones to deactivate the payment feature.
+
+Although technology companies have been quick to ensure that convenience stores, large pharmacies and fast-food restaurants accept mobile payment, be careful about tapping to pay for small, regular purchases, says Paul Golden, a spokesman at the National Endowment for Financial Education.
+
+"If you buy the same $4.99 latte every day, it's hard to monitor and scrutinize the amount," he says. It could get difficult to differentiate between your own purchases, a glitch or foul play.
+
+While Silicon Valley firms tout the simplicity of mobile wallets, the relationships they keep with banks and credit-card companies may be complicated, Mr. Golden says.
+
+He recommends checking with your card issuer to make sure you know if the limits and liability are the same for tap-to-pay consumers, for example.
+
+Using mobile payments alone won't change your credit score, says Anthony Sprauve, senior consumer-credit specialist at credit-scoring firm Fair Isaac. But he cautions that consumers should take advantage of tools like Mint.com that make it easier to track spending on mobile devices to keep on top of their spending.
+
+Barry Saik, senior vice president of the consumer-ecosystem group at Mint parent company Intuit, says that debit cards tend to send information to the app faster than credit cards, and that of credit cards, American Express cards are the fastest.
+
+Depending on the network and bank, it can take from 30 seconds to up to a day for your spending information to reach Mint, he says. The closer to real-time the information hits, the better you can track and control your spending.
+
+For her part, Ms. Curtin says, there really is one lesson about credit cards that will likely continue to ring true: "Pay them off in full every month."
+
+License this article from Dow Jones Reprint Service
+
+Document J000000020140927ea9r0001i
+
+
+ Apple Gets Bent
+MoneyBeat, 25 September 2014, 412 words, Paul Vigna, (English)
+<dl class="wp-caption aligncenter caption-centered imageFormat-F" style="width: 571px;"> <dt class="wp-caption-dt"></dt> <dd class="wp-caption-dd wp-cite-dd" style="text-align: right;">Associated Press</dd> ...
+Document BC08551020140925ea9p000dx
+
+ Apple Gets Bent
+WSJ Blogs, 13:41, 25 September 2014, 380 words, By Paul Vigna, (English)
+Apple's reputation - and stock - is getting bent this week.
+For years, Apple's value proposition has been simple: It made better products. Its hardware and software was superior aesthetically, and operationally. That's why Apple's been able ...
+Document WCWSJB0020140925ea9p005k1
+
+ iPhone 6 Plus Bending? What¡¦s to Be Done?
+The Wall Street Journal WSJ Lunchbreak, 24 September 2014, 871 words, (English)
+Summary: Some iPhone users are reporting that the slim iPhone 6 Plus bends with use. Endpoint Technologies founder and president Roger Kay discusses with Tanya Rivero. Photo: Getty
+Document MMSAWI0020140924ea9o00001
+
+ Can Alibaba Keep Growing?
+The Wall Street Journal Tech Talk, 22 September 2014, 1296 words, (English)
+Summary: What could determine whether Alibaba's IPO is really successful, BlackBerry's makeover may be working, How consumers are responding to the new iPhones, The release of Xbox One in China is being delayed. Hank Weisbecker reports.
+Document MMSAJW0020140922ea9m00001
+
+ UPDATE 1-Google selects HTC for upcoming Nexus tablet - WSJ
+Reuters, 03:53, 22 September 2014, 252 words, (English)
+Sept 22 (Reuters) - Google Inc has selected HTC Corp to make its upcoming 9-inch Nexus tablet, the Wall Street Journal reported, citing people familiar with the matter.
+Document WCLBA00020140922ea9m002s5
+
+ UPDATE 1-Market Chatter-Corporate finance press digest - Sept 22
+Reuters, 01:30, 22 September 2014, 296 words, (English)
+Sept 22 (Reuters) - The following corporate finance-related stories were reported by media:
+* French low-cost telecom operator Iliad has set a mid-October deadline to decide whether to improve its bid for T-Mobile US or walk away as it faces ...
+Document WCLBA00020140922ea9m00235
+
+ HTC Returns to Tablets with Google Nexus Partnership
+WSJ Blogs, 23:19, 21 September 2014, 435 words, By Eva Dou, (English)
+After disappointing sales of the Flyer tablet in 2011, HTC's executives said they'd swear off making tablets until they found a compelling reason to try again.
+Document WCWSJB0020140922ea9m000p1
+
+ Fitch: Sony's USD1.7bn Write-Down Highlights Weakness in Mobiles
+Reuters, 21:27, 17 September 2014, 770 words, (English)
+(The following statement was released by the rating agency) HONG KONG/SYDNEY/SINGAPORE, September 17 (Fitch) Sony's (BB-/Negative) JPY180bn (USD1.65bn) write-down in its mobile communications business comes as no surprise, and is not likely ...
+Document WCLBA00020140918ea9i000xh
+
+ Can OnePlus 'One Up' Apple's New iPhones?
+WSJ Blogs, 05:16, 17 September 2014, 361 words, By Eva Tam, (English)
+Watch the video for the full review of the OnePlus One.
+Chinese smartphone manufacturer OnePlus is planning to launch a pre-paid system in the next few months for those who are still waiting for their invite to buy its flagship smartphone ...
+Document WCWSJB0020140917ea9h002gx
+
+
+
+WSJ.D Technology: Google Eyes Emerging Markets With Phone
+
+By R. Jai Krishna and Rolfe Winkler   
+614 words
+16 September 2014
+The Wall Street Journal
+J
+B4
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+
+NEW DELHI -- Google Inc. on Monday unveiled a new line of low-cost smartphones, hoping to persuade more people in India and other emerging markets to upgrade their handsets, and to gain more control over its Android mobile-operating system.
+
+The new phones will cost around $105 and will be the first to use Google's Android One platform, which was designed to give users in developing economies a reliable and affordable way to get online.
+
+"The pace at which users are adopting the Internet is unprecedented," Sundar Pichai, senior vice president at Google who oversees Android, told reporters in India's capital. "Almost all of this growth that is happening in India and the world is due to mobile [phones]."
+
+More than one billion people already use phones that run Google's Android operating system. The new Google platform is an attempt by the company to extend its leading position as it seeks to reach billions more people in emerging markets that historically haven't been able to afford smartphones. Only about 10% of India's more than 900 million cellphone users have smartphones.
+
+Android is the world's dominant smartphone operating system, accounting for 85% of world-wide shipments in the second quarter, according to research firm Strategy Analytics.
+
+But the Android ecosystem can be messy, because the phones are sold by many hardware makers, and users are inconsistent about updating the software. Nearly a year after Google released KitKat, the latest version of the operating system, it is being used on only about one-fourth of Android devices.
+
+With Android One devices, Google will be able to update software remotely, without the help of the handset makers. In theory this should help the company improve the user experience and fix glitches quicker.
+
+Google also is likely trying to protect its brand by having more control over handsets that use its operating system, analysts say. App developers will benefit if more users update the software to the latest version of the operating system.
+
+"For Google, a strong uptake of Android One smartphones should increase the access to the Internet and Google's suite of products," said Bhasker Canagaradjou, associate director at Ipsos SA's business consulting in India.
+
+Google plans to bring Android One smartphones to Indonesia, the Philippines, Pakistan and other South Asian nations by the end of 2014, and more countries next year.
+
+In India, the Android One smartphones will be made and distributed by Micromax Informatics Ltd., P.S. Associates Private Ltd.'s Karbonn and Spice Retail Ltd. Data plans for the phones will be offered from Bharti Airtel Ltd., the country's largest telecommunications company by subscribers.
+
+The Internet search giant plans to add other handset makers, including Japan's Panasonic Corp., China's Lenovo Group Ltd., and Taiwan's HTC Corp.
+
+Other smartphones are available in India for about $105. But Google is hoping the Android One platform -- which includes software and hardware designed by Google -- will help it deliver a more consistent performance than some of the low-cost, Android-powered phones that are already being sold.
+
+Last month, Mozilla Corp. started selling its own line of low-cost smartphones through Indian manufacturers for less than $40.
+
+India is the second-biggest overall telecom market, but is the fourth-largest market for smartphones. The South Asian country offers great growth potential, analysts said.
+
+The new handsets unveiled Monday will allow users to use social networking and messaging services in Hindi. Google plans to add six other Indian languages to Android One phones.
+
+License this article from Dow Jones Reprint Service
+
+Document J000000020140916ea9g0001y
+
+
+ Google launches $105 Android One; eyes low-price smartphone boom
+Reuters, 06:22, 15 September 2014, 625 words, Nivedita Bhattacharjee and Tommy Wilkes, (English)
+By Nivedita Bhattacharjee and Tommy Wilkes NEW DELHI/MUMBAI (Reuters) - Google Inc(GOOGL.O) launched in India on Monday a $105 smartphone, the first device from its "Android One" initiative which is aimed at boosting sales in key emerging ...
+Document WCLBA00020140915ea9f003mn
+
+
+
+Heard on the Street / Financial Analysis and Commentary
+
+1,159 words
+15 September 2014
+The Wall Street Journal Asia
+AWSJ
+32
+English
+Copyright ? 2014 Dow Jones & Company, Inc. All Rights Reserved.   
+
+Sony Moves Closer to an Apple-Style Ecosystem
+
+Sony is finally inching beyond hardware. But to gain real yardage it will have to rip a page from Apple's playbook.
+
+Having slowly rebuilt its reputation for quality electronics, Sony is now trying to stitch those devices together into an ecosystem focused on gaming and entertainment. A deal struck last week to stream content from Viacom is a step in the right direction. The key is uniting hardware, software and services, prompting users to come back again and again.
+
+Apple's iPhones, iPads and computers work in symbiosis with the iTunes store, all united by the Apple operating system. The debut of its Apple Pay mobile-payments service represents the next step in leveraging its massive user base, and heft with retailers, banks and credit-card companies, into an adjacent industry.
+
+Apple's ability to launch attacks into new areas while maintaining a moat around its flagship products is a feat no device-maker dependent on Google's free Android operating system has achieved. The actual near-field communication chip used in Apple's new iPhone to facilitate payments has been in Sony phones since 2012.
+
+Without an ecosystem, Sony and rivals such as Samsung and HTC are vulnerable to intense competition from each other and low-end Chinese smartphone and tablet producers.
+
+Many of Sony's other products, from mirrorless digital cameras to a recently launched $700 audiophile digital Walkman are niche products. Sony's phones, despite winning rave reviews for sleek design and features such as waterproofing, provide little extra value over other Android models.
+
+Though Sony has a 15% share of the smartphone market in Japan, its global share is just 3%, according to IDC.
+
+Unlike other Android-dependent electronics makers, however, Sony has another launching pad from which to develop an ecosystem. It's the company's one true hit, the PlayStation 4, which is handily outselling rival gaming consoles from Microsoft and Nintendo. The PlayStation already provides gamers a mini-ecosystem in which to interact with fellow users, buy games and download them, play online, and watch movies.
+
+Now Sony is starting to expand the borders of the PlayStation universe. Sony recently showed off how its latest smartphone can be paired with a PlayStation controller and become a second screen over a home Wi-Fi connection. It is also unlocking a library of popular old PlayStation games that will soon be playable over the Internet on Sony televisions, and eventually tablets and phones.
+
+And now it is giving these users something beyond game content. The deal with Viacom lets it carry live and on-demand programming from MTV, Comedy Central and 20 other channels on Sony devices.
+
+The move is promising, especially if paired with Sony's own in-house library of films and music. Yet to go up against the likes of Netflix and Amazon.com, Sony needs more Hollywood partners. And if it hopes to compete with cable and satellite providers in live television, acquiring rights to sports and news content will be essential.
+
+Unfortunately for Sony, it is starting these efforts from a small base. The company has sold more than 10 million PlayStation 4 consoles since late last year, but that pales next to Apple's 500 million iTunes customers world-wide. Sony hopes to sell 43 million smartphones in the year to March.
+
+Investors are counting on a change in fortunes. Sony has posted a net loss in four of the past five fiscal years, and projects more red ink for the 12 months to March as a result of restructuring charges. Yet shares are up by double digits so far this year, handily beating a 2% decline in Japan's Nikkei market benchmark.
+
+Decades after buying CBS Records and Columbia Pictures, Sony may at last be on a path to achieving synergy between its electronics and entertainment arms. It is still far from having an ecosystem to compete with the likes of Apple. But pointing oneself in the right direction is the first step in getting out of the woods.
+
+-- Aaron Back
+
+Yields May Not Surge With Fed
+
+Long-term interest rates look primed to go higher. But that doesn't mean they will travel far.
+
+The Federal Reserve's policy-setting committee gathers this week. It looks likely that in its postmeeting statement or through Chairwoman Janet Yellen's news conference, it will talk more concretely about when it will raise rates.
+
+One reason: The economy looks stronger, with reports on services spending and retail sales last week prompting economists to raise estimates for gross domestic product. Another is that the debate over labor-market slack seems to be resolving toward a view that much of the fall in the labor-force participation rate, the share of the population working or looking for work, is due to factors such as an aging population. That implies the market is closer to the point in which employers will have to pay up for workers.
+
+With the Fed looking more hawkish, bond investors have sent the 10-year Treasury yield to 2.61% Friday from 2.35% at the end of last month. It was 3.03% at this year's start.
+
+Moreover, Federal Reserve figures show the term premium for the 10-year Treasury, the extra compensation investors demand to hold it over cash, has fallen sharply this year. Bond returns have tended to be subpar when term premiums are so low, notes Columbia Management interest-rates strategist Zach Pandl.
+
+Despite all the reasons for long-term rates to rise, there are also forces that could keep them low. First, Treasury yields are higher than in Europe and Japan.
+
+With the European Central Bank considering further action, and the Bank of Japan showing no letup in its attempts to reflate the Japanese economy, that isn't about to change.
+
+Second, while the Fed matters for long-term rates, so does inflation. Economists estimate Wednesday's report on consumer inflation will show prices up just 1.9% in August from a year ago. So long as inflation remains low, investors may view even low-yielding Treasurys as a better alternative than cash. And after years of wrongly being told inflation would jump, they may need to see an actual pickup in prices before changing their minds.
+
+Finally, the world still lacks for safer assets. Developing countries now account for 39% of the world economy, according to the International Monetary Fund, from 21% a decade ago. But often their financial markets haven't yet matured to the point where their citizens feel comfortable investing in them. Their savings have to go somewhere, and Treasurys are a favorite destination.
+
+Last decade, the Fed faced the conundrum of why, even as it raised short-term rates, long-term rates stayed so low. History could repeat itself.
+
+-- Justin Lahart
+
+License this article from Dow Jones Reprint Service
+
+Document AWSJ000020140914ea9f0001j
+
+
+
+
+Heard on the Street
+Sony Edges Toward Apple-Like Ecosystem
+
+By Aaron Back   
+673 words
+13 September 2014
+The Wall Street Journal
+J
+B14
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+
+[Financial Analysis and Commentary]
+
+Sony is finally inching beyond hardware. But to gain real yardage it will have to rip a page from Apple's playbook.
+
+Having slowly rebuilt its reputation for quality electronics, Sony is now trying to stitch those devices together into an ecosystem focused on gaming and entertainment. A deal struck this week to stream content from Viacom is a step in the right direction.
+
+The key is uniting hardware, software and services, prompting users to come back again and again. Apple is the prime example of this.
+
+Its iPhones, iPads and computers work in symbiosis with the iTunes store, all united by the Apple operating system. The debut of its Apple Pay mobile-payments service represents the next step in leveraging its massive user base, and heft with retailers, banks and credit-card companies, into an adjacent industry.
+
+Apple's ability to launch attacks into new areas while maintaining a moat around its flagship products is a feat no device-maker dependent on Google's free Android operating system has achieved. The actual near-field communication chip used in Apple's new iPhone to facilitate payments has been in Sony phones since 2012. Without an ecosystem, Sony and rivals such as Samsung and HTC are vulnerable to intense competition from each other and low-end Chinese smartphone producers.
+
+Many of Sony's other offerings, from mirrorless digital cameras to a recently launched $700 digital Walkman are niche products. Sony's phones, despite rave reviews for sleek design and features such as waterproofing, provide little extra value over other Android models. Though Sony has a 15% share of Japan's smartphone market, its global share is just 3%, according to IDC.
+
+Unlike other Android-dependent electronics makers, however, Sony has another launching pad from which to develop an ecosystem. It's the company's one true hit, the PlayStation 4, which is handily outselling rival gaming consoles from Microsoft and Nintendo. The PlayStation already provides gamers a mini-ecosystem in which to interact with fellow users, buy games and download them, play online, and watch movies.
+
+Now Sony is starting to expand the PlayStation universe. Last week, it showed off how its latest smartphone can be paired with a PlayStation controller and become a second screen over a home Wi-Fi connection. It is also unlocking a library of popular old PlayStation games that will soon be playable over the Internet on Sony televisions, and eventually tablets and phones.
+
+And now Sony is giving users something beyond game content. The Viacom deal lets it carry live and on-demand programming from MTV, Comedy Central and 20 other channels on Sony devices. The move is promising, especially if paired with Sony's own in-house library of films and music. Yet to go up against the likes of Netflix and Amazon.com, Sony needs more Hollywood partners. And if it hopes to compete with cable and satellite providers in live television, acquiring rights to sports and news content will be essential.
+
+Unfortunately, Sony is starting from a small base. It has sold more than 10 million PlayStation 4 consoles since late last year, but that pales next to Apple's 500 million iTunes customers world-wide. Sony hopes to sell 43 million smartphones in the year to March.
+
+Investors are counting on a change in fortunes. Sony has posted a net loss in four of the past five fiscal years, and projects more red ink for the 12 months to March on restructuring charges. Yet shares are up nearly 18% this year versus a 2% decline in the Nikkei 225.
+
+Decades after buying CBS Records and Columbia Pictures, Sony may at last be on a path to achieving synergy between its electronics and entertainment arms.
+
+It is still far from a true ecosystem But pointing yourself in the right direction is the first step in getting out of the woods.
+
+License this article from Dow Jones Reprint Service
+
+Document J000000020140913ea9d00007
+
+
+ What Apple Pay Could Do For The Company
+The Wall Street Journal Tech Talk, 10 September 2014, 939 words, (English)
+Summary: A look at the new products being rolled out by Apple, When iOS 8 will be available, Amazon tries to steal Apple's thunder, Google talks about the role Dropcam can play in the connected home. Hank Weisbecker reports.
+Document MMSAJW0020140910ea9a00001
+
+ Less Cheap, More Like an iPhone: The New Xiaomi Phone is Unveiled
+WSJ Blogs, 05:58, 10 September 2014, 539 words, (English)
+Chinese phone maker Xiaomi Inc. emerged three years ago from nowhere to become one of the top-selling brands in China's competitive smartphone market on the strength of its top-shelf specs and cheap prices.?As of this year's first quarter, ...
+Document WCWSJB0020140910ea9a001rx
+
+ Can Amazon's Phone Catch Fire in the U.K.?
+WSJ Blogs, 02:53, 10 September 2014, 695 words, By Simon Zekaria, (English)
+Amazon tried to steal the thunder of Apple's iPhone launch Tuesday by launching its Fire Phone in the U.K., but will it make waves or sink without trace?
+Document WCWSJB0020140910ea9a0018i
+
+ No sapphire on your new iPhone? China's Huawei has you covered
+Reuters, 01:09, 10 September 2014, 801 words, Se Young Lee and Michael Gold, (English)
+SEOUL/TAIPEI, Sept 10 (Reuters) - Apple Inc may have disappointed many consumers by not putting sapphire glass covers on its new iPhone, but the scratch-resistant material is gradually making its way into mobile devices despite ...
+Document WCLBA00020140910ea9a001xj
+
+ The Internet of (Hardly Connected) Things
+WSJ Blogs, 06:08, 8 September 2014, 541 words, (English)
+By ?Stephan D?rner and Chase Gummer
+The "Internet of Things" ?which refers to the billions of devices that are expected to be connected to each other and to the Internet, is a catchphrase that's hard to escape these days.
+Document WCWSJB0020140908ea98002bd
+
+ Samsung Unveils New Partnerships Along With the Gadgets
+WSJ Blogs, 23:59, 4 September 2014, 375 words, By Jonathan Cheng, (English)
+Along with the new high-end smartphones, virtual reality headset?and new appliances it is showcasing this week at the IFA trade show in Berlin, Samsung also appears to be expanding a web of partnerships.
+Document WCWSJB0020140905ea95000ul
+
+ BRIEF-Taiwan smartphone maker HTC's August consolidated revenue up 10.43 pct y/y at T$14.5 bln
+Reuters, 23:02, 2 September 2014, 116 words, (English)
+Thomson Reuters is the world's largest international multimedia news agency, providing investing news, world news, business news, technology news, headline news, small business news, news alerts, personal finance, stock market, and mutual ...
+Document WCLBA00020140903ea93001e1
+
+ Note-taking App's Secret of Success: Keep It Simple
+WSJ Blogs, 19:47, 1 September 2014, 542 words, By Min-Jeong Lee, (English)
+ColorNote competes with the likes of Evernote but outranks the latter on Google Play in tens of countries, in terms of productivity.
+Unlike the vast majority of Seoul-born apps that struggle to expand overseas, over 94% of ColorNote's users ...
+Document WCWSJB0020140902ea9200001
+
+
+
+Asian-Pacific Stocks
+Taiwan Gets Boost From Tech Shares
+
+By Chao Deng   
+434 words
+28 August 2014
+The Wall Street Journal Asia
+AWSJ
+21
+English
+Copyright ? 2014 Dow Jones & Company, Inc. All Rights Reserved.   
+
+Gains in technology stocks helped the Taiwan market outperform, while most Asian markets were up amid hopes that the European Central Bank will introduce new stimulus measures.
+
+Improved optimism about the global economy and anticipation of new product launches, including the latest iteration of Apple's iPhone expected next month, fueled bargain hunting on Wednesday in Taiwan, where the Taiex index rose 1% to 9485.59.
+
+Hon Hai Precision Industry, one of Apple's major assemblers, was up 1.8%, smartphone provider HTC rose 1.5% and touch-panel maker TPK Holding jumped 5.4%.
+
+Gains were more muted on other markets, albeit buoyed by a climb in the U.S. market overnight, as well as indications from the European Central Bank that it is considering bond buying.
+
+The S&P 500 closed above 2000 for the first time Tuesday in New York. In the euro zone, investors have seen a marked deterioration of economic data from the euro zone in recent weeks, but they are betting that Europe may be edging closer to a large-scale asset-purchase program known as quantitative easing, which has lifted euro-zone bonds.
+
+Japan's Nikkei Stock Average rose 0.1% to 15534.82, Singapore's Straits Times Index rose 0.6% to 3341.46 and South Korea's Kospi was up 0.3% at 2074.93. India's Sensex rose 0.4% to 26560.15, gaining for a fifth consecutive session to end at another record.
+
+Australia's S&P/ASX 200 edged up 0.2% to 5651.20, as investors appeared more cautious after the index's gains in the past two weeks.
+
+The region's worst performer was Hong Kong, where the Hang Seng Index fell 0.6% to 24918.75, as disappointing bank profits pulled down the financial sector.
+
+Agricultural Bank of China, China's third-largest lender by assets, lost 0.8% after the bank reported the slowest growth in first-half profits in four years, mainly due to recent government scrutiny on lending-related fees. Shares in China Construction Bank fell 1.2%.
+
+In corporate news, Otsuka Holdings rose 7.5% in Tokyo after announcing a midterm business plan in which it targets an operating profit of 200 billion yen for the fiscal year ending December 2018. The firm also set its dividend payout target at 100 yen a share, above the consensus view.
+
+Boral climbed 4.5% in Sydney after signaling an increase in demand for building materials.
+
+License this article from Dow Jones Reprint Service
+
+Document AWSJ000020140827ea8s0000g
+
+
+
+
+Managing -- Boss Talk Asia: Huawei Shaking Up Smartphone Market --- Richard Yu, Head of Firm's Consumer Business Group, Talks About Competing Against Samsung and Apple
+
+By Juro Osawa and Yun-Hee Kim   
+1,119 words
+25 August 2014
+The Wall Street Journal Asia
+AWSJ
+8
+English
+Copyright ? 2014 Dow Jones & Company, Inc. All Rights Reserved.   
+
+Huawei Technologies Co. may be unknown to many U.S. consumers, but the Chinese company is becoming a threat to Samsung Electronics Co., the world's biggest smartphone maker.
+
+Huawei's rise is an indication that growth in the mobile-phone industry is coming mainly from outside China -- emerging markets where many consumers are still replacing basic feature phones with smartphones. While China's increasingly saturated smartphone market is showing signs of slowing growth, Huawei is expanding rapidly in Africa, the Middle East and Latin America.
+
+As Huawei tries to sell more handsets overseas, among its advantages are its close relationships with mobile carriers around the world. Huawei, whose main business is supplying networking equipment, counts most major telecom operators as its clients. For the past few years, Huawei has been trying to turn its smartphone business into another major source of revenue and profit.
+
+In the second quarter, Huawei was the third-largest smartphone maker in the world, as its market share rose to 6.9% from 4.3% a year earlier, according to research firm IDC. Samsung's market share dropped to 25% from 32% a year earlier, while Apple Inc.'s share fell slightly to 12% from 13%. Huawei's shipments for the quarter jumped 95% from a year earlier, by far the fastest growth among major handset vendors, while Samsung's shipments declined 3.9%. Analysts say Huawei is more of a threat to Samsung than to Apple, since Samsung sells handsets at various price points and most of its phones use Android, like Huawei phones do.
+
+In a recent interview with The Wall Street Journal at the company's headquarters in Shenzhen, Richard Yu, the head of Huawei's consumer business group, talked about the future of the global smartphone industry and how Huawei will compete against Samsung and Apple.
+
+WSJ: Why did Huawei decide to sell consumer devices in the first place, instead of continuing to concentrate on telecom equipment?
+
+Mr. Yu: About 10 to 12 years ago, telecom carriers began to roll out third-generation mobile networks. But 3G phones were still very expensive, and carriers wanted Huawei to design handsets. We made white-label phones (that were sold under the carriers' names). After Apple launched the iPhone, carriers asked us to design smartphones for them. At that time, HTC and Samsung were the main suppliers of Android smartphones, and there were few others.
+
+Our products had good quality. As a white-label supplier, we had to compete against other white-label smartphones that cost less and had lower quality. It wasn't good for us. No brand, no value. That's why we started using our own brand.
+
+WSJ: How is Huawei doing in the smartphone market?
+
+Mr. Yu: There are too many smartphone makers in the market, especially in China. The whole industry is consolidating and some global vendors are disappearing. But even though most vendors are suffering, Huawei is growing, not only in terms of shipments and revenue, but also profit. Last year we became the third-largest supplier by shipment. We shipped 52 million smartphones last year, and our target for this year is more than 80 million.
+
+WSJ: What makes Huawei different? What's your advantage?
+
+Mr. Yu: There are many other brands that are also providing very good products, and some are better-known brands than Huawei. But we are a telecom equipment supplier. We build communications networks around the world, both fixed broadband and mobile broadband networks. Because we have that technology, we can make our mobile devices work better when they connect to the networks. We think we can support the latest network technology better than other handset makers. This is the value we can bring.
+
+WSJ: What is Huawei doing in terms of software for smartphones?
+
+Mr. Yu: User experience is key and we put a lot of resources in software research and development. We build our own user interface software on top of Android. Our software team has roughly 2,000 people, and we are increasing our investment about 20% to 30% every year. To provide better services, we have partnered with some software and Internet companies. The industry is changing and you cannot do everything by yourself.
+
+WSJ: For most handset makers Android is the only option. Is that a problem?
+
+Mr. Yu: It's difficult to say. We have tried using the Windows Phone OS. But it has been difficult to persuade consumers to buy a Windows phone. It wasn't profitable for us. We were losing money for two years on those phones. So for now we've decided to put any releases of new Windows phones on hold. We have worries about Android being the only option, but we have no choice. And we have a good collaboration with Google.
+
+WSJ: Have you ever considered using the Tizen operating system [developed by Samsung and backed by Intel Corp. and others]?
+
+Mr. Yu: We have no plans to use Tizen. Some telecom carriers are pushing us to design Tizen phones but I say "no" to them. In the past we had a team to do research on Tizen but I canceled it. We feel Tizen has no chance to be successful. Even for Windows Phone it's difficult to be successful.
+
+We have no plans to build our own OS. It's easy to design a new OS, but the problem is building the ecosystem around it.
+
+WSJ: Lenovo Group Ltd., another Chinese smartphone maker, is in the process of buying Motorola Mobility. What is Huawei's strategy in terms of acquisitions?
+
+Mr. Yu: Lenovo may gain market share with acquisitions, but different companies have different approaches. We are not so eager to acquire companies. We invest more in research and development. Larger scale can help lower costs and it's important. But it's not the most important thing. Without investing more in R&D, you can't bring better products and more value to consumers.
+
+WSJ: Are you trying to sell more mobile devices to companies and government clients?
+
+Mr. Yu: Our enterprise customers (Huawei supplies equipment to corporate clients and helps build their private networks) need mobile devices. Those customers care about security and efficiency. To meet their demand, our device business is working with our enterprise equipment business. Apple recently announced a partnership with IBM and Samsung's Knox business is providing services for enterprise clients. This is an important business for Huawei, too.
+
+License this article from Dow Jones Reprint Service
+
+Document AWSJ000020140824ea8p00002
+
+
+
+
+Corrections & Amplifications
+Corrections & Amplifications
+
+273 words
+22 August 2014
+The Wall Street Journal
+J
+A2
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+
+The HTC One (M8) is the Windows Phone version of the HTC One Android phone. A contents box in Wednesday's Personal Journal incorrectly described it as an Android phone.
+
+---
+
+Indiana University was incorrectly called the University of Indiana in a Page One article Thursday about tours of Pere Lachaise cemetery in Paris.
+
+(See: "At a Historic Paris Cemetery, Rival Guides Find Stiff Competition" -- WSJ August 21, 2014)
+
+---
+
+The name of Chikako Horiuchi, director at Fitch Ratings' financial institution group, was incorrectly given as Chikjaako Horiuchi in a Global Finance article on Thursday about Citigroup Inc.'s plans for its Japanese retail-banking unit.
+
+(See: "Global Finance: Citi Unit's Appeal: Rich Japanese Clients" -- WSJ August 21, 2014)
+
+---
+
+Mo'ne Davis's Philadelphia Little League team was still alive in the Little League World Series after Wednesday's play; the team lost to Las Vegas, 8-1, on Wednesday night but the tournament is double elimination. In some editions Thursday, a Sports article about the young pitching star incorrectly said her team was eliminated.
+
+(See: "Sports: Heard on The Field" -- WSJ August 21, 2014)
+
+---
+
+A Pinot Noir will always be lighter than a Cabernet, and a Pinot Grigio is always lighter than a Chardonnay. In some editions Saturday, the On Wine column in Off Duty incorrectly said Pinot Noir will always be darker than Cabernet and Pinot Grigio is always darker than Chardonnay.
+
+---
+
+Readers can alert The Wall Street Journal to any errors in news articles by e-mailing wsjcontact@wsj.com or by calling 888-410-2667.
+
+License this article from Dow Jones Reprint Service
+
+Document J000000020140822ea8m00025
+
+
+
+
+Decos and Corrections
+Corrections & Amplifications
+
+229 words
+21 August 2014
+16:56
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+
+The HTC One (M8) is the Windows Phone version of the HTC One Android phone. A contents box in Wednesday's Personal Journal incorrectly described it as an Android phone.
+
+Indiana University was incorrectly called the University of Indiana in a Page One article Thursday about tours of P?re Lachaise cemetery in Paris.
+
+The name of Chikako Horiuchi, director at Fitch Ratings' financial institution group, was incorrectly given as Chikjaako Horiuchi in a Global Finance article on Thursday about Citigroup Inc.'s plans for its Japanese retail-banking unit.
+
+Mo'ne Davis's Philadelphia Little League team was still alive in the Little League World Series after Wednesday's play; the team lost to Las Vegas, 8-1, on Wednesday night but the tournament is double elimination. In some editions Thursday, a Sports article about the young pitching star incorrectly said her team was eliminated.
+
+A Pinot Noir will always be lighter than a Cabernet, and a Pinot Grigio is always lighter than a Chardonnay. In some editions Saturday, the On Wine column in Off Duty incorrectly said Pinot Noir will always be darker than Cabernet and Pinot Grigio is always darker than Chardonnay.
+
+Receiver Stephen Hill was selected by the Jets in the second round of the 2012 draft. A sports article on Thursday incorrectly said he was a third-round pick.
+
+Document WSJO000020140822ea8l00034
+
+
+ Uber Makes Some Moves
+The Wall Street Journal Tech Talk, 20 August 2014, 1185 words, (English)
+Summary: Uber announces a new hire and chooses Washington D.C. as the market to test a new feature; The tablet that will help your kids get along better; And an HTC phone will feature Windows Mobile; Mike Weinstein has those stories and ...
+Document MMSAJW0020140820ea8k00001
+
+
+
+Home & Digital: HTC One Gets a Windows Full of Opportunity --- Much-Improved 'Third' Phone Platform Is Easier to Navigate than Android, More Customizable Than iPhone
+
+By Joanna Stern   
+1,073 words
+20 August 2014
+The Wall Street Journal
+J
+D3
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+
+Last week, I went hunting for people using Windows Phones in Times Square. Two hours and zero sightings. Instead, there were thousands of people holding up their glowing iPhones or Android phones to take pictures of Great White Way. A kind lady from London did tell me she was fairly certain her great uncle owned a Windows Phone.
+
+While my method wasn't scientific, the straw poll represents the reality of the global smartphone market. Google's Android has 85% of the market share while Apple's iPhone is at 12%, according to IDC's latest numbers. Microsoft? Windows Phone has a measly 2.5% and it isn't growing.
+
+So what's wrong with the "third" smartphone platform? Until now, the assumption was that Windows Phones weren't as good as the others. And for the first years of the platform's life that was true because of middling hardware and nascent software.
+
+But thanks to software updates released this summer, Windows Phone has as much or more functionality than Android or iOS -- that is, if you don't consider third-party apps. And the hardware has caught up, too. Just today, the best-designed Android phone -- the HTC One -- is being released with Windows Phone 8.1, for now exclusively at Verizon.
+
+So, why don't more people give Windows Phone a go? At this point, it has little to do with how good the platform has become and everything to do with the rule of the masses: It's hard to go against the crowd.
+
+If there was any doubt that Windows Phone devices were as attractive or well made as the iPhone or the best Android phones, the striking HTC One (M8) for Windows immediately dispels that myth.
+
+A carbon copy of the Android model I've loved since its March debut, the One's bright and crisp 5-inch 1080p screen is enclosed in a solid piece of aluminum, giving it a high-quality heft. And despite its thinner dimensions, it can last all day long on a charge, even with the screen brightness cranked up.
+
+Like on the Android model, my biggest complaint is about its rear-facing camera. Despite some novel shooting tricks, the photos didn't turn out as sharp and well balanced as the ones you'd take with the priciest Nokia Windows Phones.
+
+That said, it does capture photos faster than any smartphone I've tested and if you're vying to be a better selfie-snapper than Kim Kardashian herself, the 5-megapixel front-facing camera is what you need.
+
+So if all things are now equal in hardware, software must be Windows Phone's big problem, right? That used to be the case.
+
+Windows Phone is now as good an operating system as the others. I find it easier to navigate than Android, yet more customizable than iOS. Live tiles show core information without having to open an app and a new notification center puts new messages and important system settings in closer reach. Customizing app notifications, creating folders, organizing apps on the tile screen -- even toggling between open apps -- are all simple moves.
+
+The core apps are more fully baked now, too. With the email and calendar apps, I can manage my work and Gmail messages and schedules as easily as I do on an iPhone or Moto X Android phone. Better yet, Internet Explorer is as snappy as the rivals, and opening and saving documents in Office doesn't require a coffee break.
+
+I didn't even miss Google Maps on Windows Phone. Bing Maps consistently provided really good transit directions, and Waze, a Google-owned, third-party app, helped me fight traffic while driving into New York City.
+
+How about Cortana, Microsoft's answer to Siri and Google Now? Without a prompt, she told me what traffic would be like on my way to work and gathered top news stories based on my interests.
+
+I repeatedly used her location-aware reminder feature to remember to do things when I got to the office and relied on her for the weather. I was starting to think she was the world's smartest digital assistant until she recommended, out of all of the great and affordable restaurants in New York City, dinner at Applebee's.
+
+Apps are still where Windows Phone struggles to keep up with the Joneses. There are more than 320,000 apps in the Microsoft Store and you'll find most of the big names -- everything from Facebook to Netflix to Spotify to Uber to Instagram. But because there aren't as many Windows Phone users, app makers don't pay attention to their Windows Phone apps as much as iOS or Android.
+
+As for buzzy new iPhone and Android apps, they usually arrive later for Windows Phone -- if they turn up at all. And Google doesn't offer its core apps for the platform, including YouTube, Hangouts, Maps or Google Drive. You'll be hard pressed to find the apps that work with your connected accessories, too.
+
+Microsoft says it is trying to make it easier for developers to create apps that work across Windows, Windows Phone and Xbox. But it's hard to imagine that being as good as the competition will change the tide. People don't use Windows Phones because . . . people don't use Windows Phones.
+
+By the time Microsoft got its act together, the masses had chosen sides between iPhones and Android phones. For most, a switch just isn't worth it.
+
+But stranger things have happened than a solid platform from a committed tech giant gaining in popularity. If you're tired of the current options and can live without the apps and services that set the Internet abuzz, the HTC One (M8) for Windows is a great device and it's just $100 with a two-year contract at Verizon.
+
+---
+
+Microsoft's Windows Phone
+
+PROS
+
+-- Customizable, easy-to-use 'live tile' interface
+
+-- Solid, fully featured core apps
+
+-- Easy to manage and edit documents and attachments
+
+CONS
+
+-- Quality of third-party apps not as good as iOS and Android
+
+-- Many popular third-party apps still not available in store
+
+-- Cortana makes some odd recommendations
+
+License this article from Dow Jones Reprint Service
+
+Document J000000020140820ea8k00011
+
+
+
+
+Tech
+HTC One for Windows: Another Great Phone You Probably Won't Buy; The Best-Designed Android Phone Is Being Released With Windows Phone 8.1
+
+By Joanna Stern 
+1,274 words
+19 August 2014
+05:42
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+
+Last week, I went hunting for people using Windows Phones in Times Square. Two hours in one of the busiest spots on Earth¡Xzero sightings. Instead, there were thousands of people, from Iowa, Italy and India, holding up their glowing iPhones or Android phones to take photos of Great White Way. One kind lady from London did tell me she was fairly certain her great uncle owned a Windows Phone.
+
+While my method wasn't scientific, the straw poll represents the reality of the global smartphone market. Google's Android has close to 85% of the market share while Apple's iPhone is at 12%, according to IDC's latest numbers. Microsoft? Windows Phone holds a measly 2.5% and it isn't growing.
+
+So what's wrong with the "third" smartphone platform? Until now, the assumption was that Windows Phones just weren't as good as the others. And for the first number of years of the platform's life that was true because of middling hardware and nascent software.
+
+But now, thanks to various software updates released throughout the summer, that once-trailing platform has as much or more functionality than Android or iOS¡Xthat is, if you don't consider third-party apps.
+
+And the hardware has caught up, too. Just today, the best-designed Android phone¡Xthe HTC One¡Xis being released with Windows Phone 8.1, for now exclusively at Verizon.
+
+So, why don't more people give Windows Phone a go? At this point it has very little to do with how good of a smartphone platform it has become, and everything to do with the rule of the masses: It's hard to go one way when everybody else is going another.
+
+The HTC One¡XOne More Time
+
+If there was any doubt that Windows Phone devices were as attractive or well made as the iPhone or the best Android phones, the striking HTC One (M8) for Windows immediately dispels that myth.
+
+A carbon copy of the Android model I've loved since its debut in March, the One's bright and crisp 5-inch 1080p screen is enclosed in a solid piece of aluminum, giving it a weight that suggests higher quality than the plastic wares from LG, Samsung and Nokia. And despite its thinner dimensions, it can last all day long on a charge, even with the screen brightness cranked up.
+
+Like on the Android model, my biggest complaint is about its ultrapixel camera¡Xalong with a second camera that strictly captures depth information to allow you to refocus photos after you take them. Despite the gimmicks, the photos just don't turn out as sharp and well balanced as the ones you'd take with the priciest Nokia Lumia Windows Phones.
+
+That said, it does capture photos faster than any smartphone I've tested and if you're vying to be a better selfie-snapper than Kim Kardashian herself, the 5-megapixel front-facing camera is what you need.
+
+The Latecomer Catches Up
+
+So if all things are now equal in hardware, software must be Windows Phone's big problem, right? That used to be the case for the late-to-the-party platform, but it certainly isn't anymore.
+
+Windows Phone is now as good an operating system as the others. I find it easier to navigate than Android, yet more customizable than iOS. Live tiles show core information without you having to open an app and a new notification center puts new messages and important system settings in closer reach. Customizing app notifications, creating folders, organizing apps right on the tile screen¡Xeven toggling between open apps¡Xare all simple moves.
+
+The core apps are more fully baked now, too. With the email and calendar apps, I can manage my work and Gmail messages and schedules as easily as I do on an iPhone or Moto X Android phone. Better yet, opening attached documents and saving revisions in Office doesn't require a coffee break like on the other platforms, and Internet Explorer is just as snappy as mobile Safari and Chrome.
+
+Believe it or not, I didn't even miss Google Maps during my week on Windows Phone. Bing Maps, which is powered in part by Nokia's massive map database, consistently provided really good transit directions, and Waze, a Google-owned, third-party app, helped me fight traffic and road closures while driving into New York City.
+
+How about Cortana, Microsoft's answer to Siri and Google Now? Without a prompt, she told me what traffic would be like on my way to work and even gathered top news stories based on my interests.
+
+I repeatedly used her location-aware reminder feature to remember to do things when I got to the office, relied on her for the weather and enjoyed her humorous answers to my snarky questions. I was starting to think she was the world's smartest digital assistant¡Xright up to the point when she recommended, out of the thousands of great and affordable restaurants in New York City, dinner at Applebee's.
+
+The App Gap
+
+Apps are still where Windows Phone struggles to keep up with the Joneses.
+
+It isn't in the quantity of apps anymore. There are more than 320,000 apps in the Microsoft Store and you'll find most of the big names¡Xeverything from Facebook to Netflix to Spotify to Uber to Instagram. But because there aren't as many Windows Phone users, app makers don't pay attention to their Windows Phone apps as much as iOS or Android.
+
+For instance, Instagram has all the usual filters on Windows Phone, but it lacks the editing tools that were recently added to iPhone and Android. Similarly, in Rdio, I spent a good five minutes looking for the top playlists chart before realizing it wasn't there.
+
+As for the newest iPhone and Android apps¡Xbuzzy ones like Lyft, VSCOcam, Secret and Tinder¡Xthey aren't available yet on Windows Phone. And Google doesn't offer its core apps for the platform, including YouTube, Hangouts, Maps or Google Drive. You'll be hard pressed to find the apps that work with your connected accessories, too. Without Windows Phone companion apps, I couldn't pair my Jawbone Up fitness tracker or the Bluetooth tag I use to track my keys.
+
+Microsoft says it is trying to make it easier for developers to create apps that work across Windows, Windows Phone and Xbox. But even then, it's hard to imagine that being as good as the competition will change the tide. People don't use Windows Phones because ¡K people don't use Windows Phones.
+
+In the smartphone market, people tend to join in the biggest crowds. By the time Microsoft got its act together, the masses had chosen sides between iPhones and Android phones. For most, a switch would be like moving from a comfortable home to a comfortable home across the street¡Xit just isn't worth it.
+
+But stranger things have happened than a solid platform from a fiscally sound and committed tech giant gaining in popularity. If you're tired of the current options and can live without the apps and services that set the Internet abuzz, the HTC One (M8) for Windows is a great device and it's just $100 with a two-year contract at Verizon. That or just stick with the crowd.
+
+Write to Joanna Stern at 
+
+Document WSJO000020140819ea8j0040h
+
+
+ HTC One With Windows Phone 8.1 Review
+Wall Street Journal Video, 19 August 2014, 524 words, (English)
+Summary: Windows Phone smartphones have gotten quite good, so why doesn¡¦t anyone buy them? WSJ Personal Tech Columnist Joanna Stern tests the HTC One (M8) with Windows Phone 8.1 to find out. Photo/Video: Drew Evans/The Wall Street Journal.
+Document MMSAJB0020140819ea8j000b5
+
+ The Morning Download: Fedex, Gap, Other Big Firms Embrace Software-Defined Networking
+CIO Report, 07:35, 4 August 2014, 2088 words, By Steve Rosenbush, (English)
+The Morning Download comes from the editors of CIO Journal and?cues up the most important news in business technology every weekday morning.?Send us your tips, compliments and complaints. You can get The Morning Download emailed to you each ...
+Document WCCIOR0020140804ea840002t
+
+
+
+Corporate News: Microsoft Claims Samsung Violated Patent Agreement
+
+By Shira Ovide   
+405 words
+2 August 2014
+The Wall Street Journal
+J
+B11
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+
+Microsoft Corp. sued Samsung Electronics Co., claiming its Korean rival violated a patent-licensing contract.
+
+The dispute involves technology included in Android, Google Inc.'s operating system for mobile phones and tablets. Samsung is the leading maker of Android devices.
+
+Microsoft holds patents on technologies it says are included in Android, such as methods for displaying multiple windows in a Web browser. The Redmond, Wash., company has struck patent cross-licensing agreements with several Android-device makers including Samsung and HTC Corp. Microsoft also on occasion has sued some Android device makers for allegedly infringing on its patents.
+
+Under a 2011 deal, Samsung pays Microsoft an undisclosed amount for each Android phone and tablet it sells. Nomura Securities analyst Rick Sherlund last year estimated Microsoft collects roughly $2 billion annually from patent fees on Android devices.
+
+In a complaint filed in U.S. District Court in Manhattan, Microsoft said Samsung failed to make a recent royalty payment on time, and then refused to pay interest on its late payment. Samsung has said Microsoft's April purchase of Nokia Corp.'s mobile-devices business violated terms of the companies' licensing contract and another business agreement, according to Microsoft's court filing.
+
+"After becoming the leading player in the world-wide smartphone market, Samsung decided late last year to stop complying with its agreement with Microsoft," David Howard, a Microsoft deputy general counsel, wrote in a blog post Friday.
+
+"We will review the complaint in detail and determine appropriate measures in response," a Samsung spokeswoman said Friday.
+
+Patent disputes have become a fixture of the smartphone age, and they have spilled repeatedly into court including tussles between Samsung and Apple Inc. The Microsoft lawsuit shows intellectual property remains a flash point for wars among technology giants.
+
+The filing also highlights the secretive nature of patent negotiations. The public version of Microsoft's complaint is heavily redacted, including portions that appear to disclose the amount of patent royalty fees Samsung pays Microsoft, the method of calculating the fee and the length of the patent-licensing contract.
+
+Microsoft is asking a judge to enforce the terms of the 2011 contract, and declare that the Nokia acquisition doesn't invalidate the companies' licensing agreement.
+
+Samsung makes PCs running Microsoft's Windows operating system, and it sells smartphones with Windows Phone software.
+
+License this article from Dow Jones Reprint Service
+
+Document J000000020140802ea820003l
+
+
+
+
+Asia
+Gas Explosions in Taiwan Kill at Least 25; Hundreds Injured in Series of Blasts in Kaohsiung, Taiwan's Second-Largest City
+
+By Jenny Hsu,                  Eva Dou and Aries Poon 
+856 words
+1 August 2014
+01:40
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+
+TAIPEI¡XDeadly explosions caused by a gas leak overnight killed at least 25 people and injured 257 in the southern Taiwanese city of Kaohsiung, according to government officials.
+
+Underground explosions in Taiwan's second-largest city triggered fires that ripped off manhole covers on roads and cratered large boulevards, local television footage showed. Roads exploded with flames, overturning cars and collapsing houses. Many streets are still littered with rubble and impassible by ambulances.
+
+Economic Minister Chang Chia-juch said Friday that officials are still unable to determine what caused the blast, though an initial investigation indicated the leak could have occurred in an underground pipeline that transports propene, a highly flammable, nearly odorless petrochemical used for polyesters. Kaohsiung is one of Taiwan's centers of petrochemical production.
+
+In a Friday video conference broadcast on local television, Kaohsiung Mayor Chen Chu asked President Ma Ying-jeou to review the city's underground petrochemical pipeline system to avoid future accidents.
+
+The situation now has been contained, the government's Emergency Operations Center said, and the fire department had cut the pipeline's gas supply shortly after the explosions.
+
+The chance of further explosions is "extremely slim at the moment because all gas supply has been turned off," said Kaohsiung city spokesman Ting Yun-kung.
+
+The center added that 111 of the injured were already discharged from hospitals, while at least two people are still missing. A photojournalist for Apple Daily, a popular Hong Kong newspaper, was injured near an explosion site while covering the incident, the paper said.
+
+Some people said tearfully on local TV that their families or friends are likely buried in collapsed houses, though reports are unconfirmed. Four police and firefighters are among the dead, the center said. Earlier it had reported 270 injured.
+
+The Kaohsiung government has set up its own emergency center. The Ministry of National Defense said it has deployed more than 1,600 military personnel to assist in the rescue operations.
+
+Mr. Chang didn't identify the company that operates the pipeline in the area and said the investigation is ongoing. A number of petrochemical companies scrambled Friday to distance from the blast.
+
+The government said the fire department was notified by residents of possible gas leaks at 8:46 p.m. local time Thursday. Residents said that they had smelled gas and seen smoke emerging from drains shortly before the explosion. Officials still aren't certain what caused the smell. Firefighters were dispatched to the scene immediately to assess the situation, according to a government official.
+
+Multiple blasts began around midnight, affecting an area of two to three square kilometers, or less than two square miles. One video clip posted on YouTube shows what looks like a narrow residential street suddenly exploding down its length.
+
+Local companies have pledged tens of millions of New Taiwan dollars to the rescue operation. Formosa Plastics Group, a Taiwanese conglomerate, said it would donate NT$20 million (US$665,912) while Foxconn Technology Group, a key Apple Inc. supplier also known as Hon Hai Precision Industry Co., pledged NT$10 million. Smartphone maker HTC Corp. and its charity foundation together pledged NT$10 million and computer manufacturer Acer Inc., NT$2 million, the companies said.
+
+Flags throughout the island are ordered to fly at half-mast for the next three days and condolences have flooded social media, where people are forming volunteer groups to help distribute food and hygiene supplies.
+
+The cause of the explosion and the owner of the leaky pipeline are still unknown. Government-owned refiner CPC Corp. said it doesn't own the pipeline. LCY Chemical Corp., a petrochemical maker, which local media reported as the owner of the pipeline, also issued a statement that said its pipeline was more than 10 meters from the site of the blast and carried propene, which may not have the smell the residents reported.
+
+The government said it is still too early to determine the cause of the explosion or where the gas leak began because the area is covered with rubble, impeding the research team from thoroughly surveying the grounds and examining the pipes. The complex web of pipes beneath the city makes it difficult to assess the types of pipes damaged and their ownership, the city's spokesman said.
+
+Local brokerage First Financial Holding Co. said the explosion, the worst of this type in Taiwan's history, is unlikely to hit the electronics supply chain in the south. Many suppliers are located in the Kaohsiung Software Park, about 2 kilometers away from the blast area. Some may be hit by temporary outage of electricity and water supply, it said.
+
+Explosions and fires, some caused by gas leaks, have hit petrochemical complexes in Taiwan in the past, though most were contained inside the compounds.
+
+The blast is the second deadly disaster in Taiwan in two weeks. Last Wednesday, a TransAsia flight crashed in an outlying Taiwanese island and killed at least 48 aboard. 
+
+Document WSJO000020140731ea7v006k8
+
+
+
+
+Asia
+Deadly Gas-Pipeline Explosions Rock Taiwan; At Least 25 Killed, Hundreds Injured in Series of Blasts in Kaohsiung
+
+By Jenny Hsu,                  Eva Dou and Aries Poon 
+964 words
+1 August 2014
+02:39
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+
+TAIPEI¡XDeadly explosions caused by a gas leak overnight killed at least 25 people and injured 257 in the southern Taiwanese city of Kaohsiung, according to government officials.
+
+Underground explosions in Taiwan's second-largest city triggered fires that ripped off manhole covers on roads and cratered large boulevards, local television footage showed. Roads exploded with flames, overturning cars and collapsing houses. Many streets were still littered with rubble and impassible by ambulances.
+
+"Around midnight, there was a very strong blast. From my balcony, I saw a huge fireball that was at least 10 floors high. All the furniture at my home rattled a little bit, and it was very, very loud. Then I heard people screaming. Two to three minutes later, another blast occurred," said Johnson Shen, whose apartment is about 200 feet away from the blast area.
+
+Economic Minister Chang Chia-juch said Friday that officials are still unable to determine what caused the blast, though an initial investigation indicated the leak could have occurred in an underground pipeline that transports propene, a highly flammable, nearly odorless petrochemical used for polyesters. Kaohsiung is one of Taiwan's centers of petrochemical production.
+
+But Mr. Shen said that when he was riding home on his motorcycle shortly before 9 p.m. local time, "there was already a very strong gas smell on the road. It smelt like the gas we use at home for cooking."
+
+In a Friday video conference broadcast on local television, Kaohsiung Mayor Chen Chu asked President Ma Ying-jeou to review the city's underground petrochemical pipeline system to avoid future accidents.
+
+The situation now has been contained, the government's Emergency Operations Center said, and the fire department had cut the pipeline's gas supply shortly after the explosions.
+
+The chance of further explosions is "extremely slim at the moment because all gas supply has been turned off," said Kaohsiung city spokesman Ting Yun-kung.
+
+The center added that 111 of the injured were already discharged from hospitals, while at least two people were still missing. A photojournalist for Apple Daily, a popular Hong Kong newspaper, was injured near an explosion site while covering the incident, the paper said.
+
+Some people said tearfully on local TV that their families or friends were likely buried in collapsed houses, though reports were unconfirmed. Four police and firefighters were among the dead, the center said. Earlier it had reported 270 people were injured.
+
+The Kaohsiung government has set up its own emergency center. The Ministry of National Defense said it has deployed more than 1,600 military personnel to assist in the rescue operations.
+
+Mr. Chang didn't identify the company that operates the pipeline in the area and said the investigation is continuing. A number of petrochemical companies scrambled Friday to distance themselves from the blast.
+
+The government said the fire department was notified by residents of possible gas leaks at 8:46 p.m. local time Thursday. Residents said that they had smelled gas and seen smoke emerging from drains shortly before the explosion. Officials still aren't certain what caused the smell. Firefighters were dispatched to the scene immediately to assess the situation, according to a government official.
+
+Multiple blasts began around midnight, affecting an area of two to three square kilometers, or less than two square miles. One video clip posted on YouTube shows what looks like a narrow residential street suddenly exploding down its length.
+
+Local companies have pledged tens of millions of New Taiwan dollars to the rescue operation. Formosa Plastics Group, a Taiwanese conglomerate, said it would donate NT$20 million (US$665,912) while Foxconn Technology Group, an important Apple Inc. supplier also known as Hon Hai Precision Industry Co., pledged NT$10 million. Smartphone maker HTC Corp. and its charity foundation together pledged NT$10 million and computer manufacturer Acer Inc. pledged NT$2 million, the companies said.
+
+Flags throughout the island were ordered to fly at half-mast for the next three days and condolences have flooded social media, where people are forming volunteer groups to help distribute food and hygiene supplies.
+
+The cause of the explosion and the owner of the leaky pipeline are still unknown. Government-owned refiner CPC Corp. said it doesn't own the pipeline. LCY Chemical Corp., a petrochemical maker, which local media reported as the owner of the pipeline, issued a statement that said its pipeline was more than 10 meters from the site of the blast and carried propene, which may not have the smell the residents reported.
+
+The government said it is still too early to determine the cause of the explosion or where the gas leak began because the area is covered with rubble, impeding the research team from thoroughly surveying the grounds and examining the pipes. The complex web of pipes beneath the city makes it difficult to assess the types of pipes damaged and their ownership, the city's spokesman said.
+
+Local brokerage First Financial Holding Co. said the explosion, the worst of this type in Taiwan's history, is unlikely to hit the electronics supply chain in the south. Many suppliers are located in the Kaohsiung Software Park, about 2 kilometers away from the blast area. Some may be hit by temporary outage of electricity and water supply, it said.
+
+Explosions and fires, some caused by gas leaks, have hit petrochemical complexes in Taiwan in the past, though most were contained inside the compounds.
+
+The blast is the second deadly disaster in Taiwan in two weeks. Last Wednesday, a TransAsia flight crashed in an outlying Taiwanese island and killed at least 48 aboard. 
+
+Document WSJO000020140801ea8100336
+
+
+ Shares of HTC open down 1.1 pct after Q3 revenue decline prediction
+Reuters, 20:10, 31 July 2014, 192 words, (English)
+TAIPEI Aug 1 (Reuters) - Shares of Taiwan's HTC Corp opened down 1.1 pct but then rose quickly and was trading up 1.9 percent minutes after the opening bell on Friday.
+Document WCLBA00020140801ea81000gr
+
+
+
+Corporate News: Corporate Watch
+
+657 words
+1 August 2014
+The Wall Street Journal Asia
+AWSJ
+18
+English
+Copyright ? 2014 Dow Jones & Company, Inc. All Rights Reserved.   
+
+YUKOS
+
+Russia Must Compensate
+
+Shareholders, Says EU Court
+
+Russia has to pay the former owners of now defunct Russian oil company Yukos 1.87 billion euros ($2.51 billion) in compensation for unfair tax proceedings, the European Court of Human Rights said Thursday.
+
+The ruling on compensation is the ECHR's biggest award to date and comes three years after the court first found that Moscow had violated Yukos's rights to a fair trial and protection of property.
+
+Russia has to pay 1.87 billion euros in compensation for the direct financial damage that Yukos's owners suffered from the unlawful proceeding, which the court said should go to Yukos's former shareholders and their heirs.
+
+Moscow also has to reimburse an extra 300,000 euros in legal costs to the Yukos International Foundation, a company that now houses some of Yukos's remaining assets.
+
+In a blow to Yukos's former owners, however, the court rejected its claim that the unfair tax proceedings led to its liquidation in 2007.
+
+It is because of this assessment that the 1.87 billion euros award falls well short of the 37.98 billion euros in damages Yukos had asked for. It is also significantly less than the $50 billion in damages that its former owners were awarded by a Netherlands-based tribunal this week.
+
+-- Gabriele Steinhauser
+
+and Gregory L. White
+
+---
+
+HTC
+
+Smartphone Maker Expects
+
+Continued Decline in Sales
+
+HTC Corp. forecast continued falling sales in the third quarter, as the Taiwanese high-end smartphone maker faces a challenge from the coming launch of Apple Inc.'s next-generation iPhone.
+
+It will be HTC's 12th straight quarter of falling revenue on an annual basis. Chief Financial Officer Chialin Chang said the flagship HTC One (M8) smartphone and other products launched in the first half of the year helped boost second-quarter earnings, but sales will slow in the third quarter and the company will need to trim sales and marketing expenses.
+
+HTC will remain profitable in the third quarter, Mr. Chang said.
+
+"Some of our products, after the initial excitement, have settled at a lower level," said Mr. Chang on an investor call. "But the good thing is it is stabilized."
+
+Mr. Chang added he expects HTC to break its three-year slide in revenue in the fourth quarter, with the help of momentum from the flagship line and the introduction of new products.
+
+-- Eva Dou
+
+---
+
+EXXON MOBIL
+
+Earnings Jump by 28%, But Production Declines
+
+Exxon Mobil Corp. said its profit for the second quarter rose 28%, even though the company pumped oil and natural gas at the lowest rate in almost five years.
+
+The U.S.-based energy company was buoyed by higher oil prices, lifting its earnings to $8.78 billion on revenue of $111.65 billion. It also got a boost from higher profits for refining crude and manufacturing chemicals. But its oil and gas output sank 5.7% from a year earlier, the lowest rate since the third quarter of 2009.
+
+The company has said it is weighing the impact of sanctions against Russia announced this week by the U.S. and the European Union, which aim to restrict exports of energy technologies for oil projects.
+
+-- Daniel Gilbert and Tess Stynes
+
+---
+
+DIAGEO
+
+China Slowdown Hits Profit
+
+Diageo PLC, the world's biggest liquor company by sales, on Thursday posted an 8.2% decline in full-year profit, attributing the decline to a collapse of demand in China -- where sales of high-price Johnnie Walker Black Label fell nearly 30% -- and problems in other emerging markets.
+
+Diageo reported net profit of GBP 2.25 billion ($3.81 billion), compared with GBP 2.45 billion a year earlier, as revenue dropped 8.5% to GBP 13.98 billion. Sales in China fell 33%, but there was an improved performance in Western Europe.
+
+-- Peter Evans
+
+License this article from Dow Jones Reprint Service
+
+Document AWSJ000020140731ea8100013
+
+
+ Android Market Share Hits New Record
+WSJ Blogs, 07:26, 31 July 2014, 235 words, By Rolfe Winkler, (English)
+Google's Android is extending its dominance over rival mobile-operating systems, including Apple's iOS, new data show.
+Smartphones running Android accounted for 85% of global shipments in the second quarter, according to research firm ...
+Document WCWSJB0020140731ea7v0038p
+
+ New products to return Taiwan's HTC to growth by year end
+Reuters, 06:11, 31 July 2014, 515 words, Michael Gold, (English)
+TAIPEI (Reuters) - Taiwan's HTC Corp will return to growth in the final three months of 2014 after a bruising few years that has seen market share dwindle amid steep sales declines.
+Document WCLBA00020140731ea7v003mn
+
+ BRIEF-Taiwan's HTC posts Q2 net profit of T$2.3 bln
+Reuters, 05:28, 31 July 2014, 113 words, (English)
+Source text on Eikon:
+Thomson Reuters is the world's largest international multimedia news agency, providing investing news, world news, business news, technology news, headline news, small business news, news alerts, personal finance, stock ...
+Document WCLBA00020140731ea7v003h3
+
+ UPDATE 2-New products to return Taiwan's HTC to growth by year end
+Reuters, 05:57, 31 July 2014, 287 words, Michael Gold, (English)
+TAIPEI, July 31 (Reuters) - Taiwan's HTC Corp forecast that revenue in the July-September quarter will likely decline as sales of its flagship phone begin to taper off after a strong second quarter.
+Document WCLBA00020140731ea7v003ef
+
+ Taiwan's HTC says sees year-on-year revenue growth in Q4
+Reuters, 05:15, 31 July 2014, 177 words, (English)
+TAIPEI, July 31 (Reuters) - Taiwan's HTC said the company will see overall revenue growth in the October to December period, its first quarter of year-on-year growth since the third quarter of 2011.
+Document WCLBA00020140731ea7v003bt
+
+
+
+Asia
+HTC Predicts Continued Decline in Sales; Continued Decline in Sales Predicted Due to Stiff Competition in the Smartphone Market.
+
+By Eva Dou 
+721 words
+31 July 2014
+01:45
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+
+TAIPEI¡XHTC Corp. forecast Thursday continued falling sales in the third quarter, as the Taiwanese high-end smartphone maker faces a challenge from the coming launch of Apple Inc.'s next-generation iPhone.
+
+It will be HTC's 12th consecutive quarter of declining revenue on an annual basis. The company's Chief Financial Officer Chialin Chang said the flagship HTC One (M8) smartphone and other products launched in the first half of the year helped boost second quarter earnings, but sales will slow in the third quarter and the firm will need to trim sales and marketing expenses.
+
+The firm will remain profitable in the third quarter, with earnings-per-share of 0.05 New Taiwan dollars to 0.69 New Taiwan dollars, compared to last year's loss, Mr. Chang said.
+
+"Some of our products, after the initial excitement, have settled at a lower level," said Mr. Chang on an investor call. "But the good thing is it is stabilized."
+
+Mr. Chang added he expects HTC to break its three-year slide in revenue in the fourth quarter, with the help of momentum from the flagship line and the introduction of new products.
+
+HTC faces the challenge of maintaining its ground in upcoming months against the launches of the iPhone and new devices from other rivals like Samsung Electronics Co. Apple is gearing up for the first major refresh of the iPhone in two years, which means the iPhone will be a more formidable foe this year for HTC and others than it was last year.
+
+HTC said Thursday it expects revenue in the third quarter of 42 billion New Taiwan dollars to 47 billion New Taiwan dollars (US$1.4 billion-US$1.57 billion), at best matching the year-earlier quarter. The company forecast earnings per share of 0.05 New Taiwan dollars to 0.69 New Taiwan dollars for the quarter, down from 2.74 New Taiwan dollars in the second quarter.
+
+Mr. Chang said the company would save costs by cutting some long-term marketing expenses and switching to "more tactical" marketing. He said there wouldn't be cuts to "human capital." He also ruled out selling products at a loss.
+
+HTC posted its first full-year net loss last year, as it lost sales to Samsung and Chinese smartphone makers. The company has attributed its market share loss partly to marketing missteps.
+
+In the second quarter, HTC posted net profit of 2.3 billion New Taiwan dollars, up 84% from the same quarter in 2013 and better than a net loss of 1.88 billion New Taiwan dollars in the previous quarter. However, the company's revenue slipped to 65.1 billion New Taiwan dollars in the second quarter from 70.7 billion New Taiwan dollars a year earlier.
+
+The global leader in Android smartphone shipments three years ago, HTC has seen a steep fall in market share as the competitive field thickened with rivals in South Korea and China. Yuanta Financial analyst Jeff Pu estimates the company's global market share is now around 2%.
+
+The company has also faced heavy executive turnover, most recently, with the marketing and engineering chiefs stepping down from those positions. Analysts say the company still needs to prove it can stay profitable on a smaller scale with the sales decline.
+
+"Over long term, HTC may be able to position itself as a niche, high-end player," Mr. Pu said, citing the company's strong engineering but lack of scale. Mr. Pu and other analysts note that succeeding as a profitable niche player in the cutthroat smartphone market will be no easy feat. "Actually no one has this kind of position right now."
+
+Mr. Chang said the company didn't want to only sell in the high-end, although he didn't give details on how the company could regain market share.
+
+"For HTC, to start gaining market share is important," he said. "We have gone through a transition period in 2013."
+
+HTC returned to an operating profit in the second quarter after three consecutive quarters of operating losses, with the help of the launch of its new flagship HTC One (M8) smartphone and cost cuts.
+
+Document WSJO000020140731ea7v002gz
+
+
+ Taiwan's HTC sees Q3 revenue T$42-47 bln vs T$47 bln year earlier
+Reuters, 02:19, 31 July 2014, 237 words, (English)
+TAIPEI, July 31 (Reuters) - Taiwan's HTC Corp forecast that revenue in the July-September quarter will likely decline as sales of its flagship phone begin to taper off after a strong second quarter.
+Document WCLBA00020140731ea7v002h1
+
+
+
+Opinion
+Short-Changing Taiwan's Market; Taipei regulators hurt themselves by trying to squelch bad news.
+
+469 words
+24 July 2014
+13:37
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+
+Taiwan wants to become an international financial center, but its regulators keep undermining that ambition. The latest example is a threatened prosecution of California-based short-seller Glaucus Research Group.
+
+In April Glaucus released a report about suspicious accounting at Asia Plastic Recycling, a Taipei-listed producer of foam rubber based in China's Fujian province. Citing official land, tax and other public records, Glaucus argued that Asia Plastic Recycling inflated its earnings by as much as 10 times. Within days the stock dropped some 30%.
+
+That prompted the Taiwan Stock Exchange to launch an investigation into the alleged fraud. In a mere three days, it concluded that Asia Plastic Recycling had been "truthful" in its financial statements. The real wrongdoer, according to Financial Supervisory Commission Chairman William Tseng, was Glaucus, which had "maliciously spread rumors." Asia Plastic Recycling denied Glaucus's claims and sued for damages.
+
+In May the Financial Supervisory Commission asked prosecutors to indict Glaucus on charges of market manipulation that could bar the firm from doing business in Taiwan and carry jail sentences of up to 10 years. Regulators have also organized a class-action suit against Glaucus by some 2,000 allegedly injured Taiwanese shareholders.
+
+The speed and severity of Taipei's response don't bode well for Taiwanese markets. Glaucus notes that in past cases involving firms listed in the United States or Hong Kong, local regulators have backed up their suspicions of fraud after spending months or years examining independent records from tax authorities, banks, customers and suppliers.
+
+Glaucus may or may not have the goods this time, but Taipei's three-day inquiry isn't reassuring anybody. The share price of Asia Plastic Recycling has continued to fall since April.
+
+Taipei's campaign to squelch bad news extends beyond Glaucus. When details of a negative Barclays report concerning Taiwan's electronics industry leaked last month, Mr. Tseng, the financial regulatory chief, blasted such disclosures as "very inappropriate." Local media report that his agency may this month criminalize future leaks from foreign brokerage houses.
+
+Prosecutors may decide not to indict Glaucus¡Xas they did in a similar case two years ago, when cellphone maker HTC Corp. asked for charges against a critical Citigroup analyst. The Financial Supervisory Commission had never sought such an indictment until Glaucus came along backing its short sale with a public case, an apparent first for a Taiwan-listed stock.
+
+Such "activist shorts" are common elsewhere and have been helpful in rooting out fraudsters operating in China. The lifeblood of any market is the free flow of information, including critical views that keep managers accountable. If Taiwan wants to foster healthy capital markets, its regulators are going about it the wrong way.
+
+Document WSJO000020140724ea7o005sd
+
+
+
+
+Tech
+LG Electronics Dials Up a Turnaround on Smartphone Sales; Net Profit Rises Sharply, Helped by Launch of G3
+
+By Min-Jeong Lee 
+493 words
+23 July 2014
+22:34
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+
+SEOUL¡XLG Electronics Inc. said its net profit rose sharply in the second quarter as its mobile business staged a turnaround on higher smartphone sales.
+
+The South Korean consumer-electronics giant launched a new flagship smartphone, the LG G3, in May, allowing it to expand its range of phones during a seasonally weak quarter and ending three straight quarters of operating losses at the mobile unit.
+
+The results are the latest indication that lesser-known smartphone brands such as LG are benefiting from slowing hardware innovation from larger rivals. Earlier this month, HTC Corp. reported an 80% year-over-year increase in its profit for the quarter ended June 30, with the Taiwanese smartphone maker attributing the growth to strong sales of its flagship and midrange phones as well as cost-cutting. Analysts say such increases have come, in part, at the expense of weaker-than-expected smartphone shipments from Samsung Electronics Co., the world's biggest smartphone maker.
+
+LG said Thursday its net profit for the three months ended June 30 more than doubled to 411.8 billion won ($402 million) from 155.5 billion won a year ago.
+
+It sold 14.5 million smartphones during the quarter, up 19.8% from 12.1 million units a year earlier. This led to a 40% year-over-year increase in operating profits for the mobile division to 85.9 billion won, and a turnaround from losses for three straight quarters, the company said.
+
+Analysts estimated LG to have shipped more than 900,000 units of its latest flagship G3 smartphone in the second quarter, which beat initial market expectations of about 500,000 units. LG, which had launched previous flagship smartphone models in the second half, advanced the timing of the launch this year by several months in a bid to combat competition from rivals.
+
+Still, the third quarter will be a challenge for South Korea's second-largest smartphone vendor, as both Apple Inc. and Samsung are planning new product launches. The Cupertino, Calif.-based company is widely expected to launch two new iPhone models sporting larger screens, while Samsung traditionally introduces its popular smartphone hybrid model, the Galaxy Note, in the fall.
+
+LG will have to spend a larger amount on marketing this quarter, which will pressure the company's margins, analysts said. LG's mobile-division profit margin rose to 2.4% in the second quarter from 2% a year earlier.
+
+LG's second-quarter operating profit rose 26.5% to 606.2 billion won, while revenue rose to 15.37 trillion won from 15.23 trillion won. TVs accounted for 33% of the company's total revenue, while mobile phones accounted for 24%. The company is betting heavily on high-end TV models with organic light-emitting diode screens to drive demand in the coming quarters.
+
+Document WSJO000020140724ea7o002be
+
+
+ In China, Online Sellers Already Taking iPhone 6 Preorders
+WSJ Blogs, 02:50, 22 July 2014, 413 words, By Lorraine Luk, (English)
+The buzz around the coming launch of a pair of larger-screen iPhones?has escalated in China with dozens of sellers on Alibaba's online marketplace offering preorders for the new device.
+Document WCWSJB0020140722ea7m001b9
+
+
+
+Business
+Xiaomi Reveals New Phone; Xiaomi 4 Has Faster Processor and Bigger Battery
+
+100 words
+21 July 2014
+22:19
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+
+BEIJING¡XChina's Xiaomi Inc. unveiled the fourth generation of its smartphone on Tuesday as part of its effort to build its presence in the world's largest smartphone market.
+
+The Beijing gadget maker said the Xiaomi 4 will have a faster processor that its predecessors and a larger battery than phones from rivals such as Samsung Electronic Co. and HTC Corp., Chairman Lei Jun said at a company presentation.
+
+The phone will be powered by a 2.5 gigahertz Qualcomm processor.
+
+Yang Jie and Carlos Tejada
+
+Document WSJO000020140722ea7m001up
+
+
+
+
+Media & Marketing
+Sony's Walkman Makes a Comeback
+
+By Kana Inagaki   
+931 words
+21 July 2014
+The Wall Street Journal
+J
+B4
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+
+TOKYO -- Thirty five years after its debut, Sony Corp.'s Walkman is enjoying a little comeback.
+
+But while the original cassette player of 1979 heralded the age of mass-market, portable music, the new $700 Walkman is aimed at premium buyers, as technological advances help more audio-on-the go users head upscale.
+
+The ZX1, as Sony's gadget is called, is in many ways the antithesis of Apple Inc.'s slender iPod, and the Walkman's own svelte predecessors. It has a heavy, bulky body that houses 128 gigabytes of storage for ultra-high-quality music files. Sony says each ZX1 is manually carved from a block of expensive aluminum, which helps reduce noise.
+
+"The message for our designers and engineers was: please create a good product without worrying about the cost," said Kenji Nakada, Sony's sound product planner.
+
+Unlike many earlier Sony attempts at high-end consumer electronics, the ZX1 is selling well -- at least in Japan. The new Walkman quickly sold out after hitting Japanese stores in December. Since February, the product has made its debut in Europe and other parts of Asia, although its launch date in the U.S. hasn't been set.
+
+Despite the success, the ZX1 remains a niche product: Sony declined to give sales figures but analysts estimate only several thousand units have been sold so far in Japan.
+
+And nobody expects the new Walkman -- however successful -- to go far in turning around Sony's chronic losses. The company said it lost $1.3 billion in the fiscal year ended March, and expects to stay in the red through March 2015. Televisions and games remain Sony's mainstay products in consumer electronics.
+
+Still, the ZX1's popularity does highlight what industry watchers say is a shift among some portable-audio buyers, as advances in Internet speed and data storage allow consumers, who long opted for convenience over sound quality, to have both. Older-generation digital-audio players managed to store tens of thousands of songs in slim devices by compressing the audio files, a process that sacrificed sound quality.
+
+"An entire generation missed the visceral emotion of listening to uncompressed audio," said Sony Chief Executive Kazuo Hirai, during an electronics show in January.
+
+Now, faster and bigger storage memory chips as well as speedier Internet connections allow gadgets like the Walkman ZX1 to play, store and transfer heavier music files that the industry has dubbed "high-resolution audio" without losing too much of the sound data from original recordings. Longer battery life also allows the Walkman to play heavy audio files and last around 16 hours, although that is still about one-fifth of the hours possible for other portable players playing compressed files, according to Mr. Nakada.
+
+Sony claims the format provides better sound quality than CDs, from deep bass tones to high-pitched sounds, including the moment when the singer takes a breath. High-resolution audio files contain more than three times as much audio data than CDs.
+
+Sony has rolled out more than 25 types of high-resolution audio devices since September, including a cheaper Walkman model; it says the products made up more than 20% of all audio sales for the October through March period.
+
+Other firms are also experimenting in the area. South Korea's Samsung Electronics Co., LG Electronics Inc. and Taiwan's HTC Corp. are all coming out with smartphones that claim to support high-resolution audio files.
+
+In the U.S., sales of premium headphones have doubled in the past three years, according to research firm NPD Group. Japanese research firm Fuji Chimera Research Institute Inc. projects that high-resolution audio devices will account for about 20% of sales in the global audio market by 2020 in terms of value from less than around 5% now.
+
+"People are becoming more quality conscious with high-definition television and this is the same parallel in the audio world," said David Chesky, the founder of HDtracks, a U.S. digital-music store that offers high-resolution audio files. The firm has more than doubled its revenue each year since its launch in 2008.
+
+Tento Koyama, a 19-year-old university student, is one consumer who is willing to pay extra for sound quality. In mid-May, Mr. Koyama lined up for one hour to take part in a headphone festival event in Tokyo where Sony's ZX1 Walkman was displayed.
+
+"I think this one is the best Walkman in its history," Mr. Koyama said, after listening to the ZX1 at a crowded Sony booth. "I don't mind the price."
+
+Still, analysts say hurdles remain high for mass adoption since differences in sound quality are harder to detect than differences in TV picture quality.
+
+"To get it to the mainstream, it's an effort to actually get people to listen to the difference," said Benjamin Arnold, an industry analyst at NPD Group.
+
+And just as with TVs and smartphones, Sony already faces a growing challenge from rival audio device makers.
+
+After trying out the ZX1 Walkman for about 40 minutes at a consumer-electronics store in Tokyo, Mr. Tamaki, a 34-year-old employee at a publishing firm who only gave his last name, said he's leaning toward buying a high-quality portable audio player by Iriver Ltd., a South Korean firm founded by former Samsung officials. That product cost twice as much as Sony's ZX1.
+
+"This one is better than Sony's," he concluded.
+
+License this article from Dow Jones Reprint Service
+
+Document J000000020140721ea7l00015
+
+
+
+
+Tech
+Sony's Walkman Makes Comeback; New $700 Device Is Aimed at Upscale Users
+
+By Kana Inagaki 
+928 words
+20 July 2014
+15:09
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+
+TOKYO¡XThirty five years after its debut, Sony Corp.'s Walkman is enjoying a little comeback.
+
+But while the original cassette player of 1979 heralded the age of mass-market, portable music, the new $700 Walkman is aimed at premium buyers, as technological advances help more audio-on-the go users head upscale.
+
+The ZX1, as Sony's gadget is called, is in many ways the antithesis of Apple Inc.'s slender iPod, and the Walkman's own svelte predecessors. It has a heavy, bulky body that houses 128 gigabytes of storage for ultra-high-quality music files. Sony says each ZX1 is manually carved from a block of expensive aluminum, which helps reduce noise.
+
+"The message for our designers and engineers was: please create a good product without worrying about the cost," said Kenji Nakada, Sony's sound product planner.
+
+Unlike many earlier Sony attempts at high-end consumer electronics, the ZX1 is selling well¡Xat least in Japan. The new Walkman quickly sold out after hitting Japanese stores in December. Since February, the product has made its debut in Europe and other parts of Asia, although its launch date in the U.S. hasn't been set.
+
+Despite the success, the ZX1 remains a niche product: Sony declined to give sales figures but analysts estimate only several thousand units have been sold so far in Japan.
+
+And nobody expects the new Walkman¡Xhowever successful¡Xto go far in turning around Sony's chronic losses. The company said it lost $1.3 billion in the fiscal year ended March, and expects to stay in the red through March 2015. Televisions and games remain Sony's mainstay products in consumer electronics.
+
+Still, the ZX1's popularity does highlight what industry watchers say is a shift among some portable-audio buyers, as advances in Internet speed and data storage allow consumers, who long opted for convenience over sound quality, to have both. Older-generation digital-audio players managed to store tens of thousands of songs in slim devices by compressing the audio files, a process that sacrificed sound quality.
+
+"An entire generation missed the visceral emotion of listening to uncompressed audio," said Sony Chief Executive Kazuo Hirai, during an electronics show in January.
+
+Now, faster and bigger storage memory chips as well as speedier Internet connections allow gadgets like the Walkman ZX1 to play, store and transfer heavier music files that the industry has dubbed "high-resolution audio" without losing too much of the sound data from original recordings. Longer battery life also allows the Walkman to play heavy audio files and last around 16 hours, although that is still about one-fifth of the hours possible for other portable players playing compressed files, according to Mr. Nakada.
+
+Sony claims the format provides better sound quality than CDs, from deep bass tones to high-pitched sounds, including the moment when the singer takes a breath. High-resolution audio files contain more than three times as much audio data than CDs.
+
+Sony has rolled out more than 25 types of high-resolution audio devices since September, including a cheaper Walkman model; it says the products made up more than 20% of all audio sales for the October through March period.
+
+Other firms are also experimenting in the area. South Korea's Samsung Electronics Co., LG Electronics Inc. and Taiwan's HTC Corp. are all coming out with smartphones that claim to support high-resolution audio files.
+
+In the U.S., sales of premium headphones have doubled in the past three years, according to research firm NPD Group. Japanese research firm Fuji Chimera Research Institute Inc. projects that high-resolution audio devices will account for about 20% of sales in the global audio market by 2020 in terms of value from less than around 5% now.
+
+"People are becoming more quality conscious with high-definition television and this is the same parallel in the audio world," said David Chesky, the founder of HDtracks, a U.S. digital-music store that offers high-resolution audio files. The firm has more than doubled its revenue each year since its launch in 2008.
+
+Tento Koyama, a 19-year-old university student, is one consumer who is willing to pay extra for sound quality. In mid-May, Mr. Koyama lined up for one hour to take part in a headphone festival event in Tokyo where Sony's ZX1 Walkman was displayed.
+
+"I think this one is the best Walkman in its history," Mr. Koyama said, after listening to the ZX1 at a crowded Sony booth. "I don't mind the price."
+
+Still, analysts say hurdles remain high for mass adoption since differences in sound quality are harder to detect than differences in TV picture quality.
+
+"To get it to the mainstream, it's an effort to actually get people to listen to the difference," said Benjamin Arnold, an industry analyst at NPD Group.
+
+And just as with TVs and smartphones, Sony already faces a growing challenge from rival audio device makers.
+
+After trying out the ZX1 Walkman for about 40 minutes at a consumer-electronics store in Tokyo, Mr. Tamaki, a 34-year-old employee at a publishing firm who only gave his last name, said he's leaning toward buying a high-quality portable audio player by Iriver Ltd., a South Korean firm founded by former Samsung officials. That product cost twice as much as Sony's ZX1.
+
+"This one is better than Sony's," he concluded.
+
+Document WSJO000020140720ea7k004mp
+
+
+
+
+Corporate News: Corporate Watch
+
+786 words
+16 July 2014
+The Wall Street Journal
+J
+B4
+English
+(Copyright (c) 2014, Dow Jones & Company, Inc.)   
+
+Corrections & Amplifications
+
+Boart Longyear Ltd.'s share price was down from a high of 22.18 Australian dollars (US$20.79) in 2007 to 14 Australian cents on Tuesday. A Corporate Watch brief Wednesday incorrectly said the price was down from a high of A$270 (US$254) in 2007 to 13.5 Australian cents on Tuesday.
+
+(WSJ July 17, 2014)
+
+(END)
+
+HTC
+
+Phone Maker Continues
+
+Shuffling Top Ranks
+
+HTC Corp.'s marketing chief is on sabbatical and its head of engineering has switched positions, as leadership changes continue at the struggling Taiwanese smartphone maker.
+
+Benjamin Ho, who joined the company as chief marketing officer in January 2013, has gone on a sabbatical leave for an undisclosed period, HTC said Tuesday. Mr. Ho confirmed he is on leave but declined to give further details or say whether he had resigned.
+
+Fred Liu, the longtime president of engineering and operations, will be assigned to oversee manufacturing and sales services, said two HTC employees, citing an internal memo the company sent Tuesday. Mr. Liu's original duties will be split between Chief Financial Officer Chialin Chang and Chief Engineering Officer David Chen, the people said. Mr. Liu couldn't be reached for comment.
+
+HTC declined to say whether Mr. Liu and Mr. Ho have resigned. It added that the company continues to invest in talent and recruitment.
+
+-- Aries Poon and Eva Dou
+
+---
+
+J.B. HUNT
+
+Trucking Firm's Earnings
+
+Rise on Revenue Boost
+
+J.B. Hunt Transport Services Inc. said its second-quarter earnings rose 6.5% on revenue growth across most of its business segments.
+
+The trucking sector was expected to rebound in the current quarter after getting hit by severe winter weather this year that led to rail-service disruptions and added costs during the first quarter.
+
+During the latest quarter, revenue at J.B Hunt's intermodal segment, which involves the movement of freight containers by several modes of transportation, continued to improve, up 8.9% to $931 million on load growth of 8% and revenue-per-loads increase of 1%.
+
+"The slowdown in train velocity and the difficult driver recruiting environment has challenged our growth" in the intermodal segment," Chief Executive John N. Roberts III said. However, the company was still able to maintain profitability levels, he added.
+
+Worsening driver supply conditions also are expected to remain a challenge for the company's dedicated contract services segment and its trucking segment, Mr. Roberts said. Meanwhile, planned improvement in the trucking business is ahead of schedule.
+
+J.B. Hunt reported a profit of $93.4 million, or 79 cents a share, up from $87.7 million, or 73 cents a share, a year earlier. Revenue increased 12% to $1.55 billion.
+
+-- Tess Stynes
+
+---
+
+BOART LONGYEAR
+
+Drill Rig Supplier Enters
+
+Restructuring Talks
+
+Boart Longyear Ltd., the world's largest supplier of drill rigs to the mining sector, has begun talks with restructuring specialists to avoid bankruptcy as resources companies' demand for equipment plummets, three people familiar with the matter said.
+
+Utah-based Boart has been seeking to sell assets or raise capital since February, when it appointed Goldman Sachs Group Inc. to carry out a strategic review as a response to widening losses and high debts.
+
+Now, Boart has started to work with a different set of advisers -- the Australian restructuring group at law firm Ashurst LLP, and insolvency practitioners KordaMentha -- that specialize in radical measures to save companies from financial collapse, the people said.
+
+Boart's share price has crashed from a high of 270 Australian dollars (US$254) in 2007 to 13.5 Australian cents Tuesday after a sharp downturn in global mining investment. At the end of last year, only three out of every 10 drilling rigs owned by Boart were in use, as many resources companies opted to conserve cash rather than explore for new deposits of commodities such as iron ore.
+
+-- Daniel Stacey
+
+---
+
+HERSHEY
+
+Chocolatier Raises Prices
+
+On Higher Commodity Costs
+
+Hershey Co. said Tuesday it would increase prices, citing higher commodity, utility and transportation costs.
+
+The company announced an increase in wholesale prices by a weighted average of about 8% across the majority of its U.S., Puerto Rico and export portfolio.
+
+Hershey also said it expects 2014 sales growth around the low end of its 5% to 7% target, and predicts adjusted earnings growth for the year will be near the low end of its 9% to 11% target.
+
+The price increase "will help offset part of the significant increases in Hershey's input costs, including raw materials, packaging, fuel, utilities and transportation, which the company expects to incur in the future," it said.
+
+-- Josh Beckerman
+
+License this article from Dow Jones Reprint Service
+
+Document J000000020140716ea7g0002y
+
+
+
+
+HTC Sets New Shake-Up
+
+By Aries Poon and Eva Dou   
+233 words
+16 July 2014
+The Wall Street Journal Asia
+AWSJ
+17
+English
+Copyright ? 2014 Dow Jones & Company, Inc. All Rights Reserved.   
+
+TAIPEI -- HTC Corp.'s marketing chief is on sabbatical and its head of engineering has switched positions, as leadership changes continue at the struggling Taiwanese smartphone maker.
+
+Benjamin Ho, who joined the company as chief marketing officer in January 2013, has gone on a sabbatical leave for an undisclosed period, HTC said Tuesday. Mr. Ho confirmed he is on leave but declined to say whether he had resigned.
+
+Fred Liu, president of engineering and operations, will be assigned to oversee manufacturing and sales services, said two HTC employees, citing an internal memo the company sent Tuesday. Mr. Liu's original duties will be split between Chief Financial Officer Chialin Chang and Chief Engineering Officer David Chen, the people said. Mr. Liu couldn't be reached for comment.
+
+HTC declined to say whether Mr. Liu and Mr. Ho have resigned.
+
+These are the latest management changes at HTC, which was the top seller of Android smartphones in the U.S. three years ago but has since fallen out of the world's top 10 vendors. In an effort to reverse the slide, Chairwoman Cher Wang took over supervision of marketing from Chief Executive Peter Chou, who refocused on product development. Mr. Chang, the finance chief, received an expanded role, doubling as global head of sales.
+
+License this article from Dow Jones Reprint Service
+
+Document AWSJ000020140715ea7g0001e
+
+
+
+
+Business & Finance
+What's News
+Business & Finance
+
+275 words
+16 July 2014
+The Wall Street Journal Asia
+AWSJ
+2
+English
+Copyright ? 2014 Dow Jones & Company, Inc. All Rights Reserved.   
+
+Japan's private pension funds are turning away from the dismal returns offered on the country's government debt and instead buying higher-yielding assets.
+
+---
+
+China's post-office savings bank is seeking strategic investors ahead of a planned multibillion-dollar initial public offering in the next couple of years.
+
+---
+
+Goldman Sachs surprised Wall Street with a higher quarterly profit, as investment-banking revenue rose and a slump in trading results wasn't as bad as feared.
+
+---
+
+Hedge fund Oasis Management is raising pressure on a Taiwanese chip company to scrap its New York listing, the latest sign of activist pressure in Asia.
+
+--
+
+U.S. and U.K. regulators are nearing a deal with Lloyds to resolve investigations into the bank's alleged attempts to manipulate benchmark interest rates.
+
+---
+
+J.P. Morgan reported second-quarter profit that exceeded investor expectations as trading revenue held up better than the bank had forecast, sending shares higher.
+
+---
+
+Reynolds agreed to acquire Lorillard in a cash-and-stock deal valued at $25 billion.
+
+---
+
+NRG and JX Nippon Oil & Gas of Japan are planning to capture some of the carbon dioxide produced by a coal-burning power plant outside Houston and then pipe the gas to an oil field.
+
+---
+
+China's auto association lowered its projection for sales of motor vehicles to 8.3% growth this year as the domestic economy continues to cool.
+
+---
+
+HTC's marketing chief is on sabbatical and the engineering chief has left his position, as changes continue among the top leadership of the struggling Taiwanese smartphone maker.
+
+License this article from Dow Jones Reprint Service
+
+Document AWSJ000020140715ea7g00013
+
+
+
+
+Asia
+What's News
+
+417 words
+15 July 2014
+10:15
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+
+Business & Finance
+
+Japan's private pension funds are turning away from the dismal returns offered on the country's government debt and instead buying higher-yielding assets.
+
+China's post-office savings bank is seeking strategic investors ahead of a planned multibillion-dollar initial public offering in the next couple of years.
+
+Goldman Sachs surprised Wall Street with a higher quarterly profit, as investment-banking revenue rose and a slump in trading results wasn't as bad as feared.
+
+Hedge fund Oasis Management is raising pressure on a Taiwanese chip company to scrap its New York listing, the latest sign of activist pressure in Asia.
+
+U.S. and U.K. regulators are nearing a deal with Lloyds to resolve investigations into the bank's alleged attempts to manipulate benchmark interest rates.
+
+J.P. Morgan reported second-quarter profit that exceeded investor expectations as trading revenue held up better than the bank had forecast, sending shares higher.
+
+Reynolds agreed to acquire Lorillard in a cash-and-stock deal currently valued at $25 billion.
+
+NRG and JX Nippon Oil & Gas of Japan are planning to capture some of the carbon dioxide produced by a coal-burning power plant outside Houston and then pipe the gas to an oil field.
+
+China's auto association, which is backed by the government, lowered its projection for sales of motor vehicles to 8.3% growth this year as the domestic economy continues to cool.
+
+HTC's marketing chief is on sabbatical and the engineering chief has left his position, as changes continue among the top leadership of the struggling Taiwanese smartphone maker.
+
+Novartis and Google are working on a smart contact lens that monitors blood-sugar levels and corrects vision in a new way.
+
+World-Wide
+
+A subway train derailed in Moscow during the morning rush hour, killing at least 21 people and injuring more than 100, in one of the deadliest incidents ever on the city's metro. It wasn't clear what caused the accident.
+
+A small boat suspected of carrying about 80 Indonesian migrants sank off the coast of southern Malaysia, killing at least two people and leaving more than a dozen others missing.
+
+Iraq's parliament elected a new speaker, in a first step toward forming a government that can take decisive action to resolve the nation's security crisis.
+
+Security forces and protesters clashed at an opposition rally in Cambodia's capital, leaving about 40 people injured. Several opposition lawmakers were detained.
+
+Document WSJO000020140715ea7f005vf
+
+
+
+
+Tech
+HTC Makes Further Leadership Changes Amid Falling Sales; Taiwanese Smartphone Maker's Marketing Head Takes Sabbatical; Engineering Chief Is Reassigned
+
+By Aries Poon And Eva Dou 
+473 words
+15 July 2014
+04:28
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+
+TAIPEI¡XHTC Corp.'s marketing chief is on sabbatical and the engineering chief has left his position, as changes continue among the top leadership of the struggling Taiwanese smartphone maker.
+
+Benjamin Ho, who joined the company as chief marketing officer in January 2013, has gone on a sabbatical leave for an undisclosed period, HTC said Tuesday. Mr. Ho confirmed he is on leave but declined to give further details or say whether he has resigned.
+
+Fred Liu, the longtime president of engineering and operations, will be assigned to oversee manufacturing and sales services, said two HTC employees, citing an internal memo the company sent Tuesday. Mr. Liu's original duties will be split between Chief Financial Officer Chialin Chang and Chief Engineering Officer David Chen, the people said.
+
+Mr. Liu couldn't be reached for comment.
+
+HTC declined to say whether Mr. Liu and Mr. Ho have resigned. It added that the company continues to invest in talent and recruitment.
+
+These are the latest management changes at HTC, which was the top seller of Android smartphones in the U.S. three years ago but has since fallen out of the world's top 10 vendors. In an effort to reverse the slide, Chairwoman Cher Wang took over supervision of marketing and some other areas from Chief Executive Peter Chou, who refocused on product development. Mr. Chang, the finance chief, received an expanded role, doubling as global head of sales.
+
+Cost-cutting and the launch of new phones helped HTC snap three straight quarters of operating losses in the second quarter. But revenue still fell from a year earlier, as the company lost ground to Samsung Electronics Co. of South Korea and low-cost Chinese competitors.
+
+Marketing has long been a sore point for HTC, whose phones have garnered praise from reviewers but failed to make brisk sales. Mr. Ho is the third marketing chief to leave the post in less than two years. He has been under pressure from Ms. Wang, who has said publicly that marketing was a weak spot, and who recruited Samsung's former U.S. marketing head as a consultant this year.
+
+Apart from launching a new high-end flagship smartphone, the HTC One (M8), the company has also introduced smartphones priced as low as US$145 this quarter to grab a bigger share in emerging markets. In a first for the company, HTC started outsourcing production of some of its smartphones this quarter in a bid to contain costs.
+
+Shares in HTC have lost 90% from their peak in 2011.
+
+The company posted an 80% year-to-year rise in net profit for the second quarter, but said revenue fell 8%.
+
+Document WSJO000020140715ea7f004xt
+
+
+ EyeVerify Looks to Replace Passwords on Phones, Tablets With Eyeball Selfies
+WSJ Blogs, 17:43, 11 July 2014, 740 words, By Lizette Chapman, (English)
+Eyeball selfies could soon replace passwords on smartphones and tablets.
+Chinese security giant Qihoo 360 Technology Co. Ltd., Samsung Electronics Co. Ltd., Sprint Corp. and a major U.S. banking institution are backing biometrics startup ...
+Document WCWSJB0020140711ea7b008px
+
+
+
+Tech
+HTC Swings to Profit on New Flagship Phone, Cost Cutting; Revenue Could Struggle With Launch of Next-Generation Phones in Second Half by Rivals Apple, Samsung
+
+By Aries Poon 
+462 words
+3 July 2014
+03:24
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+
+TAIPEI¡XThe launch of new flagship and midrange phones, cost cutting and disposal of assets helped HTC Corp. swing back to a profit in the second quarter, but the Taiwanese smartphone maker is still not out of the woods yet.
+
+HTC on Thursday reported a net profit of 2.26 billion New Taiwan dollars (US$75.6 million) in the second quarter, up 80% from the same quarter in 2013 and better than a net loss NT$1.88 billion in the previous quarter. A survey of 16 analysts by Thomson Reuters forecast the second-quarter net profit would average NT$2.09 billion.
+
+The Taoyuan-based smartphone maker also posted an operating profit of NT$2.43 billion, the first after three consecutive quarters of operating losses.
+
+But revenue barely met the company's guidance, which shows it is still struggling to match sales with Samsung Electronics Co. and low-cost Chinese competitors. In the three months ended June 30, revenue totaled NT$65.06 billion, at the low-end of the guided range NT$65 billion-NT$70 billion.
+
+HTC, the top seller of Android smartphones in the U.S. some three years ago, has fallen out of the world's top 10 vendors. The company is betting that a new high-end flagship smartphone, the HTC One (M8), will help reverse declining sales.
+
+Chief Financial Officer Chialin Chang said in May that HTC had worked to smooth out supply-chain issues, has introduced low-price smartphones in emerging markets and has begun outsourcing some production to cut costs.
+
+HTC has also sold a stake in a Chinese private-equity fund in the last quarter, which the company said it would book a pretax gain of around US$2 million.
+
+But some analysts are still not convinced HTC will soon make a comeback.
+
+As titans Apple Inc. and Samsung Electronics are slated to launch their next-generation smartphones in the second half of the year, CIMB analyst Wanli Wang said HTC's revenue could slip further to around NT$45 billion in each of the third and fourth quarters.
+
+"As features of Android phones are becoming more homogeneous to consumers, their life-cycle is now at best two to three months. I don't see a clear catalyst for HTC in the second half this year," Mr. Wang said.
+
+Goldman Sachs also wrote in a research note Thursday, before the earnings release: "We believe 2014 could be the third consecutive year in which the peak quarter is [the second quarter.]"
+
+Write to Aries Poon at aries.poon@wsj.com
+
+Document WSJO000020140703ea7300463
+
+
+
+
+Tech
+Samsung Security Platform to Be Part of Next Android Version
+
+By Jonathan Cheng 
+576 words
+25 June 2014
+09:30
+The Wall Street Journal Online
+WSJO
+WSJ.com
+English
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved. 
+
+SEOUL¡XSamsung Electronics Co. said its mobile security platform will be integrated into the next version of Google Inc.'s Android operating system, a move it hopes will increase Android's appeal among security-minded businesses and governments, where BlackBerry Ltd. remains a formidable player.
+
+The agreement between Google and Samsung is the latest sign of cooperation between the two technology giants, which dominate global smartphone sales by pairing the South Korean company's hardware and marketing know-how with Google's software platform.
+
+Samsung accounted for 30% of global smartphone shipments in the first quarter of the year, with about four in five smartphones running Android, according to research firm IDC.
+
+The announcement came as Google was kicking off its annual I/O developers conference in San Francisco. Samsung's mobile devices run predominantly on Android, though in recent months the company has also been rolling out devices that use its homegrown operating system, known as Tizen.
+
+The new deal with Google will embed the security platform¡Xcalled Knox¡Xin any devices that ship with the latest update of Android. A Samsung spokesman declined to elaborate on how the business decision will affect Samsung sales and distribution.
+
+By opening up its proprietary security technology to rival Android handset makers like LG Electronics Inc., HTC Corp. and Lenovo Group Ltd., Samsung appears to be betting that it will benefit from its efforts to enhance Android's reputation in the world of enterprise mobile security.
+
+The Samsung spokesman said the collaboration would "benefit all Android users, and hence grow the addressable Android enterprise market for the entire industry."
+
+Samsung says the version of Knox that is being made available to all Android devices will include some key parts of the platform, including a "container" that allows users to house proprietary information in a separate secure space on a device. Other core security features of Knox won't be shared with rival Android vendors, the Samsung spokesman said.
+
+In a statement, Injong Rhee, who runs Samsung's Knox business group, called the deal a "ground breaking partnership with Google," adding that the move was made to promote Android more broadly as "the leading choice for businesses."
+
+Hiroshi Lockheimer, vice president of engineering for Google's Android unit, said Google would bring enterprise-grade security to "all manufacturers participating in the Android ecosystem."
+
+In May, Mr. Rhee said there were 87 million Samsung devices that had been shipped with embedded Knox capabilities.
+
+The move to work closely with Google comes shortly after Samsung said five of its Galaxy-branded smartphones and tablets loaded with Knox received approval from the U.S. Defense Information Systems Agency, which allowed them to be listed as an option for Pentagon officials.
+
+Google and Samsung cooperated to address an alleged security breach identified by Israeli security researchers late last year that they said could allow malicious software in Samsung's Galaxy devices to track emails and record data communications.
+
+In a statement that was published in collaboration with Google in January, Samsung said the alleged security gap was more broadly linked to the Android operating system, whose legitimate functions could be used "in an unintended way" to intercept unencrypted application data.
+
+In January, Google and Samsung signed a broad cross-licensing deal on technology patents, though they didn't specify whether the scope of the deal was limited to Android.
+
+Document WSJO000020140625ea6p006k7
+
+ Page 111 of 112     ? 2014 Factiva, Inc.  All rights reserved.
+
+
+ 
+
+ Page 1     ? 2014 Factiva, Inc.  All rights reserved.
+

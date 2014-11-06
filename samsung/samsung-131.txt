@@ -1,0 +1,18 @@
+<title:>CORRECTED-UPDATE 1-Synaptics hit by weak demand for touchscreen chips for smartphones (Oct 23)
+<Date:>24 October 2014
+<Content:>
+(In Oct. 23 story, corrects to change references to IC (interface controller) from fingerprint touch ID. Removes background paragraph on touch ID)
+By Lehar Maan
+Oct 23 (Reuters) - Touchscreen chip maker Synaptics Inc reported lower-than-expected first-quarter revenue and profit, hurt by weak demand from smartphone makers, sending its shares down 13 percent in extended trading.
+The company, whose chips are used in Samsung Electronics Co Ltd's devices such as Galaxy S5 smartphones and Galaxy Note 3 phablets, also forecast current quarter revenue largely below Wall Street's expectation.
+"We think its weakness is likely in touch IC (interface controller) revenue," Feltl & Company analyst Jeffrey Schreiner said.
+"Given that certain Samsung designs that have come out recently (Note 4, Galaxy Alpha, Note Edge) are not using Synaptics touch IC products, we think that would probably be a real driver of the revenue decline."
+The company competes with STMicroelectronics NC, Atmel Corp and Cypress Semiconductor Corp to get its touchscreen products in smartphones.
+Synaptics did not say how much IC products contributed to sales in the quarter ended Sept. 30. But it said those sales were classified according to the technology's use in either a mobile phone or a personal computer.
+Revenue from its PC business rose 38 percent, powering most of the 27 percent rise in total sales. Revenue from its mobile phone business rose 23 percent, accounting for 71 percent of total sales of $282.7 million.
+Still, total sales fell short of the average analyst estimate of $288.4 million, according to Thomson Reuters I/B/E/S.
+The company's net income fell about 24 percent. On an adjusted basis, it earned $1.04 per share. Analysts had expected a profit of $1.19 per share.
+"Our performance in the first quarter reflected weaker than expected customer demand trends in the mobile market, offset by greater than anticipated demand in the PC market," Chief Executive Rick Bergman said in a earnings statement.
+Synaptics forecast current-quarter revenue of $415-$450 million. The mid-point of the forecast is $432.5 million, which is less than the $444.8 million Wall Street has estimated.
+The stock was down 12.6 percent at $64.05 in extended trading. Up to Thursday's close Synaptics' stock has gained 41.4 percent this year, more than double the 13.2 percent rise in the Philadelphia semiconductor index. (Editing by Maju Samuel and Savio D'Souza)
+Released: 2014-10-27T16:28:54.000Z

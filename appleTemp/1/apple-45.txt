@@ -1,0 +1,25 @@
+<title:> Credit Minute - Lost a Job While Buying a House
+<Date:>Summary: Gerri Detweiler of Credit.com has tips for what to do if you lose your job while you are buying a home.
+<Content:>
+(The author is a Reuters Breakingviews columnist. The opinions expressed are his own.)
+By Reynolds Holding
+NEW YORK, Oct 27 (Reuters Breakingviews) - Google is making America's trade arbiter look patently daft. The search giant and other technology companies say an International Trade Commission ban on imports of infringing items in digital form could disrupt the internet. Websites and cloud computing firms could also become even easier prey for patent trolls.
+The ITC's remit is to block foreign "articles" that violate intellectual property rights. A recent case, though, raised the novel question of whether the term "articles" includes digital models imported electronically to help make teeth-straightening devices. The commission said in April that it does - despite decades of defining "articles" to mean only tangible goods.
+The context makes the ruling understandable up to a point. Music, software, data for 3D printers and many other bits of information move over the internet. If that creates loopholes that skirt patents, just as clever legal structures lacking economic substance help avoid tax, say, there's an argument for making the workarounds illegal.
+But that's not the ITC's call. As Google, eBay and others stress in a legal brief filed under the auspices of the Internet Association, allowing a minor U.S. agency to regulate internet traffic could seriously impede the global movement of data. It would also encourage so-called trolls, which own patents but make nothing, to file lawsuits demanding that the ITC block websites, file-sharing services and a host of other online businesses.
+The commission is already a favorite forum for trolls, which account for about a quarter of its cases. And no wonder: The ITC decides disputes in half the time taken by federal courts and has more leeway to issue orders quashing alleged infringers. The likes of Apple and Samsung even use it as a battleground for their smartphone wars. The agency, created in 1916 to support American trade policy, holds almost a fifth of U.S. patent trials.
+Thorny issues like how to protect intellectual property from online infringement are for Congress to decide - or at least courts steeped in precedent. A federal appeals court is about to weigh in on the teeth-straightening case. To paraphrase Google's corporate motto, it's the perfect opportunity to remind the ITC not to be evil. 
+              
+              
+              
+              
+CONTEXT NEWS
+              
+- Google and dozens of other internet companies on Oct. 16 filed briefs urging the U.S. Court of Appeals for the Federal Circuit to reverse an International Trade Commission ruling that would ban imports of digital data used to create patent-infringing products.
+- The ITC ruled in April that electronically transmitted information qualifies as an "article" that can be banned under the U.S. Tariff Act. The ruling came in a lawsuit filed by Align Technology against ClearCorrect Operating for allegedly infringing patents on teeth-straightening devices. ClearCorrect generated digital models in Pakistan and then transmitted them to Texas so they could be transformed into actual braces.
+- Oral arguments before the appeals court have not yet been scheduled.
+- Legal brief: http://bit.ly/1wuTrE8
+RELATED COLUMN
+iWar and Peace
+- For previous columns by the author, Reuters customers can click on (On Twitterhttps://twitter.com/holdingren. Editing by Richard Beales and Martin Langfield) 
+Released: 2014-10-27T20:43:16.000Z

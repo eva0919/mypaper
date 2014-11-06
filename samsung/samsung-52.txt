@@ -1,0 +1,24 @@
+<title:>UPDATE 2-Chipmaker ARM's upbeat message fails to allay concerns
+<Date:>21 October 2014
+<Content:>
+* Q3 revenue up 12 pct to $320.2 mln, short of market forecast
+* Predicts strengthening royalty growth after missing Q3 target
+* Shares give up early gains (Adds CFO comment, analyst, context, shares)
+By Paul Sandle
+LONDON, Oct 21 (Reuters) - British chipmaker ARM Holdings' predictions of improving smartphone demand and strengthening royalty growth met with a cool stock market response after it fell short of third-quarter revenue expectations on Tuesday.
+The company that provides the technology that powers the iPhone 6 pointed to Apple's booming sales, but investors will take more convincing over long-term prospects in the face of slowing demand for high-end smartphones from the likes of Samsung Electronics.
+The strongest part of the market is in cheaper mobile handsets from Chinese manufacturers, containing older ARM technology that commands lower royalty rates.
+ARM's shares, which had fallen 14 percent since the launch of the iPhone 6 on Sept. 9, rose as much as 4 percent in early trading but by 1013 GMT were down 4.7 percent at 811 pence.
+Analysts at Liberum said they remained cautious on the stock, expecting royalty growth to be weaker than current market expectations.
+Shorter-term prospects were buoyed, however, by news from Apple late on Monday of a better than expected 16 percent jump in sales of the iPhone, which uses ARM's latest 64-bit technology.
+ARM recognises royalty revenue a quarter in arrears, so the iPhone numbers will not be seen in its results until the next quarter and the first quarter of 2015.
+Chief Financial Officer Tim Score said strong iPhone sales were "helpful" in underpinning the short-term outlook for royalty revenues, supported by data from ARM's other chipmaking partners.
+"We certainly have seen an uptick in mobile," he told reporters, adding that he expected group dollar revenues for the fourth quarter to be in line with market expectations of about $350 million.
+INVENTORY BACKLOG
+But weakness in processor royalties, which it receives on every chip shipped by its partners, remains a concern as the consumer electronics industry works through a backlog of inventory amid the faltering economic recovery in many markets.
+Score said that acceleration in processor royalty growth would continue as more of ARM's latest technology is deployed in consumer products. Royalties grew 11 percent in the third quarter, he said, and would increase in the mid-teens in the final quarter, with growth continuing into 2015.
+While an improvement on the third quarter, the predicted recovery is still short of the 19 percent or so royalty growth it had forecast at the start of the year.
+The third-quarter royalty income contributed to a miss on top-line revenue measured in dollars, which was up 12 percent to $320.2 million against market expectations of $326.3 million.
+Favorable currency movements, however, meant revenue in pounds was in line with expectations while cost control helped to lift pretax profit 9 percent to 101.2 million pounds ($163.4 million), broadly in line with expectations. (1 US dollar = 0.6192 British pound)
+(Editing by David Goodman)
+Released: 2014-10-24T10:39:41.000Z

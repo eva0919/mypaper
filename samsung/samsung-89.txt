@@ -1,0 +1,22 @@
+<title:> Intel Gains New Foothold in U.S. Smartphones
+<Date:>Intel hasn¡¦t been very successful at getting its chips into smartphones. Now a Taiwanese ally has given the processor powerhouse something to crow about.
+<Content:>
+(Adds details, analyst and executive comments, background; updates shares)
+By Abhirup Roy
+Oct 14 (Reuters) - Skyworks Solutions Inc, a supplier of radio frequency chips to companies such as Apple Inc , estimated fourth-quarter adjusted profit and revenue above its forecast, sending its shares up as much as 12.5 percent.
+Skyworks, whose chips connect smartphones and tablets to a telecom network, has been benefiting from higher demand from handset makers, particularly Apple.
+Apple sold 10 million of its latest iPhones in the first weekend after its new, larger phone models went on sale in 10 countries on Sept. 19. The new devices will be available in more than 115 countries by the end of the year.
+"You have got a combination of good units and apparently good sell-through for the iPhone 6 and 6 Plus and ... you also have a content increase story there," Oppenheimer & Co analyst Rick Schafer told Reuters.
+The market for RF chips is expanding as telecom operators upgrade to 4G networks from 3G. 4G-equipped smartphones require more RF chips than 3G-equipped ones.
+"What we say for Skyworks is that they are in the early stages of what we call an RF boom cycle," Schafer said.
+He said that the iPhone 6 and iPhone 6 Plus contained 20-25 percent more Skyworks' components than did the iPhone 5S.
+Skyworks, whose clients include Samsung Electronics , estimated an adjusted profit of $1.08 per share and revenue of $718 million for the quarter ended September - it had earlier forecast earnings of $1 per share and revenue of $680 million.
+The company had reported an adjusted profit of 64 cents per share and revenue of $477 million, a year earlier.
+Analysts on average had expected a fourth-quarter profit of $1.01 per share and revenue of $679.4 million, according to Thomson Reuters I/B/E/S.
+Skyworks' upbeat estimates come at a time when investors are concerned about a broad-based downturn in the semiconductor industry due to lower demand for electronic devices.
+A number of U.S. chipmakers have in recent weeks suggested demand for chips from various industries, including automobiles and network equipment, was falling across regions, particularly Asia and Europe.
+Skyworks is also benefiting from the growth in Internet-connected devices - commonly called the "Internet of Things" - which allows machines on wired and wireless networks to interact.
+"These multi-year technology trends are setting the stage for us to outperform the broader semiconductor industry in the December quarter and for the foreseeable future," Chief Executive David Aldrich said in a statement on Tuesday.
+Skyworks is expected to report its fourth-quarter results on Nov. 6.
+The company's shares were up 10.4 percent at $50.05 in noon trading on the Nasdaq. Shares of other RF chip suppliers to Apple such as RF Micro Devices Inc, NXP Semiconductors NV and Avago Technologies Ltd also rose. (Additional reporting by Sai Sachin R in Bangalore; Editing by Joyjeet Das and Kirti Pandey)
+Released: 2014-10-17T16:28:31.000Z

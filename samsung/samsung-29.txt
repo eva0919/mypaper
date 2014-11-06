@@ -1,0 +1,12 @@
+<title:> SolidFire Raises $82 Million for Pooled Storage on Flash Memory
+<Date:>Storage based on flash memory, which consumes less power while reading data much faster than traditional hard disk drives, is one of the more promising new technologies for handling enormous amounts of data.
+<Content:>
+SAN FRANCISCO, Oct 7 (Reuters) - SolidFire, a flash-storage company, said it has raised $82 million in new funding, a sign of the increasing appeal of technology that helps companies store data in new ways.
+The cash will help the Boulder, Colorado-based company expand, with profitability expected in the next "couple of years," Chief Executive Dave Wright said in an interview.
+SolidFire and rivals such as Pure Storage are taking on companies such as EMC and NetApp that built their reputations on disk-based storage. The newcomers rely on "flash," or chip-based storage, which generally works faster than older technologies.
+Flash helps products integrate well with aspects of the cloud, in which data is accessed via the Internet rather than from on-site hardware. Companies are racing to adopt cloud technology because of its flexibility and lower costs compared with older methods.
+"Our ability to leverage flash at cloud scale, that ultimately is what sets us up for long-term success," Wright said.
+Greenspring Associates, an Owings Mill, Maryland-based fund, led the financing round with Silicon Valley Bank and an unnamed sovereign wealth fund. Existing investors NEA, Novak Biddle, Samsung Ventures and Valhalla Partners participated.
+Earlier this year, competitor Pure Storage raised $225 million. Flash-based Nimble Storage and Violin Memory held initial public offerings last year.
+(Reporting by Sarah McBride; Editing by Leslie Adler) 
+Released: 2014-10-7T14:00:00.000Z

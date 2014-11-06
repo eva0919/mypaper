@@ -1,0 +1,37 @@
+<title:> Microsoft plans to launch smartwatch within weeks - Forbes
+<Date:>NEW YORK (Reuters) - Microsoft Corp. is preparing to launch a smartwatch within the next few weeks that will passively track a user's heart rate and work across different mobile platforms, Forbes reported on Sunday. The wearable gadget's ...
+<Content:>
+Morris Chang, the 83-year-old chairman of Taiwan Semiconductor Manufacturing Co., has made bold bets in the past three decades running the world・s biggest contract chip maker.
+He founded Taiwan-based TSMC in 1987 when outsourcing production wasn・t a proven business model in the semiconductor industry. Many chip companies at the time, from Intel Corp. to Texas Instruments Inc., invested billions of dollars in their own chip factories. TSMC・s ：foundry； model of manufacturing chips based on others・ designs, however, challenged this conventional business model.
+The outsourcing model soon attracted followers including Santa Clara, Calif.-based GlobalFoundries and China・s Semiconductor Manufacturing International Co.
+TSMC now is the largest contract manufacturer of computing chips in the world. It has hundreds of clients including Qualcomm Inc., ARM Holdings PLC and Apple Inc. Last year, its revenue totaled almost $20 billion, more than four times what Samsung Electronics Co., the world・s biggest memory-chip maker by revenue, made from contract manufacturing.
+But Samsung is coming on strong, and Mr. Chang says TSMC will lose some orders to Samsung next year, when the South Korean chip maker launches its next-generation chip technology. The race will remain heated and is becoming more expensive.
+Mr. Chang is also preparing to hand over the reins to his two co-chief executives, CC Wei and Mark Liu.
+In an interview at the company・s headquarters in Hsinchu City, south of Taipei, Mr. Chang talked about the challenges TSMC faces. Edited excerpts follow:
+Keeping Up
+WSJ: At 83, you are one of the rare executives in the tech industry still running a company. How do you keep up with the fast-changing technology, products and market demand?
+MR. CHANG: Certainly I don・t make decisions alone. I have experts who advise on technical issues. I have a special team, called the business-development group. They basically tell us and the R&D team what products customers want. Their input is very important to my strategy.
+We also have a very realistic market-forecasting group. Now, I still get weekly reports on markets, competition and customers from our vice presidents. Every weekend I spend hours reading reports from them. I・m a very good listener; I get more out of a conversation than most people do.
+WSJ: What is the biggest challenge you・re faced with now?
+MR. CHANG: Over the next three to five years, we will have to prolong Moore・s law. [Gordon Moore, a co-founder of Intel Corp., said in 1965 that the number of transistors on a chip doubles approximately every two years.] We know how to sustain this for the next five years, but after that I don・t know what to do at this point.
+WSJ: TSMC has the largest market share among contract chip makers and managed to lift revenue to new highs each year since 2010. What・s key to maintaining competitiveness?
+MR. CHANG: You have to be a leader and galvanize resources to take maximum advantage of a changing external environment. If you・re behind by one year, two years, that・s not good.
+We・ve pretty much tripled our budget on research and development and have more than doubled our staff over the past five years. Our annual capital spending between 2002 and 2009 stayed at $2.5 billion; since then, it has risen to $10 billion. We try to utilize our equipment fully all the time, which also explains our profitability.
+Our share of the global foundry market is expected to rise from 45% in 2012 to 55% in 2015.
+Internet of Things
+WSJ: How do you think the semiconductor industry will evolve in three to five years?
+MR. CHANG: The Internet of Things is all about connectivity. It・s our mission to provide the capacity and technology to all of those so-called IoT devices, including sensors. I imagine semiconductors will be more pervasive than cars. I have no doubt that people will make a good living out of it.
+WSJ: How do you retain staff when companies in China and South Korea for example are offering more competitive salaries?
+MR. CHANG: Our staff turnover is quite low; it・s less than 5%. That certainly helps build the organization and a stable relationship with customers. We have a pretty good profit-sharing scheme. Taiwan still enjoys a good supply of hardworking, young engineers. We・ve actually hired a few experienced people from outside Taiwan as well to work on a more advanced chip-manufacturing process.
+WSJ: Will you consider looking for a successor outside TSMC?
+MR. CHANG: I don・t think that will work. People inside TSMC wouldn't like that idea.
+WSJ: How do you see the competition?
+MR. CHANG: Competition is always heated in technological innovation and will remain so at least over the next three to five years.
+Earlier this year, we were honest with our customers and told them our schedule to ramp up on 16-nanometer [16 billionths of a meter] technology will be later than Samsung・s comparable 14-nanometer technology. They appreciated our honesty and made plans accordingly.
+So in 2015, Samsung・s market share in the latest production process will be higher than ours, but we will regain market leadership in that segment in 2016. Feedback from customers is good, and that・s why I・m so confident.
+China Rising
+WSJ: Where will the next round of competition come from?
+MR. CHANG: China. The country has the manpower, and it is becoming more talented. Many of them have studied abroad, especially in the U.S. As in the semiconductor industry, the government is heavily subsidizing the sector, and its competitiveness is improving very quickly. Electronics brands like Huawei and Lenovo are also growing as smartphones and tablets are becoming more common, while Internet companies such as Alibaba and Tencent are expanding at a very fast pace.
+WSJ: So, how can CEOs prepare for that competition?
+MR. CHANG: Technology and patents are a company・s biggest and most important assets, and we should protect them. Selling them for short-term gains is very unwise. Intellectual property is a long-term competitive advantage.
+Mr. Poon is a reporter for The Wall Street Journal in Taipei. He can be reached at aries.poon@wsj.com. 

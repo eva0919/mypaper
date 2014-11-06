@@ -1,0 +1,36 @@
+<title:>By Te-Ping Chen, Fiona Law and Newley Purnell   
+<Date:>10 October 2014
+<Content:>
+HONG KONG -- A proliferation of social media tools is creating new opportunities -- and complications -- for pro-democracy protesters in Hong Kong, helping them draw more activists to the streets while also making it tougher to keep them on message.
+During unrest in places like Egypt, Iran and Tunisia in the past few years, social-media stalwarts Facebook and Twitter have played central roles, and in some cases were the only major social-media options available.
+The expansion of social media tools, especially messaging apps, has given Hong Kong's protesters an edge in reaching supporters en masse. Smartphones are abundant in the relatively affluent city, which, unlike mainland China, has speedy, uncensored Internet.
+But it has also added to the cacophony of noise and mixed messages that have fragmented Hong Kong's pro-democracy movement from the get-go, at times making it harder for protest leaders to manage their followers.
+Hong Kong's protesters have relied heavily on WhatsApp, online message boards and encrypted messaging services that offer more security, such as Telegram Messenger. One inventor is offering an app designed to give protesters an early warning if police start to move on them.
+With the number of social media users approaching one billion in Asia, according to research firm Webcertain Group -- nearly five times the number of North America -- the region has become a crucial testing ground for such new technologies, and a driving force behind the growth of messaging services.
+Last Friday, protest leader Benny Tai called on followers to pull out of the gritty shopping district of Mong Kok, where antiprotester violence was breaking out. But some activists quickly turned to social-messaging services to rally friends, despite the call to stay away. Placid Cheung, 22, a finance worker, says he used a WhatsApp group to get people out to Mong Kok to support the students. The night proved to be a moral victory for the protesters, showing they could stay in the streets even when under attack.
+"We don't pay a lot of attention" to protest leaders, he said. "Even if they say, 'don't go,' we would still go."
+Protesters are tapping an array of social-media platforms to spread information, including some that were either not around or not as widely used a few years ago.
+One advantage of services like WhatsApp, protesters say, is that users can exit groups and delete message histories if they are apprehended by police, making it harder to trace contacts and communications.
+Other protesters are using Telegram, a Berlin-based messaging app launched last year. The company says it uses encryption services to keep its users' data private and secure, and runs the service as a noncommercial endeavor.
+Then there are services such as FireChat, a free mobile-messaging app launched in March that allows users to communicate in the absence of Internet or cellular connections. It saw a surge of downloads when the Hong Kong protests first gained momentum and leaders worried about phone signals getting jammed.
+Some protesters are using multiple services at once to reach the largest-possible audience, posting photos more or less at the same time on Facebook, Instagram and Weibo, a Chinese microblogging service.
+Demonstrators are deploying "a complex landscape of communication tools" now, said Mart van de Ven, a Dutch data scientist who lives in a tenement near the Mong Kok protest site.
+Mr. van de Ven said he has built an app for the protesters called Rally the Brollies, using a common British term for umbrellas -- a symbol of the pro-democracy movement after protesters used them to block pepper spray.
+The app provides a digital alarm system intended to alert crowds if police move in on demonstrations. If that occurs, the alarm will be triggered through a Twitter hashtag sent out by student leaders. Those who registered will hear their smartphone alarms go off at full volume and get a text message.
+"We're hoping it won't be necessary to use it," Mr. van de Ven said.
+To be sure, protest leaders are also using more-traditional services such as Facebook. Scholarism, a group of younger students, has more than 300,000 followers on its Facebook page, and a handful of volunteers dedicated to keeping it updated with relevant news and messages from leaders.
+Among them: William Liu, an 18-year-old freshman at Hong Kong Baptist University who works from midnight until 5 a.m., posting information from a Samsung laptop.
+At midnight on Wednesday, Mr. Liu reposted articles from Apple Daily, the city's influential pro-democracy tabloid.
+On a typical night, he refreshes the pages every 10 to 15 minutes, checking other pro-democracy outlets that carry heavy weight with protesters, including SocRec and Passion Times, news outlets run by activist media groups that help rally the movement's foot soldiers.
+In the early days of the protests, when police clashed with demonstrators, leaders sent out urgent messages on Facebook calling on activists to join them in the streets.
+A few days later, they counseled protesters to think of the long game. "Don't assume this will end too soon," Scholarism's 17-year-old leader, Joshua Wong, said on his Facebook page. Protesters should "take turns in holding on to the streets."
+The Hong Kong Federation of Students, meanwhile, has 10 people who are loosely charged with keeping its Facebook page fresh.
+But many rank-and-file protesters either don't follow the Facebook pages because they have other preferred options -- or they don't trust them.
+"I don't rely much on social media like Facebook because sometimes people post things that are fake," said Maggie Chan, a volunteer at a supply station in one protest area. "Sometimes the pages can be hacked. So I mainly rely on what my friends tell me."
+Protest leaders have tried to minimize such issues by using services like Telegram to talk among themselves. But they are less-effective for communicating to the public at large.
+On Wednesday, Scholarism tried a different, decidedly old-school idea: It sent a team of 50 people armed with megaphones and leaflets to different districts across Hong Kong, hoping to "spread the message and mobilize people," said spokesman Oscar Lai.
+"We want to explain to them why we are doing this Occupy thing and why we are blocking the traffic."
+At the protest sites, some volunteers use yellow Motorola walkie-talkies donated by supporters, instead of smartphones. The walkie-talkies work great when too many people are using their smartphones, slowing Internet speeds, one volunteer said.
+---
+Andrew Browne, Jenny Hsu, and Isabella Steger contributed to this article.
+License this article from Dow Jones Reprint Service

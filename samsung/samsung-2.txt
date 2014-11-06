@@ -1,0 +1,38 @@
+<title:>By Gerry Shih, Noel Randewich and Matthew Miller   
+<Date:>13 October 2014
+<Content:>
+BEIJING/SAN FRANCISCO, Oct 14 (Reuters) - Intel's investment of up to $1.5 billion in two fast-growing Chinese mobile chipmakers has effectively aligned the U.S. giant with a third party - a Beijing government intent on producing a viable domestic challenger to the likes of Qualcomm and Samsung.
+For more than a decade, China has targeted semiconductor design and manufacture as a major focus of its industrial policy. Activity has picked up markedly over the past year with a spate of cross-border mergers and cooperation deals.
+"We've entered an inflection point where government policy has started to work - it's started to help the local semiconductor industry," said Nomura analyst Leping Huang.
+The deal hashed out by Intel Corp Chief Executive Brian Krzanich over 24 hours in Beijing in early August extends Intel's beachhead in China, the biggest battleground in the smartphone industry, and boosts the company's years-long effort to catch up to leading mobile chipmaker Qualcomm Inc.
+A key visit during the trip was to Yang Xueshan, the deputy chief of China's Ministry of Industry and Information Technology (MIIT), who gave his blessing for the deal.
+The agreement, unveiled on Sept. 26, gives Intel a 20 percent stake in Spreadtrum Communications and RDA Microelectronics through shares in a Tsinghua University holding company, with the aim of jointly developing and marketing smartphone chips.
+China is the world's largest consumer and manufacturer of smartphones yet relies heavily on imported chips - particularly the processors that power the latest devices - made by San Diego-based Qualcomm, South Korea's Samsung Electronics Co , or MediaTek Inc of Taiwan.
+China's ramped-up activity also arrives on the heels of revelations about the U.S. surveillance programme PRISM, which has prompted Beijing to undertake a slew of actions to enhance the security of its information technology industry.
+For Intel, the world's leading manufacturer of chips for personal computers, the Tsinghua deal offers an additional path into the world's biggest chip market after it was slow to recognize the mobile revolution and design new processors for smartphones and tablets.
+Intel spokesman John Mandeville declined to comment.
+NATIONAL TARGETS
+The China Semiconductor Industry Association estimates that revenue from China's chip industry reached 251 billion yuan($40.98 billion) in 2013, while domestic demand for chips amounted to 917 billion yuan, representing more than half of global semiconductor consumption.
+Deng Zhonghan, a member of the Chinese Academy of Engineering and National People's Congress, said in March that China's $210 billion worth of annual chip imports exceeds the value of the country's entire yearly petroleum imports.
+In June, the State Council offered the country's most comprehensive guidelines for the development of the semiconductor industry, outlining specific revenue targets for 2015 and 2020, with chip revenue set to grow at a better-than 20 percent annual clip, to reach 350 billion yuan by 2020.
+An important part of Beijing's effort, analysts and industry insiders say, was consolidation of Spreadtrum and RDA, two companies formerly trading independently on Nasdaq.
+The two companies were acquired a year ago for $1.7 billion and $900 million respectively by Tsinghua Unigroup, government-affiliated private equity group controlled by Tsinghua University in Beijing.
+As part of its recent deal, which is expected to close early next year, Intel and Unigroup will form a new holding company that contains Spreadtrum and RDA.
+Beijing wants the Unigroup companies to become competitive with Taiwan's MediaTek within five years and overtake Qualcomm within 10 years, according to a person familiar with Unigroup.
+TRUE PARTNERS
+Since taking over in 2013, Krzanich has aggressively positioned Intel to catch up with Qualcomm, the leading mobile chipset maker.
+A central part of that strategy is China, where consumers are snapping up low-end smartphones made with low-cost chips from local suppliers like Spreadtrum and MediaTek.
+Intel started investing in local operations 20 years ago, and presently operates factories across the country for manufacturing, assembling and testing microprocessors. Intel also has research and development operations in Beijing, Shanghai and Shenzhen.
+In May, Intel said it reached an agreement with Fuzhou-based Rockchip to produce chips for tablets based on Intel's architecture.
+"With China, what they want is for you to be a true partner," Krzanich told reporters in September. "We go in and we partner, we build factories, we build R&D and we help local companies."
+Intel's deal with Tsinghua Unigroup comes three months after Qualcomm agreed to partner with Shanghai-based Semiconductor Manufacturing International Corporation (SMIC), China's largest foundry, to produce some of Qualcomm's smartphone chips.
+As part of the agreement, Qualcomm will help SMIC implement its first high-end 28 nanometre manufacturing technology.
+It also coincides with a year-long Chinese anti-monopoly investigation into Qualcomm. Critics say the probe unfairly targets foreign companies in order to help domestic companies, which Chinese authorities flatly deny.
+Krzanich first discussed ways to collaborate with the Chinese firms during a visit to Tsinghua University in April, where he and Intel China head Yang Xu met Tsinghua Holding's Xu Jinhong, Unigroup's Zhou Weiguo, Spreadtrum founder Li Liyou, who is also a Tsinghua University alumnus.
+He made a second trip to Beijing, the whirlwind visit in August, after which the deal fell into place.
+"Tsinghua University is an important driving force for the development of national science and technology, and Tsinghua Holdings is a key part of that effort," Tsinghua Holdings Chief Executive Xu Jinhong told Reuters by email.
+Xu characterized the Intel investment as "a new model for cooperation between Chinese and U.S. companies in the chip industry."
+Analysts say that Intel's deal will give the Santa Clara-based company a moderate boost by gaining a partner with strong relationships with local phone manufacturers.
+The deal should also give Intel enough protection of its intellectual property through licensing arrangements and other conditions, said Scott Kennedy, director of the Research Centre for Chinese Politics and Business at Indiana University.
+"There's potential benefits for everyone," Kennedy said. (1 US dollar = 6.1250 Chinese yuan) (Additional reporting by Michael Martina and Beijing Newsroom; Editing by Alex Richardson and Emily Kaiser) 
+Released: 2014-10-13T22:00:00.000Z

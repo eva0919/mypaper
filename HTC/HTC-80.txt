@@ -1,0 +1,19 @@
+<title:>By Christopher M. Matthews   
+<Date:>8 November 2013
+<Content:>
+The ability of the Federal Trade Commission to police cybersecurity practices at U.S. companies drew fierce debate Thursday, with lawyers for hotelier Wyndham Worldwide Corp. arguing to a federal judge in New Jersey that the agency has no such authority.
+Lawyers for Wyndham said Congress had never empowered the FTC to regulate the way companies keep and protect their data. Wyndham's lawyers also argued that the FTC had never published rules governing cybersecurity that would instruct companies on how to stay out of trouble.
+"I'm not disputing that data security is an important issue," said Eugene Assaf, a lawyer for Wyndham. "My quarrel is that the FTC is actually not the agency that's supposed to be doing it."
+As a result, Mr. Assaf argued, the judge should dismiss an FTC lawsuit brought in June of last year against Wyndham and three of its subsidiaries. The suit demands that Wyndham beef up protections and "redress injury" to consumers caused by a data breach that began in 2008.
+Lawyers for the FTC countered that they were fully empowered under part of the Federal Trade Commission Act, a broadly written law first enacted in 1914 that authorizes the commission to act against a company that harms consumers by taking unfair or deceptive action. The deception in this case, according to the FTC, is that consumers' data would be protected on Wyndham's networks.
+Congress has yet to give any Washington agency explicit authority to regulate corporate cybersecurity in general or order companies to beef up the security of their systems. So, the FTC has stepped into the breach, citing its long-standing power to protect consumers.
+The agency has brought more than a dozen cybersecurity enforcement actions against companies including Twitter Inc. and a U.S. unit of mobile-device maker HTC Corp., on the premise that the companies engaged in unfair or deceptive practices because they didn't do enough to protect consumers.
+The recent actions all resulted in out-of-court settlements. As a result, no federal judge has yet weighed in on the scope of the FTC's powers.
+The suit alleges that several information-security problems at Wyndham hotels, including wrongly configured software, weak passwords and insecure computer servers, made consumers' payment-card numbers more vulnerable to hacking. The agency said card numbers were sent to an Internet domain registered in Russia between 2008 and 2010, and that hacking led to millions of dollars in fraudulent charges.
+During the argument Thursday, Mr. Assaf claimed that by 2003, the agency was overstepping its authority and was filing administrative actions against companies for allegedly not properly protecting consumer data.
+But Kevin Moriarty, a lawyer for the FTC, said that if Congress didn't believe such regulation was in the FTC's scope of powers, they would have said so by now.
+Mr. Assaf also argued that the lawsuit should be dismissed because the FTC hasn't issued any regulations on cybersecurity protections, making it impossible for companies to know if they are in the wrong.
+Mr. Moriarty conceded the agency hadn't published rules, but said it would have been improper to do so. Small companies might not be able to comply with strict rules, Mr. Moriarty said, so instead the agency has promulgated general guidance calling on companies to enact "reasonable" protections.
+---
+Brent Kendall contributed to this article.
+License this article from Dow Jones Reprint Service

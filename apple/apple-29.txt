@@ -1,0 +1,22 @@
+<title:>REFILE--Former Google exec's app aims to tackle chronic illness
+<Date:>28 October 2014
+<Content:>
+(Removes EMBARGOED from headline)
+By Christina Farr
+SAN FRANCISCO, Oct 28 (Reuters) - Having difficulty managing chronic disease? Now there's an app for that.
+Vida, a new startup founded by Google Inc's former commerce chief, aims to help patients get healthy, reduce stress levels and lose weight through online "health coaches."
+Many mobile health apps focus on fitness. Vida, started by Stephanie Tilenius, a former Google and eBay executive, claims to help tackle chronic diseases, which account for more than three-quarters of U.S. health-care spending, according to the Centers for Disease Control and Prevention.
+"People don't know how to manage these conditions," Tilenius said in an interview with Reuters.
+Tilenius said she started the company after witnessing her father struggling with his health, while existing coaching tools were too expensive, she added.
+For $15 a week, patients can ask questions, and receive medication reminders and health advice from Vida's team of coaches including nurses, medical assistants, nutritionists and doctors. To ensure high-quality care, Tilenius said the company only accepted and trained 1 percent of people who applied to be a coach, who are paid on an hourly basis.
+Doctors and other caregivers can request access to the app to monitor progress over time.
+Tilenius has made previous forays into healthcare. She co-founded an online pharmacy startup called PlanetRx in the 1990s but did not return to the health sector until recently.
+The "timing is right," she said.
+Apple Inc, Google Inc and other Silicon Valley tech giants are currently exploring opportunities in the relatively untapped field of healthcare.
+Capital funding for digital health systems in the first half of 2014 reached $2.3 billion, more than the total for all of the previous year, according to a study by Rock Health, which provides startups in the sector with funding and support.
+Vida, which is available on Apple's iOS 8 operating system, is integrated with the iPhone maker's HealthKit service, so it can pull in patient-generated data from a variety of wearables and mobile medical devices, such as glucometers. An app for Google Android phones will be released in the coming months.
+Vida is also developing a database of clinical trials and disease prevention programs for users. Those include Dr. Mark Hyman's The Blood Sugar Soluton, a treatment program for diabetics and those at risk of contracting the disease.
+The startup is now partnering with major U.S. hospitals, like the MD Anderson Cancer Center and Duke University Hospital, which are using the app to deliver remote care to chronically ill patients. She said the company is testing its product with employers, but declined to provide details as those pilots are ongoing.
+"A lot of different vendors have been trying to solve this problem, but Vida can drive behavior change," said Jennifer Fonstad of Aspect Ventures, an early investor in the startup. Fonstad said employers are "highly motivated" to adopt tools that can help workers stay healthy and productive.
+Vida recently raised $5 million in startup funding from venture firms including Khosla Ventures, Aspect Ventures and Signia Venture Partners, as well as individuals like Yahoo co-founder Jerry Yang. (Reporting By Christina Farr; Editing by Alan Crosby) 
+Released: 2014-10-28T18:02:20.000Z

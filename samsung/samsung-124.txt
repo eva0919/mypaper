@@ -1,0 +1,812 @@
+<title:> Samsung scales down LED lighting as outlook dims
+<Date:>By Se Young Lee SEOUL (Reuters) - Samsung Electronics Co Ltd said on Monday that it will cease its light emitting diode (LED) lighting business outside of South Korea, scaling back what was identified as a key growth business just four ...
+<Content:>
+GRADE        Dates Vol      Price            Seller/Buyer
+    Oct 27
+    QATAR MARINE Dec            OSP -10-15 c/b  
+    
+    Oct 21
+    MURBAN       Dec            OSP ard +15 c/b
+    DAS          Dec            OSP ard +10 c/b
+    
+    Oct 17
+    UPPER ZAKUM  Dec            OSP +80c-$1      Exxon/
+    BANOCO AM    Dec            parity to OSP    
+    
+    Oct 15
+    AL-SHAHEEN   Dec            Dubai -$0.7-$1   
+    
+    Oct 9
+    BAYU UNDAN   Nov   650KB    DTD -$3.1-$3.3   Inpex/Trafigura
+    
+    Sept 25
+    BASRA LT     Nov  2000KB    OSP +1-9 c/b     Petronas/major
+    QATAR MARINE Nov 4*500KB    Dubai -$2-$2.2   Occidental, Unipec, Itochu/
+       
+    Sept 23
+    UPPER ZAKUM  Nov   500KB    OSP -$1.2        
+    QATAR MARINE Nov   500KB                     Petro-diamond/India
+    UPPER ZAKUM  Nov   500KB    OSP -$1          Shell/Vitol
+    
+    Sept 19
+    UPPER ZAKUM  Nov   500KB                     Exxon/Petro-diamond
+    QATAR MARINE Nov   500KB                     Petro-diamond/Exxon
+    
+    Sept 18
+    DAS          Nov           OSP -50-55 c/b    /Japan, India
+    LABUAN       Nov   300KB   DTD ard +$6       Petronas/Chevron
+    
+    Sept 16
+    AL-SHAHEEN   Oct 5*600KB Dubai -$2-$2.5 Maersk,Unipec/SK,Tonen,Chevron
+    MURBAN       Nov   500KB   OSP -45-50 c/b    Exxon/Glencore
+    MURBAN       Nov   500KB   OSP -45-50 c/b    Itochu/Brightoil
+    UPPER ZAKUM  Nov 2*500KB   OSP -50 c/b
+    
+    Sept 12
+    MURBAN       Nov           Dubai ard +$2     PDS/Thai Oil
+    
+    Sept 8
+    VITYAZ       Nov  730KB    Dubai ard +$2     Sakhalin Energy/
+    
+    Sept 1
+    NWS COND     Oct  650KB    DTD -$2.2         Woodside/
+    ENFIELD      Oct  550KB    DTD +$7.1         Woodside/China
+    
+    Aug 28
+    MURBAN       Oct           Dubai ard +$3     /PTT, Thai Oil
+    VITYAZ       Oct 2*730KB   Dubai +$1.3-$1.8  Sakhalin Energy/
+    
+    Aug 27
+    NWS COND     Oct  650KB    DTD ard -$2.9     Shell/
+    NWS COND     Oct  650KB    DTD ard -$2.8     Chevron/
+    
+    Aug 22
+    DAS          Oct  500KB   OSP -80 c/b        Total/Glencore
+    
+    Aug 20
+    QATAR MARINE Oct  500KB   OSP -80 c/b        Mitsui/Shell
+    UPPER ZAKUM  Oct  500KB   OSP -70 c/b        
+   
+    Aug 19
+    DAS          Oct  500KB   OSP -$1            Total/Glencore
+    
+    Aug 14
+    AL-SHAHEEN   Oct  4*600KB Dubai -$0.3-$1.5  Maersk, Unipec/
+    
+    July 25
+    BANOCO AM    Sept  500KB   OSP close to -$1
+    DAS          Sept  500KB   OSP -10 c/b        
+    TAPIS        Sept 2*300KB  DTD $3-$4         /major, trader
+    
+    July 24
+    LABUAN       Sept          DTD ard +$6       /PTT
+    QATAR MARINE Sept 2*500KB  OSP -30-40 c/b    Occidental/majors
+    QATAR MARINE Sept 2*500KB  OSP -30-40 c/b    Unipec/major, end user
+    
+    July 21
+    MURBAN       Sept  500KB  OSP -10-20 c/b     /Japan
+    DAS          Sept  500KB  OSP -20 c/b        Total/Japan
+    QATAR MARINE Sept  500KB  Dubai +20-30 c/b   Occidental/Japan
+    
+    July 18
+    VITYAZ      1H Sep 2*730KB  Dubai +$4.5-$5.2 Sakhalin Energy/
+    
+    July 17
+    MURBAN       Sept  500KB   OSP -25 c/b       trader/Thailand
+    DFC          Sept 3*500KB Dubai +$3.2-$3.5 Shell,Mitsui,Tasweeq/Korea,Japan
+    
+    July 15
+    AL-SHAHEEN   Sept  4*600KB Dubai -80 c/b to +25 c/b Maersk, Unipec/
+    NWS COND     Aug/Sep 650KB DTD -$3-$3.20     Shell/
+    
+    July 14
+    SOKOL        Sep           Dubai ard +$7     SODECO/Japan
+    
+    July 8
+    PYRENEES     Aug  550KB    DTD +$6.5-$7      Apache/
+    
+    July 2
+    BASRA LT     Aug  2000KB   OSP -1-9 c/b      Chinese/Vitol
+    
+    June 26
+    NWS COND     Aug  650KB    DTD -$3-$3.2      Chevron/Samsung Total
+    BAYU UNDAN   Aug  650KB    DTD ard -$4.5     Conoco/Exxon
+    KUTUBU       Aug 2*600KB   DTD +20-25 c/b Oil Search,Exxon/Caltex Australia
+    
+    June 25
+    NWS COND     Aug 2*650KB                     BHP/Samsung Total
+    
+    June 24
+    KIKEH        Aug           DTD above +$6
+    LABUAN       Aug           DTD ard +$6.9     Petronas/Exxon
+    
+    June 23
+    MURBAN       Aug  2*500KB  OSP +20-30 c/b    /Thailand
+    PYRENEES     Aug   550KB   DTD ard +$7       /China
+    
+    June 20
+    MURBAN       Aug           OSP +15-20 c/b    /Japan
+    
+    June 18
+    QATAR LAND   Aug 2*500KB   OSP +3 c/b        /Japan
+    QATAR MARINE Aug           OSP -10-19 c/b    /Japan
+    DAS BLEND    Aug           OSP +12 c/b       /Japan
+    
+    June 17
+    DAS BLEND    Aug           OSP +13-15 c/b    /Japan
+    
+    June 16
+    MURBAN       Aug           OSP +15-19 c/b    /Japan
+    DAS BLEND    Aug           OSP +18-19 c/b    /Japan
+    QATAR MARINE Aug           OSP -9-10 c/b     /Japan
+    AL-SHAHEEN   Aug 4*600KB   Dubai +$0.7-$1    Maersk, Unipec/
+    
+    June 12
+    UPPER ZAKUM  Aug 2*500KB   OSP +10 c/b       Shell/Vitol, Trafigura
+    
+    June 5
+    NWS COND     July 650KB    DTD ard -$2.5     Shell/Samsung Total
+    
+    May 29
+    ESPO         July 730KB    Dubai +$4.7       Lukoil/Shell
+    ESPO         July 730KB    Dubai +$4.7       Gazprom Neft/
+    
+    May 27
+    Cossack      July 650KB    DTD +$0.5-$0.6    BHP Billiton/
+   
+    May 23
+    MURBAN       July          OSP +27 c/b       major/Japan
+    
+    May 21
+    DFC          July 2*500KB Dubai +$3          Tasweeq/Japan, Korea
+    LSC          July 500KB   Dubai +$1.6-$1.8   Tasweeq/Japan
+    
+    May 20
+    DAS BLEND    July          OSP +10-20 c/b    /Reliance
+    DAS BLEND    July          OSP +30-40 c/b    /Japan
+    QATAR MARINE July          OSP +20-30 c/b    /Japan
+    
+    May 15
+    MURBAN       July          OSP +30 c/b       /Fuji Oil
+    MURBAN       July          OSP +33 c/b    
+    MURBAN       July          OSP +35-40 c/b    
+    BANOCO AM    July          OSP +40 c/b       /Fuji Oil
+    UPPER ZAKUM  July          OSP +15 c/b   
+    
+    May 14
+    AL-SHAHEEN   July 4*600KB  Dubai +$1.3-$1.7  Maersk, Unipec/
+    
+    May 8
+    NWS COND     June  650KB   DTD -$2.3-$2.5    BP/Samsung Total
+    
+    May 2
+    KITAN        June  550KB   DTD -$2.3-$2.5    Eni/South Korea 
+    BAYU UNDAN   June  650KB   DTD -$3.5-$4      Conoco/Exxon
+      
+    April 29
+    LOWER ZAKUM  June          OSP -97 c/b       Total/India
+    NWS COND     June  650KB                     BHP/Samsung Total
+    
+    April 28     
+    COSSACK      June  650KB   DTD parity to +$0.5 Chevron/trading firm
+       
+    April 25
+    BASRA LT     June 2000KB   OSP -10-20 c/b    /Shell
+    BASRA LT     June 2000KB   OSP -10-20 c/b    /HMEL
+    BASRA LT     June 2000KB                     /Reliance
+    MURBAN       June          OSP -1-9 c/b      /India
+    
+    April 23
+    LOWER ZAKUM  June          OSP -10-20 c/b
+    UMM SHAIF    June          OSP -10-20 c/b
+    
+    April 22
+    QATAR MARINE June          OSP +5-10 c/b    
+    BANOCO AM    June          OSP parity to +5 c/b 
+    
+    April 16
+    BANOCO AM    June          OSP -5-10 c/b     /Japan
+    QATAR MARINE June          OSP parity to +5 c/b  /Japan
+    LOWER ZAKUM  June          OSP parity to +5-6 c/b  /Japan
+    UMM SHAIF    June          OSP parity to +15-19 c/b /Japan
+             
+    April 15
+    AL-SHAHEEN   June  600KB   Dubai ard +$1.1   Maersk/Japan
+    AL-SHAHEEN   June  600KB   Dubai ard +$1.1   Unipec/Exxon
+    OMAN         June  500KB   Dubai ard +$1     
+    UPPER ZAKUM  June          OSP +10-20 c/b
+    
+    April 10
+    MURBAN       June         OSP ard +15 c/b    BP/Vitol   
+    NWS          May  650KB   DTD ard -$3        Petro Diamond/
+    BAYU UNDAN   May  650KB   DTD -$4-$5         ConocoPhillips/
+    
+    April 7
+    BASRA LT     May 2*2000KB OSP -10-20 c/b     /India
+    
+    April 4
+    NWS COND     May  650KB   DTD -$3-$3.3       Woodside/Samsung Total
+    
+    March 27
+    SOKOL        June 700KB   Dubai +$6.8        Marubeni/Korea
+    
+    March 26
+    BANOCO AM    May          OSP -80 c/b        Chinese firm/oil major
+    
+    March 25
+    QATAR MARINE May          OSP -80-85 c/b     
+    COSSACK      May  600KB   DTD ard +$1        Mitsui/
+    
+    March 24
+    MURBAN       May          OSP -20-30 c/b     
+    QATAR LAND   May  500KB   OSP -70-80 c/b     Cosmo/Reliance
+    
+    March 21
+    NWS COND     May  650KB   DTD ard -$2.50     Shell/
+    
+    March 20
+    MURBAN       May          OSP -50-60 c/b     /Thailand
+    UMM SHAIF    May 2*500KB  OSP -50-70 c/b     /Cosmo
+    UPPER ZAKUM  May          OSP -50-70 c/b    
+    QATAR MARINE May          Dubai related      /India
+    QATAR MARINE May          OSP -80 c/b        /JX
+    
+    March 18
+    MURBAN       May          OSP -50 c/b        /Japan
+    BANOCO AM    May          OSP -52-53 c/b     /Japan
+    
+    March 13
+    AL-SHAHEEN   May          Dubai +$0.9-$1     Maersk,Marubeni/Unipec,Reliance
+    
+    March 12
+    KUTUBU       April 2*600KB  N/A              Oil Search/Caltex Australia
+    
+    March 5
+    PYRENEES     April        DTD +$6.4-$6.9           /China
+    NWS COND     April  650KB DTD -$1.5-$1.7     BHP/
+    
+    March 3
+    QATAR MARINE April        Dubai +20-25 c/b or OSP -$2 /Reliance
+    
+    Feb 27
+    BASRA LIGHT  April        OSP +10-30 c/b           /Essar
+    
+    Feb 24
+    MURBAN       April        OSP -$1
+    
+    Feb 21
+    QATAR MARINE April        OSP -$1            /Japan
+    
+    Feb 20
+    MURBAN       April        OSP -50 c/b        /Thailand
+    LOWER ZAKUM  April        OSP -50-60 c/b
+    UMM SHAIF    April        OSP -50 c/b
+    UPPER ZAKUM  April        OSP -70 c/b
+    QATAR MARINE April        OSP -80 c/b        /Chevron
+    BANOCO AM    April        small discount to OSP BP/Statoil
+    
+    Feb 18
+    BANOCO AM    April        OSP +20 c/b        /Japan
+    
+    Feb 17
+    AL-SHAHEEN   April 2*600KB Dubai +$1-$1.2    Maersk/
+    MURBAN       April        OSP -35 c/b        /Japan
+    
+    Jan 24
+    UMM SHAIF    March  500KB OSP -75 c/b        Totsa/Shell
+    
+    Jan 23
+    UMM SHAIF    March  500KB OSP -65 c/b        Totsa/Idemitsu
+    
+    Jan 22
+    PYRENEES     March 2*550KB DTD ard +$7       BHP, Apache/China
+    
+    Jan 21
+    QATAR MARINE March        OSP -50-55 c/b
+    UPPER ZAKUM  March  500KB OSP -25 c/b        Chevron/Trafigura
+    
+    Jan 20
+    BANOCO AM    March        OSP +15 c/b
+    MURBAN       March        OSP +15-20 c/b
+    
+    Jan 17
+    AL-SHAHEEN   March 4*600KB Dubai +$1-$1.1    Maersk, Unipec/
+    NWS COND     Feb  650KB   DTD -$0.9-$1       Mitsui/Chinaoil
+    NWS COND     Feb  650KB   DTD -$1.5          Shell/
+    NWS COND     Feb  650KB   DTD -$0.9-1.2      Chevron/
+    
+    Jan 15
+    MURBAN       March        OSP +1-9 c/b       /Thailand, S. Korea
+    
+    Jan 13
+    BASRA LT     Feb          OSP +75 c/b        Petronas/major
+    
+    Dec 24
+    TAPIS        Feb  400KB   DTD above +$6.5    Petronas/end user
+    BUNGA KEKWA  Feb  350KB   DTD ard +$5        Petronas/trader
+    
+    Dec 18
+    NWS COND     Feb  650KB   DTD -$2-2.2        BHP, Chevron/Samsung Total
+    BANOCO AM    Feb          parity to OSP      /Japan
+    MURBAN       Feb          OSP +10 c/b
+    
+    Dec 17
+    BAYU UNDAN   Feb  650KB   DTD ard -$2.5      Conoco/Exxon
+    MURBAN       Feb          OSP +1-9 c/b       /Singapore, Japan
+    UPPER ZAKUM  Feb          OSP -60-70 c/b     Glencore/Zhenhua
+    QATAR MARINE Feb          OSP -60-65 c/b     Occidental/JX, Cosmo
+    
+    Dec 16
+    MURBAN       Feb          OSP ard -10 c/b    /China
+    AL-SHAHEEN   Feb          Dubai ard +$1.9    Maersk/
+    PYRENEES     Feb   550KB  DTD ard +$7        /Unipec
+    NILE BLEND   Jan  1000KB  ICP ard parity     Petronas-ONGC/China
+    KITAN        Jan   550KB  DTD ard -$0.5      Petronas/
+    
+    Dec 13
+    VITYAZ       Feb   730KB  Dubai ard +$5.5    Sakhalin/Japan
+    
+    Dec 6
+    VITYAZ       Feb  2*730KB Dubai ard +$4.5    Sakhalin/GS Caltex, SK
+    
+    Nov 20
+    BANOCO AM    Jan  2*500KB OSP -50 c/b        
+    BASRA LT     Jan  2000KB  OSP +8 c/b         ENOC/HMEL
+    
+    Nov 20
+    BANOCO AM    Jan          OSP -30 c/b        China/Japan
+     
+    Nov 19
+    COSSACK      Dec   600KB  DTD below +$1      Petronas/Petrobras
+    QATAR MARINE Jan          OSP +40-45 c/b          /JX, Cosmo
+    MURBAN       Jan          OSP +50-60 c/b
+    
+    Nov 18
+    AL-SHAHEEN   Jan          Dubai +$2-$2.6     Maersk, Marubeni/
+    
+    Nov 15
+    MURBAN       Jan          OSP +50 c/b
+    UPPER ZAKUM  Jan          OSP +80 c/b        Exxon/
+    
+    Nov 14
+    MURBAN       Jan          OSP +10-15 c/b     Exxon/Japan
+    UPPER ZAKUM  Jan          OSP +50 c/b        Exxon/Unipec
+    
+    Nov 13
+    NWS COND     Jan 650KB    DTD ard -$2        BHP/Samsung Total
+    NWS COND     Dec 650KB    DTD -$0.5 C&F      Woodside/Thailand
+    Nov 6
+    NWS COND     Dec 2*650KB  DTD -$1.5-$2       Chevron, Mitsui/
+                                                   Samsung Total   
+    
+    Oct 30
+    BAYU UNDAN   Dec   650KB  DTD ard -$2.5      Conoco/Unipec
+    
+    Oct 28
+    UPPER ZAKUM  Dec      small premium to OSP   Exxon/
+    BANOCO AM    Dec          OSP -30 c/b              /Cosmo
+    MURBAN       Dec          parity to OSP
+    
+    Oct 25
+    MURBAN       Dec          OSP -50 c/b     
+     
+    Oct 23
+    BANOCO AM    Dec          OSP -50 c/b        Statoil/
+    UPPER ZAKUM  Dec          OSP -30 c/b        Exxon/JX
+    MURBAN       Dec          OSP -80 c/b
+    NILE BLEND   Nov   600KB  ICP Minas -$2.66   ONGC/MRPL   
+    
+    Oct 22
+    UPPER ZAKUM  Dec          OSP -70 c/b
+    QATAR MARINE Dec          OSP -50 c/b              /JX
+            
+    Oct 21
+    MURBAN       Dec          OSP -$1-$1.1       
+    QATAR MARINE Dec          OSP -50 c/bbl      Occidental, Unipec/
+    
+    Oct 18
+    MURBAN       Dec          OSP -85c/b         Total/Thai
+    UPPER ZAKUM  Dec          OSP -50c/b 
+             
+    Oct 16
+    AL-SHAHEEN   Dec          Dubai +$1.3 +$2    Maersk/Exxon, TonnenGeneral
+                                                        Reliance, PTT
+      
+    Sept 27
+    UPPER ZAKUM  Nov   500KB  OSP +5 c/b         Shell/Phibro
+    UPPER ZAKUM  Nov   500KB  OSP +15 c/b        Shell/Vitol
+    KITAN        Nov   550KB  DTD +$1            Eni/Exxon
+    BAYU UNDAN   Nov 2*650KB  DTD -$1-$2         Conoco/Unipec, SK
+    
+    Sept 25
+    NWS COND     Nov   650KB  DTD flat to -$1    Mitsui/Petral
+    OMAN         Nov  1000KB                     /TonenGeneral
+    VITYAZ       Nov 4*730KB  Dubai +$6.5-$6.9   Sakhalin/
+    
+    Sept 24
+    NWS COND     Nov   650KB  DTD flat to -$1    Woodside/Petral
+    SENIPAH COND Nov          ICP more than +$3  Total/Exxon
+    
+    Sept 23
+    MURBAN       Nov            OSP +90 c/b
+    BASRA LT     Nov            OSP +30 c/b
+    
+    Sept 20
+    KUTUBU       Nov  600KB  DTD more than +$3   Oil Search/Caltex Australia
+    COSSACK      Nov  600KB                      Woodside/
+    VAN GOGH     Nov  400KB  DTD more than $4    Inpex/Thailand
+    
+    Sept 18
+    AL-SHAHEEN   Nov 2*600KB    Dubai +$4.2, +$3-$4 Maersk/
+    
+    Sept 13
+    MURBAN       Nov            OSP +$1.7-$1.97        
+    QATAR MARINE Nov            OSP +$1.2-$1.3
+    BANOCO AM    Nov            OSP +40 c/b      Sinochem, Statoil/
+    
+    Sept 12
+    MURBAN       Nov            OSP +$1.6        
+    UPPER ZAKUM  Nov            OSP +$1.6 
+    
+    Sept 11
+    UPPER ZAKUM  Nov            OSP above +80 c/b 
+    QATAR MARINE Nov            OSP above +80 c/b
+    DFC          Nov            Dubai ard +$4.2  Vitol/
+    
+    Sept 10
+    MURBAN       Nov            OSP +$1.2        Total/
+    QATAR MARINE Nov            OSP above +50 c/b
+    
+    Sept 9
+    MURBAN       Nov            OSP more than +$1 Exxon/
+    QATAR MARINE Nov            OSP +40-50 c/b
+    
+    Aug 26
+    BASRA        Oct    2000KB  OSP +30 c/b            /Reliance  
+    
+    Aug 23
+    PENARA       Oct 250-300KB DTD just above +$6 Petronas/major
+    
+    Aug 22
+    CENDOR       Oct          DTD ard +$10        Petronas/BP
+    KIKEH        Oct          DTD above +$8       Murphy/major
+    COSSACK      Oct   600KB  DTD +$1-$1.5        BHP/Caltex
+    KUTUBU       Oct   600KB  DTD more than +$2   Exxon/BP
+    
+    Aug 21
+    NWS COND     Oct   650KB  DTD -$3.5-$4       BHP/Samsung Total
+    ENFIELD      Oct   550KB  DTD ard +$8        Woodside/PTT
+    
+    Aug 19
+    UPPER ZAKUM  Oct          OSP +60-70 c/b
+    
+    Aug 16
+    MURBAN       Oct          OSP +$1.20-$1.30
+    VITYAZ       Oct 2*730KB  Dubai +$6.2-$6.3   Sakhalin/
+    
+    Aug 15
+    MURBAN       Oct          OSP +$1.20
+    LOWER ZAKUM  Oct          OSP above +$1
+    UMM SHAIF    Oct          OSP above +$1
+    QATAR MARINE Oct          OSP +50-60 c/b
+    UPPER ZAKUM  Oct          OSP above +60 c/b
+    AL-SHAHEEN   Oct          Dubai +$1.8-$1.9   Maersk/
+    
+    Aug 14
+    NWS COND     Oct  2*650KB DTD -$3.5-$4       Woodside,Shell/Exxon
+    NWS COND     Oct  650KB                      Chevron/Samsung Total
+    MURBAN       Oct          OSP above +70 c/b
+    QATAR MARINE Oct          OSP +45 c/b
+    UPPER ZAKUM  Oct          OSP above +40 c/b
+   
+    Aug 13
+    MURBAN       Oct          OSP above +60 c/b
+    QATAR MARINE Oct          OSP above +20 c/b
+    
+    Aug 6
+    ESPO         Sep  730KB   Dubai +$5.5        Lukoil/S. Korea
+    
+    July 30
+    PYRENEES     Sep  550KB   DTD ard +$6        BHP/China
+    
+    July 29
+    BUNGA KEKWA  Sep                             Petronas/Mercuria
+    
+    July 25
+    PYRENEES     Sep  550KB   DTD ard +$6        BHP/China
+    
+    July 24
+    TAPIS        Sep  300KB   DTD +$6.5-$7       Petronas/Malaysia
+    
+    July 23
+    BASRA LT     Sep 2000KB    OSP +20-25 c/b    /Reliance
+    
+    July 19
+    KUTUBU       Sep  600KB    DTD +$1.5-$2      Oil Search/Caltex
+    
+    July 18
+    BAYU UNDAN   Sep  650KB                      Inpex/Shell
+    
+    July 17
+    MURBAN       Sep           OSP above +60 c/b
+    UMM SHAIF    Sep           OSP above +70 c/b
+    LOWER ZAKUM  Sep           OSP above +70 c/b
+    QATAR MARINE Sep           OSP +10-20 c/b
+    BANOCO AM    Sep           OSP -10-13 c/b
+    
+    July 16
+    QATAR MARINE Sep           OSP +20-30 c/b
+    MURBAN       Sep           OSP above +40 c/b   
+    
+    July 13
+    MURBAN       Sep           OSP +30-40 c/b   
+    
+    July 12
+    SOKOL        Sep  700KB    Dubai +$7.2       SODECO/JX Nippon
+    UPPER ZAKUM  Sep           OSP ard +10 c/b  
+    
+    July 11
+    MURBAN       Sep            OSP +8-12 c/b    majors/North Asian refiners
+    NWS COND     Sep  650KB     DTD -$4.5-$5     BHP/Samsung Total
+    
+    July 5
+    NWS COND     Sep  650KB                      Chevron/Samsung Total
+    
+    July 4
+    SENIPAH COND Jun          DTD parity C&F     Trafigura/Dragon Aromatics
+    
+    July 3
+    PYRENEES     Aug  550KB   DTD below +$6      BHP/PTT
+    
+    July 2
+    PENARA       Aug          DTD ard +$2.5      Petronas/Japan
+    CENDOR       Aug          DTD +$6.5-$7       Petronas/major
+    KIKEH        Aug  600KB   DTD +$6.2-$6.3     /Shell
+    BUNGA ORKID  Aug  300KB   DTD +$4.5-$5       trader/Thailand
+    TGT          Aug  310KB                      Kernel Oil/major
+    
+    June 27
+    LABUAN       Aug  600KB   DTD ard +$6.5      Petronas/major
+    BUNGA KEKWA  Aug  450KB                      Trafigura/BP
+    
+    June 26
+    BASRAH LT    Aug          OSP small discount       /Reliance
+    MURBAN       Aug          OSP -70 c/b              /Japanese, Korea
+    NWS COND     Aug  650KB   DTD ard -$5.5      Shell/Samsung Total
+    NWS COND     Aug  650KB   DTD ard -$5.5      BP/trader
+    PLUTO+LAMINARIA Aug 600KB                    Woodside/China
+    CENDOR       Aug                             Petronas/BP
+    
+    June 25
+    BAYU UNDAN   Aug 2*650KB  DTD ard -$6        Conoco/Samsung Total, CPC
+    COSSACK      Aug  600KB   DTD small premium  Mitsui/BP
+    COSSACK      Aug  600KB                      Chevron/Australia
+    KUTUBU       Aug 2*600KB  DTD premium        Oil Search/Caltex Australia
+   
+    June 24
+    UMM SHAIF    Aug          OSP -40 c/b              /India
+    LOWER ZAKUM  Aug          OSP -40 c/b              /India
+    VITYAZ       Sep  730KB   Dubai below +$3.8  Sakhalin/China
+    NWS COND     Aug  650KB   DTD -$5-$5.5       Mitsui/China
+    NWS COND     Aug  650KB   DTD -$5-$5.5       Woodside/Exxon
+    KIKEH        Aug  600KB   DTD +$6.2-$6.3     Petronas/BP
+    TAPIS        Aug  300KB   DTD ard +$6        Petronas/Malaysia
+    
+    June 21
+    MURBAN       Aug          OSP -30 c/b              /Thai 
+          
+    June 20
+    QATAR MARINE Aug          OSP -5     c/b          /majors,
+                                                      /Japanese, S Korea   
+    QATAR MARINE Aug          OSP -10/20 c/b          /majors,
+                                                      /Japanese, S Korea
+    
+    June 19
+    KITAN        Aug  550KB   DTD -$4-$5         Inpex/
+        
+    June 18
+    VAN GOGH     July 400KB                      Inpex/India
+    
+    June 17
+    AL-SHAHEEN   Aug          Dubai +$1.5        Maersk/TonenGeneral
+    AL-SHAHEEN   Aug          Dubai +$1.5        Maersk/Chevron
+    
+    June 14
+    NWS COND     Aug  650KB   DTD -$5.5-$6       BHP/Petrobras
+    
+    May 30
+    MURBAN       July         OSP ard -80 c/b    /Mitsui
+    KIKEH        July 600KB   DTD +$6-$6.5       Petronas/major
+    KIKEH        July 600KB   DTD +$6-$6.5       /Shell
+    LABUAN       July         DTD ard +$6.5      /BP
+    BACH HO      June                            Vitol/Petrobras
+    
+    May 21
+    KITAN        July 550KB   DTD -$4.5-$5       Eni/SK Energy
+    STYBARROW    July 500KB   DTD ard +$8.5      BHP/China
+    
+    May 20
+    QATAR MARINE July           OSP - 30 c/b            /Japanese
+    LABUAN       July 300KB   DTD just below $7  Petronas/Mercuria
+    VITYAZ       July 3*730KB Dubai ard +$4.5    Sakhalin/N. Asia
+    
+    May 17
+    NWS COND     July  650KB   DTD -$6.2-6.4     Chevron/Samsung Total
+    BAYU UNDAN   July 2*650KB  DTD ard -$7       Conoco/Petrobras, Exxon
+    
+    May 16
+    NWS COND     July  650KB   DTD -$6.2-6.4     BHP/
+    AL-SHAHEEN   July          Dubai + $1.4-1.5  Maersk/TonenGeneral
+    
+    May 15
+    PYRENEES     July  550KB  DTD ard +$7.10     Apache/Chinaoil
+    
+    May 14
+    PYRENEES     July  550KB  DTD just above +$7 BHP/Phillips66
+    KITAN        June  550KB  DTD -$5-$6         Eni/SK Energy
+    
+    May 6
+    COSSACK      June  600KB    parity to DTD    BP/Interoil
+    KIKEH        June 2*600KB small premium to OSP Murphy/Chevron, Phillips66
+    KIKEH        June  600KB    DTD +$7-$7.5     Petronas/Petrobras
+    TAPIS        June 1-2*300KB DTD +$5.5-$6     Petronas/
+    LABUAN       June           DTD +$6.5-$7     Petronas/
+    
+    April 26
+    BAYU UNDAN   June   650KB   DTD -$6.5-$6.9   Conoco/
+    
+    April 25
+    NWS COND     June  650KB   DTD -$6-$6.3      Chevron/
+    NWS COND     June  650KB   DTD -$6.5         BHP/
+    
+    April 19
+    VITYAZ       July 3*730KB Dubai ard +$4.7  Sakhalin/China, S. Korea
+    
+    April 18
+    MURBAN       Jun   500KB  OSP -41-42 c/b     major/Mitsui
+    BANOCO AM    Jun          OSP -30 c/b        
+    
+    April 17
+    PYRENEES     Jun   550KB  DTD just above +$6.5 BHP/Chinaoil
+    QATAR MARINE Jun          OSP - 30 c/b            /Majors, Japanese
+    
+    April 16
+    MURBAN       Jun          OSP-10-30 c/b        Exxon/Japanese, Thai
+    UPPER ZAKUM  Jun          Around OSP
+    
+    April 15
+    AL-SHAHEEN  Jun    600KB  Dubai + $1.5         Maersk/PTT
+    AL-SHAHEEN  Jun    600KB  Dubai + $1.4         Maersk/Chevron
+    
+    April 12
+    ESPO         May   730KB  Dubai ard +$2.5    PDS/Chevron
+    ESPO         May   730KB  Dubai +$2.5-$2.9   Brightoil/
+    
+    April 5
+    SOKOL        June 700KB  Dubai ard +$8       SODECO/Chinaoil
+    
+    April 2
+    KIKEH        MAY  600KB                      Petronas/Arcadia
+    TGT          MAY                             Vitol/Shell
+    
+    March 25
+    KIKEH        MAY  2*600KB  DTD +$7.5-$8      Murphy/Shell, Phillips66
+    
+    March 22
+    VITYAZ       JUN 2*730KB   Dubai ard +$5.5   Sakhalin/China
+    
+    March 21
+    NWS COND     MAY   650KB   DTD ard -$4.5     Shell/
+    SENIPAH COND MAY   200KB   ICP +$1.5-$2      Total/Exxon
+    VAN GOGH     MAY   400KB                     Inpex/China
+    
+    March 19
+    MURBAN       MAY          OSP + 6-8 c/b
+    QATAR MARINE MAY          OSP - 20-40 c/b          /Japanese
+    LOWER ZAKUM  MAY          OSP + 5-9 c/b      
+    STYBARROW    MAY   550KB  DTD +$7-$8.2       Woodside/Chinaoil
+    
+    March 18
+    PYRENEES     MAY   550KB  DTD ard +$7        BHP/Chinaoil
+    
+    March 14
+    AL-SHAHEEN   MAY          Dubai+$1.5-$1.6    Maersk/
+    AL-SHAHEEN   MAY 2*600KB  Dubai+$1.5-$1.6    Marubeni/
+    NWS COND     MAY   650KB   DTD -$4.5-$5      Chevron/Samsung
+    
+    March 13
+    PLUTO/LAMINARIA MAY 950KB  DTD -$3.55-$4     Woodside/
+    BAYU UNDAN   APR                             Petronas/
+    
+    March 12
+    VAN GOGH     APR   400KB                     Glencore/N. Asia
+    
+    Mar 7
+    VITYAZ       MAY  4*730KB  Dubai ard +$5.85 Sakhalin/China,S. Korea,Gazprom
+    PYRENEES     APR   550KB   DTD +$6.5-$7      BHP/Chinaoil
+    PYRENEES     APR   550KB   DTD +$6.5-$7      Apache/Unipec
+    ENFIELD      MAR   550KB   DTD +$7.9         Woodside/
+    KITAN        APR   550KB                     Eni/Arcadia
+    BAYU UNDAN   APR   650KB   DTD ard -$5       Conoco/Petronas
+       
+    Feb 21
+    MURBAN       APR           OSP+ 8-9 c/b      Total/Thai
+    KIKEH        APR  2*600KB  DTD +$7.5-$8      Murphy/Shell, Concord
+    NWS COND     APR   650KB   DTD ard -$4.3     BHP/
+    NWS COND     APR   650KB   DTD -$4-$4.5      Mitsui/SK Energy
+    
+    Feb 20
+    VAN GOGH     APR   400KB   DTD ard +$4       Inpex/Glencore
+    SENIPAH COND APR   250KB   ICP ard +$3       Total/SK Energy
+    MURBAN       APR           OSP -10 c/b
+    QATAR MARINE APR           OSP - 50-60 c/b   Occidental/major       
+    
+    Feb 19
+    UPPER ZAKUM  APR           OSP - 50 c/b     METS/Japanese refiner
+    
+    Feb 18
+    NWS COND     APR   650KB   DTD -$4-$4.5      Woodside/Samsung Total
+    
+    Feb 14
+    AL-SHAHEEN   APR  2*600KB Dubai + $1.1-$1.2  Marubeni/        
+    AL-SHAHEEN   APR  2*600KB Dubai + $1.1-$1.2  Maersk/Exxon, Japanese
+    
+    Jan 31
+    LABUAN       Mar  600KB   DTD +$7-$7.5       Brightoil/major
+    STYBARROW    Mar  550KB   DTD +$7.5          BHP/BP
+    
+    Jan 29
+    BASRA LT     Mar          OSP + small premium Japan/
+    RANG DONG    Mar  200KB   DTD near +$5       Petrosummit/Japan
+    
+    Jan 28
+    BASRA LT     Mar          OSP + 8 c/b           /Reliance 
+    QATAR MARINE Mar          OSP - 70-75 c/b    Mitsui/
+    BUNGA KEKWA  Mar  400KB   DTD +$5.5-$6       Petronas/Thailand
+    TAPIS        Mar  300KB   DTD ard +$5.5      Petronas/Petrobras
+    
+    Jan 23
+    LABUAN       Mar  600KB   DTD +$7-$7.9       Petronas/major
+    CENDOR       Mar  250KB   DTD +$7.5-$8       Petronas/
+    
+    Jan 22
+    UPPER ZAKUM  Mar          OSP - 40 c/b       Japan/
+    LOWER ZAKUM  Mar          OSP -25-30 c/b           /SPC
+    BAYU UNDAN   Mar 2*650KB  DTD ard -$5        Conoco/Petrobras,NA
+    KUTUBU       Mar  300KB   DTD +$1-$1.2       Exxon/
+    
+    Jan 21
+    MURBAN       Mar          OSP - 25 c/b       Majors/Japanese
+    BANOCO AM    Mar          OSP + 5-15         Statoil, Chinese/Japan
+    KIKEH        Mar 4*600KB  DTD +$7-$7.5       Murphy,Petronas/majors
+    TAPIS        Mar  300KB   DTD ard +$5        Petronas/ 
+    NWSC         Mar  650KB   DTD -$4-$4.3       Woodside/IRPC
+    
+    Jan 18
+    MURBAN       Mar          OSP - 35 c/b       Chinese/Thai
+    OMAN         Mar          Dubai + $1.10             /Japanese
+    NWS COND     Mar   650KB  DTD -$4-$4.3       Chevron/Samsung
+    
+    Jan 17
+    NWS COND     Feb  650KB   DTD -$4-$4.3       Woodside/Shell
+    
+    Jan 16
+    AL-SHAHEEN   Mar          Dubai + $1.5-1.7   Maersk/
+    UPPER ZAKUM  Mar          OSP - 30 c/b       Mercuria/Chinese 
+    NWS COND     Mar   650KB  DTD -$4-$4.3       BHP/CNOOC
+    
+    Jan 9        
+    CENDOR       Feb   300KB  DTD near +$7       Petronas/major
+    TAPIS        Feb   300KB  DTD +$4.5-$5       Petronas/major
+    MINAS        Feb          ICP ard +$5        Itochu/Japan
+    DURI         Feb   300KB  ICP +$3.5-$4       Chevron/PDS
+    
+    Jan 7
+    NWS COND     Feb  650KB    DTD ard -$4       BP/Exxon
+    VAN GOGH     Feb  400KB    DTD ard +$4       Apache/Unipec
+    
+    Jan 4
+    NWS COND     Feb  650KB    DTD ard -$4       Petronas/Samsung
+    
+ (Asia Energy Desk)
+Released: 2014-10-27T11:45:46.000Z

@@ -1,0 +1,17 @@
+<title:>REFILE-Former Google executive gets into payment terminals
+<Date:>28 October 2014
+<Content:>
+(Changes dateline and reporting credit line)               
+LAGUNA BEACH, Calif., Oct 28 (Reuters) - The former head of Google Inc's mobile wallet is drawing on the lessons of that failed initiative in his latest payments startup, Poynt.               
+The startup founded by Osama Bedier, also a former PayPal executive, is launching on Wednesday a point-of-sale device that competes with the required payment terminals now used by restaurants, retailers and other small businesses throughout the United States.               
+The launch comes a year before U.S. merchants will have to meet a deadline to adopt "EMV" chip technology that would make credit cards more secure.               
+Unlike older systems that will have to be expanded or replaced over time to support new innovations such as contactless mobile payments, Poynt says its terminal comes with a full range of capabilities at the same price.               
+Its terminal, which will be disseminated to merchants by banks, can accept a variety of credit cards, including more secure chip-and-pin credit cards and Apple Pay, the mobile payments service Apple Inc launched last week. It also comes with wireless capability.               
+"No one is tackling the terminal itself," Bedier said in an interview. "A phone is an essential device for the consumer. The terminal is required device for the merchant."               
+The $299 device will be shipped to merchants in the first quarter, but developers can get an early version of the device for $499 in the fourth quarter.               
+Poynt does not compete with the likes of Square and Stripe, which focus on other aspects of the payments, said Bedier, who left Google last year to work on Poynt full time.               
+The startup has spent the last 18 months getting the necessary authorization to function as a payments terminal. Poynt is ironing out deals with two major banks, which will then disseminate the terminal to merchants.               
+Bedier hopes to get five banks signed on by the end of next year.               
+The decision to compete with point-of-sale terminal makers like Verifone Systems Inc in an often-overlooked area of the complex payments infrastructure stems from the hard lessons from Bedier's time at PayPal and Google.               
+Both companies focused on upending long-held habits among consumers and retailers. Poynt is focused on improving a device that every retailer must have, at a time merchants are already planning to overhaul their terminals.               
+Released: 2014-10-29T02:18:28.000Z

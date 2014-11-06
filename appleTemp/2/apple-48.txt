@@ -1,0 +1,305 @@
+<title:>U.S. RESEARCH ROUNDUP-Apple, IBM, Anadarko, Illumina, Halliburton
+<Date:>21 October 2014
+<Content:>
+Oct 21 (Reuters) - Wall Street securities analysts revised their ratings and price targets
+on several U.S.-listed companies, including Apple, IBM and Illumina, on Tuesday. 
+        
+    HIGHLIGHTS
+    * Apple : Goldman, Morgan Stanley, BMO, others raise price target 
+    * Energy: Global Hunter Securities raises Anadarko to buy 
+    * IBM : Evercore cuts to hold; SocGen, Goldman Sachs, others cut price target 
+    * Chipotle Mexican Grill : Morgan Stanley, Wunderlich, BMO cut target 
+    * Illumina : Janney raises to buy from neutral
+    * Ctrip.Com : Citigroup starts with buy rating
+                
+Following is a summary of research actions on U.S. companies reported by Reuters on Tuesday.
+Stock entries are in alphabetical order.  
+            
+    * Agilent Technologies : Goldman Sachs starts with a neutral rating price target of $38
+    * Air Lease Corp : Macquarie raises to outperform rating
+    * Albemarle Corp : Baird cuts price target to $68 from $74; rating outperform
+    * American Axle : Susquehanna starts with neutral rating 
+    * American Eagle : Bluefin Research starts with market outperform; $17 price target
+    * American Express : UBS cuts target price to $90 from $93.5; rating neutral    
+    * Anadarko Petroleum : Global Hunter Securities raises to buy from accumulate 
+    * Anadarko Petroleum : Global Hunter Securities cuts target price to $120 from $130
+    * Apache Corp : Global Hunter Securities cuts target to $85 from $95; rating neutral
+    * Apple : Canaccord Genuity raises price target to $120 from $115; rating buy
+    * Apple : Stifel raises price target to $115 from $110; rating buy
+    * Apple : Macquarie raises target price to $118 from $104; rating outperform
+    * Apple : Morgan Stanley raises target price to $115; rating overweight
+    * Apple : BMO raises price target to $113 from $110; rating outperform
+    * Apple : Goldman Sachs raises price target to $124 from $115; rating buy
+    * Apple : Mizuho Securities raises target price to $115 from $110; rating buy
+    * Apple : RBC raises price target to $115 from $114; rating outperform
+    * Apple : Janney raises fair value to $117 from $110; rating buy
+    * Apple : Cantor raises target price to $143 from $123;rating buy
+    * Apple : SocGen raises target price to $115 from $105; rating buy
+    * Apple : Jefferies raises price target to $112 from $110; rating hold
+    * Apple : Cowen and Company raises target to $113 from $110; rating outperform
+    * Apple : FBN raises price target to $130 from $115; rating outperform
+    * Apple : Bernstein raises target price to $110 from $108; rating outperform
+    * ARM Holdings : Canaccord Genuity cuts target price to $54 from $55; rating buy
+    * ARM Holdings : Benchmark cuts target price to $48 from $49; rating buy
+    * ARM Holdings : Topeka cuts price target to $42 from $45; rating hold  
+    * Atmel Corp : Feltl and Company cuts target price to $7 from $7.75; rating hold
+    * Autoliv Inc : Susquehanna starts with neutral rating 
+    * Bank of Marin Bancorp : KBW cuts to market perform from outperform
+    * Bank of Marin Bancorp : Raymond James raises target to $51 from $50; outperform
+    * Basic Energy Services : Wunderlich Securities cuts target price to $17 from $20
+    * BBCN Bancorp Inc : D.A. Davidson cuts price target to $18.00 from $20.50; buy
+    * Belden Inc : Stifel raises to buy from hold rating - Theflyonthewall.com
+    * BHP Billiton Plc : Jefferies cuts to hold from buy  
+    * BHP Billiton Plc : Jefferies cuts price target to $53 
+    * Black Diamond Inc : Sidoti starts with buy rating - Theflyonthewall.com
+    * BorgWarner Inc : Susquehanna starts with positive rating and price target of $67 
+    * Boston Properties : SunTrust Robinson starts with buy rating 
+    * Boston Properties : Morningstar raises price target to $110 from $106 
+    * Boston Properties : JP Morgan raises price target to $132 from $119; rating neutral
+    * BP Plc : Jefferies cuts price target to $52; rating buy 
+    * Brandywine Realty Trust : Wells Fargo raises to outperform from market perform
+    * Brandywine Realty Trust : SunTrust Robinson starts with buy rating 
+    * Cabot Oil : Bernstein raises to outperform from market-perform
+    * Cabot Oil : Global Hunter Securities cuts target to $38 from $40; rating accumulate
+    * Cadence Design Systems Inc : Pacific Crest cuts target to $19 from $20; outperform
+    * Cadence Design Systems Inc : RBC raises target to $20 from $19; rating outperform
+    * Canadian Natural Resources : Global Hunter cuts target to $47 from $55; rating buy
+    * Caterpillar Inc : Longbow cuts price target to $108 from $120; rating buy
+    * Carrizo Oil : Global Hunter Securities cuts target to $70 from $86; rating buy
+    * Carrizo Oil & Gas : Imperial Capital cuts target to $64 from $82;rating outperform
+    * Celanese Corp : UBS cuts target price to $67 from $70; rating buy
+    * Cenovus Energy Inc : Global Hunter cuts target to $27 from $36; rating neutral
+    * Charles Schwab : Citigroup cuts target price to $26 from $27
+    * Charter Communications Inc : Macquarie raises to outperform*
+    * Cheniere Energy : Clarkson Capital raises target price to $88 from $70; rating buy
+    * Chesapeake Energy : Global Hunter Securities cuts target to $27 from $34;rating buy
+    * Chevron : Jefferies cuts price target to $138; rating buy 
+    * Chipotle Mexican Grill : Morgan Stanley cuts target to $696; rating overweight
+    * Chipotle Mexican Grill : Jefferies raises target to $630 from $600; rating hold
+    * Chipotle Mexican Grill : Wunderlich cuts target to $660 from $680; rating hold
+    * Chipotle Mexican Grill : BMO cuts target price to $693; rating market perform
+    * Chipotle Mexican Grill : Buckingham Research raises target to $768 from $756; buy
+    * Chipotle Mexican Grill : JP Morgan raises target to $730 from $670; overweight
+    * Chipotle Mexican Grill : Raymond James cuts target price to $700 from $725
+    * Cirrus Logic Inc : Feltl and Company cuts target to $20 from $21; rating hold
+    * Cobalt International Energy : Morgan Stanley cuts target to $25 from $33;overweight
+    * Cobalt International Energy : Global Hunter Securities cuts to speculative buy  
+    * Cobalt International Energy : Global Hunter Securities cuts target to $15 from $27
+    * Comerica : Deutsche Bank cuts target price to $49; rating hold
+    * Conatus Pharmaceuticals : MLV & Co starts with buy rating; target price $16
+    * Concho Resources : Global Hunter Securities cuts target to $145 from $195; buy
+    * Cone Midstream : Barclays starts with overweight; target $32 - Theflyonthewall.com
+    * ConocoPhillips : Jefferies cuts price target to $86; rating hold
+    * Consolidated Edison Inc : Morgan Stanley cuts to underweight rating
+    * Continental Resources : JP Morgan cuts target to $65 from $81; rating overweight
+    * Continental Resources : Global Hunter Securities cuts target to $73 from $85; buy
+    * Corporate Office Properties : SunTrust Robinson starts with buy
+    * Cousins Properties : SunTrust Robinson starts with buy rating 
+    * Ctrip.Com : Citigroup starts with buy rating
+    * Cumulus Media Inc : Piper Jaffray cuts target to $7 from $9; rating overweight
+    * CVR Refining LP : JP Morgan cuts target price to $24 from $26
+    * CYS Investments Inc : Deutsche Bank cuts target to $9.50 from $9.75; rating hold
+    * Dana Holding : Susquehanna starts with neutral rating and price target of $19
+    * Dana Holding : JP Morgan cuts target price to $24 from $26
+    * Delphi Automotive : Susquehanna starts with positive rating and a target of $76
+    * Devon Energy : Guggenheim raises to buy from neutral rating 
+    * Devon Energy : Global Hunter Securities raises to accumulate from neutral 
+    * Devon Energy : Global Hunter Securities cuts target price to $68 from $80
+    * Diamondback Energy Inc : Global Hunter cuts target to $95 from $112; rating buy 
+    * Eagle Materials Inc : Stifel raises to buy from hold rating - Theflyonthewall.com
+    * Edwards Lifesciences : Credit Suisse raises target to $115 from $98; outperform
+    * Emerald Oil Inc : Global Hunter cuts price target to $10 from $12; rating buy
+    * Enanta Pharmaceuticals Inc : FBR cuts target to $50 from $52; rating outperform
+    * Encana Corp : Global Hunter Securities cuts target to $24 from $28; accumulate
+    * Energen Corp : Global Hunter cuts price target to $85 from $112; rating accumulate
+    * Enteromedics : Canaccord Genuity cuts price target to $4 from $5; rating buy
+    * EOG Resources Inc : Guggenheim raises to buy from neutral
+    * ExxonMobil : Jefferies cuts price target to $93; rating hold 
+    * First Bancshares : Sterne Agee starts with buy rating - Theflyonthewall.com
+    * Ford Motor : JP Morgan cuts target price to $19 from $20; rating overweight
+    * Ford Motor : Susquehanna starts with neutral rating 
+    * Gannett : FBR cuts price target to $37 from $40; rating outperform
+    * Gannett : JP Morgan cuts price target to $33 from $36; rating neutral
+    * Gentherm Inc : JP Morgan cuts target price to $62 from $66
+    * Genuine Parts : Goldman Sachs cuts price target to $90 from $91; rating neutral
+    * GEO Group Inc : MLV starts with buy; price target $46
+    * GM : Susquehanna starts with neutral rating and price target of $30
+    * GM : JP Morgan cuts target price to $47 from $51; rating overweight
+    * Groupon Inc : Brean Capital starts with buy rating and target price $8
+    * GrubHub Inc : Brean Capital starts with hold rating
+    * GrubHub Inc : BMO raises price target to $44 from $40; rating outperform
+    * Gulfport Energy Corp : SunTrust cuts price target to $79 from $86; rating buy
+    * Gulfport Energy Corp : Global Hunter raises to buy from neutral
+    * Halliburton : SocGen cuts price target to $67 from $75; rating buy
+    * Halliburton : Macquarie cuts target price to $74 from $78; rating outperform
+    * Halliburton : Credit Suisse cuts target price to $79 from $95; rating outperform
+    * Halliburton : RBC cuts price target to $70 from $80; rating outperform
+    * Halliburton : Guggenheim raises to buy from neutral rating 
+    * Halliburton : Susquehanna cuts price target to $72 from $81; rating positive
+    * Halliburton : Iberia cuts price target to $64 from $88; rating outperform
+    * Halliburton : Drexel Hamilton cuts price target to $78 from $80; rating buy
+    * Halliburton : Stephens cuts price target to $73 from $85; rating overweight
+    * Harley-Davidson : Wunderlich Securities raises price target to $63 from $57; hold
+    * Hasbro : Monness Crespi Hardt raises target price to $63 from $60
+    * HCP Inc : Jefferies cuts price target to $45 from $47
+    * HCP Inc : Jefferies cuts to hold from buy
+    * Hess Corp : Global Hunter Securities raises to accumulate from neutral 
+    * Hess Corp : Global Hunter Securities cuts target price to $95 from $110
+    * Highwoods Properties : SunTrust Robinson starts with buy
+    * Hilton Worldwide : JP Morgan raises price target to $30 from $29; rating overweight
+    * Hilton Worldwide : Nomura raises target price to $32 from $29; rating buy
+    * IBM : BMO cuts price target to $175 from $195; rating market perform
+    * IBM : Evercore cuts to hold from buy; price target to $180 from $210
+    * IBM : Morgan Stanley introduces a $154 price target
+    * IBM : Credit Suisse cuts price target to $125 from $160; rating underperform
+    * IBM : Goldman Sachs cuts price target to $150 from $173; rating neutral
+    * IBM : SocGen cuts target price to $150 from $183; rating sell
+    * IBM : Cantor cuts price target to $198 from $220; rating buy
+    * IBM : Stifel cuts target price to $190 from $218; rating buy
+    * IBM : Jefferies cuts target price to $144 from $163; rating underperform
+    * IBM : UBS cuts target price to $175 from $195; rating neutral
+    * Illumina : Credit Suisse raises price target to $205 from $198; rating outperform
+    * Illumina : Goldman Sachs raises target price to $196 from $187; rating neutral
+    * Illumina : JMP Securities raises target to $245 from $215; market outperform
+    * Illumina : Baird raises price target to $197 from $194; rating neutral
+    * Illumina : Piper Jaffray raises price target to $210 from $192; rating overweight
+    * Illumina : Cantor raises target price to $150 from $145; rating hold
+    * Illumina : Janney raises to buy from neutral
+    * Illumina : Janney raises fair value to $192 from $165
+    * Independent Bank Corp : SunTrust raises price target to $41 from $39; neutral
+    * Informatica : UBS cuts target price to $43 from $45; rating buy
+    * Ingram Micro : Raymond James cuts target price to $34 from $36; rating strong buy
+    * JD.Com Inc : Citigroup starts with neutral rating
+    * Jones Energy Inc : JP Morgan adjusts target price to $10 from $17
+    * KCG Holdings : JP Morgan cuts price target to $12 from $13; rating neutral
+    * Key Energy Services : Wunderlich Securities cuts target price to $4 from $7
+    * Kilroy Realty : JP Morgan raises price target to $67 from $63; rating overweight
+    * Kirby Corp : Macquarie raises to outperform
+    * Kirby Corp : BB&T cuts price target to $125 from $135; rating buy
+    * Kite Pharma : Stifel raises target price to $45 from $31; rating buy
+    * Laredo Petroleum Inc : Global Hunter cuts target to $28 from $41; rating accumulate
+    * Lear Corp : Susquehanna starts with a neutral rating and price target of $90
+    * Lennox International : Morgan Stanley raises target by $5 to $96; equal weight
+    * Lennox International : Credit Suisse raises target to $90 from $88; rating neutral
+    * Lennox International : Goldman Sachs raises target to $100 from $96; rating buy
+    * Lennox International : Susquehanna raises target to $99 from $95; rating positive
+    * Lennox International : Buckingham raises price target to $94 from $93; rating buy
+    * Liberty Global : JP Morgan cuts target to 4.80 euros from 5.10 euros; neutral 
+    * Lockheed Martin : Morningstar raises fair value estimate to $144 from $141
+    * LPL Financial : Citigroup cuts target price to $48 from $49
+    * ManpowerGroup Inc : Credit Suisse cuts target price to $78 from $100
+    * Marathon Oil Corp : Jefferies cuts price target to $44; rating buy
+    * Marathon Oil Corp : Global Hunter Securities cuts target to $44 from $50;rating buy
+    * MasTec Inc : D. A. Davidson cuts target price to $30 from $34; rating neutral
+    * MasTec Inc : Wunderlich Securities cuts target price to $35 from $42
+    * McDonald's : Jeffries cuts target price to $86 from $93; rating hold
+    * Medley Management : KBW starts with outperform;target $19.50 - Theflyonthewall.com
+    * Mercantile Bank : D.A. Davidson cuts price target to $21 from $22; rating neutral
+    * Methanex : Raymond James cuts target price to $80 from $87; rating strong buy
+    * Natural Gas Services Group : Wunderlich Securities cuts target to $35 from $40
+    * Netease Inc : Credit Suisse raises to outperform rating - Streetinsider.com
+    * Newmont Mining Corp : TD Securities cuts target price to $25 from $28; rating hold
+    * NCR Corp : Goldman Sachs cuts target price to $25 from $32; rating sell
+    * NCR Corp : RBC cuts price target to $33 from $44; rating outperform
+    * NCR : Wedbush adjusts price target to $18 from $31; rating neutral
+    * Newlink Genetics : Cantor raises target price to $41 from $34 ;rating buy
+    * Noble Energy Inc : Global Hunter Securities cuts target to $84 from $94; rating buy
+    * Northwest Bancshares : KBW raises target to $13 from $12.50; rating market perform
+    * NVR Inc : ISI Group raises to neutral rating - Streetinsider.com
+    * Oasis Petroleum Inc : Global Hunter cuts price target to $40 from $65; rating buy
+    * Occidental Petroleum : Jefferies cuts price target to $112; rating buy
+    * Occidental Petroleum : Global Hunter Securities raises to accumulate from neutral 
+    * Occidental Petroleum : Global Hunter Securities cuts target price to $105 from $110
+    * Oncothyreon : H.C.Wainwright starts with a buy rating; target price of $4
+    * Palo Alto Networks : Oppenheimer raises target to $115 from $100;rating outperform
+    * Pan American Silver : TD Securities cuts target price to $12 from $15; rating hold
+    * Parsley Energy Inc : Global Hunter cuts price target to $22 from $27; rating neutral
+    * Patterson-UTI Energy Inc : Wunderlich Securities cuts target price to $26 from $37
+    * PC Connection : B. Riley starts with neutral rating; price target $25
+    * PCM Inc : B. Riley starts with buy rating; price target $13
+    * PerkinElmer : Janney cuts to neutral from buy
+    * Petroquest Energy Inc : Global Hunter cuts price target to $7 from $8; rating buy
+    * Piedmont Office Realty : SunTrust Robinson starts with neutral
+    * Pioneer Natural Resources : Guggenheim raises to buy  
+    * Pioneer Natural Resources : Global Hunter Securities cuts target to $225 from $270
+    * Pioneer Energy Services : Wunderlich Securities cuts target price to $15 from $22
+    * Post Holdings : Goldman Sachs raises to buy; price target to $44 from $42
+    * Potlatch : UBS cuts target price to $33 from $35; rating sell
+    * Primoris Services Corp : Wunderlich Securities cuts target price to $32 from $39
+    * Quicksilver Resources : Global Hunter cuts target to $1 from $3; rating neutral
+    * Qunar : Citigroup starts with buy rating
+    * Rambus Inc : Jefferies cuts price target to $12.50 from $14; rating hold
+    * Rambus Inc : JP Morgan cuts price target to $14 from $15; rating overweight
+    * Rambus Inc : Topeka Capital cuts target price to $15 from $17; rating buy
+    * Range Resources : Global Hunter Securities cuts target to $87 from $95; rating buy 
+    * RealNetworks Inc : B. Riley starts with buy rating; price target $12.50 
+    * Rent-A-Center : Raymond James cuts to market perform from outperform
+    * Rent-A-Center : Canaccord Genuity raises price target to $37 from $32; rating buy 
+    * Retail Opportunity Investments : Wells Fargo starts with market perform rating
+    * Rex Energy Corp : Global Hunter raises to buy; cuts price target to $15 from $24
+    * Rhino Resource Partners : Raymond James cuts to underperform from outperform
+    * Rio Tinto Plc : Jefferies cuts price target to $60; rating buy 
+    * Rouse Properties : MLV & Co raises to buy from hold  
+    * Rowan Companies PLC : ISI Group cuts price target to $40 from $41; rating buy
+    * Royal Dutch Shell Plc : Jefferies cuts price target to $84.50; rating buy
+    * SAP : RBC cuts price target to $75 from $86; rating sector perform
+    * SAP : Goldman Sachs cuts price target to $100 from $120 
+    * SAP : Susquehanna cuts price target to $75 from $80; rating neutral 
+    * Sempra Energy : Morningstar raises fair value estimate to $90 from $86
+    * Seventy Seven Energy Inc : Wunderlich Securities cuts target price to $25 from $34
+    * Silver Standard Resources : RBC cuts target to $8 from $9; rating sector perform
+    * Silver Wheaton : TD Securities cuts target price to $28 from $32; rating buy
+    * SL Green Realty : SunTrust Robinson starts with buy
+    * Solera Holdings Inc : Piper Jaffray cuts target to $70 from $72; rating overweight
+    * Southwest Airlines Co : Buckingham raises price target to $42 from $38; rating buy
+    * southwestern energy : Global Hunter Securities cuts target to $36 from $41; neutral
+    * Steven Madden Ltd : Canaccord Genuity cuts price target to $36 from $41; buy
+    * Steven Madden Ltd : Buckingham cuts price target to $33 from $37; rating buy
+    * Suncor Energy Inc : Global Hunter cuts price target to $44 from $52; rating buy
+    * Synaptics Inc : Sterne Agee starts with buy rating
+    * Talisman Energy Inc : Global Hunter raises to speculative buy from neutral 
+    * Talisman Energy Inc : Global Hunter cuts price target to $8.25 from $12
+    * TECO Energy Inc : Barclays raises price target to $18 from $17
+    * TECO Energy Inc : Barclays raises to equal weight
+    * TECO Energy Inc : Macquarie ups to neutral from underperform; target to $18 from $16
+    * Tenet Healthcare : JP Morgan raises price target to $66 from $59; rating overweight
+    * Tenneco Inc : Susquehanna starts with positive rating and price target of $61  
+    * Tesoro Logistics : Credit Suisse cuts price target to $67 from $74; outperform
+    * Texas Instruments Inc : Jefferies cuts price target to $59 from $60; rating buy
+    * Texas Instruments Inc : Morgan Stanley raises target to $45 from $42; equal weight
+    * Texas Instruments Inc : Wedbush raises target to $50 from $48; rating outperform
+    * Textron Inc : Wells Fargo starts with outperform
+    * Tower International : JP Morgan cuts target price to $31 from $38
+    * Tractor Supply Co : SunTrust cuts price target to $70 from $75; rating buy
+    * Transatlantic Petroleum : Global Hunter cuts target to $11; rating speculative buy
+    * Transocean : Susquehanna cuts price target to $25 from $26; rating neutral
+    * Trinity Industries Inc : Stifel cuts price target to $43 from $47; rating buy
+    * Twitter Inc : Citigroup starts with a neutral rating; $53 target price
+    * Ultra Clean Holdings Inc : Roth cuts price target to $11 from $12; rating buy
+    * Ultra Petroleum : JP Morgan raises target to $27 from $25; rating neutral
+    * Ultra Petroleum : JP Morgan raises target price to $27 from $25
+    * Universal Forest Products Inc : Sterne Agee cuts to neutral - Theflyonthewall.com
+    * US Energy Corp : Global Hunter cuts price target to $4 from $5; rating accumulate
+    * Vale : Jefferies cuts price target to $12; rating hold 
+    * Valeant Pharmaceuticals : Deutsche Bank raises target to $132 from $129;rating hold
+    * Valeant Pharmaceuticals : BMO raises target to $176 from $170; rating outperform
+    * Valeant Pharmaceuticals : Paradigm raises target to $170 from $160; rating buy
+    * Valeant Pharmaceuticals : Cantor raises target price to $182 from $167
+    * Visteon Corp : Susquehanna starts with positive rating and price target of $107
+    * Visteon : JP Morgan cuts target price to $129 from $139
+    * Vornado Realty : SunTrust Robinson starts with neutral
+    * Voya Financial : UBS starts with buy rating; target price of $45
+    * Washington Real Estate : SunTrust Robinson starts with neutral
+    * Werner Enterprises Inc : Buckingham raises target to $27 from $26; rating neutral
+    * Wintrust Financial : SunTrust Robinson cuts target to $48 from $51; rating neutral
+    * Wyndham Worldwide Corp : JP Morgan raises target to $88 from $86; rating overweight
+    * Yandex : Deutsche Bank cuts price target to $29 from $34; rating buy
+    * Yandex : Otkritie Capital cuts target price to 28.1 from $31; rating hold
+    * Zions Bancorporation : Macquarie cuts target price to $29 from $30; rating neutral
+    * Zions Bancorporation : FBR cuts target to $30 from $32; rating market perform
+    * Zions Bancorporation : JP Morgan cuts target to $31.50 from $33; rating neutral
+    * Zions Bancorporation : Bernstein raises target to $30 from $27; market-perform
+    * Zions Bancorporation : Sandler O'Neill cuts target to $29 from $32; rating hold
+    * Zynga : Benchmark cuts price target to $2.54 from $2.83; rating hold
+ (Compiled by Fareha Khan and Jai Ganesh in Bangalore)
+Released: 2014-10-24T22:18:22.000Z

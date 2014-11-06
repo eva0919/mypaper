@@ -1,0 +1,24 @@
+<title:>BREAKINGVIEWS-U.S. courts turn tail too often in foreign fights
+<Date:>6 October 2014
+<Content:>
+(The author is a Reuters Breakingviews columnist. The opinions expressed are his own.)
+By Reynolds Holding
+NEW YORK, Oct 6 (Reuters Breakingviews) - American courts turn tail too often in foreign fights. That may surprise Credit Suisse and other overseas targets of Uncle Sam's eye-popping penalties. But a judge recently blocked Motorola Mobility from avenging price-fixing abroad that could have affected its competitive edge stateside. It's the latest example of excessive limits on U.S. law in cross-border spats.
+Jurists weren't always so skittish. Until 2010, they would happily decide securities fraud cases filed by foreign investors against overseas companies that issued stock on exchanges abroad. The Supreme Court stopped that, deciding that laws don't apply beyond American shores without an explicit say-so from Congress.
+The rule is clearer in theory than practice, but some judges have taken it too far. Motorola Mobility sued Korea's Samsung Electronics and others in 2009 for allegedly inflating the price of liquid crystal displays. The company wanted damages for the displays used in any of its cellphones that may have been sold in America, no matter where they were manufactured. It relied on a law allowing suits over foreign anti-competitive behavior that directly affects U.S. commerce.
+A federal judge ruled earlier this year, though, that only devices made in America were covered. That's inconsistent with both precedent and the law's explicit terms. Motorola has appealed.
+It's not the first time judges have acted like wimps. Several have ruled, for example, that foreigners blowing the whistle on companies with shares listed on U.S. exchanges qualify for bounties under the Dodd-Frank financial reform but aren't protected by its anti-retaliation provisions from, say, getting fired. The courts suggested enforcing those provisions might interfere with other countries' employment practices.
+Reining in Uncle Sam isn't necessarily a bad thing. The likes of BNP Paribas have accused prosecutors - though not necessarily courts - of picking on them by extracting multibillion-dollar settlements for violating American laws. They have a point. U.S. criminal fines from 2001 to 2010 were about five times greater on average for foreign companies than American ones, a University of Virginia study found.
+Tossing cases and restraining prosecutors make sense when Uncle Sam's interests are slight. But to forgo punishing misconduct that inflicts harm at home undermines the rule of law. 
+              
+              
+              
+              
+CONTEXT NEWS
+              
+- Samsung Electronics, AU Optronics and other makers of liquid crystal displays on Oct. 3 filed a brief in Motorola Mobility's appeal of a decision throwing out much of its antitrust case against those manufacturers.
+- Motorola claims the companies conspired to inflate the price of displays used in some $5 billion worth of its cellphones. A U.S. District Court ruled in February that Motorola could sue over phones that were manufactured and sold in the United States, but not over devices either assembled abroad and sold in America or assembled and sold abroad.
+- The company is relying on the 1982 Foreign Trade Antitrust Improvements Act, which allows lawsuits involving foreign anti-competitive behavior that has a "direct, substantial, and reasonably foreseeable effect" on U.S. commerce.
+- Oral arguments in the appeal are scheduled for Nov. 13.
+- For previous columns by the author, Reuters customers can click on (On Twitterhttps://twitter.com/holdingren. Editing by Antony Currie and Martin Langfield) 
+Released: 2014-10-6T15:36:24.000Z
