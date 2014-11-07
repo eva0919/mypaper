@@ -1,0 +1,21 @@
+<title:>Tech
+Advanced Micro Devices CEO Rory Read Steps Down; Lisa Su Named President, Chief Executive and Board Member
+<Date:>8 October 2014
+<Content:>
+Advanced Micro Devices Inc., a longtime minority player in a key class of computer chips, is shifting leaders as it continues a struggle to bolster its bottom line.
+The company said Rory Read has stepped down after three years as president and chief executive officer. He will be succeeded by Lisa Su, a key lieutenant who had been serving as chief operating officer.
+Mr. Read, in a conference call, said the change reflected his regular discussions with AMD・s board about succession issues. ：Now is the right time for her to take the reins and continue driving AMD forward,； he said.
+The Sunnyvale, Calif., company since the 1980s has been a distant No. 2 behind Intel Corp. in selling microprocessor chips for personal computers based on a design called x86.
+AMD added another major business in 2006 through a $5.4 billion deal to buy ATI Technologies Inc., a specialist in graphics chips that render images in videogames. That transaction saddled the company with a big debt load, a factor in frequent net losses.
+Mr. Read, 52 years old, is a former International Business Machines Corp. executive who joined the company from Lenovo Group Ltd., a major chip customer. He pushed to reduce AMD・s debts and diversify its business to reduce its reliance on PC chips and the competition with Intel.
+One recent success was convincing Microsoft Corp. and Sony Corp. to use AMD chips in their latest videogame consoles. Mr. Read also pushed the company to develop chips for server systems based on technology licensed from ARM Holdings PLC that is used in most smartphones and tablets.
+But older parts of AMD・s business have been suffering. The company, which once accounted for around a third of the market for x86 chips used in servers, by the second quarter had a share of less than 3% in that market, according to Mercury Research.
+Dean McCarron, an analyst at that firm, said AMD・s share of x86 chips for laptops was 9.6%, down from 16.1% in the year-earlier period. AMD・s share price has fallen more than 20% since mid-August. The stock slid 5.5% Wednesday to $3.10 in after-hours trading following news of the management change.
+In July, AMD said its second-quarter loss narrowed on improved revenue and lower costs, but the company issued a third-quarter revenue forecast below analysts・ estimates.
+Stacy Rasgon, an analyst with Sanford C. Bernstein, said Ms. Su is more popular among Wall Street analysts than Mr. Read.
+：AMD needs growth, and they need it quickly or investors will start to get anxious,； said Patrick Moorhead, a former AMD executive who now heads the firm Moore Insights & Strategy. ：Lisa Su is smart, is respected inside and outside the company and I think projects a look of what people expect as an AMD CEO.；
+Ms. Su, another former IBMer, previously worked at Freescale Semiconductor Inc. She is widely credited with deep technical expertise and for helping AMD win deals to place its chips in new gaming consoles, Mr. McCarron said.
+She is one of a few female executives at the highest management levels in semiconductors, an industry that relies heavily on electrical engineers. Another exception is Intel President Renee James, who holds the No. 2 spot at that company.
+During the conference call, Ms. Su said AMD・s x86 business remains important but indicated she will largely continue Mr. Read・s priorities. ：I do very much believe that diversifying our business is critical,； she said.
+Mr. Read said he would support the transition in an advisory role through the end of 2014.
+Josh Beckerman contributed to this article.

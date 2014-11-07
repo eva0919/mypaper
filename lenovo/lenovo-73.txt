@@ -1,0 +1,21 @@
+<title:>UPDATE 3-Chipmaker AMD replaces CEO amid loss of market share
+<Date:>8 October 2014
+<Content:>
+(Adds detail from conference call, analyst's quote, updates stock price)
+By Noel Randewich and Soham Chatterjee
+Oct 8 (Reuters) - Advanced Micro Devices said Chief Operating Officer Lisa Su would immediately replace Rory Read as chief executive officer as the chipmaker expands beyond its core personal computer market, sending its shares down 6 percent in extended trading.
+The transition comes just three years into Read's tenure as CEO and while analysts applauded the leadership change, some of them were surprised at the timing.
+"The timing gives pause for concern," said Wedbush analyst Betsy Van Hees. "Earnings are next week and it would have been a much more succinct package to put it all together for us."
+AMD, a perennial runner-up to Intel Corp in the business of providing processors for personal computers, has seen its market value nearly halved since Read took over in 2011 as the company lost market share to Intel.
+AMD has been expanding into new markets such as game consoles and low-power servers and it aims to obtain half of its revenue from those additional businesses by the end of 2015, but progress has been too slow for many on Wall Street.
+"It's hard to point to a near-term catalyst. That's the biggest issue. Every day they get better but it's been a glacial change," said Cody Acree, an analyst at Ascendiant Capital. "Su engenders a lot of confidence and that will resonate nicely with investors and with customers."
+Asked repeatedly on a conference call about the unexpected timing of AMD's leadership change, Read said it was the result of a long-term succession strategy.
+"This is well planned, well understood," Read said.
+Read took over at AMD in 2011 as the explosion of mobile devices slammed PC makers and threatened the survival of one of Silicon Valley's oldest chipmakers.
+The former Lenovo executive slashed the company's workforce, hired a new senior management team, including Su, and launched AMD's move into new markets, including ARM-based servers, digital signs and medical devices.
+Su, who is 44, said her top focus would be on product development and that she would also simplify AMD and sharpen its focus. She joined AMD in 2012 and is widely seen as one of AMD's most valuable executives.
+AMD promoted Su to chief operating officer in June, increasing expectations among investors that she might eventually replace Read.
+AMD said its board was discussing with Su the terms of her employment. She is currently paid an annual base salary of $650,000, the company said.
+Read, 52, will remain with the company in an advisory role until the end of the year.
+AMD's shares were trading at $3.06 after the bell. Up to Wednesday's close, the stock had fallen 15 percent this year. (Reporting by Noel Randewich in San Francisco and Soham Chatterjee in Bangalore; Editing by Kirti Pandey and Lisa Shumaker) 
+Released: 2014-10-8T23:58:16.000Z

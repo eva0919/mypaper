@@ -1,0 +1,27 @@
+<title:>Tech
+Google¡¦s Results Disappoint on Slowdown in Paid Clicks; Search Giant Has Spent Heavily on Hiring, Building Data Centers
+<Date:>16 October 2014
+<Content:>
+Slower growth in advertising, heavy spending and a higher tax bill led to disappointing quarterly results for Google Inc., denting shares of the Internet-search giant.
+Google said third-quarter revenue totaled $16.52 billion, up 20% from a year earlier, but shy of the $16.58 billion expected by analysts, according to S&P Capital IQ.
+Net income fell 5.3%, to $2.81 billion, or $4.09 a share, from $2.97 billion, or $4.38 a share, in the same period of 2013. Those results include Google¡¦s Motorola Mobility unit, which it is selling to China¡¦s Lenovo Group Ltd., and classifies as a discontinued operation.
+Excluding Motorola and certain other expenses, Google reported earnings per share of $6.35. Analysts had expected $6.53 on that basis, according to S&P Capital IQ.
+Google is the leading online advertising company because its dominant search engine gives marketers valuable clues on what people want. That has fueled steady growth in revenue and profit in recent years. But the company is spending heavily as it invests in new businesses to maintain growth.
+Such spending hurts short-term results and sparks concern among some analysts on Wall Street. While revenue increased 20% in the latest quarter, expenses climbed 28%. Among expenses, research and development costs soared 46%.
+Google is also spending to build additional data centers to deliver more Internet content. Capital expenditures totaled $7.4 billion through the first nine months of the year, up 45% from $5.1 billion in the same period last year.
+Hiring continues at a rapid clip. Excluding Motorola, the company added 2,980 employees in the third quarter, to 51,564.
+¡§There is a gap between expectations on the part of many investors and the reality of Google¡¦s trajectory on expense growth,¡¨ said Brian Wieser, an analyst at Pivotal Research.
+Google¡¦s search-advertising business remains profitable, but its newer ventures¡Xincluding display advertising, online video site YouTube and longer-term projects like delivering Internet service from high-altitude balloons¡Xhave lower profit margins, Mr. Wieser said.
+Google shares fell 2% to $525.90 in after-hours trading Thursday, following the results. In 4 p.m. trading, shares fell $3.81, or 0.7%, to $536.92.
+Sameet Sinha, an analyst at B. Riley & Co., highlighted Google¡¦s increased spending on acquisitions and its recent expansion of Google Express, a same-day delivery service, which he described as ¡§very asset intensive.¡¨
+¡§Return on investment is very far off, so near-term margins could be impacted,¡¨ Mr. Sinha added.
+Google¡¦s third-quarter profit was knocked by a tax bill that climbed by 40% to $859 million. A nondeductible impairment charge related to Motorola patents affected the tax rate, the company said.
+Google¡¦s revenue growth also caused concern among some analysts. Excluding currency fluctuations, revenue increased 19% year-over-year. That broke several quarters of revenue growth at or above 20%.
+¡§Things were a little bit slower than everyone was expecting,¡¨ said Steve Weinstein, an analyst at ITG Investment Research.
+Messrs. Sinha and Weinstein pointed the finger at growth in the number of paid clicks on Google ads.
+Google said paid clicks rose 17% in the third quarter, a deceleration from closer to 30% growth in recent quarters. Analysts had expected growth of about 20%.
+Google made changes in the third quarter that reduced some paid clicks that were ¡§lower quality,¡¨ Chief Financial Officer Patrick Pichette told analysts during a conference call. However, those changes also improved the price paid for those clicks on mobile devices, he added. The executive didn¡¦t elaborate on the specific changes.
+¡§We continue to be excited about the growth in our advertising and emerging businesses,¡¨ Mr. Pichette said.
+Clicks on the sites Google owns, like Google.com, continued to grow nicely, at a rate of 24%. But clicks on Google ads on other sites rose only 2% from the prior year.
+Google has been de-emphasizing clicks on other sites as these are sometimes seen by advertisers as being less valuable.
+On the other hand, the revenue Google collects from each click, which typically declines, fell at a slower rate. The so-called cost per click fell just 2% from the same period a year ago, and has stayed roughly flat the past three quarters.

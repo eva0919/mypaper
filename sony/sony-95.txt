@@ -1,0 +1,27 @@
+<title:>Business
+CMO Today: News Digest
+<Date:>19 October 2014
+<Content:>
+Streaming-Platform Roku Wants to Sell Video Ads
+Video-streaming platform Roku already distributes content from more than 1,800 different partners through set-top boxes and connected TVs. Now it wants to sell video ads alongside that content, too.
+Since the beginning of the year, the company has been quietly building its own video ad network; aggregating inventory from a range of the ¡§channels¡¨ available on its platform, packaging it and offering it up for sale to marketers and agencies. It¡¦s a model reminiscent of the one commonly employed by cable-TV companies, whereby cable-TV networks typically allow their distribution partners to sell two or three minutes of their ad time each hour.
+¡§There are lots of ad-supported business models coming onto our platform now. We decided there was a lot more work we could be doing to help our partners with monetization,¡¨ Scott Rosenberg, Roku¡¦s vice president of business development, said in an interview.
+Major ad-supported channels on Roku currently include Hulu, Vevo, Sony-backed Crackle, and those operated by major networks such as Fox, CBS, A&E, and the History Channel, for example. Mr. Rosenberg declined to disclose which channels Roku currently sells ads for, per its agreements with those companies, but said it represents ad space for both large and small channels on its platform.
+According to Mr. Rosenberg, Roku works carefully alongside its partners¡¦ sales teams to avoid any conflict, but its proposition is different to what its channel partners offer. Marketers can¡¦t usually work with Roku to buy their way into specific shows, for example. Rather, Roku sells packages of ad space that it promises will reach a specific audience demographic across multiple channels. Its own data can be used to help inform those ad placements, it says.
+¡§Generally we¡¦re not interested in selling specific channels or content. Our pitch is scale,¡¨ he said. ¡§Brands and agencies are often looking for broad-based buys across multiple channels on Roku.¡¨
+Jack Marshall
+Mobile App Snapchat
+Launches Advertisements
+Snapchat, the mobile app that lets users send vanishing messages, introduced ads to its service this weekend.
+In a blog post published Friday, the company said it will place an ad in the ¡§Recent Updates¡¨ section of its application.
+¡§The best advertisements tell you more about stuff that actually interests you. Some companies spend a lot of time and collect a lot of data about you to figure that out,¡¨ the blog post read, adding, ¡§The product we¡¦re releasing today is a lot simpler. An advertisement will appear in your Recent Updates from time to time, and you can choose if you want to watch it. No biggie. It goes away after you view it or within 24 hours, just like Stories.¡¨
+Snapchat said it won¡¦t place ads in users¡¦ personal communications, and that they won¡¦t be ¡§creepy and targeted,¡¨ referencing the behaviorally informed ads now sold by the vast majority of online advertising and media companies.
+And in case there was any doubt as to why Snapchat is introducing ads, ¡§We need to make money,¡¨ the company¡¦s post explained.
+Jack Marshall
+Programmatic Spending
+Is Expected to Increase
+Automated or ¡§programmatic¡¨ display ad spending in the U.S. will grow 137.1% in 2014, representing $10 billion in total spend or 45% of the U.S. digital display ad market, according to new predictions by eMarketer.
+By 2016 over $20 billion of ads will be purchased through programmatic ad systems, eMarketer reckons, accounting for 63% of all ad dollars spent on digital display ads.
+In 2014, mobile programmatic will account for 44% of total US display ad spending, growing to 56.2% in 2015. Programmatic video ad investment is expected to grow at a slower rate, however. By 2016, just 40% of digital video ads will be purchased programmatically, eMarketer said.
+Compiled by Jack Marshall
+Jack Marshall

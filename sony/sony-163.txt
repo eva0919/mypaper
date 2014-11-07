@@ -1,0 +1,16 @@
+<title:>Business
+FCC Considers Regulations for Web-Video Services; Cable-Like Subscriptions Could Get Protections, but Also Obligations
+<Date:>29 September 2014
+<Content:>
+The Federal Communications Commission is considering regulations for companies that provide cable-like subscription video services via the Internet, according to several people with knowledge of the matter.
+The move could have major implications for companies such as Sony Corp., Dish Network Corp. and Verizon Communications Inc., all of which are planning to launch online video services¡Xoften called over-the-top, or OTT¡Xaimed at consumers who don't have traditional pay-TV subscriptions.
+At issue is whether such online providers should be regulated in the same manner that the FCC currently regulates traditional cable and satellite companies, or "multichannel video program distributors."
+If the FCC adopts such regulations, it would mean that an online provider would have the same ability to negotiate for carriage of local broadcast TV stations that cable and satellite TV providers have. It could also make it harder for a distributor that owns TV channels¡Xsuch as Comcast Corp.¡Xto refuse to license them to an online service.
+Still, there are many issues that need to be worked out with regards to how OTT companies would be regulated and whether they would face the same franchise fees and taxes as traditional video providers and have the same public interest obligations such as providing closed captioning for programming.
+An FCC spokesperson declined to comment.
+This proceeding wouldn't apply to streaming services from Netflix Inc., Amazon.com Inc. and Hulu LLC, as they don't carry traditional TV channels but instead offer content on-demand.
+The FCC initially launched a rule-making proceeding regarding the regulation of subscription online video services in 2012 after a Web programmer, Sky Angel LLC, filed a complaint about Discovery Communications Inc. Sky Angel charged that Discovery pulled out of a deal to offer programming to the online service in violation of the FCC's program access rules. The FCC tentatively sided with Discovery, saying Sky Angel didn't meet the requirements to be classified like a cable or satellite company because it didn't own or control its distribution facilities.
+The rule-making process went dormant, but the FCC is now reviving it. "The fact that they are resurrecting it is some indication that they are taking it seriously" that online cable operators are bringing services to market, said media analyst Craig Moffett.
+The media industry in the past has been split on the issue of how to regulate Web-based services. Comcast argued against regulating them in 2012, in part, the company said, because the industry is still growing and would be hampered by having to meet all the regulatory requirements of cable operators.
+But satellite broadcaster DirecTV countered that if an online video player is going to act like a cable or satellite company, it should be regulated the same way.
+Shalini Ramachandran contributed to this article.

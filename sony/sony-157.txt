@@ -1,0 +1,16 @@
+<title:>U.S. regulators look into treating Internet TV like cable
+<Date:>30 September 2014
+<Content:>
+WASHINGTON, Sept 30 (Reuters) - The U.S. Federal Communications Commission is considering a change in how it regulates Internet TV, potentially putting it on the same footing as traditional cable and satellite television, an FCC official familiar with the idea said on Tuesday.
+If formalized and approved, the change would help Internet TV services, such as ones being developed by Dish Network Corp , Sony Corp and Verizon Communications Inc , compete with traditional pay-TV for digital rights to major network programming.
+FCC Chairman Tom Wheeler, however, indicated the plan has not been circulated yet to the four FCC commissioners, who would have to vote to formally propose it and begin the process of collecting public comments.
+"Somebody found out that it was an idea that was being kicked around ... and that's where it stands," Wheeler said Tuesday. "I'm not ready to plant the flag," he added.
+The idea concerns online subscription video services that offer scheduled programming similar to traditional pay-TV providers, and not online video services such as Netflix Inc that stream content on-demand.
+Traditionally, the FCC has ensured that cable and satellite TV providers such as Comcast Corp could negotiate for rights to retransmit major network programming. Online video services have not had the same regulatory backing because they rely on a different technology and do not have their own video distribution facilities.
+Now, the FCC's Media Bureau is proposing leveling the playing field with a technology-neutral definition of a "multichannel video program distributor," said the FCC official who spoke anonymously to discuss matters that have not been made public. The goal behind the plan is to encourage new and stronger competition in the video market.
+"You want to make sure that you're always keeping up with technology, you're always keeping up with innovations in the marketplace. This falls into that kind of category," Wheeler told reporters, when asked what prompted the consideration.
+A draft of the proposal tentatively concludes that Internet TV services should have the same access to major network programming as traditional pay-TV services and seeks comments on whether the obligations imposed on the two types of video services should also be the same, the FCC official said.
+It was unclear how quickly the proposal could come up for a vote by FCC commissioners, but it could potentially be as soon as Oct. 17.
+If adopted, analysts see the proposal as creating a possible new opening for Aereo, a video streaming company whose business model was questioned by a Supreme Court ruling in June that said the company had infringed broadcasters' copyrights by capturing live and recorded programs through antennas and transmitting them to subscribers.
+(Reporting by Alina Selyukh; Editing by Tom Brown) 
+Released: 2014-9-30T19:41:53.000Z

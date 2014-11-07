@@ -1,0 +1,22 @@
+<title:>Tech
+Google Unveils $105 Smartphone for Emerging Markets; New Phones Will be First to Use Google's Android One Platform
+<Date:>15 September 2014
+<Content:>
+NEW DELHI¡XGoogle Inc. on Monday unveiled a new line of low-cost smartphones, hoping to persuade more people in India and other emerging markets to upgrade their handsets, and to gain more control over its Android mobile-operating system.
+The new phones will cost around $105 and will be the first to use Google's Android One platform, which was designed to give users in developing economies a reliable and affordable way to get online.
+"The pace at which users are adopting the Internet is unprecedented," Sundar Pichai, senior vice president at Google who oversees Android, told reporters in India's capital. "Almost all of this growth that is happening in India and the world is due to mobile [phones]."
+More than one billion people already use phones that run Google's Android operating system. The new Google platform is an attempt by the company to extend its leading position as it seeks to reach billions more people in emerging markets that historically haven't been able to afford smartphones. Only about 10% of India's more than 900 million cellphone users have smartphones.
+Android is the world's dominant smartphone operating system, accounting for 85% of world-wide shipments in the second quarter, according to research firm Strategy Analytics.
+But the Android ecosystem can be messy, because the phones are sold by many hardware makers, and users are inconsistent about updating the software. Nearly a year after Google released KitKat, the latest version of the operating system, it is being used on only about one-fourth of Android devices.
+With Android One devices, Google will be able to update software remotely, without the help of the handset makers. In theory this should help the company improve the user experience and fix glitches quicker.
+Google also is likely trying to protect its brand by having more control over handsets that use its operating system, analysts say. App developers will benefit if more users update the software to the latest version of the operating system.
+"For Google, a strong uptake of Android One smartphones should increase the access to the Internet and Google's suite of products," said Bhasker Canagaradjou, associate director at Ipsos SA's business consulting in India.
+Google plans to bring Android One smartphones to Indonesia, the Philippines, Pakistan and other South Asian nations by the end of 2014, and more countries next year.
+In India, the Android One smartphones will be made and distributed by Micromax Informatics Ltd., P.S. Associates Private Ltd.'s Karbonn and Spice Retail Ltd. Data plans for the phones will be offered from Bharti Airtel Ltd., the country's largest telecommunications company by subscribers.
+The Internet search giant plans to add other handset makers, including Japan's Panasonic Corp., China's Lenovo Group Ltd., and Taiwan's HTC Corp.
+Other smartphones are available in India for about $105. But Google is hoping the Android One platform¡Xwhich includes software and hardware designed by Google¡Xwill help it deliver a more consistent performance than some of the low-cost, Android-powered phones that are already being sold.
+Last month, Mozilla Corp. started selling its own line of low-cost smartphones through Indian manufacturers for less than $40. The Mozilla devices use a new Firefox operating system for phones.
+India is the second-biggest overall telecom market, but is the fourth-largest market for smartphones. The South Asian country offers great growth potential, analysts said.
+The new handsets unveiled Monday will allow users to use social networking and messaging services in Hindi. Google plans to add six other Indian languages to Android One phones.
+The new smartphones will likely trigger some sort of reaction on pricing and product mix from Indian and Chinese low-cost handset makers as well as global giants such as Samsung Electronics Co., which all already have smartphones at around $100, analysts said.
+"The [new] Google Android phone will directly compete with Samsung," said Ipsos's Mr. Canagaradjou.

@@ -1,0 +1,16 @@
+<title:>Tech
+Global PC Shipments Fell in 3rd Quarter; Sales Hurt by Weakness in Emerging Markets; Sales Rose 4% in the U.S.
+<Date:>8 October 2014
+<Content:>
+Sales of personal computers fell in the third quarter as shipments declined in emerging markets and computer upgrades prompted by a Microsoft Corp. policy change slowed.
+Growth continued in mature markets, with shipments in the U.S. rising 4%, according to research firms Gartner Inc. and International Data Corp.
+Gartner said PC shipments fell 0.5% in the quarter but that positive results in Western Europe and North America could signal a recovery for the industry.
+IDC estimated that global shipments declined 1.7%. The firm had forecast a 4.1% decrease.
+The third quarter¡Xtypically driven by back-to-school sales and business purchases¡Xbenefited from saturation in the tablet market and increased sales of low-price notebooks. Sales of desktop computers and notebooks have been sluggish in recent years as consumers shifted spending to smartphones and tablets.
+Sales comparisons from a year earlier were hurt as companies slowed upgrades they had made in advance of Microsoft ending technical support for Windows XP in April.
+Third-quarter shipments increased sharply from year earlier for the top PC makers: Lenovo Group Ltd., Hewlett-Packard Co. and Dell Inc.
+Shipments for market leader Lenovo rose 11%, according to both research firms, increasing the company¡¦s market share to 20%.
+Shipments for H-P, which is No. 2 in PC shipments, rose 5%, according to IDC. Gartner said H-P¡¦s shipments rose 4.4%. Dell¡¦s shipments rose 9.7%, both research firms said.
+At Acer Inc., which is heavily oriented toward the consumer market, unit sales rose more than 11%, in part because of low volume a year earlier, IDC said. Gartner put Acer¡¦s growth at 9%.
+Sales rose 17% for Asustek Computer Inc., according to Gartner, and 8.9% for Apple Inc., according to IDC.
+Gartner and IDC have been tracking PC sales since the 1980s. 

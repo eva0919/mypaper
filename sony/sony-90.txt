@@ -1,0 +1,15 @@
+<title:>Tech
+Globalfoundries to Take Over IBM Chip Unit; IBM Will Pay Globalfoundries $1.5 Billion to Take Chip Operations off its Hands
+<Date:>20 October 2014
+<Content:>
+Globalfoundries Inc. has agreed to takeover the semiconductor operations of International Business Machines Corp., which is effectively acknowledging the rising cost of chip making is too burdensome.
+The two companies did not state the financial details of the transaction, but IBM will pay Globalfoundries $1.5 billion to take the chip operations off its hands, according to a person familiar with the situation.
+The big technology company has long had losses on its semiconductor operations, which produce chips for IBM computers and for some external customers. IBM began talking to potential buyers early this year, with Intel Corp. and Taiwan Semiconductor Manufacturing Co. as well as Globalfoundries participating in the discussions, people familiar with the matter said last spring.
+IBM initially hoped to sell the operations for more than $2 billion, the people said, but bidders were coming in closer to $1 billion. Talks with Globalfoundries at times were marked by disagreements over financial terms, one person familiar with the talks said.
+Though IBM has been a pioneer in advancing semiconductor technology, the company¡¦s manufacturing capability fell behind others that produced chips in large volume. IBM for years produced chips used in videogame consoles but lost that business for the latest generations of hardware from Sony Corp. and Microsoft Corp.
+G. Dan Hutcheson, an analyst at VLSI Research, said one likely reason for IBM to pay Globalfoundries in the transaction is the cost of either operating IBM facilities to produce the specialized chips it needs for its computers or adapting Globalfoundries factories to make them.
+Still, ¡§you would think that IBM would have gotten cash for it, not the other way around,¡¨ Mr. Hutcheson said.
+Globalfoundries, which manufactures chips to order for other companies, emerged as the most likely candidate in part because of geography. Most of the relevant IBM operations are in New York state.
+Globalfoundries, which is owned by entities associated with the government of Abu Dhabi, has built a large factory near Albany. It also runs former manufacturing operations of Advanced Micro Devices Inc. in Germany and plants in Asia that were acquired along with Chartered Semiconductor Manufacturing Ltd.
+The company¡¦s chief executive is Sanjay Jha, who took the job in January. He had previously run Motorola Mobility LLC and had served for years as a senior executive of Qualcomm Inc.
+IBM produces chips from plants in East Fishkill, N.Y., and Burlington, Vt.

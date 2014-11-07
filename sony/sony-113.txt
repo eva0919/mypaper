@@ -1,0 +1,35 @@
+<title:>Digital doctors: China sees tech cure for healthcare woes
+<Date:>14 October 2014
+<Content:>
+HANGZHOU, China, Oct 15 (Reuters) - Liu Chunming almost died after a car crash in July in Taihe, a remote county in China's southeast Jiangxi province, but survived serious abdominal injuries thanks to specialist doctors who led his treatment from 1,000 kms (621 miles) away.
+From a central "operations room" in the eastern city of Hangzhou, doctors diagnosed and directed treatment for the 48-year-old using live video feeds and software that shares patient scans and files to aid consultation.
+Liu's case - one of a growing number of distance healthcare cases in China - reflects the rise in digital healthcare, or eHealth, to bridge the chasm between China's developed health services in large cities and its grassroots rural care.
+And that's a multi-billion dollar opportunity for technology firms.
+"I'm not sure what would have happened without the distance diagnosis technology," Liu said in a phone interview from his village of Xiakeng in Taihe. He has since recovered.
+To be sure, technology - from electronic patient records to remote healthcare - is already widely used in developed markets such as the United States and Europe, but the sheer size and scale of China make this a huge opportunity for tech firms and a big challenge for doctors, who say China lags far behind.
+China's healthcare management sector is growing at close to 40 percent a year and will hit $38 billion in the next five years, according to local consultancy Raisewin International.
+Technology is playing a growing role as Beijing overhauls a healthcare management sector blighted by chaotic patient data, underfunded rural health centres, overburdened city hospitals and a nationwide shortage of doctors.
+"Technologies like remote health fit China's current situation because we have a large country with a rural-urban gap and medical resources spread unequally," said Yan Jianhua, who oversees the remote healthcare programme at the state-run Hangzhou hospital unit that treated Liu.
+Government-supported programmes are looking to leverage specialised software and communication equipment to get the most out of in-demand doctors and specialists at leading hospitals.
+The Hangzhou operations room, where doctors work remotely with around 160 hospitals across China, is equipped by global tech brands including Cisco Systems, Dell and Sony Corp.
+INVESTMENT DRIVE
+China's digital healthcare makeover won't come cheap though. Experts predict a multi-billion dollar bill to bring in IT systems for patient records, develop patient-doctor interaction software and install national networks.
+Private investors and big corporations are already pumping money into the sector, with investment in Chinese healthcare IT alone predicted to double to some 34 billion yuan ($5.6 billion) by 2017, according to analytics firm IDC.
+"There's a lot of interest because of China's demographics and the helpful trends in the market. Everyone's trying to get in and take as much market share as they can," said Mark Gilbraith, head of PricewaterhouseCoopers China life sciences unit, adding the adoption of healthcare technology was being driven by China's use of smartphones, an ageing population and a boom in chronic diseases as wealth levels rise.
+Chinese internet giant Tencent Holdings led a $100 million round of funding into healthcare platform Guahao.com on Monday and last month took a stake in popular drug information platform DXY.com. E-commerce group Alibaba invested in healthcare data firm CITIC 21CN Co Ltd in January.
+From a standing start just a couple of years ago, these kinds of digital applications have attracted millions of users as doctors, and patients, become increasingly tech savvy.
+Doctors now spend close to 13 hours a week online, including interacting with peers and patients, up from 11 hours in 2012, according to a report from Kantar Health and DXY.com. Over 80 percent use mobile phones to go online, more than double the number two years ago.
+Other international companies to get in to this market include IBM Corp, Microsoft Corp, BT Group and Siemens AG. Locally, China Mobile , Huawei Technology Co Ltd and ZTE Corp are competing, too.
+"There is clear adoption of tele-health and mobile health in remote locations sprouting up across China," said Kendall Ho, an eHealth expert at the University of British Columbia, which is working on a project in southern China.
+HEALTHCARE DIVIDE
+China's healthcare system struggles with a dearth of doctors and a significant gap between the level of quality in urban and rural hospitals. Patients often travel hundreds of miles to see a specialist in one of the big city centres.
+Low pay and an often volatile relationship between overworked doctors and frustrated patients has seen the number of medical professionals fall in the last decade, according to a Deutsche Bank report, leaving many of China's almost 25,000 hospitals short of doctors.
+A lack of centralized information systems for patient data, uneven distribution of resources and issues over patient registration, booking appointments and payment have all created a space for technology, said Xu Ruixue, director of public affairs solutions at ZTE, a Chinese telecoms equipment maker. Beijing plans to establish electronic health records to cover three-quarters of the population by next year.
+"Information technology has a key role to play in resolving these challenges," said Xu, adding ZTE is expanding its work in hospital information systems and remote healthcare.
+Other firms are pushing forward trials including healthcare 'clouds' to store and share information, online hospitals for self-diagnosis, tele-health and mobile health apps.
+This will all take time, and money.
+An IT overhaul to Britain's National Health Service cost tens of billions of dollars and came under fire for inefficiencies. China's near 1.4 billion population dwarfs the UK's 64 million.
+But Beijing is on-board and sees technology as a potential quick-fix for its healthcare woes, Jian told Reuters at the Zhejiang hospital's distance telemedicine centre.
+"Our remote diagnosis programme is already part of the country's healthcare reform drive," he said. "China's health ministry and the state is a big advocate and support."
+($1 = 6.1308 Chinese yuan) (Additional reporting by SHANGHAI newsroom; Editing by Ian Geoghegan) 
+Released: 2014-10-14T22:00:01.000Z

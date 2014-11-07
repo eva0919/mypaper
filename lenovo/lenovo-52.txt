@@ -1,0 +1,22 @@
+<title:>ANALYSIS-IBM struggles to reinvent itself in an age of cloud
+<Date:>20 October 2014
+<Content:>
+WASHINGTON, Oct 20 (Reuters) - When IBM Corp CEO Ginni Rometty was asked recently for her tips on how to transform companies, she spoke of "relentless reinvention" and not protecting the past.
+Applying those precepts to IBM is proving particularly tricky as many of the company's old-line businesses have already been shut down or sold, while the units that are supposed to push future growth, such as cloud and security, face stiff competition.
+Earlier on Monday, IBM reported a marked slowdown in business in September and abandoned its 2015 operating earnings target. The company also announced it will hive off its loss-making semiconductor unit to contract chipmaker Globalfoundries Inc.
+Analysts and investors agree that relentless reinvention is something to strive for at Big Blue, but some of the moves tried by other old line technology companies - such as a split or a spinoff of weaker businesses - might not be tenable for IBM, which successfully reinvented itself into a services provider in the early 2000s.
+"I don't expect to see anything of that magnitude coming from IBM in part because they have systematically divested some of the businesses that were a drag on earnings in the last decade," said Charles King, principal analyst at research firm Pund-It in California.
+Rometty, who took over as CEO nearly three years ago, has accelerated divestitures with the sale of IBM's low-end server business to Lenovo Group Inc and its chip-making business to Globalfoundries Inc. Those moves eliminated two areas that were a drag on profits, but other problems remain.
+Its storage and server hardware and enterprise software sectors are slumping and the company faces growing competition in cloud computing from companies such as Amazon.com Inc .
+"They're on the wrong side of the IT spending food chain. All the growth is in the cloud," said Dan Ives, analyst at FBR, adding that mature companies have struggled the most with the shift to cloud.
+International Business Machines Corp's faster-growing cloud computing, mobile, business analytics, social and security services contribute 25 percent of its revenue
+"It is not that they are making a lot of bad choices," said Scott Kessler at S&P Capital IQ.
+"It is just that they are so big and so far along one path, that even if they make some good decisions in terms of investments and acquisitions, it seems like it is too little too late in many contexts."
+Future spin-offs will likely be centered on its storage unit, analysts said.
+The company is also facing criticism that it pursued buybacks at the expense of investment in new technology. IBM spent $13.5 billion to repurchase stock in the first nine months of the year, more than double its net income.
+"The company has been using its cash to repurchase stocks and support its earnings per share, but that has severely weakened its balance sheet, which used to be one of the true strengths of the company," said Kessler.
+The disappointing third-quarter results also raise questions about investors' patience with Rometty. The CEO, who joined IBM in 1981, recently dispensed advice such as "never define yourself as a product" and "never protect the past" in a Fortune Magazine video interview.
+Making such ideals into reality is proving tricky at IBM.
+"When you miss expectations and come in with results the market is unhappy with, then that puts much more pressure on her, but she bought herself more time by selling off the micro-electronics business," said Rob Enderle, chief analyst at Enderle Group in California.
+"The market today is different than the market that existed a decade ago. She is struggling to readjust to an ever more mobile and cloud business, which caught most of the industry by surprise," he said.   (Reporting by Marina Lopes. Editing by Andre Grenon)
+Released: 2014-10-23T22:57:16.000Z

@@ -1,0 +1,32 @@
+<title:>As US tech takes China hit, software maker part-owned by Microsoft leaps ahead
+<Date:>12 October 2014
+<Content:>
+* ChinaSoft thriving on cloud computing boost -CEO
+* Profit surged over 40 pct in first half
+* All countries want to secure vital IT sectors -CEO
+By Matthew Miller
+BEIJING, Oct 13 (Reuters) - Although Microsoft Corp is among U.S. technology firms caught up in Chinese security worries and antitrust probes, a local software company in which the Seattle giant is a strategic investor is riding high on the growth of cloud computing.
+The chief executive of ChinaSoft International Ltd , 5 percent-owned by Microsoft, says that's more down to native firms latching on to global trends like the cloud, than Beijing policies cutting into orders from state enterprises for foreign players' goods.
+A leading Microsoft distributor in China, selling IT systems and outsourcing services, ChinaSoft saw first-half profit jump 43 percent to 115 million yuan ($19 million). Founded as an $81,000 start-up spun out of a government firm, Hong Kong-listed ChinaSoft is now worth more than $600 million.
+"The biggest change has been the arrival of the cloud, and the impact of cloud computing," Chen said in an interview with Reuters. China's spending on cloud services rocketed to 80.4 billion yuan ($13 billion) in 2013, according to the China Software Testing Center, and the market is expected to grow at a better than 60 percent clip over the next three years as local firms move away from storing data on in-house servers.
+The challenge for foreign tech firms "hasn't been China" per se, the CEO said, referring to a perception that China's government is unique in supporting Chinese IT companies and cloud services providers.
+"All countries want (to secure) their most vital sectors with their own systems," said Chen, whose 15 percent stake in the Beijing-based company is worth close to $100 million. "It's the same for the United States."
+STATE SPENDING
+Foreign companies, particularly U.S. technology firms, have come under increasing scrutiny in China as Beijing pushes hard on information security in the wake of last year's cyber espionage revelations by former U.S. National Security Agency contractor Edward Snowden. Firms from Microsoft to IBM Corp have seen China sales slip as state-run firms have taken their business elsewhere.
+Chen attributes ChinaSoft's success to serving rising demand from businesses for social, mobile, application and cloud services requested by their clients. That's taking place against a backdrop of a burgeoning domestic market, where the government is supporting the development of local software and security technology.
+With China's state-owned business sector marshalling a huge capital spending budget, companies local and foreign court their business. ChinaSoft, which rolled out various government platforms more than a decade ago, has long-standing relationships with many central government ministries and localities.
+It also counts state-owned firms like China Mobile Communications Corp, State Grid Corp of China and China UnionPay as clients. Newly listed e-commerce giant Alibaba Group Holding is a strategic partner.
+About 50 percent of revenue is tied to state-owned firms and the government, while revenue attributed to all Microsoft products and services accounted for about 7 percent of sales in first-half 2014. Revenue attributed to Microsoft goods and services in China alone fell.
+Microsoft officials in the United States declined to comment for this story. The company doesn't disclose revenue figures for China, nor say if sales are rising or falling. According to one official company presentation, China revenue exceeded $1 billion in 2013.
+OVERSEAS AMBITIONS
+Since the start of the year, ChinaSoft has seen its share price gain more than 30 percent. Hong Kong's benchmark Hang Seng Index is off nearly 1 percent this year.
+It has other powerful backers besides Microsoft: Hony Capital, the private equity firm backed by Legend Holdings, now holds a leading 17.85 percent stake. Legend Holdings is the largest investor in fast-growing computer and smartphone maker Lenovo Group Ltd.
+Now, even as its China business grows, ChinaSoft is pressing on with international expansion and expanding outsourcing and consulting services.
+Last November, it spent a reported $41 million to buy-out Austin, Texas-based consultancy Catapult Systems LLC, to extend its Microsoft integration services globally. Chen said he expects international revenue to increase to 30 percent of sales within the next five years, from 20 percent last year.
+ChinaSoft also is growing its distribution through a joint venture with Huawei Technologies Co, the telecom equipment giant, to provide more outsourcing services, including management of Huawei's cloud-based payment system.
+ChinaSoft has set its sights on more than doubling its overall revenue to 10 billion yuan by 2015. Despite ChinaSoft's expanding sales, the company only achieved profit margins of 6.2 percent last year - weak for an industry where margins are usually much stronger.
+The rapid growth of ChinaSoft's workforce - staff has more than doubled since 2010 alone and now stands at 23,000 - and rising labor costs are part of the problem, Chen said. "Our goal now is to get (margins) back to 10 percent".
+The executive said ChinaSoft's success in building a more profitable business will depend on management discipline in competing against overseas services companies, including Accenture Plc and IBM.
+"We need to show our customers that we have the same service capabilities as our foreign counterparts," Chen said. (1 US dollar = 6.1308 Chinese yuan)
+(Additional reporting by Beijing newsroom; Editing by Kenneth Maxwell) 
+Released: 2014-10-12T22:00:00.000Z

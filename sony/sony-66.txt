@@ -1,0 +1,11 @@
+<title:>Tech
+Advanced Micro Devices Recruits Dell Veteran Forrest Norrod; Norrod Will Lead Business Group in Charge of Enterprise, Embedded and Semicustom Chips
+<Date:>27 October 2014
+<Content:>
+Advanced Micro Devices Inc. has recruited a well-known veteran of Dell Inc. to lead one of the chip maker・s two main business groups.
+Forrest Norrod, 49 years old, was most recently vice president in charge of Dell・s server systems business. Prior to that role, he led an organization that developed custom-tailored servers for companies in the hyperscale market, AMD said. Hyperscale refers to Web services like Google Inc. and Facebook Inc. that serve a profusion of Web pages and consequently buy large numbers of computer servers.
+At AMD, Mr. Norrod will take the role of senior vice president and general manager of the business group in charge of enterprise, embedded and semicustom chips. Besides chips for servers, the unit designs chips to order for applications such as the latest Sony Corp. and Microsoft Corp. videogame systems.
+Mr. Norrod will report to Lisa Su, who recently succeeded Rory Read as AMD・s chief executive. She said in prepared remarks that Mr. Norrod had the unique skills ：to lead AMD into an expanded set of markets where our differentiated technology assets provide a competitive advantage.；
+AMD, which competes with Intel Corp. for sales of chips using a popular design called x86, once accounted for about a third of server chips using that technology. But its share recently dwindled to less 3%, according to the firm Mercury Research.
+Dell veteran Ashley Gorakhpurwalla will assume Mr. Norrod・s former responsibilities, said Dell spokesperson Jim Hahn in an email. Mr. Norrod・s last day at the company was Oct. 1, the spokesperson added.
+：Forrest Norrod recently notified Dell of his desire to take some time off and then pursue other opportunities,； Mr. Hahn said. ：We thank him for his contributions and wish him well in future endeavors.；

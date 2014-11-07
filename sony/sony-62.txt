@@ -1,0 +1,16 @@
+<title:>U.S. regulators to vote on treating Internet TV like cable
+<Date:>28 October 2014
+<Content:>
+WASHINGTON, Oct 28 (Reuters) - The U.S. Federal Communications Commission in coming weeks will vote on whether Internet TV should have the same access to television programming as cable and satellite TV providers, which could shake up competition in the video industry.
+FCC Chairman Tom Wheeler on Tuesday said he has asked his fellow commissioners to vote on a proposal that would help Internet TV services, such as ones being developed by Dish Network Corp, Sony Corp and Verizon Communications Inc, to compete with traditional pay-TV for digital rights to major network programming.
+The potential regulatory change concerns online subscription video services that offer scheduled programming similar to traditional pay-TV providers, and not online video services such as Netflix Inc that stream content on demand.
+Satellite provider DirecTV is another company that has indicated plans for an Internet video service and CBS Corp this month revealed a plan for an Internet streaming service that would include scheduled programming.
+Time Warner Inc's HBO will also launch a standalone online streaming product but its details are unclear.
+Traditionally, the FCC has ensured that cable and satellite TV providers such as Comcast Corp could negotiate for rights to retransmit network programming. Online video services have not had the same regulatory backing because they rely on a different technology and do not have their own video distribution facilities.
+Now, the FCC will vote on leveling the playing field with a technology-neutral definition of a "multichannel video program distributor," with the goal of encouraging new competition in the video market.
+"Twenty-first century consumers shouldn't be shackled to rules that only recognize 20th-century technology," Wheeler said in a blog post on Tuesday.
+"Consumers have long complained about how their cable service forces them to buy channels they never watch. The move of video onto the Internet can do something about that frustration, but first Internet video services need access to the programs."
+A draft of the proposal tentatively concludes that online TV services should have the same access to cable and local TV programs as traditional pay-TV services and seeks comments on whether the obligations imposed on the two types of video services should also be the same.
+If adopted, some analysts see the proposal as potentially also creating a new opening for Aereo, a video streaming company whose business model was questioned by a Supreme Court ruling in June that said the company had infringed broadcasters' copyrights by capturing live and recorded programs through antennas and transmitting them to subscribers.
+The vote by four FCC commissioners, two Democrats and two Republicans, would formally propose the idea and begin the process of seeking public comments. (Reporting by Alina Selyukh; Editing by Tom Brown) 
+Released: 2014-10-28T22:07:59.000Z
