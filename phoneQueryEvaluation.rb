@@ -1,8 +1,8 @@
-Lenovo = [5,6,10,11,15,21,22,26,27,28,29,33,34,35,37,39,40,43,44,47,49]
+Lenovo = [5,6,10,11,15,21,22,26,27,28,29,33,34,35,37,39,40,43,44,47,49,51,56,63,64,68,96,97,100]
 queryWord = ['smartphone', 'phone', 'iphone', 'high-end', 'samsung', 'handset', 'mobile', 'galaxy', 'devices', 'android', 'tablet']
 
 scoreList =[]
-maxIndex = 50
+maxIndex = 100
 
 keyword = "lenovo"
 
